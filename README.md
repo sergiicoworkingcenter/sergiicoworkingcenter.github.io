@@ -1,1 +1,1 @@
-# sergiicoworkingcenter.github.io
+# Empty page
