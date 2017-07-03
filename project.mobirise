@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "CF codependency.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 24,
+    "uniqCompNum": 58,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -409,7 +409,7 @@
           "title3": "Кабинеты для терапии",
           "subtitle3": "Вместимость: 2-4 человека.",
           "caption3": "Два кабинета для индивидуальной терапевтической работы, либо переговоров “с глазу на глаз”. Кабинеты светлые и уютные. <br> Есть два - четыре удобных мягких кресла, кофейный столик или   рабочий стол.&nbsp;<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"index.html#contacts2-k\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Заказать</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#contacts2-k\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Заказать</a> ",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/icon-2-600x401.jpg",
@@ -441,6 +441,115 @@
           "title5": "Кабинет <br>для детской терапии",
           "subtitle5": "&nbsp;Вместимость: до 6 человек.",
           "caption5": "Просторный кабинет<br> для индивидуальной работы с детьми и их родителями, а также <br>для проведения групповой работы <br>с детьми. Кабинет снабжен утяжеленным одеялом и подвесом для сенсорной интеграции, песочницей для терапии песком, игрушками, стульями.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-x",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/14580588-1112460862123141-1157828345-n-600x464.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title1": "Программа по работе с созависимостью",
+          "subtitle1": "",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"codependency.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/media-share-0-02-05-4177e666cb7991a67707876267d71d0d649856156a3cd159e836e24e2d176214-56ff24e3-6589-48c6-b094-985c97afb519-600x308.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Business Case Club",
+          "subtitle2": "Business Case Club – это лаборатория уникального практического опыта, полезных идей, а также увлекательного и открытого общения.&nbsp;",
+          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Для бизнесменов, руководителей, консультантов и организационных психологов.</span><br>Разбор актуальных задач, индивидуальное консультирование и супервизии, новые практики управления организационным развитием и бизнес процессами.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
@@ -596,6 +705,809 @@
           },
           "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br><b>+38 (050) 523 99 60 Ольга<br>+38 (050) 303 &nbsp;92 26 Мария</b>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Web Page Generator Title",
+        "meta_descr": "Web Page Generator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-s",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "1.1",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-8\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-t",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-v",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "mykhalyova+test1@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "телефон"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-w",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "SUBSCRIBE FORM",
+          "subtitle": "Subscribe to our Newsletter",
+          "form": {
+            "action": "alina2377@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+        }
+      ]
+    },
+    "codependency.html": {
+      "settings": {
+        "title": "Website Creator Title",
+        "meta_descr": "Website Creator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-y",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "1.1",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-8\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-z",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-19",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-2000x1548.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": true
+          },
+          "title": "&nbsp;<br>Программа по работе с созависимостью \"Зависимость. <br>Одиночество. <br>Близость\"",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"CF codependency.html\" data-toolbar=\"-mbrBtnMove\">Оставить заявку на участие в программе</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-17",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Слово «зависимость» несёт в себе изначально негативный подтекст, словно обозначая несвободу в выборе, принятии решений и других признаках самостоятельной личности. Она бывает разной: наркотической, алкогольной, от покупок, секса и многих других вещей и явлений. Но есть и ещё одна зависимость, о которой мало кто знает. </p><p>Речь идёт о «созависимости» - нездоровом способе вступать в отношения с окружающими людьми.&nbsp;</p><p><br></p><p>•\tТипичные характеристики созависимых:&nbsp;</p><p>•\tМы берем на себя ответственность за чужие чувства и поведение.&nbsp;</p><p>•\tЭто именно из-за нас, он так ведет себя и чувствует.&nbsp;</p><p>•\tМы имеем трудности в создании и/или развитии тесных взаимоотношений.&nbsp;</p><p>•\tМы боимся быть обиженными или отвергнутыми другими.&nbsp;</p><p>•\tМы с трудом принимаем решения.&nbsp;</p><p>•\tДействия других людей определяют то, как мы действуем или реагируем.&nbsp;</p><p>•\tМы подвергаем сомнению или игнорируем собственные ценности, чтобы сохранять связь с близкими.&nbsp;</p><p>•\tНаше чувство собственного достоинства поддерживается внешними (чужими) воззрениями на нас.&nbsp;</p><p>•\tМы не умеем распознавать хорошее в себе.&nbsp;</p><p>•\tНаш покой определяется тем, как чувствуют и ведут себя другие.&nbsp;</p><p>•\tНичто из сделанного, придуманного или сказанного нами не является “достаточно хорошим”.&nbsp;</p><p>•\tНам нужно быть необходимыми, чтобы поддерживать отношения с другими.&nbsp;</p><p><br></p><p>Теоретическая основа данного курса - Эволюционный подход к выздоровлению от созависимости Берри и Дженей Уайнхолдов. Эволюционный подход к выздоровлению, рассматривает созависимость как проблему, возникшую при эволюционном развитии ребёнка, тесно связанную с семейной системой. Созависимость возникает вследствие незавершенности определенных критических стадий развития в течение первых шести лет жизни, в частности, стадий соединения и отделения. Если что-то нарушает завершение любой из стадий эволюции индивида, то в течение всей жизни человека будут повторяться процессы, ведущие к завершению стадий психологического развития. Результат незаконченного соединения и/или отделения а так же «зависание» в независимости— это всё и есть созависимость.&nbsp;</p><p><br></p><p>Созависимый человек будет:&nbsp;</p><p>1. пытаясь завершить свое соединение и становясь очень привязанным “прилипать”, созависимым&nbsp;</p><p>2. пытаться завершить отделение или автономию, становясь очень обособленным, то есть независимым&nbsp;</p><p>3. будет ходить по кругу между тем и другим, то есть быть контрзависимым.&nbsp;</p><p><br></p><p>Участники получат представление:&nbsp;</p><p>1. Об основных принципах эволюционного подхода&nbsp;</p><p>2. О феномене созависимости&nbsp;</p><p>3. Причины созависимости&nbsp;</p><p>4. Родительская семья&nbsp;</p><p>5. Работа с чувствами&nbsp;</p><p>6. Треугольник Карпмана&nbsp;</p><p>7. Границы&nbsp;</p><p>8. Этапы психотерапии созависимого&nbsp;</p><p><br></p><p>Темы семинаров:&nbsp;</p><p>1. Феномен созависимости. (Общие понятия, основные характеристики). Самодиагностика. Симптомы, характеристики, методы терапии. Зависимость – семейная болезнь. Био-психо-социальная модель созависимого поведения (пентограмма Гингера).&nbsp;</p><p>2. Причины созависимости. Феноменология. Дисфункциональные сценарии, поведенческие паттерны и роли в семьях созависимых клиентов. (Корни созависимости). Функциональная и дисфункциональная семья. Принципы воспитания. Нарушение функции Эго.&nbsp;</p><p>3. Чувства. (Понятие, значение. Дневник чувств.) Дефекты характера. Самооценка. (Принятие, значение).&nbsp;</p><p>4. Работа с чувствами: вина, стыд, страх, отчаяние, злость.&nbsp;</p><p>5. Поведение созависимого. Треугольник Карпмана. Конфлюенция.Созависимость – желание спасать и жить для других. Противозависимость – желание держать все под контролем. («Роль контролера» – выгоды, причины, последствия). Жертва и Тиран. Невозможность переживать счастье. Выход из тупика или освобождение от созависимости.&nbsp;</p><p>6. Понятие бессилия. (Сепарация. Отстранение от объекта зависимости). Умение переживать «потери».&nbsp;</p><p>7. Границы. Контакт. Цикл контакта. Нарушение контакта. Дневник самонаблюдения и анализа.&nbsp;</p><p>8. Мысли и убеждения. Система защит. Интроекты и проекции.&nbsp;</p><p>9. Принятие решения. Ответственность. Нравственные принципы. «Мужество изменить то, что могу и принять то, что не в силах изменить».&nbsp;</p><p>10. Личные жизненные выборы, а не «судьба». «Я имею право…», и «Ставлю Собственные цели». (Новая система ценностей, самоосознавание, постановка личных целей, этапы продвижения к цели).&nbsp;</p><p>11. Этапы психотерапии созависимости. Стратегия и тактика. Терапевтические отношения с созависимым клиентом. Перенос и контрперенос. Основные феномены терапевтических отношений: «жертва-преследователь», «спасательство», беспомощность, агрессия. Ресурсы психотерапевтических отношений. Перспективы и прогноз выздоровления. Навыки психотерапевта, необходимые для работы с созависимыми клиентами.</p><p><br></p><p>Встречи 6 раз в год, 3-х дневные модули (вечер пятницы, суббота, воскресение). Количество участников ограничено – группа до 15 человек. Группа долгосрочная. Индивидуальная работа с личным опытом каждого из участников. Обучение работе с созависимостью.</p><p>&nbsp;</p><p>Ведущие: </p><p>Владимир Иванов – медицинский психолог, гештальт-терапевт, тренер МГИ, руководитель центра социально-психологической реабилитации «Сенс». Опыт работы с зависимыми и созависимыми – 15 лет. Опыт семейной жизни – 35 лет.&nbsp;</p><p>Янина Полонская – практикующий психолог (КНУ им.Шевченко), гештальт-терапевт(МГИ), директор психологического центра “ИНЬ И ЯНА”. Специализации: «Ранние нарушения близости и идентичности», «Психосоматика», «Кризисы и травмы», «Сексуальность и гештальт» (Бриджит Мартель, Гозаг Маскелье, Парижская школа гештальта). 8 лет психологической практики. Профессиональная психологическая работа с созависимостью (специализация). Владимир Иванов и Яна Полонская – профессиональные психологи, гештальт-терапевты будут помогать участникам проходить процесс освобождения от созависимости, а также обучать коллег работе с созависимостью.</p><p><br></p><p>Студентам, обучающимся гештальт-терапии на 2 и 3 ступени, данная программ зачитывается как специализация.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts2-10",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br><b>+38 (050) 523 99 60 Ольга<br>+38 (050) 303 &nbsp;92 26 Мария</b>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
+        }
+      ]
+    },
+    "CF codependency.html": {
+      "settings": {
+        "title": "Web Site Generator Title",
+        "meta_descr": "Web Site Generator Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1g",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": false
+          },
+          "title": "Заявка на участие в программе <br>\"Зависимость. Одиночество. Близость\"",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "mykhalyova@gmail.com",
+            "alerts": {
+              "success": "Спасибо!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1a",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "1.1",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-8\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1b",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts2-1c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br><b>+38 (050) 523 99 60 Ольга<br>+38 (050) 303 &nbsp;92 26 Мария</b>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "Web Site Creator Title",
+        "meta_descr": "Web Site Creator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1i",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "1.1",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-8\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1j",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts2-1k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br><b>+38 (050) 523 99 60 Ольга<br>+38 (050) 303 &nbsp;92 26 Мария</b>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/media-share-0-02-05-bb135371e5396aa2e0c8185084fb6718d0fca6d5940dc0c7491b79ec213959ea-0e4ed716-5dc1-46e8-9445-744110bad588-2000x743.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         }
       ]
     }
