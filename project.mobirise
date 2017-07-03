@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "CF codependency.html",
+    "currentPage": "index.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -34,7 +34,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "LifeHub Yabloko",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -926,8 +926,8 @@
     },
     "codependency.html": {
       "settings": {
-        "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "title": "Созависимость",
+        "meta_descr": "Созависимость"
       },
       "components": [
         {
@@ -1126,8 +1126,8 @@
     },
     "CF codependency.html": {
       "settings": {
-        "title": "Web Site Generator Title",
-        "meta_descr": "Web Site Generator Description"
+        "title": "Созависимость - контактная форма",
+        "meta_descr": "Созависимость "
       },
       "components": [
         {
