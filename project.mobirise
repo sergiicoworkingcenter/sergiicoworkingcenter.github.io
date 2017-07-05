@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "bodily -practises-hall.html",
+    "currentPage": "room-for-children-theropy.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -1376,10 +1376,10 @@
               "color": "#28324e"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2025,10 +2025,10 @@
               "color": "#28324e"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2233,10 +2233,10 @@
               "color": "#28324e"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
