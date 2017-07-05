@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "galery.html",
+    "currentPage": "bodily -practises-hall.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -1546,7 +1546,7 @@
           },
           "_anchor": "msg-box1-1x",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
@@ -1584,10 +1584,10 @@
               "color": "#28324e"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
