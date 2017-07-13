@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "codependency.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -729,10 +729,10 @@
               "color": "#28324e"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -838,11 +838,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-19",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2000x1548.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2000x989.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -856,7 +856,7 @@
             "showText": false,
             "showButton": true
           },
-          "title": "&nbsp;<br>Программа по работе с созависимостью \"Зависимость. <br>Одиночество. <br>Близость\"",
+          "title": "&nbsp;<br><br>",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": " <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"CF codependency.html\" data-toolbar=\"-mbrBtnMove\">Оставить заявку на участие в программе</a>"
         },
@@ -2801,7 +2801,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3373.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3374.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
