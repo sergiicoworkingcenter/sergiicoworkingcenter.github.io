@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 92,
+    "uniqCompNum": 104,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -309,7 +309,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-x\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-x\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -326,7 +326,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Yabloko."
         },
         {
           "_tags": [
@@ -802,7 +802,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-8\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-x\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1059,7 +1059,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-x\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-x\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1207,7 +1207,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-x\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-x\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1449,7 +1449,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-x\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-x\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1657,7 +1657,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-8\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-x\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1865,7 +1865,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-8\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-x\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2098,7 +2098,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-8\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-x\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2306,7 +2306,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-8\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-x\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2454,7 +2454,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-8\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-x\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2728,7 +2728,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-8\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-x\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2746,6 +2746,461 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    },
+    "articles.html": {
+      "settings": {
+        "title": "articles",
+        "meta_descr": "статьи"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-2p",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/funny-1-600x340.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "А вы мечтали стать Золушкой?<div><br></div>",
+          "subtitle1": "Сказка о созависимости",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-600x3373.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title2": "Невеста Пряни",
+          "subtitle2": "Мультик о созависимости",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.youtube.com/watch?v=Ea2s_TXo7oM\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Смотреть</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-2k",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "1.05",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-x\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2l",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Yabloko."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts2-2m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br><b>+38 (050) 523 99 60 Ольга<br>+38 (050) 303 &nbsp;92 26 Мария</b>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
+        }
+      ]
+    },
+    "cinderella.html": {
+      "settings": {
+        "title": "cinderella",
+        "meta_descr": "А вы мечтали стать Золушкой?\nСказка о созависимости.\n"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2u",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-2000x1246.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "А вы мечтали стать Золушкой?<div><br></div>",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Сказка о созависимости</span><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-2q",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "1.05",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-x\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2r",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Yabloko."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Многие девочки в детстве с замиранием в сердце слушали сказку о Золушке, ее сложной жизни и волшебном преображении. Кто-то послушал и пошел «своей дорогой», а кто-то решил попробовать Золушкин «рецепт счастья». Давайте пофантазируем о плюсах и минусах такого выбора.&nbsp;</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">В начале сказки мы видим Золушку скромной, забитой девушкой. Мачеха и сестры относятся к ней с жестокостью и пренебрежением, даже отец не поддерживает и не защищает свою дочь. При этом Золушка не проявляет ни злости, ни агрессии по отношению к своим тиранам, лишь доброта и покорность. Неужели, живой человек может не злиться на своих обидчиков? Или ее чувства так глубоко спрятаны, что их совсем не видно читателю?</span><br></p><p>Представим себе, что Золушка разозлилась, решила не подчиняться своей мачехе, дала отпор своим обидчикам, пусть даже волшебным образом (мы же в сказке). Испытывали бы к ней теперь столько жалости и сострадания? – Нет? За что жалеть человека, который справился со своими проблемами сам? </p><p>Но у Золушки нет сил решить свои проблемы, она остается в роли жертвы, ожидая своего спасения. В ее мечтах есть принц – статусный, богатый, властьимущий мужчина, никак не меньше. (Простой хороший парень из соседней деревни не тянет на спасителя.) Что же делает Золушка при первой встрече с принцем, она обманывает его, выдавая себя за принцессу, за ту, кем не является. То есть, свою ценность она не ощущает. Боясь разоблачения Золушка убегает, теряя туфельку. Принц же настолько за вечер не узнал о незнакомке ничего значимого, что искать может только по туфельке. Юноша влюблен лишь в образ, не зная ничего реального о девушке. И здесь снова подозрительная деталь. Золушка знает о том, что ее ищут, но она не помогает принцу, не борется за свое счастье, она «дает ему шанс» заслужить ее. И принц заслуживает ее. (А в реальной жизни хватило бы терпенья у принца?) &nbsp;</p><p>В сказке, конечно, happy end. А в реальной жизни как долго получиться у Золушки быть достаточно хорошей для своего принца? Помогут ли ей тренинги по прокачке женской силы? Или она снова сбежит из невыносимой ситуации к новому спасителю?</p><p>Есть ли шанс у живых Золушек увидеть свою ценность, принять свои эмоции, перестать быть жертвами и взять на себя ответственность за свою жизнь?&nbsp;</p><p>Думаю, что есть! Изменить созависимое поведение возможно, хотя и не просто. Но, мы ведь в жизни, не в сказке.</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts2-2s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br><b>+38 (050) 523 99 60 Ольга<br>+38 (050) 303 &nbsp;92 26 Мария</b>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
     }
