@@ -2801,7 +2801,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3374.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3375.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3197,7 +3197,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"codependency.html\" data-toolbar=\"-mbrBtnMove\">ЗДЕСЬ</a>",
           "text": "",
-          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Узнать больше об этой теме можно",
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Узнать больше об этой теме",
           "_styles": {
             "H3": {
               "font-size": "30px",
