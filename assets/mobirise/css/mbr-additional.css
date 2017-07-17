@@ -1390,6 +1390,10 @@ h6,
 #menu-2q .close-icon::after {
   background-color: #28324e;
 }
+#msg-box1-2x H3 {
+  font-size: 30px;
+  color: #28324e;
+}
 #contacts2-2s STRONG {
   color: #ffffff;
   font-size: 16px;
