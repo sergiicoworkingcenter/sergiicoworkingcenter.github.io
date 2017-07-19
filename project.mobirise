@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "cinderella.html",
+    "currentPage": "bride.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 106,
+    "uniqCompNum": 111,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -281,7 +281,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -729,10 +729,10 @@
               "color": "#28324e"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -774,7 +774,7 @@
           "_anchor": "menu-y",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -842,7 +842,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2000x989.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/2-2000x989.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1031,7 +1031,7 @@
           "_anchor": "menu-1a",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -1179,7 +1179,7 @@
           "_anchor": "menu-1i",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -1421,7 +1421,7 @@
           "_anchor": "menu-1m",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -1629,7 +1629,7 @@
           "_anchor": "menu-1y",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -1837,7 +1837,7 @@
           "_anchor": "menu-1t",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -2070,7 +2070,7 @@
           "_anchor": "menu-23",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -2278,7 +2278,7 @@
           "_anchor": "menu-28",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -2426,7 +2426,7 @@
           "_anchor": "menu-2f",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -2700,7 +2700,7 @@
           "_anchor": "menu-2c",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -2801,7 +2801,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3375.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33710.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2814,7 +2814,7 @@
           "title2": "Невеста Пряни",
           "subtitle2": "Мультик о созависимости",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.youtube.com/watch?v=Ea2s_TXo7oM\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Смотреть</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"bride.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Смотреть</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -2924,7 +2924,7 @@
           "_anchor": "menu-2k",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -3109,7 +3109,7 @@
           "_anchor": "menu-2q",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "1.05",
+            "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -3237,6 +3237,266 @@
           },
           "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br><b>+38 (050) 523 99 60 Ольга<br>+38 (050) 303 &nbsp;92 26 Мария</b>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
+        }
+      ]
+    },
+    "bride.html": {
+      "settings": {
+        "title": "Невеста Пряни",
+        "meta_descr": "Невеста Пряни"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-31",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=Ea2s_TXo7oM",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Невеста Пряни (мультик о созависимости)",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"codependency.html\" data-toolbar=\"-mbrBtnMove\">Еще</a>",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-2y",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-x\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2z",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts2-30",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br><b>+38 (050) 523 99 60 Ольга<br>+38 (050) 303 &nbsp;92 26 Мария</b>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-32",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH YOUTUBE VIDEO",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     }

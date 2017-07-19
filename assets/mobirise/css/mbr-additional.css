@@ -516,11 +516,11 @@ h6,
   color: #28324e;
 }
 #menu-y .link {
-  font-size: 1.05rem;
+  font-size: 0.95rem;
 }
 #menu-y .dropdown-item,
 #menu-y .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 1.029rem;
 }
 #menu-y .link:hover,
 #menu-y .dropdown-item:hover,
@@ -1397,4 +1397,84 @@ h6,
 #contacts2-2s STRONG {
   color: #ffffff;
   font-size: 16px;
+}
+#msg-box4-31 H3 {
+  font-size: 36px;
+}
+#menu-2y .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-2y .navbar-caption {
+  color: #ffffff;
+}
+#menu-2y .navbar-toggler {
+  color: #28324e;
+}
+#menu-2y .link,
+#menu-2y .dropdown-item {
+  color: #28324e;
+}
+#menu-2y .link {
+  font-size: 0.95rem;
+}
+#menu-2y .dropdown-item,
+#menu-2y .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-2y .link:hover,
+#menu-2y .dropdown-item:hover,
+#menu-2y .link:focus,
+#menu-2y .dropdown-item:focus {
+  color: #475577;
+}
+#menu-2y .link[aria-expanded="true"],
+#menu-2y .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-2y .nav-dropdown-sm .link:focus,
+#menu-2y .nav-dropdown-sm .link:hover,
+#menu-2y .nav-dropdown-sm .dropdown-item:focus,
+#menu-2y .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-2y .navbar,
+#menu-2y .nav-dropdown-sm,
+#menu-2y .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2y .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-2y .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-2y .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-2y .bg-color.transparent.opened .link:hover,
+#menu-2y .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-2y .link[aria-expanded="true"],
+#menu-2y .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-2y.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-2y .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-2y .close-icon::before,
+#menu-2y .close-icon::after {
+  background-color: #28324e;
+}
+#contacts2-30 STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
+#header6-32 .mbr-section-title {
+  color: #28262b;
+}
+#header6-32 .mbr-section-text {
+  color: #565656;
 }
