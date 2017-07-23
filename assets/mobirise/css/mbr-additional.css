@@ -1487,6 +1487,13 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+#msg-box8-1l .mbr-section-title,
+#msg-box8-1l p {
+  color: #fff;
+}
+#msg-box8-1l .btn {
+  font-size: 14px;
+}
 #menu-1i .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1557,10 +1564,6 @@ h6,
 #contacts2-1k STRONG {
   color: #ffffff;
   font-size: 16px;
-}
-#msg-box8-1l .mbr-section-title,
-#msg-box8-1l p {
-  color: #fff;
 }
 #form1-3a .form-control-label {
   color: #232323;
@@ -1633,6 +1636,80 @@ h6,
   background-color: #28324e;
 }
 #contacts2-3d STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
+#form1-3f .form-control-label {
+  color: #232323;
+}
+#menu-3g .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-3g .navbar-caption {
+  color: #ffffff;
+}
+#menu-3g .navbar-toggler {
+  color: #28324e;
+}
+#menu-3g .link,
+#menu-3g .dropdown-item {
+  color: #28324e;
+}
+#menu-3g .link {
+  font-size: 0.95rem;
+}
+#menu-3g .dropdown-item,
+#menu-3g .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-3g .link:hover,
+#menu-3g .dropdown-item:hover,
+#menu-3g .link:focus,
+#menu-3g .dropdown-item:focus {
+  color: #475577;
+}
+#menu-3g .link[aria-expanded="true"],
+#menu-3g .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-3g .nav-dropdown-sm .link:focus,
+#menu-3g .nav-dropdown-sm .link:hover,
+#menu-3g .nav-dropdown-sm .dropdown-item:focus,
+#menu-3g .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-3g .navbar,
+#menu-3g .nav-dropdown-sm,
+#menu-3g .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-3g .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-3g .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-3g .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-3g .bg-color.transparent.opened .link:hover,
+#menu-3g .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-3g .link[aria-expanded="true"],
+#menu-3g .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-3g.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-3g .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-3g .close-icon::before,
+#menu-3g .close-icon::after {
+  background-color: #28324e;
+}
+#contacts2-3i STRONG {
   color: #ffffff;
   font-size: 16px;
 }
