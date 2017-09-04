@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "vebinar_correction.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 175,
+    "uniqCompNum": 177,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -517,7 +517,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"gendertheory.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fox1-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fox3-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2850,7 +2850,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33719.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3371.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5585,13 +5585,18 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "На бесплатном вебинаре с Викторией Шинкаренко вы познакомитесь с основами методики психомоторной коррекции (с теорией и практикой). Мы будем делать физические дыхательные упражнения, с помощью которых вы можете:&nbsp;<div>-\tУспокоить вашего ребенка после насыщенного дня;</div><div>-\tРазвить внимание и усидчивость;</div><div>-\tПовысить мотивацию к обучению;</div><div>-\tПовысить самооценку ребенка;</div><div>-\tНаладить контакт с ребенком.</div><div>Виктория Шинкаренко - практикующий психолог с 10-ти летним стажем работы, телесно-ориентированный психотерапевт (диплом АТОП, г.Москва), специалист по бодинамическому анализу тела , (Институт Бодинамики, Дания), специалист по психомоторной коррекции (удостоверение о повышении квалификации при Департаменте образования, г.Москва), преподаватель курса по развитию творческого мышления (сертификат от института практической психологии «Иматон», г.Санкт-Петербург). &nbsp;</div><div><br></div>"
+          "text": "<p><br></p><p><br></p><p>На бесплатном вебинаре с Викторией Шинкаренко вы познакомитесь с основами методики психомоторной коррекции (с теорией и практикой). </p><p>Мы будем делать физические дыхательные упражнения, с помощью которых вы можете:&nbsp;</p><p></p><div><br></div><div>-\tУспокоить вашего ребенка после насыщенного дня;</div><div>-\tРазвить внимание и усидчивость;</div><div>-\tПовысить мотивацию к обучению;</div><div>-\tПовысить самооценку ребенка;</div><div>-\tНаладить контакт с ребенком.</div><div><br></div><div>Во время вебинара вы сможете задать волнующие вас вопросы.</div><div><br></div><div><b>Виктория Шинкаренко </b>- практикующий психолог с 10-ти летним стажем работы, телесно-ориентированный психотерапевт (диплом АТОП, г.Москва), специалист по бодинамическому анализу тела , (Институт Бодинамики, Дания), специалист по психомоторной коррекции (удостоверение о повышении квалификации при Департаменте образования, г.Москва), преподаватель курса по развитию творческого мышления (сертификат от института практической психологии «Иматон», г.Санкт-Петербург). &nbsp;</div><div><br></div><div><br></div><div><b>Участники вебинара получат подарок - видеозапись первого семинара по психомоторной коррекции,  который состоится  18.09.2017 в 18.30. (http://hubyabloko.com/Psychomotor_correction.html)</b></div><div><br></div><div><b>Регистрация на вебинар обязательна.</b></div><div><b>Ссылку на видео трансляцию вы получите на почту за час до вебинара.</b></div><div><br></div><div><br></div><p></p>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "30px"
+            }
+          },
           "_anchor": "msg-box1-4g",
           "_params": {
             "paddingTop": "0",
@@ -5615,10 +5620,41 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Psychomotor_correction.html\" data-toolbar=\"-mbrBtnMove\">Еще</a>",
           "text": "",
-          "title": "Подоробнее о методике",
+          "title": "Подоробнее о методике"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-4w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"CF-vebinar-correction.html\" data-toolbar=\"-mbrBtnMove\">Регестрация</a>",
+          "text": "",
+          "title": "Зарегистрироваться на вебинар",
           "_styles": {
             "H3": {
-              "font-size": "30px"
+              "text-align": "left",
+              "font-size": "32px"
             }
           }
         },

@@ -2187,6 +2187,10 @@ h6,
 #msg-box1-4g H3 {
   font-size: 30px;
 }
+#msg-box1-4w H3 {
+  text-align: left;
+  font-size: 32px;
+}
 #menu-4d .hide-buttons .nav-btn {
   display: none !important;
 }
