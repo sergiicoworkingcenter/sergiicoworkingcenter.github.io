@@ -2850,7 +2850,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3371.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3372.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5570,7 +5570,7 @@
             "showText": true,
             "showButton": true
           },
-          "title": "Вебинар&nbsp;<br>\"Как повысить уровень концентрации и самооценку у детей\"",
+          "title": "Вебинар&nbsp;<br>\"Как повысить уровень концентрации внимания и самооценку у детей\"",
           "text": "<p>Ведет Виктория Шинкаренко</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"CF-vebinar-correction.html\" data-toolbar=\"-mbrBtnMove\">Зарегистрироваться на вебинар</a>"
         },
