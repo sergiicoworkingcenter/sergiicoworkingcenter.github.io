@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "vebinar_correction.html",
+    "currentPage": "index.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -495,7 +495,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Как повысить уровень концентрации и самооценку у детей",
+          "title1": "Как повысить уровень концентрации внимания и самооценку у детей",
           "subtitle1": "Бесплатный вебинар с Викторией Шинкаренко<br>06.09.2017 в 19.00&nbsp;",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"vebinar_correction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
@@ -2850,7 +2850,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3372.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3373.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
