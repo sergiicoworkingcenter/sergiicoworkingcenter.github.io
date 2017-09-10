@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 180,
+    "uniqCompNum": 183,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2850,7 +2850,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3372.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3374.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6050,7 +6050,7 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButton": true
+            "showButton": false
           },
           "title": "Цикл лекций по основам гендерной теории",
           "text": "Читает Максим Жидко",
@@ -6109,36 +6109,61 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H3": {
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "msg-box1-4n",
+          "_name": "form1",
+          "_anchor": "form1-52",
           "_params": {
-            "paddingTop": "0",
+            "labelsColor": "#232323",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
+            "bgColor": "#fff",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": true,
-            "showTitle": true
+            "showTitle": true,
+            "showSubTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"CF-gendertheory.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Зарегистрироваться</a>",
-          "text": "",
-          "title": ""
+          "title": "Форма для регистрации на лекции по основам гендерной теории",
+          "subtitle": "",
+          "form": {
+            "action": "alina2377@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px"
+            }
+          }
         },
         {
           "_tags": [
@@ -6378,7 +6403,47 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить ваши данные</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-51",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Купить билет</a>",
+          "text": "Купить билет на первую лекцию - 21.09.2017 (200 грн)",
+          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "font-size": "25px"
+            },
+            "H3": {
+              "color": "#7e9b9f",
+              "font-size": "17px"
+            }
+          }
         },
         {
           "_styles": {

@@ -2355,8 +2355,11 @@ h6,
   font-size: 30px;
   text-align: center;
 }
-#msg-box1-4n H3 {
-  font-size: 30px;
+#form1-52 .form-control-label {
+  color: #232323;
+}
+#form1-52 .mbr-section-title {
+  font-size: 25px;
 }
 #msg-box1-4y H3 {
   font-size: 25px;
@@ -2434,6 +2437,14 @@ h6,
 }
 #form1-4r .form-control-label {
   color: #232323;
+}
+#msg-box1-51 H2 {
+  color: #000000;
+  font-size: 25px;
+}
+#msg-box1-51 H3 {
+  color: #7e9b9f;
+  font-size: 17px;
 }
 #menu-4s .hide-buttons .nav-btn {
   display: none !important;
