@@ -2337,6 +2337,7 @@ h6,
   font-size: 16px;
 }
 
+
 #msg-box8-4l .mbr-section-title,
 #msg-box8-4l p {
   color: #fff;
@@ -2351,9 +2352,14 @@ h6,
 #msg-box8-4l .lead {
   color: #ffffff;
 }
-#msg-box1-4z H3 {
+#msg-box1-53 H3 {
+  font-size: 17px;
+  color: #7e9b9f;
+}
+#msg-box1-53 H2 {
+  color: #000000;
   font-size: 30px;
-  text-align: center;
+  font-family: 'Open Sans', sans-serif;
 }
 #form1-52 .form-control-label {
   color: #232323;
@@ -2361,8 +2367,13 @@ h6,
 #form1-52 .mbr-section-title {
   font-size: 25px;
 }
-#msg-box1-4y H3 {
-  font-size: 25px;
+#msg-box1-54 H3 {
+  color: #7e9b9f;
+  font-size: 17px;
+}
+#msg-box1-54 H2 {
+  font-size: 30px;
+  color: #000000;
 }
 #menu-4o .hide-buttons .nav-btn {
   display: none !important;

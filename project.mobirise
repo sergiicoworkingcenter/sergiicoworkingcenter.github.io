@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 183,
+    "uniqCompNum": 186,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2850,7 +2850,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3374.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3376.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6061,10 +6061,10 @@
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-4z",
+          "_anchor": "msg-box1-53",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -6082,13 +6082,19 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
-          "text": "",
-          "title": "Купить билет на первую лекцию - 21.09.2017 (200 грн)",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
+          "text": "Купить билет на первую лекцию - 21.09.2017 (200 грн)",
+          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию.",
           "_styles": {
             "H3": {
+              "font-size": "17px",
+              "color": "#7e9b9f"
+            },
+            "H2": {
+              "color": "#000000",
               "font-size": "30px",
-              "text-align": "center"
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           }
         },
@@ -6126,18 +6132,18 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "Форма для регистрации на лекции по основам гендерной теории",
+          "title": "Форма для регистрации на лекции по основам гендерной теории<br>",
           "subtitle": "",
           "form": {
-            "action": "alina2377@gmail.com",
+            "action": "yablokohub@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Спасибо! "
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "ФИО*"
               },
               "email": {
                 "title": "Email",
@@ -6147,11 +6153,11 @@
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone"
+                "customTitle": "Телефон"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Сообщение"
               }
             }
           },
@@ -6170,7 +6176,7 @@
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-4y",
+          "_anchor": "msg-box1-54",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -6191,12 +6197,17 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
-          "text": "",
-          "title": "Купить билет на первую лекцию - 21.09.2017 (200 грн)",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
+          "text": "Купить билет на первую лекцию - 21.09.2017 (200 грн)",
+          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию.",
           "_styles": {
             "H3": {
-              "font-size": "25px"
+              "color": "#7e9b9f",
+              "font-size": "17px"
+            },
+            "H2": {
+              "font-size": "30px",
+              "color": "#000000"
             }
           }
         },
@@ -6431,7 +6442,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Купить билет</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить билет</a>",
           "text": "Купить билет на первую лекцию - 21.09.2017 (200 грн)",
           "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию",
           "_styles": {
