@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Psychomotor_correction.html",
+    "currentPage": "gendertheory.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 177,
+    "uniqCompNum": 180,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2850,7 +2850,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3372.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3371.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6054,7 +6054,43 @@
           },
           "title": "Цикл лекций по основам гендерной теории",
           "text": "Читает Максим Жидко",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"CF-gendertheory.html\" data-toolbar=\"-mbrBtnMove\">Зарегистрироваться</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"CF-gendertheory.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Зарегистрироваться</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-4z",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
+          "text": "",
+          "title": "Купить билет на первую лекцию - 21.09.2017 (200 грн)",
+          "_styles": {
+            "H3": {
+              "font-size": "30px",
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
@@ -6100,9 +6136,44 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Psychomotor_correction.html\" data-toolbar=\"-mbrBtnMove\">Еще</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"CF-gendertheory.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Зарегистрироваться</a>",
           "text": "",
-          "title": "Подоробнее о методике"
+          "title": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-4y",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
+          "text": "",
+          "title": "Купить билет на первую лекцию - 21.09.2017 (200 грн)",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            }
+          }
         },
         {
           "_styles": {

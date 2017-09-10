@@ -2351,8 +2351,15 @@ h6,
 #msg-box8-4l .lead {
   color: #ffffff;
 }
+#msg-box1-4z H3 {
+  font-size: 30px;
+  text-align: center;
+}
 #msg-box1-4n H3 {
   font-size: 30px;
+}
+#msg-box1-4y H3 {
+  font-size: 25px;
 }
 #menu-4o .hide-buttons .nav-btn {
   display: none !important;
