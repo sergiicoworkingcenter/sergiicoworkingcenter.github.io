@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Psychomotor_correction.html",
+    "currentPage": "DoulaMia.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -2850,7 +2850,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33710.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3370.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4551,7 +4551,7 @@
           },
           "title": "Цикл семинаров по психомоторной коррекции",
           "text": "<p>Ведет Виктория Шинкаренко</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"CF-correction.html\" data-toolbar=\"-mbrBtnMove\">Зарегистрироваться</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"CF-correction.html\" data-toolbar=\"-mbrBtnMove\">Зарегистрироваться на 18.09.2017</a>"
         },
         {
           "_tags": [
@@ -4959,7 +4959,7 @@
           },
           "title": "Программа гармоничного проживания беременности \"DoulaMia\"",
           "text": "<p>Ведет Надежда Друмашко</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"CF-DoulaMia.html\" data-toolbar=\"-mbrBtnMove\">Зарегистрироваться</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"CF-DoulaMia.html\" data-toolbar=\"-mbrBtnMove\">Зарегистрироваться на 18.09.2017</a>"
         },
         {
           "_tags": [
@@ -6061,6 +6061,18 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "17px",
+              "color": "#7e9b9f"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-size": "30px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
           "_anchor": "msg-box1-53",
           "_params": {
             "paddingTop": 3,
@@ -6084,19 +6096,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
           "text": "Купить билет на первую лекцию - 21.09.2017 (200 грн)",
-          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию.",
-          "_styles": {
-            "H3": {
-              "font-size": "17px",
-              "color": "#7e9b9f"
-            },
-            "H2": {
-              "color": "#000000",
-              "font-size": "30px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          }
+          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию."
         },
         {
           "_tags": [
@@ -6116,6 +6116,14 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px"
+            }
+          },
           "_anchor": "form1-52",
           "_params": {
             "labelsColor": "#232323",
@@ -6161,21 +6169,23 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "font-size": "25px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#7e9b9f",
+              "font-size": "17px"
+            },
+            "H2": {
+              "font-size": "30px",
+              "color": "#000000"
+            }
+          },
           "_anchor": "msg-box1-54",
           "_params": {
             "paddingTop": "2",
@@ -6199,17 +6209,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
           "text": "Купить билет на первую лекцию - 21.09.2017 (200 грн)",
-          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию.",
-          "_styles": {
-            "H3": {
-              "color": "#7e9b9f",
-              "font-size": "17px"
-            },
-            "H2": {
-              "font-size": "30px",
-              "color": "#000000"
-            }
-          }
+          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию."
         },
         {
           "_styles": {
@@ -6421,6 +6421,16 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "font-size": "25px"
+            },
+            "H3": {
+              "color": "#7e9b9f",
+              "font-size": "17px"
+            }
+          },
           "_anchor": "msg-box1-51",
           "_params": {
             "paddingTop": 3,
@@ -6444,17 +6454,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить билет</a>",
           "text": "Купить билет на первую лекцию - 21.09.2017 (200 грн)",
-          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию",
-          "_styles": {
-            "H2": {
-              "color": "#000000",
-              "font-size": "25px"
-            },
-            "H3": {
-              "color": "#7e9b9f",
-              "font-size": "17px"
-            }
-          }
+          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию"
         },
         {
           "_styles": {
