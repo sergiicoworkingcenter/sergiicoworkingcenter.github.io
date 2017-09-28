@@ -2531,6 +2531,10 @@ h6,
 #form1-5b .form-control-label {
   color: #232323;
 }
+#form1-5b SMALL {
+  text-align: left;
+  color: #000000;
+}
 #menu-57 .hide-buttons .nav-btn {
   display: none !important;
 }

@@ -2850,7 +2850,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3371.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3372.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6626,7 +6626,7 @@
             "showSubTitle": true
           },
           "title": "Заявка на участие в бесплатной встрече с доулой. Собираем сумку в роддом.",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "subtitle": "На встрече с Надеждой Друмашко (03.10.2017 в 9.30) мы проговорим о том:<br>•\tна что обратить внимание выбирая роддом и врача; <br>•\tкогда нужно собрать сумку в роддом, что в нее положить, а что окажется не нужным;<br>•\tкак сохранять спокойствие, когда очень страшно.<br>Встреча пройдет в LifeHube Yabloko (ул. Гаршина 9, 3 этаж).<br><span style=\"font-size: 17px;\">Если возникли вопросы, звоните по телефонам:&nbsp;</span><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "form": {
             "action": "yablokohub@gmail.com",
             "alerts": {
@@ -6658,6 +6658,10 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            "SMALL": {
+              "text-align": "left",
+              "color": "#000000"
             }
           }
         },
