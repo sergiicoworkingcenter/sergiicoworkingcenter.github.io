@@ -581,6 +581,12 @@ h6,
   font-family: 'Open Sans', sans-serif;
   text-align: left;
 }
+#form1-5d .form-control-label {
+  color: #232323;
+}
+#form1-5c .form-control-label {
+  color: #232323;
+}
 #contacts2-10 STRONG {
   color: #ffffff;
   font-size: 16px;
