@@ -2706,6 +2706,9 @@ h6,
 #form1-5j .form-control-label {
   color: #232323;
 }
+#form1-5j .mbr-section-title {
+  font-size: 36px;
+}
 #msg-box1-5p H3 {
   font-size: 17px;
   color: #7e9b9f;
@@ -2717,6 +2720,9 @@ h6,
 }
 #form1-5l .form-control-label {
   color: #232323;
+}
+#form1-5l .mbr-section-title {
+  font-size: 36px;
 }
 #contacts2-5m STRONG {
   color: #ffffff;
