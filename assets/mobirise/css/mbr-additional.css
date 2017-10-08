@@ -2367,10 +2367,10 @@ h6,
   font-size: 30px;
   font-family: 'Open Sans', sans-serif;
 }
-#form1-52 .form-control-label {
+#form1-5q .form-control-label {
   color: #232323;
 }
-#form1-52 .mbr-section-title {
+#form1-5q .mbr-section-title {
   font-size: 25px;
 }
 #msg-box1-54 H3 {
@@ -2380,6 +2380,12 @@ h6,
 #msg-box1-54 H2 {
   font-size: 30px;
   color: #000000;
+}
+#form1-52 .form-control-label {
+  color: #232323;
+}
+#form1-52 .mbr-section-title {
+  font-size: 25px;
 }
 #menu-4o .hide-buttons .nav-btn {
   display: none !important;
