@@ -2620,6 +2620,7 @@ h6,
 }
 
 
+
 #menu-5f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2708,6 +2709,11 @@ h6,
 }
 #form1-5j .mbr-section-title {
   font-size: 36px;
+}
+#msg-box1-63 H2 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box1-5p H3 {
   font-size: 17px;
@@ -2825,6 +2831,100 @@ h6,
   font-size: 36px;
 }
 #contacts2-62 STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
+
+#menu-64 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-64 .navbar-caption {
+  color: #ffffff;
+}
+#menu-64 .navbar-toggler {
+  color: #28324e;
+}
+#menu-64 .link,
+#menu-64 .dropdown-item {
+  color: #28324e;
+}
+#menu-64 .link {
+  font-size: 0.95rem;
+}
+#menu-64 .dropdown-item,
+#menu-64 .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-64 .link:hover,
+#menu-64 .dropdown-item:hover,
+#menu-64 .link:focus,
+#menu-64 .dropdown-item:focus {
+  color: #475577;
+}
+#menu-64 .link[aria-expanded="true"],
+#menu-64 .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-64 .nav-dropdown-sm .link:focus,
+#menu-64 .nav-dropdown-sm .link:hover,
+#menu-64 .nav-dropdown-sm .dropdown-item:focus,
+#menu-64 .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-64 .navbar,
+#menu-64 .nav-dropdown-sm,
+#menu-64 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-64 .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-64 .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-64 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-64 .bg-color.transparent.opened .link:hover,
+#menu-64 .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-64 .link[aria-expanded="true"],
+#menu-64 .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-64.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-64 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-64 .close-icon::before,
+#menu-64 .close-icon::after {
+  background-color: #28324e;
+}
+#msg-box8-66 .mbr-section-title,
+#msg-box8-66 p {
+  color: #fff;
+}
+#msg-box8-66 .lead P {
+  font-size: 46px;
+}
+#msg-box1-68 H3 {
+  font-size: 17px;
+  color: #7e9b9f;
+}
+#msg-box1-68 H2 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-69 .form-control-label {
+  color: #232323;
+}
+#form1-69 .mbr-section-title {
+  font-size: 36px;
+}
+#contacts2-6e STRONG {
   color: #ffffff;
   font-size: 16px;
 }
