@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sex_education.html",
+    "currentPage": "bodynamic.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7281,6 +7281,14 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "font-size": "30px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
           "_anchor": "msg-box1-63",
           "_params": {
             "paddingTop": "1",
@@ -7304,15 +7312,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sex_education2.html\" data-toolbar=\"-mbrBtnMove\">Купить</a>",
           "text": "Купить билеты на следующие лекции",
-          "title": "",
-          "_styles": {
-            "H2": {
-              "color": "#000000",
-              "font-size": "30px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          }
+          "title": ""
         },
         {
           "_tags": [
@@ -7625,7 +7625,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Когда: 04-05 ноября - первый модуль</p><p>Начинаем в 11.00.</p><p>Где:<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span></p><p>Стоимость одного модуля 2200 грн. - по предоплате, 2500 грн. - на месте.</p><p>Программа рассчитана на 7 тематических модулей по 2 дня с интервалом в 2 месяца.</p><p>Телефоны для справок:</p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p>"
+          "text": "<p>Когда: 18-19 ноября - первый модуль</p><p>Начинаем в 11.00.</p><p>Где:<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span></p><p>Стоимость одного модуля 2200 грн. - по предоплате, 2500 грн. - на месте.</p><p>Программа рассчитана на 7 тематических модулей по 2 дня с интервалом в 2 месяца.</p><p>Телефоны для справок:</p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p>"
         },
         {
           "_tags": [
