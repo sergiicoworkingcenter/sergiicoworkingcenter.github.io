@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "bodynamic.html",
+    "currentPage": "index.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -841,7 +841,7 @@
           },
           "title1": "Программа \"Эмоции. Тело. Разум\"<br>Маргариты Лебедевой<br>&nbsp;&nbsp;",
           "subtitle1": "",
-          "caption1": "начало 04 - 05 ноября (1 модуль)<br>",
+          "caption1": "начало 18 - 19 ноября (1 модуль)<br>",
           "button1": "<a data-app-btn=\"true\" href=\"bodynamic.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>   ",
           "media2": {
             "image": {
@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3370.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3371.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
