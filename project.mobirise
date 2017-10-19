@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3372.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3373.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
