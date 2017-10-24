@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "bodynamic.html",
+    "currentPage": "sex_education.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3373.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3370.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7172,7 +7172,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Когда: 24.10.2017, 31.10.2017, 07.10.2017, 14.10.2017, 20.10.2017, 27.10.2017.</p><p>Начинаем в 18:30.</p><p>Где:<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span></p><p>Стоимость одной лекции 200 грн.</p><p>Телефоны для справок:</p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p>"
+          "text": "<p>Когда: 31.10.2017, 07.10.2017, 14.10.2017, 20.10.2017, 27.10.2017.</p><p>Начинаем в 18:30.</p><p>Где:<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span></p><p>Стоимость одной лекции 200 грн.</p><p>Телефоны для справок:</p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p>"
         },
         {
           "_tags": [
@@ -7213,7 +7213,7 @@
             "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
-          "text": "Купить билет на лекцию - 24.10.2017 (200 грн)",
+          "text": "Купить билет на лекцию - 31.10.2017 (200 грн)",
           "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
         },
         {
@@ -7245,7 +7245,7 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "Регистрация на лекцию&nbsp;<br>\"Детская и подростковая мастурбация: норма и патология\"",
+          "title": "Регистрация на лекцию&nbsp;<br>\"Особенности гендерного воспитания\"",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "mykhalyova@gmail.com",
@@ -7366,7 +7366,7 @@
             "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
-          "text": "Купить билет на лекцию - 24.10.2017 (200 грн)",
+          "text": "Купить билет на лекцию - 31.10.2017 (200 грн)",
           "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
         },
         {
@@ -7398,7 +7398,7 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "Регистрация на лекцию&nbsp;<div>\"Детская и подростковая мастурбация: норма и патология\"</div>",
+          "title": "Регистрация на лекцию&nbsp;<div>\"Особенности гендерного воспитания\"</div>",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "mykhalyova@gmail.com",
