@@ -1959,6 +1959,18 @@ h6,
   font-size: 14px;
   font-family: 'Open Sans', sans-serif;
 }
+#form1-6h .form-control-label {
+  color: #232323;
+}
+#form1-6h .mbr-section-title {
+  font-size: 30px;
+}
+#form1-6f .form-control-label {
+  color: #232323;
+}
+#form1-6f .mbr-section-title {
+  font-size: 30px;
+}
 #menu-3z .hide-buttons .nav-btn {
   display: none !important;
 }
