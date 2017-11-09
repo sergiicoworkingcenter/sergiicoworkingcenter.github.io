@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sex_education.html",
+    "currentPage": "bodynamic.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3377.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3378.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7599,7 +7599,7 @@
     },
     "bodynamic.html": {
       "settings": {
-        "title": "бодинамика",
+        "title": "телесно-ориентированная программа",
         "meta_descr": "Эмоции. Тело. Действия."
       },
       "components": [
