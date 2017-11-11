@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "bodynamic.html",
+    "currentPage": "sex_education.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3379.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33711.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -7146,8 +7146,8 @@
     },
     "sex_education.html": {
       "settings": {
-        "title": "Сексуальная грамотность",
-        "meta_descr": "Сексуальная грамотность"
+        "title": "Сексуальная грамотность: зачем это нашим детям",
+        "meta_descr": "Сексуальная грамотность: зачем это нашим детям"
       },
       "components": [
         {
