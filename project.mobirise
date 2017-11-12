@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33713.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33714.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8469,7 +8469,7 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "Регистрация на лекцию&nbsp;<br>\"Подросткам о сексе: просто и доступно.\"",
+          "title": "Регистрация на лекцию&nbsp;<br>\"Подросткам о сексе: просто и доступно\"",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "mykhalyova@gmail.com",
