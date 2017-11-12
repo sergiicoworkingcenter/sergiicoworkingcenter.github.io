@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33716.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33717.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8272,8 +8272,8 @@
     },
     "sex_education3.html": {
       "settings": {
-        "title": "Сексуальная грамотность. Лекции для подростков.",
-        "meta_descr": "Сексуальная грамотность. Лекции для подростков."
+        "title": "Сексуальная грамотность. Лекция для подростков.",
+        "meta_descr": "Подросткам о сексе: просто и доступно"
       },
       "components": [
         {
