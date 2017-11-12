@@ -3031,3 +3031,94 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+#menu-6u .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-6u .navbar-caption {
+  color: #ffffff;
+}
+#menu-6u .navbar-toggler {
+  color: #28324e;
+}
+#menu-6u .link,
+#menu-6u .dropdown-item {
+  color: #28324e;
+}
+#menu-6u .link {
+  font-size: 0.95rem;
+}
+#menu-6u .dropdown-item,
+#menu-6u .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-6u .link:hover,
+#menu-6u .dropdown-item:hover,
+#menu-6u .link:focus,
+#menu-6u .dropdown-item:focus {
+  color: #475577;
+}
+#menu-6u .link[aria-expanded="true"],
+#menu-6u .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-6u .nav-dropdown-sm .link:focus,
+#menu-6u .nav-dropdown-sm .link:hover,
+#menu-6u .nav-dropdown-sm .dropdown-item:focus,
+#menu-6u .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-6u .navbar,
+#menu-6u .nav-dropdown-sm,
+#menu-6u .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-6u .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-6u .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-6u .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-6u .bg-color.transparent.opened .link:hover,
+#menu-6u .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-6u .link[aria-expanded="true"],
+#menu-6u .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-6u.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-6u .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-6u .close-icon::before,
+#menu-6u .close-icon::after {
+  background-color: #28324e;
+}
+#msg-box8-6w .mbr-section-title,
+#msg-box8-6w p {
+  color: #fff;
+}
+#msg-box8-6w .lead P {
+  font-size: 46px;
+}
+#msg-box8-6w .lead {
+  color: #ffffff;
+  font-size: 46px;
+}
+#msg-box8-6w .lead H1 {
+  font-size: 36px;
+}
+#form1-6y .form-control-label {
+  color: #232323;
+}
+#form1-6y .mbr-section-title {
+  font-size: 36px;
+}
+#contacts2-70 STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
