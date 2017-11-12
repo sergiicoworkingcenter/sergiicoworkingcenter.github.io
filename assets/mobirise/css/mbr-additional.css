@@ -2940,3 +2940,94 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+#menu-6j .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-6j .navbar-caption {
+  color: #ffffff;
+}
+#menu-6j .navbar-toggler {
+  color: #28324e;
+}
+#menu-6j .link,
+#menu-6j .dropdown-item {
+  color: #28324e;
+}
+#menu-6j .link {
+  font-size: 0.95rem;
+}
+#menu-6j .dropdown-item,
+#menu-6j .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-6j .link:hover,
+#menu-6j .dropdown-item:hover,
+#menu-6j .link:focus,
+#menu-6j .dropdown-item:focus {
+  color: #475577;
+}
+#menu-6j .link[aria-expanded="true"],
+#menu-6j .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-6j .nav-dropdown-sm .link:focus,
+#menu-6j .nav-dropdown-sm .link:hover,
+#menu-6j .nav-dropdown-sm .dropdown-item:focus,
+#menu-6j .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-6j .navbar,
+#menu-6j .nav-dropdown-sm,
+#menu-6j .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-6j .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-6j .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-6j .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-6j .bg-color.transparent.opened .link:hover,
+#menu-6j .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-6j .link[aria-expanded="true"],
+#menu-6j .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-6j.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-6j .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-6j .close-icon::before,
+#menu-6j .close-icon::after {
+  background-color: #28324e;
+}
+#msg-box8-6l .mbr-section-title,
+#msg-box8-6l p {
+  color: #fff;
+}
+#msg-box8-6l .lead P {
+  font-size: 46px;
+}
+#msg-box8-6l .lead {
+  color: #ffffff;
+  font-size: 46px;
+}
+#msg-box8-6l .lead H1 {
+  font-size: 36px;
+}
+#form1-6o .form-control-label {
+  color: #232323;
+}
+#form1-6o .mbr-section-title {
+  font-size: 36px;
+}
+#contacts2-6t STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
