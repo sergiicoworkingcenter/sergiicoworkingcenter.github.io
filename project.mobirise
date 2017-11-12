@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33712.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33713.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8438,7 +8438,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Когда: 19.11.2017.</b></p><p><b>Начинаем в 11:00 и 16:00 для подростков 14-16 лет.</b></p><p><i>(Для группы подростков10-13 лет время уточняется - сообщите нам удобное для вас время)</i>&nbsp;</p><p><b>Где:<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span></b></p><p><b>Стоимость лекции 200 грн.</b></p><p>Телефоны для справок:</p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p><p><br></p><p><br></p>"
+          "text": "<p><b>Когда: 19.11.2017.</b></p><p><b>Начинаем в 11:00 и 16:00, для подростков 14-16 лет.</b></p><p><i>(Для группы подростков10-13 лет время уточняется - сообщите нам удобное для вас время)</i>&nbsp;</p><p><b>Где:<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span></b></p><p><b>Стоимость лекции 200 грн.</b></p><p>Телефоны для справок:</p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p><p><br></p><p><br></p>"
         },
         {
           "_tags": [
