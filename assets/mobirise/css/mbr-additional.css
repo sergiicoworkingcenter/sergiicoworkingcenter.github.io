@@ -3126,6 +3126,8 @@ h6,
   font-size: 16px;
 }
 
+
+
 #menu-72 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3213,6 +3215,36 @@ h6,
   color: #232323;
 }
 #form1-7b .mbr-section-title {
+  font-size: 36px;
+}
+#msg-box1-7n H3 {
+  font-size: 17px;
+  color: #7e9b9f;
+}
+#msg-box1-7n H2 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-7o .form-control-label {
+  color: #232323;
+}
+#form1-7o .mbr-section-title {
+  font-size: 36px;
+}
+#msg-box1-7p H3 {
+  font-size: 17px;
+  color: #7e9b9f;
+}
+#msg-box1-7p H2 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-7q .form-control-label {
+  color: #232323;
+}
+#form1-7q .mbr-section-title {
   font-size: 36px;
 }
 #contacts2-7c STRONG {

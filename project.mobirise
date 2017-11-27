@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 272,
+    "uniqCompNum": 279,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3370.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3371.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -9178,6 +9178,108 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "17px",
+              "color": "#7e9b9f"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-size": "30px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-7n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
+          "text": "Купить билет на лекцию - 12.12.2017 (200 грн)",
+          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "form1-7o",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": false
+          },
+          "title": "Регистрация на лекцию&nbsp;<div>\"Мужская сексуальность: что важно знать\"</div>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "mykhalyova@gmail.com",
+            "alerts": {
+              "success": "Спасибо!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "content1",
           "_anchor": "content1-7j",
           "_params": {
@@ -9185,7 +9287,109 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><b>Лекция 3. \"3.\tЖенская сексуальность: знакомство с собой\" (19 декабря).</b></p><p>Описание и регистрация скоро появятся.</p>"
+          "text": "<p><b>Лекция 3. \" Женская сексуальность: знакомство с собой\" (19 декабря).</b></p><p>Описание и регистрация скоро появятся.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "17px",
+              "color": "#7e9b9f"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-size": "30px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-7p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
+          "text": "Купить билет на лекцию - 19.12.2017 (200 грн)",
+          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "form1-7q",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": false
+          },
+          "title": "Регистрация на лекцию&nbsp;<div>\"Женская сексуальность: знакомство с собой\"</div>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "mykhalyova@gmail.com",
+            "alerts": {
+              "success": "Спасибо!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
         },
         {
           "_tags": [
