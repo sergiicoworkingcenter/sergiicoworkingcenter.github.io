@@ -3345,3 +3345,117 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+#menu-86 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-86 .navbar-caption {
+  color: #ffffff;
+}
+#menu-86 .navbar-toggler {
+  color: #28324e;
+}
+#menu-86 .link,
+#menu-86 .dropdown-item {
+  color: #28324e;
+}
+#menu-86 .link {
+  font-size: 0.95rem;
+}
+#menu-86 .dropdown-item,
+#menu-86 .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-86 .link:hover,
+#menu-86 .dropdown-item:hover,
+#menu-86 .link:focus,
+#menu-86 .dropdown-item:focus {
+  color: #475577;
+}
+#menu-86 .link[aria-expanded="true"],
+#menu-86 .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-86 .nav-dropdown-sm .link:focus,
+#menu-86 .nav-dropdown-sm .link:hover,
+#menu-86 .nav-dropdown-sm .dropdown-item:focus,
+#menu-86 .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-86 .navbar,
+#menu-86 .nav-dropdown-sm,
+#menu-86 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-86 .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-86 .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-86 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-86 .bg-color.transparent.opened .link:hover,
+#menu-86 .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-86 .link[aria-expanded="true"],
+#menu-86 .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-86.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-86 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-86 .close-icon::before,
+#menu-86 .close-icon::after {
+  background-color: #28324e;
+}
+#msg-box8-88 .mbr-section-title,
+#msg-box8-88 p {
+  color: #fff;
+}
+#msg-box8-88 .lead P {
+  font-size: 46px;
+}
+#msg-box7-8l .mbr-section-title,
+#msg-box7-8l .lead p {
+  color: #fff;
+}
+#msg-box7-8l H3 {
+  text-align: left;
+  color: #077627;
+}
+#msg-box7-8l P {
+  text-align: left;
+  color: #077627;
+}
+#form1-8e .form-control-label {
+  color: #232323;
+}
+#form1-8e .mbr-section-title {
+  font-size: 36px;
+}
+#msg-box7-8m .mbr-section-title,
+#msg-box7-8m .lead p {
+  color: #fff;
+}
+#msg-box7-8m H3 {
+  text-align: left;
+  color: #077627;
+}
+#msg-box7-8m P {
+  text-align: left;
+  color: #077627;
+}
+#form1-8n .form-control-label {
+  color: #232323;
+}
+#form1-8n .mbr-section-title {
+  font-size: 36px;
+}
+#contacts2-8i STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
