@@ -3533,3 +3533,97 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+#msg-box8-8x .mbr-section-title,
+#msg-box8-8x p {
+  color: #fff;
+}
+#content1-9a H3 {
+  font-size: 30px;
+}
+#menu-8u .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-8u .navbar-caption {
+  color: #ffffff;
+}
+#menu-8u .navbar-toggler {
+  color: #28324e;
+}
+#menu-8u .link,
+#menu-8u .dropdown-item {
+  color: #28324e;
+}
+#menu-8u .link {
+  font-size: 0.95rem;
+}
+#menu-8u .dropdown-item,
+#menu-8u .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-8u .link:hover,
+#menu-8u .dropdown-item:hover,
+#menu-8u .link:focus,
+#menu-8u .dropdown-item:focus {
+  color: #475577;
+}
+#menu-8u .link[aria-expanded="true"],
+#menu-8u .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-8u .nav-dropdown-sm .link:focus,
+#menu-8u .nav-dropdown-sm .link:hover,
+#menu-8u .nav-dropdown-sm .dropdown-item:focus,
+#menu-8u .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-8u .navbar,
+#menu-8u .nav-dropdown-sm,
+#menu-8u .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-8u .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-8u .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-8u .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-8u .bg-color.transparent.opened .link:hover,
+#menu-8u .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-8u .link[aria-expanded="true"],
+#menu-8u .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-8u.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-8u .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-8u .close-icon::before,
+#menu-8u .close-icon::after {
+  background-color: #28324e;
+}
+#content1-8y P {
+  text-align: left;
+}
+#msg-box5-92 P {
+  font-size: 20px;
+  text-align: right;
+}
+#header1-95 .mbr-section-lead {
+  font-size: 30px;
+}
+#content1-97 H3 {
+  font-size: 30px;
+}
+#msg-box5-99 H3 {
+  font-size: 30px;
+}
+#contacts2-8w STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
