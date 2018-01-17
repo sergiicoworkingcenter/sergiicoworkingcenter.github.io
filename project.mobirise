@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3374.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3376.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10234,7 +10234,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7775.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7777.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -10733,7 +10733,7 @@
             }
           },
           "title": "\u001b",
-          "text": "Отвращение<br>Страх<br>Гнев<br>Горе<br>Стыд<br>Удивление<br>Интерес<br>Удовольствие<br>",
+          "text": "<b>Отвращение<br>Страх<br>Гнев<br>Горе<br>Стыд<br>Удивление<br>Интерес<br>Удовольствие</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "P": {
