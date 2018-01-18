@@ -3533,6 +3533,7 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
 #msg-box8-8x .mbr-section-title,
 #msg-box8-8x p {
   color: #fff;
@@ -3609,10 +3610,15 @@ h6,
 }
 #content1-8y P {
   text-align: left;
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
 }
 #msg-box5-92 P {
   font-size: 20px;
   text-align: right;
+}
+#msg-box5-92 B {
+  text-align: center;
 }
 #header1-95 .mbr-section-lead {
   font-size: 30px;

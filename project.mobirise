@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3376.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3378.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10234,7 +10234,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7777.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7779.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -10676,10 +10676,13 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Рассмотрим небольшой список базовых эмоций (это эмоции, которые невозможно разложить на составляющие, и наоборот, эти эмоции являются составляющими более сложных эмоций):</span><br></p>",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Рассмотрим небольшой список базовых эмоций (это эмоции, которые невозможно разложить на составляющие, и наоборот, эти эмоции являются составляющими более сложных эмоций):</span></p>",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#000000"
             }
           }
         },
@@ -10739,6 +10742,9 @@
             "P": {
               "font-size": "20px",
               "text-align": "right"
+            },
+            "B": {
+              "text-align": "center"
             }
           }
         },
