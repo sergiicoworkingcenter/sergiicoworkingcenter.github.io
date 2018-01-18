@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3378.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33710.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10234,7 +10234,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7779.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x77711.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -10759,7 +10759,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Эти эмоции могут быть разной интенсивности, они могут смешиваться в коктейль образовывая более сложные эмоции. Например, обиду (смесь из огорчения, \u001bразочарования и злости), злорадство (злость и удовлетворение), вину (страх, стыд, гнев и горе) или сложные, тонкие переживания, вроде светлой грусти или радости с нотками печали.</p>"
+          "text": "<p>Эти эмоции могут быть разной интенсивности, они могут смешиваться в коктейль, образовывая более сложные эмоции. Например, обиду (смесь из огорчения, \u001bразочарования и злости), злорадство (злость и удовлетворение), вину (страх, стыд\u001b гнев и горе) или сложные, тонкие переживания, вроде светлой грусти или радости с нотками печали.</p>"
         },
         {
           "_tags": [
@@ -10846,7 +10846,7 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-99",
           "_params": {
-            "imageSize": "68",
+            "imageSize": "65",
             "paddingTop": "0",
             "paddingBottom": "0",
             "parallax": true,
@@ -10888,7 +10888,7 @@
               "size": 0
             }
           },
-          "title": "Учиться распознавать свои эмоции и помнить, что нет хороших или плохих эмоций, есть неудачные способы демонстрации эмоций.&nbsp;",
+          "title": "Учиться распознавать свои эмоции и помнить, что нет хороших или плохих эмоций, есть неудачные способы их &nbsp;демонстрации.",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
