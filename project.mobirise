@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "lostemotions.html",
+    "currentPage": "recognize_emotions.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 335,
+    "uniqCompNum": 343,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -281,7 +281,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -1009,7 +1009,7 @@
           "_anchor": "menu-y",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -1393,7 +1393,7 @@
           "_anchor": "menu-1a",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -1601,7 +1601,7 @@
           "_anchor": "menu-1m",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -1809,7 +1809,7 @@
           "_anchor": "menu-1y",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -2017,7 +2017,7 @@
           "_anchor": "menu-1t",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -2250,7 +2250,7 @@
           "_anchor": "menu-23",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -2458,7 +2458,7 @@
           "_anchor": "menu-28",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -2606,7 +2606,7 @@
           "_anchor": "menu-2f",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -2880,7 +2880,7 @@
           "_anchor": "menu-2c",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33710.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33712.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3104,7 +3104,7 @@
           "_anchor": "menu-2k",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -3289,7 +3289,7 @@
           "_anchor": "menu-2q",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -3541,7 +3541,7 @@
           "_anchor": "menu-2y",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -3798,7 +3798,7 @@
           "_anchor": "menu-33",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -4123,7 +4123,7 @@
           "_anchor": "menu-1i",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -4328,7 +4328,7 @@
           "_anchor": "menu-3b",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -4533,7 +4533,7 @@
           "_anchor": "menu-3g",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -4681,7 +4681,7 @@
           "_anchor": "menu-3n",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -4884,7 +4884,7 @@
           "_anchor": "menu-3k",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -5089,7 +5089,7 @@
           "_anchor": "menu-3u",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -5425,7 +5425,7 @@
           "_anchor": "menu-3z",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -5630,7 +5630,7 @@
           "_anchor": "menu-43",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -5835,7 +5835,7 @@
           "_anchor": "menu-47",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -6109,7 +6109,7 @@
           "_anchor": "menu-4d",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -6314,7 +6314,7 @@
           "_anchor": "menu-4i",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -6735,7 +6735,7 @@
           "_anchor": "menu-4o",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -6980,7 +6980,7 @@
           "_anchor": "menu-4s",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -7189,7 +7189,7 @@
           "_anchor": "menu-57",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -7337,7 +7337,7 @@
           "_anchor": "menu-5f",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -7790,7 +7790,7 @@
           "_anchor": "menu-5t",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -8163,7 +8163,7 @@
           "_anchor": "menu-64",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -8463,7 +8463,7 @@
           "_anchor": "menu-6j",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -8741,7 +8741,7 @@
           "_anchor": "menu-6u",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -9019,7 +9019,7 @@
           "_anchor": "menu-72",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -9473,7 +9473,7 @@
           "_anchor": "menu-7t",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -9927,7 +9927,7 @@
           "_anchor": "menu-86",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -10234,7 +10234,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x77711.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x77713.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -10329,154 +10329,6 @@
             }
           },
           "_anchor": "contacts2-8i",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#00a885",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "Харьков Гаршина 9\n",
-              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br><b>+38 (050) 523 99 60 Ольга<br>+38 (050) 303 &nbsp;92 26 Мария</b>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
-        }
-      ]
-    },
-    "page36.html": {
-      "settings": {
-        "title": "Website Builder Title",
-        "meta_descr": "Website Builder Description"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#28324e"
-            },
-            ".link, .dropdown-item": {
-              "color": "#28324e"
-            },
-            ".link": {
-              "font-size": "0.95rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#28324e",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#475577!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#28324e"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-8o",
-          "_params": {
-            "bgColor": "#efefef",
-            "fontSize": "0.95",
-            "fontName": {},
-            "fontColor": "#28324e",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html#header1-1",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-4a\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-8p",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 Yabloko."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff",
-              "font-size": "16px"
-            }
-          },
-          "_anchor": "contacts2-8q",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -10618,7 +10470,7 @@
           "_anchor": "menu-8u",
           "_params": {
             "bgColor": "#efefef",
-            "fontSize": "0.95",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor",
@@ -10909,6 +10761,410 @@
             }
           },
           "_anchor": "contacts2-8w",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br><b>+38 (050) 523 99 60 Ольга<br>+38 (050) 303 &nbsp;92 26 Мария</b>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
+        }
+      ]
+    },
+    "recognize_emotions.html": {
+      "settings": {
+        "title": "Как научиться распознавать свои эмоции",
+        "meta_descr": "Как научиться распознавать свои эмоции"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-9b",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/smilies-2912634-2000x886.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "Как научиться распознавать свои эмоции",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-8o",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-4a\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-8p",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Yabloko."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Упражнение 1</b></p><p>Составьте список эмоций. Отметьте какие из них вы считаете «хорошими», а какие «плохими».</p><p>Пофанта\u001b\u001bзируйте, в каких ситуациях «плохие» эмоции могут быть вам полезны. Например, страх говорит: «Стоп. Здесь опасно. Берегись» - страх стоит на страже безопасности, он полезен для выживания. Другой пример, испытывая стыд, мы обнаруживаем, что не соответствуем рамкам и правилам общества, в котором находимся. Если прислушаться к стыду, а не сбежать от него, вы можете обнаружить как вам ценно оставаться в этой группе людей, даже платя такую цену, или ваш стыд говорит, что пора искать другое окружение с близкими вам ценностями.&nbsp;</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-9e",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/smilies-2912641-1400x932.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Плохих эмоций не бывает, все они нужны нам для полноты жизни.</span>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Упражнение 2</b></p><p>Вспомните ситуацию из жизни, когда вы испытывали одну из эмоций. </p><p>Что вы почувствовали в теле? Какие мышцы напряглись? Как изменилось выражение лица? Что произошло с дыханием? </p><p>Попытайтесь представить себя в той ситуации, усильте мышечное напряжение в тех частях тела где вы его почувствовали.</p><p>Не старайтесь контролировать или управлять вашими переживаниями в данном упражнении, просто наблюдайте за тем, что с вами происходит. Проделайте это упражнение с разными эмоциями. Выполняя это упражнение, вы обнаружите какие мышцы у вас напрягаются, когда вы злитесь, что происходит с дыханием, когда вы испытываете интерес и как меняется ваше лицо от удовольствия. Эти «маркеры» помогут вам обнаруживать ваши эмоции не только наедине с собой, но и в контакте с людьми.</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "15px"
+            },
+            "H3": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-9g",
+          "_params": {
+            "imageSize": "66",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/smiley-2055680-1400x1272.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\">Эмоции помогают распознавать действительность вокруг нас. Прислушиваясь к ним, мы делаем свою жизнь более осознанной и качественной.</span>",
+          "text": "<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Упражнение 3</b></p><p>Рассматривайте картины, слушайте музыку, наблюдайте за природой и другими людьми. Прислушивайтесь какие эмоции появляются у вас. Замечайте ваши эмоции, когда вы пьете вкусный кофе или обнимаете любимого человек, когда общаетесь с неприятным человеком или идете по темной улице. Постепенно ваши эмоции станут вам ближе, понятней, а значит им не надо будет прятаться в теле и «мучать» вас. &nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "15px"
+            },
+            "H3": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-9i",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/smiley-2055680-1400x1272.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Вдохни глубоко,</span><div><span style=\"font-weight: normal;\">Распахни миру свои объятия,</span></div><div><span style=\"font-weight: normal;\">Прими всё как есть,</span></div><div><span style=\"font-weight: normal;\">Все эмоции, которые есть в тебе.&nbsp;</span></div>",
+          "text": "<br>(Cher, Eros Ramazzotti — Piu' Che Puoi)<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts2-8q",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
