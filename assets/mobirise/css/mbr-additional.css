@@ -3566,6 +3566,9 @@ h6,
 #msg-box8-9b p {
   color: #fff;
 }
+#msg-box8-9b .mbr-section-title {
+  font-size: 36px;
+}
 #menu-8o .hide-buttons .nav-btn {
   display: none !important;
 }
