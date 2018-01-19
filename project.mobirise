@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "recognize_emotions.html",
+    "currentPage": "lostemotions.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -236,10 +236,10 @@
               "color": "#28324e"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33724.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33726.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10234,7 +10234,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x77725.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x77727.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -10425,10 +10425,10 @@
               "color": "#28324e"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -10611,7 +10611,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Эти эмоции могут быть разной интенсивности, они могут смешиваться в коктейль, образовывая более сложные эмоции. Например, обиду (смесь из огорчения, \u001bразочарования и злости), злорадство (злость и удовлетворение), вину (страх, стыд\u001b гнев и горе) или сложные, тонкие переживания, вроде светлой грусти или радости с нотками печали.</p>"
+          "text": "<p>Эти эмоции могут быть разной интенсивности, они могут смешиваться в коктейль, образовывая более сложные эмоции. Например, обиду (смесь из огорчения, разочарования и злости), злорадство (злость и удовлетворение), вину (страх, стыд\u001b, гнев и горе) или сложные, тонкие переживания, вроде светлой грусти или радости с нотками печали.</p>"
         },
         {
           "_tags": [
