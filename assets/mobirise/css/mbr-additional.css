@@ -3470,6 +3470,9 @@ h6,
 #content1-9a H3 {
   font-size: 30px;
 }
+#content1-9a H4 {
+  font-size: 20px;
+}
 #menu-8u .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3541,6 +3544,7 @@ h6,
   text-align: left;
   font-family: 'Open Sans', sans-serif;
   color: #000000;
+  font-size: 20px;
 }
 #msg-box5-92 P {
   font-size: 20px;
@@ -3549,14 +3553,26 @@ h6,
 #msg-box5-92 B {
   text-align: center;
 }
+#content1-96 P {
+  font-size: 20px;
+}
 #header1-95 .mbr-section-lead {
   font-size: 30px;
 }
+#content1-90 P {
+  font-size: 20px;
+}
 #content1-97 H3 {
-  font-size: 30px;
+  font-size: 20px;
+}
+#content1-98 P {
+  font-size: 20px;
 }
 #msg-box5-99 H3 {
-  font-size: 30px;
+  font-size: 25px;
+}
+#content1-9k H4 {
+  font-size: 25px;
 }
 #contacts2-8w STRONG {
   color: #ffffff;
