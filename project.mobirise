@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 343,
+    "uniqCompNum": 344,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33718.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33722.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10234,7 +10234,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x77719.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x77723.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -11036,7 +11036,7 @@
           },
           "_anchor": "msg-box5-9g",
           "_params": {
-            "imageSize": "66",
+            "imageSize": "57",
             "paddingTop": "0",
             "paddingBottom": "0",
             "parallax": true,
@@ -11100,15 +11100,7 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "font-size": "15px"
-            },
-            "H3": {
-              "font-size": "25px"
-            }
-          },
-          "_anchor": "msg-box5-9i",
+          "_anchor": "msg-box5-9j",
           "_params": {
             "imageSize": 50,
             "paddingTop": 0,
@@ -11116,7 +11108,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -11134,7 +11126,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/emotions-1988745-1400x985.jpg",
+              "src": "@PROJECT_PATH@/assets/images/smiley-2055680-1400x1272.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -11152,9 +11144,14 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Вдохни глубоко,</span><div><span style=\"font-weight: normal;\">Распахни миру свои объятия,</span></div><div><span style=\"font-weight: normal;\">Прими всё как есть,</span></div><div><span style=\"font-weight: normal;\">Все эмоции, которые есть в тебе.&nbsp;</span></div>",
-          "text": "<br>(Cher, Eros Ramazzotti — Piu' Che Puoi)<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "title": "<span style=\"font-weight: normal;\">Вдохни глубоко,</span><div><span style=\"font-weight: normal;\">Распахни миру свои объятия,</span></div><div><span style=\"font-weight: normal;\">Прими всё как есть,</span></div><div><span style=\"font-weight: normal;\">Все эмоции, которые есть в тебе.</span></div>",
+          "text": "(Cher, Eros Ramazzotti — Piu' Che Puoi)",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            }
+          }
         },
         {
           "_tags": [
