@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33714.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33716.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10234,7 +10234,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x77715.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x77717.png",
               "link": "",
               "alt": "",
               "title": "",
