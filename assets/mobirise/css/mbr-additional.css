@@ -2867,11 +2867,11 @@ h6,
   color: #28324e;
 }
 #menu-64 .link {
-  font-size: 0.95rem;
+  font-size: 0.6rem;
 }
 #menu-64 .dropdown-item,
 #menu-64 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.650rem;
 }
 #menu-64 .link:hover,
 #menu-64 .dropdown-item:hover,
@@ -2960,11 +2960,11 @@ h6,
   color: #28324e;
 }
 #menu-6j .link {
-  font-size: 0.95rem;
+  font-size: 0.6rem;
 }
 #menu-6j .dropdown-item,
 #menu-6j .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.650rem;
 }
 #menu-6j .link:hover,
 #menu-6j .dropdown-item:hover,
@@ -3051,11 +3051,11 @@ h6,
   color: #28324e;
 }
 #menu-6u .link {
-  font-size: 0.95rem;
+  font-size: 0.6rem;
 }
 #menu-6u .dropdown-item,
 #menu-6u .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.650rem;
 }
 #menu-6u .link:hover,
 #menu-6u .dropdown-item:hover,
@@ -3144,11 +3144,11 @@ h6,
   color: #28324e;
 }
 #menu-72 .link {
-  font-size: 0.95rem;
+  font-size: 0.6rem;
 }
 #menu-72 .dropdown-item,
 #menu-72 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.650rem;
 }
 #menu-72 .link:hover,
 #menu-72 .dropdown-item:hover,
@@ -3239,7 +3239,6 @@ h6,
   font-size: 16px;
 }
 
-
 #menu-7t .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3327,21 +3326,6 @@ h6,
   color: #232323;
 }
 #form1-81 .mbr-section-title {
-  font-size: 36px;
-}
-#msg-box1-83 H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-83 H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
-}
-#form1-84 .form-control-label {
-  color: #232323;
-}
-#form1-84 .mbr-section-title {
   font-size: 36px;
 }
 #contacts2-85 STRONG {
