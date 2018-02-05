@@ -3853,3 +3853,95 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+#msg-box8-ad .mbr-section-title,
+#msg-box8-ad p {
+  color: #fff;
+}
+#msg-box5-ag SPAN {
+  text-align: center;
+}
+#msg-box5-ag P {
+  text-align: left;
+}
+#menu-aa .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-aa .navbar-caption {
+  color: #ffffff;
+}
+#menu-aa .navbar-toggler {
+  color: #28324e;
+}
+#menu-aa .link,
+#menu-aa .dropdown-item {
+  color: #28324e;
+}
+#menu-aa .link {
+  font-size: 0.6rem;
+}
+#menu-aa .dropdown-item,
+#menu-aa .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-aa .link:hover,
+#menu-aa .dropdown-item:hover,
+#menu-aa .link:focus,
+#menu-aa .dropdown-item:focus {
+  color: #475577;
+}
+#menu-aa .link[aria-expanded="true"],
+#menu-aa .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-aa .nav-dropdown-sm .link:focus,
+#menu-aa .nav-dropdown-sm .link:hover,
+#menu-aa .nav-dropdown-sm .dropdown-item:focus,
+#menu-aa .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-aa .navbar,
+#menu-aa .nav-dropdown-sm,
+#menu-aa .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-aa .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-aa .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-aa .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-aa .bg-color.transparent.opened .link:hover,
+#menu-aa .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-aa .link[aria-expanded="true"],
+#menu-aa .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-aa.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-aa .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-aa .close-icon::before,
+#menu-aa .close-icon::after {
+  background-color: #28324e;
+}
+#form1-ah .form-control-label {
+  color: #232323;
+}
+#form1-ah .mbr-section-title {
+  font-size: 24px;
+}
+#form1-ah SMALL {
+  color: #000000;
+  text-align: center;
+  font-size: 22px;
+}
+#contacts2-ac STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "bodynamic.html",
+    "currentPage": "boundaries_of_personality.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 370,
+    "uniqCompNum": 381,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -841,7 +841,7 @@
           },
           "title1": "Программа \"Эмоции. Тело. Разум\"<br>Маргариты Лебедевой<br>&nbsp;&nbsp;",
           "subtitle1": "",
-          "caption1": "начало 18 - 19 ноября (1 модуль)<br>",
+          "caption1": "начало 3 - 4 марта (1 модуль)<br>",
           "button1": "<a data-app-btn=\"true\" href=\"bodynamic.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>   ",
           "media2": {
             "image": {
@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33712.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33714.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10093,7 +10093,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x77713.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x77715.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -11862,6 +11862,406 @@
             }
           },
           "_anchor": "contacts2-a1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
+        }
+      ]
+    },
+    "boundaries_of_personality.html": {
+      "settings": {
+        "title": "Границы близости",
+        "meta_descr": "Границы близости"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-ad",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-2000x628.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "На границе близости",
+          "text": "<p>Терапевтическая программа&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-ag",
+          "_params": {
+            "imageSize": "44",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-1400x973.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Я делаю свое дело, а ты делаешь свое.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Я живу в этом мире не для того, чтобы соответствовать твоим ожиданиям.</span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">А ты живешь в этом мире не для того, чтобы соответствовать моим.</span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ты – это ты, а я – это я.</span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">И если нам случится найти друг друга — это прекрасно.</span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Если – нет, этому нельзя помочь.</span><br><br>(Ф.Перлз)<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "SPAN": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-ai",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Как понять, что ваши границы вас не защищают?</p><p>•\tВы часто выполняете чужие просьбы или поручения, не желая того.</p><p>•\tВаши друзья или родственники не заботятся о вашем комфорте, могут прийти без приглашения или попросить слишком много.</p><p>•\tВаш начальник привык вас задерживать и не считаться с вашим комфортом.</p><p>•\tВаши родители отказываются принять то, что вы уже выросли.</p><p>•\tУ вас есть ощущение, что «все держится на вас».</p><p>•\tВаш ребенок уже подросток, но вы никак не можете ему доверить его жизнь.</p><p>•\tВам сложно не контролировать окружающих и их действия.</p><p>•\tВы берете на себя всю вину за происходящее вокруг.</p><p>Возможна и противоположная ситуация. Ваши границы настолько непроницаемые, что люди не могут никак к вам приблизиться. А вы как принцесса, заточенная в башне, ждете самого-самого и очень страдаете от одиночества.</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-aj",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Так что же такое личные границы?</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-ae",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x1173.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Ведущая программы:<br><br><b>Виктория Кравец</b> - практикующий психолог, оказывает профессиональные услуги по направлениям:<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">- гештальт – терапия,</span><br>- экзистенциальная терапия,<br>- арт-терапия, <br>- семейная системная психотерапия и психоанализ,<br>-работа с метафорическими картами,<br>-кинотренинги.<br><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Автор и ведущая тренингов «Искусство общения с ребенком», «Как воспитать замечательного ребенка», «Возраст возможностей, или как сохранить доверие с подростком»</span><br><br>Автор программ, написанных для международной ассоциации летних молодежных лагерей, таких как «Будь на100ящим», «Не такой, как все», «Мир наизнанку».<br><br>Эксперт по воспитанию детей разного возраста, по нахождению общего языка и взаимопонимания, установлению личностных и межличностных границ.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-ak",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Приглашаем вас на терапевтическую программу «На границе близости».</p><p><b>Как это будет:</b></p><p>Раз в две недели&nbsp;</p><p><b>Где:</b></p><p>г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko.<b>&nbsp;</b></p><p><b>Когда:</b></p><p>Начинаем &nbsp;марта в 18:30.</p>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-aa",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-4a\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-ab",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Yabloko."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "24px"
+            },
+            "SMALL": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "form1-ah",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Зарегистрироваться на программу «На границе близости»",
+          "subtitle": "У вас остались вопросы или вы хотите записаться на программу, оставьте контактную информацию и мы вам перезвоним.",
+          "form": {
+            "action": "mykhalyova@gmail.com",
+            "alerts": {
+              "success": "Спасибо!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts2-ac",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
