@@ -3758,3 +3758,98 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+#msg-box8-a2 .mbr-section-title,
+#msg-box8-a2 p {
+  color: #fff;
+}
+#menu-9z .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-9z .navbar-caption {
+  color: #ffffff;
+}
+#menu-9z .navbar-toggler {
+  color: #28324e;
+}
+#menu-9z .link,
+#menu-9z .dropdown-item {
+  color: #28324e;
+}
+#menu-9z .link {
+  font-size: 0.6rem;
+}
+#menu-9z .dropdown-item,
+#menu-9z .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-9z .link:hover,
+#menu-9z .dropdown-item:hover,
+#menu-9z .link:focus,
+#menu-9z .dropdown-item:focus {
+  color: #475577;
+}
+#menu-9z .link[aria-expanded="true"],
+#menu-9z .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-9z .nav-dropdown-sm .link:focus,
+#menu-9z .nav-dropdown-sm .link:hover,
+#menu-9z .nav-dropdown-sm .dropdown-item:focus,
+#menu-9z .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-9z .navbar,
+#menu-9z .nav-dropdown-sm,
+#menu-9z .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-9z .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-9z .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-9z .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-9z .bg-color.transparent.opened .link:hover,
+#menu-9z .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-9z .link[aria-expanded="true"],
+#menu-9z .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-9z.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-9z .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-9z .close-icon::before,
+#menu-9z .close-icon::after {
+  background-color: #28324e;
+}
+#msg-box5-a4 P {
+  text-align: left;
+}
+#msg-box5-a5 P {
+  text-align: left;
+}
+#msg-box5-a9 P {
+  text-align: left;
+}
+#form1-a7 .form-control-label {
+  color: #232323;
+}
+#form1-a7 .mbr-section-title {
+  font-size: 24px;
+}
+#form1-a7 SMALL {
+  color: #000000;
+  text-align: center;
+  font-size: 22px;
+}
+#contacts2-a1 STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
