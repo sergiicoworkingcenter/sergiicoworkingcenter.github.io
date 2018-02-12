@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "boundaries.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3378.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33710.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10093,7 +10093,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7779.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x77711.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -12435,6 +12435,9 @@
           "_styles": {
             "H3": {
               "font-size": "36px"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box5-ar",
@@ -12700,8 +12703,13 @@
             }
           },
           "title": "Упражнение 3.",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "Возьмите лист бумаги и на нем напишите ответы на два вопроса:<br>1. Что я считаю своей собственностью (и соответственно, буду защищать)? <br>2. За что я несу ответственность (и буду пытаться контролировать)?<br>Не стесняйтесь в ответах (их никто не увидит), вашей «собственностью» может оказаться не только территория или материальные ценности, но и чувства, отношения, другой человек, мечты и пр. В зоне ответственности могут оказаться тоже самые неожиданные вещи, например: чужие переживания, чужие проблемы, убеждения и пр.<br>Нет плохих и хороших ответов. Посмотрите на свои и подумайте от чего из списка хочется отказаться, на что нужно обратить внимание, о чем вы забыли.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
@@ -12736,7 +12744,7 @@
             "showTitle": false
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"boundaries_of_personality.html\" data-toolbar=\"-mbrBtnMove\">Еще</a>",
-          "text": "Как же формировать здоровые границы?<div>О психологических границах написано много книг, снято много видео-лекций, но опыт построения границ приобретается только в осознанном контакте с другими людьми.</div><br><div>Хотите узнать больше о границах личности и психологической группе \"На границе близости\" жмите кнопку \"Еще\"</div>",
+          "text": "Уверены, что выполнение этих упражнений поможет вам шире взглянуть на себя, на свою жизнь и отношения с окружающим миром. <br>Выстраивание границ - не простой путь, но увлекательное путешествие к своей целостности, свободе, чувствительности.<br><div><br></div><br><div>Хотите узнать больше о границах личности и психологической группе \"На границе близости\" жмите кнопку \"Еще\"</div>",
           "title": "PRE MADE BLOCKS"
         },
         {

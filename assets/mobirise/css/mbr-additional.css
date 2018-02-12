@@ -3956,6 +3956,9 @@ h6,
 #msg-box5-ar H3 {
   font-size: 36px;
 }
+#msg-box5-ar P {
+  text-align: left;
+}
 #msg-box5-as H3 {
   font-size: 36px;
 }
@@ -4025,6 +4028,9 @@ h6,
 #menu-am .close-icon::before,
 #menu-am .close-icon::after {
   background-color: #28324e;
+}
+#msg-box5-at P {
+  text-align: left;
 }
 #msg-box1-au H2 {
   color: #000000;
