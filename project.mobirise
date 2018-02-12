@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3372.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3374.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10093,7 +10093,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7773.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7775.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -12918,7 +12918,7 @@
             "showButton": false
           },
           "title": "Буллинг. Агрессия. Безопасность",
-          "text": "<p>Лекции доя родителей и педагогов</p>",
+          "text": "<p>Лекции для родителей и педагогов</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
