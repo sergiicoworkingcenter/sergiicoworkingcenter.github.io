@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "bullying.html",
+    "currentPage": "index.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -485,7 +485,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/images-600x447.jpg",
+              "src": "@PROJECT_PATH@/assets/images/16832899957-b721238310-o-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -495,41 +495,41 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Как повысить уровень концентрации внимания и самооценку у детей",
-          "subtitle1": "Бесплатный вебинар с Викторией Шинкаренко<br>06.09.2017 в 19.00&nbsp;",
+          "title1": "Буллинг. Агрессия. Безопасность.",
+          "subtitle1": "Лекции для родителей и педагогов.<br>26.02.18, 05.03.18, 12.03.18<br>Читает лекции Надежда Терещенко.",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"vebinar_correction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"bullying.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gender-600x456.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-28-600x337.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "online_stream",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title2": "Основы гендерной теории",
-          "subtitle2": "Цикл лекций.<br>Читает Максим Жидко<br>начало 21.09.2017 в 18.30",
+          "title2": "Если завтра в эфир",
+          "subtitle2": "Программ для тех, кто хочет вести online трансляции и записывать видео-презентации красиво и граммотно, используя подручные средства.<br>Начало 28.02.18<br>Ведет программу Юлия Снурникова.",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"gendertheory.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fox3-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x417.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "boundaries_of_personality.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title3": "Практики Публичного Выступления",
-          "subtitle3": "Ведет Волянская Елена Владимировна",
-          "caption3": "Более подробная информация готовится к публикации и скоро появится на нашем сайте.",
+          "title3": "На границе близости",
+          "subtitle3": "Психоогическая программ по работе с границами личности.<br>Начинаем 01.03.2018",
+          "caption3": "Ведет программу Виктория Кравец",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
           "media4": {
             "image": {
@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3374.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3376.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10093,7 +10093,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7775.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7777.png",
               "link": "",
               "alt": "",
               "title": "",
