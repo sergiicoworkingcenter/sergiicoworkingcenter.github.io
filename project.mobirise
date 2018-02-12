@@ -489,7 +489,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "bullying.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -514,7 +514,7 @@
           "title2": "Если завтра в эфир",
           "subtitle2": "Программ для тех, кто хочет вести online трансляции и записывать видео-презентации красиво и граммотно, используя подручные средства.<br>Начало 28.02.18<br>Ведет программу Юлия Снурникова.",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"gendertheory.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"online_stream\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/-600x417.jpg",
@@ -530,7 +530,7 @@
           "title3": "На границе близости",
           "subtitle3": "Психоогическая программ по работе с границами личности.<br>Начинаем 01.03.2018",
           "caption3": "Ведет программу Виктория Кравец",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"boundaries_of_personality.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3376.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3378.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10093,7 +10093,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7777.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7779.png",
               "link": "",
               "alt": "",
               "title": "",
