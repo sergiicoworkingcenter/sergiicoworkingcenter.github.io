@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "boundaries.html",
+    "currentPage": "online_stream",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -512,7 +512,7 @@
             }
           },
           "title2": "Если завтра в эфир",
-          "subtitle2": "Программ для тех, кто хочет вести online трансляции и записывать видео-презентации красиво и граммотно, используя подручные средства.<br>Начало 28.02.18<br>Ведет программу Юлия Снурникова.",
+          "subtitle2": "Программа для тех, кто хочет вести online трансляции и записывать видео-презентации красиво и грамотно, используя подручные средства.<br>Начало 28.02.18<br>Ведет программу Юлия Снурникова.",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"online_stream\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
           "media3": {
@@ -528,7 +528,7 @@
             }
           },
           "title3": "На границе близости",
-          "subtitle3": "Психоогическая программ по работе с границами личности.<br>Начинаем 01.03.2018",
+          "subtitle3": "Психологическая программа по работе с границами личности.<br>Начинаем 01.03.2018",
           "caption3": "Ведет программу Виктория Кравец",
           "button3": "<a data-app-btn=\"true\" href=\"boundaries_of_personality.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
           "media4": {
@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33714.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3370.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10093,7 +10093,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x77715.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7771.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -11725,7 +11725,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><b>Когда: </b></p><p>Урок 1 - 26.02.18, 18:30 - 21:00.</p><p>Урок 2 - 05.03.18, 18:30 - 21:00.</p><p>Урок 3 - 12.03.18, 18:30 - 21:00.</p><p><b>Где:</b></p><p>г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko.</p><p><b>Стоимость всего курса:&nbsp;</b></p><p>2000 грн.</p><p><b>Контакты:</b></p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p>"
+          "text": "<p><b>Когда: </b></p><p>Урок 1 - 28.02.18, 18:30 - 21:00.</p><p>Урок 2 - 07.03.18, 18:30 - 21:00.</p><p>Урок 3 - 14.03.18, 18:30 - 21:00.</p><p><b>Где:</b></p><p>г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko.</p><p><b>Стоимость всего курса:&nbsp;</b></p><p>2000 грн.</p><p><b>Контакты:</b></p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p>"
         },
         {
           "_tags": [
@@ -12658,6 +12658,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-at",
           "_params": {
             "imageSize": 50,
@@ -12704,12 +12709,7 @@
           },
           "title": "Упражнение 3.",
           "text": "Возьмите лист бумаги и на нем напишите ответы на два вопроса:<br>1. Что я считаю своей собственностью (и соответственно, буду защищать)? <br>2. За что я несу ответственность (и буду пытаться контролировать)?<br>Не стесняйтесь в ответах (их никто не увидит), вашей «собственностью» может оказаться не только территория или материальные ценности, но и чувства, отношения, другой человек, мечты и пр. В зоне ответственности могут оказаться тоже самые неожиданные вещи, например: чужие переживания, чужие проблемы, убеждения и пр.<br>Нет плохих и хороших ответов. Посмотрите на свои и подумайте: от чего из списка хочется отказаться, на что нужно обратить внимание, о чем вы забыли.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -12947,6 +12947,15 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "25px",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "22px"
+            }
+          },
           "_anchor": "msg-box5-bc",
           "_params": {
             "imageSize": 50,
@@ -12993,16 +13002,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Лекция 1 состоится 26.02.2018 в 18.30.</span><br>«Буллинг ( школьная травля) - факторы риска»&nbsp;",
           "text": "Разберёмся в том, что такое буллинг, типы жертв и агрессоров. Поговорим о безопасности в Интернете и о том, чем опасен кибер-троллинг. Действия родителей по профилактике и противодействии виртуальному и реальному буллингу. ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "25px",
-              "text-align": "left"
-            },
-            "P": {
-              "font-size": "22px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -13115,6 +13115,15 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "25px",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "22px"
+            }
+          },
           "_anchor": "msg-box5-bd",
           "_params": {
             "imageSize": 50,
@@ -13161,16 +13170,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Лекция 2 состоится 05.03.2018 в 18.30</span><br>«Это страшное слово «агрессия»&nbsp;",
           "text": "Детская агрессия - типы, особенности, причины. Бывает ли агрессия продуктивной? Психология «агрессора» и «жертвы». Злиться нельзя сдерживаться, где поставить запятую? ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "25px",
-              "text-align": "left"
-            },
-            "P": {
-              "font-size": "22px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -13283,6 +13283,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            },
+            "H3": {
+              "font-size": "25px"
+            }
+          },
           "_anchor": "msg-box5-be",
           "_params": {
             "imageSize": 50,
@@ -13329,15 +13337,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Лекция 3 состоится &nbsp;- 12.03.2018 в 18.30</span> Психологическая безопасность ребёнка.",
           "text": "Психологическая безопасность ребёнка. Как уберечь ребёнка от психологического насилия. Обязательные условия формирования психологической устойчивости. Роль семьи и родительских воспитательных позиций в формировании психологической безопасности ребёнка.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "font-size": "22px"
-            },
-            "H3": {
-              "font-size": "25px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -13546,6 +13546,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-bj",
           "_params": {
             "imageSize": 50,
@@ -13592,15 +13600,7 @@
           },
           "title": "Информация о ведущем:",
           "text": "<b>Надежда Терещенко -</b><br>К. психол.н, доцент кафедры психологического консультирования и психотерапии ХНУ им. Каразина, действительный тренер Всеукраинского института клиент-центрированной и экспириентальной психотерапии, практикующий психолог-психотерапевт.<br>Автор обучающих и тренинговых программ по семейным и детско-родительским отношениями, сексуальности, трансгенерационной психологии, эффективному партнерскому взаимодействию, семейным сценариям и т.п.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Соавтор книг: \"Психотерапия\", \"Психотерапия как невербальная практика\", \"Полоролевая психология\", автор более 50-ти научных работ.</span><br><br>14 лет в браке, трое детей :)<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "25px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
