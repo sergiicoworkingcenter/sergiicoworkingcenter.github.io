@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "online_stream",
+    "currentPage": "bullying.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 417,
+    "uniqCompNum": 461,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -333,133 +333,6 @@
             "Theme"
           ],
           "_name": "features3",
-          "_styles": {
-            "H4": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_anchor": "features3-0",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/01-600x401.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Лекторный зал",
-          "subtitle1": "Вместимость зала: до 60 человек.",
-          "caption1": "Зал предназначен для проведения лекций, мастер-классов, вебинаров, воркшопов, мини-конференций.<br><span style=\"font-size: 1rem; line-height: 1.5;\">Наполнение:</span><br>Экран, проектор, стулья.<br>Есть возможность организации кофебрейков.<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"CF-rent.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Заказать</a> <a data-app-btn=\"true\" href=\"lecturehall.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Фото<br></a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/02-600x401.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Зал для бодинамических практик",
-          "subtitle2": "Вместимость зала: до 15 человек.",
-          "caption2": "Зал предназначен для проведения образовательных занятий в формате «сидя на полу», для телесных практик. <br>Пол устлан мягкими матами, есть пледы и музыкальная установка.<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"CF-rent.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Заказать</a> <a data-app-btn=\"true\" href=\"bodily -practises-hall.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Фото</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/icon-1-600x401.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Кабинеты для терапии",
-          "subtitle3": "Вместимость: 2-4 человека.",
-          "caption3": "Два кабинета для индивидуальной терапевтической работы, либо переговоров “с глазу на глаз”. Кабинеты светлые и уютные. <br> Есть два - четыре удобных мягких кресла, кофейный столик или   рабочий стол.&nbsp;<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"CF-rent.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Заказать</a> <a data-app-btn=\"true\" href=\"room-for-therapy.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Фото</a> ",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/icon-2-600x401.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "Кабинет&nbsp;<div>для детской &nbsp;терапии</div>",
-          "subtitle4": "<span style=\"font-size: 0.875rem; line-height: 1.7857;\">Вместимость: 2-4 человека.</span><br>",
-          "caption4": "Просторный кабинет<br>для индивидуальной работы с детьми и их родителями, а также <br>для проведения групповой работы <br>с детьми. Кабинет снабжен утяжеленным одеялом и подвесом для сенсорной интеграции, песочницей для терапии песком, игрушками, стульями.&nbsp;<br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"CF-rent.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Заказать</a> <a data-app-btn=\"true\" href=\"room-for-children-theropy.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Фото</a>",
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/icon-05-600x401.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title5": "Кабинет <br>для детской терапии",
-          "subtitle5": "&nbsp;Вместимость: до 6 человек.",
-          "caption5": "Просторный кабинет<br> для индивидуальной работы с детьми и их родителями, а также <br>для проведения групповой работы <br>с детьми. Кабинет снабжен утяжеленным одеялом и подвесом для сенсорной интеграции, песочницей для терапии песком, игрушками, стульями.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
           "_anchor": "features3-4a",
           "_params": {
             "paddingTop": 2,
@@ -598,52 +471,52 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tumblr-mn8b8slrb61rkz363o1-600x421.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x314.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "womenHealth.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title1": "Цикл семинаров по психомоторной коррекции",
-          "subtitle1": "начало 18.09.2017",
-          "caption1": "Программа рассчитана на родителей, педагогов, воспитателей, логопедов, детских психологов и всех, кто работает с детьми и заинтересован в их гармоничном развитии.<br>Ведет Виктория Шинкаренко.",
-          "button1": "<a data-app-btn=\"true\" href=\"Psychomotor_correction.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
+          "title1": "Лекции о женском здоровье",
+          "subtitle1": "13 и 20 марта",
+          "caption1": "Лекции читает Юлия Ярмоленко",
+          "button1": "<a data-app-btn=\"true\" href=\"womenHealth.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/-600x333.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "sex_education2.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
           "title2": "Сексуальная грамотность: зачем это нашим детям",
-          "subtitle2": "начало 24 октября 2017",
-          "caption2": "Цикл лекций читает секс-педагог - Юлия Ярмоленко",
-          "button2": "<a data-app-btn=\"true\" href=\"sex_education.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a> ",
+          "subtitle2": "тренинг для родителей - 24 марта 2018<br>тренинги для подростков - 25 марта 2018",
+          "caption2": "Тренинги ведет секс-педагог - Юлия Ярмоленко",
+          "button2": "<a data-app-btn=\"true\" href=\"sex_education2.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a> ",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/trenirovka-beremennyh-600x402.jpg",
+              "src": "@PROJECT_PATH@/assets/images/automotive-600x314.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "bodynamic.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title3": "Doula Mia",
-          "subtitle3": "начало 18.09.2017",
-          "caption3": "Программа гармоничного проживания беременности и подготовки к осознаннім родам<br>Ведет Надежда Друмашко.",
-          "button3": "<a data-app-btn=\"true\" href=\"DoulaMia.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
+          "title3": "Программа \"Эмоции. Тело. Разум\"<div><br></div>",
+          "subtitle3": "начало 3 - 4 марта (1 модуль)",
+          "caption3": "телесно-ориентированная программа<br>Ведет Маргарита Лебедева.",
+          "button3": "<a data-app-btn=\"true\" href=\"bodynamic.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -894,6 +767,133 @@
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "features3-0",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/01-600x401.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Лекторный зал",
+          "subtitle1": "Вместимость зала: до 60 человек.",
+          "caption1": "Зал предназначен для проведения лекций, мастер-классов, вебинаров, воркшопов, мини-конференций.<br><span style=\"font-size: 1rem; line-height: 1.5;\">Наполнение:</span><br>Экран, проектор, стулья.<br>Есть возможность организации кофебрейков.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"CF-rent.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Заказать</a> <a data-app-btn=\"true\" href=\"lecturehall.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Фото<br></a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/02-600x401.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Зал для бодинамических практик",
+          "subtitle2": "Вместимость зала: до 15 человек.",
+          "caption2": "Зал предназначен для проведения образовательных занятий в формате «сидя на полу», для телесных практик. <br>Пол устлан мягкими матами, есть пледы и музыкальная установка.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"CF-rent.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Заказать</a> <a data-app-btn=\"true\" href=\"bodily -practises-hall.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Фото</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/icon-1-600x401.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Кабинеты для терапии",
+          "subtitle3": "Вместимость: 2-4 человека.",
+          "caption3": "Два кабинета для индивидуальной терапевтической работы, либо переговоров “с глазу на глаз”. Кабинеты светлые и уютные. <br> Есть два - четыре удобных мягких кресла, кофейный столик или   рабочий стол.&nbsp;<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"CF-rent.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Заказать</a> <a data-app-btn=\"true\" href=\"room-for-therapy.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Фото</a> ",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/icon-2-600x401.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Кабинет&nbsp;<div>для детской &nbsp;терапии</div>",
+          "subtitle4": "<span style=\"font-size: 0.875rem; line-height: 1.7857;\">Вместимость: 2-4 человека.</span><br>",
+          "caption4": "Просторный кабинет<br>для индивидуальной работы с детьми и их родителями, а также <br>для проведения групповой работы <br>с детьми. Кабинет снабжен утяжеленным одеялом и подвесом для сенсорной интеграции, песочницей для терапии песком, игрушками, стульями.&nbsp;<br><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"CF-rent.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Заказать</a> <a data-app-btn=\"true\" href=\"room-for-children-theropy.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Фото</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/icon-05-600x401.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Кабинет <br>для детской терапии",
+          "subtitle5": "&nbsp;Вместимость: до 6 человек.",
+          "caption5": "Просторный кабинет<br> для индивидуальной работы с детьми и их родителями, а также <br>для проведения групповой работы <br>с детьми. Кабинет снабжен утяжеленным одеялом и подвесом для сенсорной интеграции, песочницей для терапии песком, игрушками, стульями.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
@@ -7292,10 +7292,10 @@
               "color": "#28324e"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -7961,28 +7961,24 @@
           "text": "<p><br></p><p>Наши эмоции руководят нашими действиями.&nbsp;</p><p>А как руководить эмоциями? Откуда они появляются и как формируются?</p><p>Как уловить свои эмоции до того, как сделано или сказано что-то сгоряча?</p><p>Между эмоциями и действиями есть ТЕЛО.&nbsp;</p><p>Ваше ТЕЛО. Ваш мудрый советчик и лучший друг!&nbsp;</p><p>В нем отражается каждая эмоция и застывает, если вы ее не увидели, не прожили, не поняли.</p><p><b><br></b></p><p><b>Что вы получите, приняв участие в программе?&nbsp;</b></p><p>- познакомитесь со своими эмоциями через тело;</p><p>- понимая свои эмоции, научитесь принимать осознанные решения и совершать желаемые действия;&nbsp;</p><p>- разберетесь как вы злитесь, радуетесь, печалитесь, возбуждаетесь;</p><p>- научитесь проживать эмоции без вреда для тела.</p><p><b><br></b></p><p><b>Вам будет интересна эта программа, если:&nbsp;</b></p><p>- вы эмоциональны и вам сложно в стрессовой ситуации быть эффективными;&nbsp;</p><p>- вы не испытываете «плохих эмоций», но у вас часто болит голова, мышцы спины и шеи;&nbsp;</p><p>- вам нужно находить контакт с очень разными людьми и это лишает вас сил;&nbsp;</p><p>- вы хотите сохранить ваше тело здоровым, разум – ясным, а жизнь – радостной!</p><p><b><br></b></p><p><b>Программа рассчитана на 7 тематических модулей по 2 дня с интервалом в 2 месяца.</b></p><p><b><br></b></p><p><b>Темы модулей</b></p><p>1.\tБезопасность.</p><p>2.\tКонтакт с внутренними потребностями.</p><p>3.\tГраницы.</p><p>4.\tКонтакт с внутренней силой. Воля.</p><p>5.\tЛюбовь и сексуальность.</p><p>6.\tМнение.</p><p>7.\tКак остаться собой в толпе.</p><p><b><br></b></p><p>Данные темы, рассматриваются в контексте формирования структуры личности. Каждой из этих тем соответствует определенный период формирования и развития человека. В ходе программы участники получат теоретические знания и практические навыки для развития ресурсных сторон и сбалансирования слабых.&nbsp;</p><p><br></p><p><b>Ведущая:</b></p><p><b>Маргарита Лебедева</b> - сертифицированный гештальт-терапевт, сертифицированный специалист в области перинатальной психологии и телесно-ориентированной терапии (Институт клинической психологии и психотерапии г. Москва), выпускник программы терапевтов - бодинамистов II ступень, Институт Бодинамического анализа (Дания), программы по травмотерапии Институт EMDR (Германия).</p><p><br></p><p>Когда: &nbsp;3 - 4 марта - первый модуль</p><p>Начинаем в 11.00.</p><p>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko.</p><p>Стоимость одного модуля 2200 грн. - по предоплате, 2500 грн. - на месте.</p><p>Программа рассчитана на 7 тематических модулей по 2 дня с интервалом в 2 месяца.&nbsp;</p><p>Телефоны для справок:</p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p><p><b><br></b></p>"
         },
         {
+          "_inherit": "msg-box5",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box1",
+          "_name": "msg-box4",
           "_styles": {
             "H3": {
-              "font-size": "17px",
-              "color": "#7e9b9f"
-            },
-            "H2": {
-              "color": "#000000",
               "font-size": "30px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "text-align": "center"
             }
           },
-          "_anchor": "msg-box1-60",
+          "_anchor": "msg-box4-cq",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
+            "imageSize": "70",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": true,
@@ -7992,15 +7988,145 @@
             "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": true,
-            "showTitle": true
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Оплатить</a>",
-          "text": "Оплатить 1 модуль (2200 грн.)",
-          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для подтверждения платежа и  зарегистрируйтесь в форме ниже."
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/P_DxtuKcHBA",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Упражнение «Заземление и поддержка»<div><br></div>",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "msg-box4-cr",
+          "_params": {
+            "imageSize": "70",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/E1iT26gYZ5I",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Упражнение <br>«Это мои границы»",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "msg-box4-cs",
+          "_params": {
+            "imageSize": "70",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/sOWik6m435Y",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Дыхательное упражнение при тревожных и панических состояниях",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -8251,6 +8377,21 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "content7",
+          "_anchor": "content7-bl",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Тренинг для родителей детей и подростков.</b></p><p>&nbsp;24 марта 2018 в 11.00</p><p>длительность: 5 часов</p><p>стоимость: 500 грн.</p>",
+          "text2": "<p><b>Тренинг для подростков </b></p><p><b>11-13 лет.</b></p><p>&nbsp;25 марта 2018 в 11.00</p><p>длительность: 2,5 часов</p><p>стоимость: 200 грн.</p>",
+          "text3": "<p><b>Тренинг для подростков</b></p><p><b>14-16 лет.</b></p><p>&nbsp;25 марта 2018 в 15.00</p><p>длительность: 2,5 часов</p><p>стоимость: 200 грн.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "content1",
           "_anchor": "content1-67",
           "_params": {
@@ -8258,7 +8399,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Когда: 24.10.2017, 31.10.2017, 07.11.2017, 14.11.2017, 20.11.2017, 27.11.2017.</p><p>Начинаем в 18:30.</p><p>Где:<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span></p><p>Стоимость одной лекции 200 грн.</p><p>Телефоны для справок:</p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p><p><br></p><p>Перечень лекций:</p><p>1. Детская и подростковая мастурбация: норма и патология. (24 октября)</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2. Особенности гендерного воспитания. (31 октября)</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3. Подростковый секс: что должны знать дети до вступления в сексуальную жизнь? (7 ноября)</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">4. Гигиена и здоровый образ жизни: как пример родителей влияет на детей. (14 ноября)</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">5. Сексуальная безопасность: как уберечь детей от домогательств и изнасилований. (20 ноября)</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">6. Интернет и подростки: о чем стоит знать родителям. (27 ноября)</span><br></p><p><br></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Где:</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</span><br></p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p><p><br></p><p>Перечень тем, обсуждаемых в тренингах:</p><p>1. Детская и подростковая мастурбация: норма и патология.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2. Особенности гендерного воспитания.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3. Подростковый секс: что должны знать дети до вступления в сексуальную жизнь.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">4. Гигиена и здоровый образ жизни: как пример родителей влияет на детей.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">5. Сексуальная безопасность: как уберечь детей от домогательств и изнасилований.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">6. Интернет и подростки: о чем стоит знать родителям.</span><br></p><p><br></p>"
         },
         {
           "_tags": [
@@ -8299,7 +8440,7 @@
             "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
-          "text": "Купить билет на лекцию (200 грн)",
+          "text": "Купить билет на тренинг&nbsp;<br>(тренинг для родителей - 500 грн.,<br>тренинг для подростков - 200грн.)",
           "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
         },
         {
@@ -8331,7 +8472,7 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "Регистрация на лекцию&nbsp;<br><br>",
+          "title": "Регистрация на тренинг для родителей <br>24 марта в 11.00<br><br>",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "mykhalyova@gmail.com",
@@ -8356,7 +8497,127 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Укажите дату лекции и номер квитанции LiqPay"
+                "customTitle": "Укажите номер квитанции LiqPay"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "form1-bm",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": false
+          },
+          "title": "Регистрация на тренинг для подростков 11-13 лет <br>25 марта в 11:00<br><br>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "mykhalyova@gmail.com",
+            "alerts": {
+              "success": "Спасибо!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Укажите номер квитанции LiqPay"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "form1-bn",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": false
+          },
+          "title": "Регистрация на тренинг для подростков 14-16 лет&nbsp;<div>25 марта в 15:00</div>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "mykhalyova@gmail.com",
+            "alerts": {
+              "success": "Спасибо!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Укажите номер квитанции LiqPay"
               }
             }
           },
@@ -11654,7 +11915,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Как это будет?</b></p><p><b><br></b></p><p><b>Урок 1.</b> «По законам драматургии»</p><p>Этот урок будет посвящен качественной и эстетически правильной картинке, по всем законам жанра. Как удачно сесть, что оставить в кадре, а что убрать. Как граммотно расположить ноутбук/планшет/телефон, чтобы выглядеть лучше. Откуда должен падать свет и какой фон будет наиболее выигрышным.</p><p><b>Урок 2.</b> «Говорим красиво»</p><p>На нем вы узнаете как правильно упаковать свои мысли, когда лучше провести online трансляцию или вебинар, какие словечки не должны вырваться из уст и как уследить за таймингом. Составите схему-план успешной презентации/выступления.</p><p><b>Урок 3.</b> «Раз, два, три – снято»</p><p>Пользуясь приобретенными знаниями, при поддержке коллег и ведущего выстроите место для съемки, подготовите речь и запишете видеоролик, который можно будет сразу же публиковать в соцсетях.&nbsp;</p><p><br></p><p>В течение нашего курса вы будете выполнять небольшие домашние задания и общаться в закрытой группе, получать своевременную поддержку и профессиональные рекомендации. Все это существенно повысет эффективность обучения.&nbsp;</p><p>Две недели вдумчивой, творческой работы, и первые лайки и перепосты не заставят себя ждать!</p><p><br></p>"
+          "text": "<p><b>Как это будет?</b></p><p><b><br></b></p><p><b>Урок 1.</b> «По законам драматургии»</p><p>Этот урок будет посвящен качественной и эстетически правильной картинке, по всем законам жанра. Как удачно сесть, что оставить в кадре, а что убрать. Как грамотно расположить ноутбук/планшет/телефон, чтобы выглядеть лучше. Откуда должен падать свет и какой фон будет наиболее выигрышным.</p><p><b>Урок 2.</b> «Говорим красиво»</p><p>На нем вы узнаете как правильно упаковать свои мысли, когда лучше провести online трансляцию или вебинар, какие словечки не должны вырваться из уст и как уследить за таймингом. Составите схему-план успешной презентации/выступления.</p><p><b>Урок 3.</b> «Раз, два, три – снято»</p><p>Пользуясь приобретенными знаниями, при поддержке коллег и ведущего выстроите место для съемки, подготовите речь и запишете видеоролик, который можно будет сразу же публиковать в соцсетях.&nbsp;</p><p><br></p><p>В течение нашего курса вы будете выполнять небольшие домашние задания и общаться в закрытой группе, получать своевременную поддержку и профессиональные рекомендации. Все это существенно повысет эффективность обучения.&nbsp;</p><p>Две недели вдумчивой, творческой работы, и первые лайки и перепосты не заставят себя ждать!</p><p><br></p>"
         },
         {
           "_tags": [
@@ -12063,6 +12324,228 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Ведущая программы:<br><b>Виктория Кравец</b> - практикующий психолог, гештальт-терапевт, сертифицированный коуч, координатор программ лидерства, 15 лет сотрудничества с международной организацией CCI.&nbsp;<br><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Автор и ведущая тренингов «Любить с открытыми глазами», «Счастливы вместе», «Возраст возможностей, или как сохранить доверие с подростком»</span><br><br>Автор программ, написанных для международной ассоциации летних молодежных лагерей, таких как «Будь на100ящим», «Не такой, как все», «Мир наизнанку».<br><br>Работает с запросами, связанными с отношениями в семье, с партнерами и коллегами, помогает пройти сквозь кризисные периоды жизни, найти свой способ взаимодействия с собой и миром.<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "32px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box4-cj",
+          "_params": {
+            "imageSize": "65",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1Uhttps://youtu.be/GlNjsa8Egtg",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Психологические границы личности",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "32px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box4-cn",
+          "_params": {
+            "imageSize": "65",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/Q8Lu0IDlhP0",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Причины нарушенных границ",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "32px"
+            }
+          },
+          "_anchor": "msg-box4-co",
+          "_params": {
+            "imageSize": "65",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/lYAJV8T7pZo",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "На границе близости",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "32px"
+            }
+          },
+          "_anchor": "msg-box4-cp",
+          "_params": {
+            "imageSize": "65",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/E0iPlGehr28",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Отношения без ограничений",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -13001,7 +13484,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Лекция 1 состоится 26.02.2018 в 18.30.</span><br>«Буллинг ( школьная травля) - факторы риска»&nbsp;",
-          "text": "Разберёмся в том, что такое буллинг, типы жертв и агрессоров. Поговорим о безопасности в Интернете и о том, чем опасен кибер-троллинг. Действия родителей по профилактике и противодействии виртуальному и реальному буллингу. ",
+          "text": "Разберёмся в том, что такое буллинг, типы жертв и агрессоров. Поговорим о безопасности в Интернете и о том, чем опасен кибер-троллинг. Действия родителей по профилактике и противодействию виртуальному и реальному буллингу. ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -13077,9 +13560,9 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubTitle": true
+            "showSubTitle": false
           },
-          "title": "Регистрация на лекцию&nbsp;<br>",
+          "title": "Регистрация на лекцию <br>«Буллинг ( школьная травля) - факторы риска»<br>",
           "subtitle": "<b>«Буллинг ( школьная травля) - факторы риска»</b>",
           "form": {
             "action": "mykhalyova@gmail.com",
@@ -13245,10 +13728,10 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubTitle": true
+            "showSubTitle": false
           },
-          "title": "Регистрация на лекцию&nbsp;<br>",
-          "subtitle": "«Это страшное слово «агрессия»»<br>",
+          "title": "Регистрация на лекцию <br>«Это страшное слово «агрессия»<br>",
+          "subtitle": "«Это страшное слово «агрессия»<br>",
           "form": {
             "action": "mykhalyova@gmail.com",
             "alerts": {
@@ -13412,9 +13895,9 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubTitle": true
+            "showSubTitle": false
           },
-          "title": "Регистрация на лекцию&nbsp;<br>",
+          "title": "Регистрация на лекцию<br>«Психологическая безопасность ребёнка»<br>",
           "subtitle": "Психологическая безопасность ребёнка<br>",
           "form": {
             "action": "mykhalyova@gmail.com",
@@ -13599,7 +14082,7 @@
             }
           },
           "title": "Информация о ведущем:",
-          "text": "<b>Надежда Терещенко -</b><br>К. психол.н, доцент кафедры психологического консультирования и психотерапии ХНУ им. Каразина, действительный тренер Всеукраинского института клиент-центрированной и экспириентальной психотерапии, практикующий психолог-психотерапевт.<br>Автор обучающих и тренинговых программ по семейным и детско-родительским отношениями, сексуальности, трансгенерационной психологии, эффективному партнерскому взаимодействию, семейным сценариям и т.п.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Соавтор книг: \"Психотерапия\", \"Психотерапия как невербальная практика\", \"Полоролевая психология\", автор более 50-ти научных работ.</span><br><br>14 лет в браке, трое детей :)<br>",
+          "text": "<b>Надежда Терещенко -</b><br>К. психол.н, доцент кафедры психологического консультирования и психотерапии ХНУ им. Каразина, действительный тренер Всеукраинского института клиент-центрированной и экспириентальной психотерапии, практикующий психолог-психотерапевт.<br>Автор обучающих и тренинговых программ по семейным и детско-родительским отношениям, сексуальности, трансгенерационной психологии, эффективному партнерскому взаимодействию, семейным сценариям и т.п.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Соавтор книг: \"Психотерапия\", \"Психотерапия как невербальная практика\", \"Полоролевая психология\", автор более 50-ти научных работ.</span><br><br>14 лет в браке, трое детей :)<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -13614,6 +14097,1234 @@
             }
           },
           "_anchor": "contacts2-ax",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
+        }
+      ]
+    },
+    "womenHealth.html": {
+      "settings": {
+        "title": "Женское здоровье",
+        "meta_descr": "Женское здоровье"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-bo",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-4a\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-bp",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "46px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-bq",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mini-2000x1126.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Женское здоровье&nbsp;",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-by",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Когда: 13.03.2018, 20.03.2018.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Начинаем в 18:30.</span><br></p><p>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko.</p><p>Стоимость одной лекции 200 грн.</p><p>Телефоны для справок:</p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-bz",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Подробная информация о темах и содержании лекций скоро появится здесь :)</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "17px",
+              "color": "#7e9b9f"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-size": "30px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-bt",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
+          "text": "Купить билет на лекцию&nbsp;<br>(200грн.)",
+          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "form1-bu",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": false
+          },
+          "title": "Регистрация на лекцию <br>13 мата в 18.30<br><br>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "mykhalyova@gmail.com",
+            "alerts": {
+              "success": "Спасибо!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Укажите номер квитанции LiqPay"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "form1-bv",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": false
+          },
+          "title": "Регистрация на лекцию&nbsp;<div>20 мата в 18.30</div><div><br></div>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "mykhalyova@gmail.com",
+            "alerts": {
+              "success": "Спасибо!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Укажите номер квитанции LiqPay"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts2-bx",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
+        }
+      ]
+    },
+    "page44.html": {
+      "settings": {
+        "title": "Буллинг. Агрессия. Безопасность.",
+        "meta_descr": "Лекции на тему буллинга, агрессии и безопасности детей и подростков в коллективе."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-c0",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-4a\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-c1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-c2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/upl-1514461411-2000x922.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Буллинг. Агрессия. Безопасность",
+          "text": "<p>Лекции для родителей и педагогов</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-c3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Цикл лекций, посвящённых психологической безопасности ребёнка и противодействию эмоциональному насилию. Поможет разобраться в неочевидных аспектах проблемы агрессии в жизни ребёнка.&nbsp;</p><p><br></p><p>Когда: 26.02.2018, 05.03.2018, 12.03.2018.</p><p>Начинаем в 18:30.</p><p>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko.</p><p>Стоимость одной лекции 200 грн.</p><p>Телефоны для справок:</p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "25px",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "msg-box5-c4",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#eef9ef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ac3c31d8-ae78-44a7-980e-30cf63c94d7d-610x375-fit-1400x860.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Лекция 1 состоится 26.02.2018 в 18.30.</span><br>«Буллинг ( школьная травля) - факторы риска»&nbsp;",
+          "text": "Разберёмся в том, что такое буллинг, типы жертв и агрессоров. Поговорим о безопасности в Интернете и о том, чем опасен кибер-троллинг. Действия родителей по профилактике и противодействии виртуальному и реальному буллингу. ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "17px",
+              "color": "#7e9b9f"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-size": "30px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-c5",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
+          "text": "Купить билет на лекцию (200 грн)",
+          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            "SMALL": {
+              "color": "#000000",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "form1-c6",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": false
+          },
+          "title": "Регистрация на лекцию <br>«Буллинг ( школьная травля) - факторы риска»&nbsp;<br>",
+          "subtitle": "<b>\u001bБуллинг ( школьная травля) - факторы риска»</b>",
+          "form": {
+            "action": "mykhalyova@gmail.com",
+            "alerts": {
+              "success": "Спасибо!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Укажите номер квитанции LiqPay"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "25px",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "msg-box5-c7",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#eef9ef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/image-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Лекция 2 состоится 05.03.2018 в 18.30</span><br>«Это страшное слово «агрессия»&nbsp;",
+          "text": "Детская агрессия - типы, особенности, причины. Бывает ли агрессия продуктивной? Психология «агрессора» и «жертвы». Злиться нельзя сдерживаться, где поставить запятую? ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "17px",
+              "color": "#7e9b9f"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-size": "30px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-c8",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
+          "text": "Купить билет на лекцию (200 грн)",
+          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            "SMALL": {
+              "color": "#000000",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "form1-c9",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": false
+          },
+          "title": "Регистрация на лекцию &nbsp;<br>«Это страшное слово «агрессия»<br>",
+          "subtitle": "«Это страшное слово «агрессия»»<br>",
+          "form": {
+            "action": "mykhalyova@gmail.com",
+            "alerts": {
+              "success": "Спасибо!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Укажите номер квитанции LiqPay"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            },
+            "H3": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-ca",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#eef9ef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-1400x871.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Лекция 3 состоится &nbsp;- 12.03.2018 в 18.30</span> Психологическая безопасность ребёнка.",
+          "text": "Психологическая безопасность ребёнка. Как уберечь ребёнка от психологического насилия. Обязательные условия формирования психологической устойчивости. Роль семьи и родительских воспитательных позиций в формировании психологической безопасности ребёнка.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "17px",
+              "color": "#7e9b9f"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-size": "30px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-cb",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
+          "text": "Купить билет на лекцию (200 грн)",
+          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            "SMALL": {
+              "color": "#000000",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "form1-cc",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Регистрация на лекцию <br>«Психологическая безопасность ребёнка»<br>",
+          "subtitle": "<br>",
+          "form": {
+            "action": "mykhalyova@gmail.com",
+            "alerts": {
+              "success": "Спасибо!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Укажите номер квитанции LiqPay"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-cd",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": false
+          },
+          "title": "Немного статистики по теме буллинга.",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-2000x1586-800x634.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11-2000x1586.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/222-2000x1587-800x634.jpg",
+                "image": "@PROJECT_PATH@/assets/images/222-2000x1587.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/333-2000x1586-800x634.jpg",
+                "image": "@PROJECT_PATH@/assets/images/333-2000x1586.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/444-2000x1587-800x634.jpg",
+                "image": "@PROJECT_PATH@/assets/images/444-2000x1587.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.facebook.com/popova.alyona/videos/1749911801696019/",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/555-2000x1587-800x634.jpg",
+                "image": "@PROJECT_PATH@/assets/images/555-2000x1587.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "0",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#efefef",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-ce",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-cf",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/27067056-1571793346209832-1194863139612764105-n-1400x1398.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Информация о ведущем:",
+          "text": "<b>Надежда Терещенко -</b><br>К. психол.н, доцент кафедры психологического консультирования и психотерапии ХНУ им. Каразина, действительный тренер Всеукраинского института клиент-центрированной и экспириентальной психотерапии, практикующий психолог-психотерапевт.<br>Автор обучающих и тренинговых программ по семейным и детско-родительским отношениями, сексуальности, трансгенерационной психологии, эффективному партнерскому взаимодействию, семейным сценариям и т.п.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Соавтор книг: \"Психотерапия\", \"Психотерапия как невербальная практика\", \"Полоролевая психология\", автор более 50-ти научных работ.</span><br><br>14 лет в браке, трое детей :)<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts2-cg",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
