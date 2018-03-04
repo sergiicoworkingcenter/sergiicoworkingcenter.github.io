@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "bullying.html",
+    "currentPage": "online_stream",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 461,
+    "uniqCompNum": 468,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2981,7 +2981,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3370.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33712.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10354,7 +10354,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7771.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x77713.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -11986,7 +11986,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><b>Когда: </b></p><p>Урок 1 - 28.02.18, 18:30 - 21:00.</p><p>Урок 2 - 07.03.18, 18:30 - 21:00.</p><p>Урок 3 - 14.03.18, 18:30 - 21:00.</p><p><b>Где:</b></p><p>г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko.</p><p><b>Стоимость всего курса:&nbsp;</b></p><p>2000 грн.</p><p><b>Контакты:</b></p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p>"
+          "text": "<p><b>Когда: </b></p><p>Группа 1 - 14/ 21/ 28 марта, 18:30 - 21:00.</p><p>Группа 2 - 16/ 23/ 30 марта, 13:00 - 16:00.</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Где:</b><br></p><p>г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko.</p><p><b>Стоимость всего курса:&nbsp;</b></p><p>2000 грн.</p><p><b>Контакты:</b></p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p>"
         },
         {
           "_tags": [
@@ -12327,6 +12327,41 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-cv",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"boundaries_of_personality.html#form1-ah\" data-toolbar=\"-mbrBtnMove\">Регистрация</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "Зарегистрироваться на программу <br>«На границе близости»",
+          "_styles": {
+            "H3": {
+              "font-size": "24px"
+            }
+          }
+        },
+        {
           "_inherit": "msg-box5",
           "_tags": [
             "Theme"
@@ -12560,6 +12595,41 @@
             "bgColor": "#fff"
           },
           "text": "<p>Приглашаем вас на терапевтическую программу «На границе близости».</p><p><b>Как это будет:</b></p><p>Раз в две недели&nbsp;</p><p><b>Где:</b></p><p>г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko.<b>&nbsp;</b></p><p><b>Когда:&nbsp;</b></p><p>Начинаем &nbsp;1 марта в 18:30 (Если вам удобно другое время, сообщите нам)</p><p><b>Стоимость:</b></p><p>300 грн./встреча</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "msg-box1-cx",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": false,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"boundaries_of_personality.html#form1-ah\" data-toolbar=\"-mbrBtnMove\">Регистрация</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "Зарегистрироваться на программу <br>«На границе близости»"
         },
         {
           "_styles": {
@@ -13491,112 +13561,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H3": {
-              "font-size": "17px",
-              "color": "#7e9b9f"
-            },
-            "H2": {
-              "color": "#000000",
-              "font-size": "30px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_anchor": "msg-box1-b3",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": true,
-            "showTitle": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
-          "text": "Купить билет на лекцию (200 грн)",
-          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            },
-            "SMALL": {
-              "color": "#000000",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "form1-b4",
-          "_params": {
-            "labelsColor": "#232323",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": false
-          },
-          "title": "Регистрация на лекцию <br>«Буллинг ( школьная травля) - факторы риска»<br>",
-          "subtitle": "<b>«Буллинг ( школьная травля) - факторы риска»</b>",
-          "form": {
-            "action": "mykhalyova@gmail.com",
-            "alerts": {
-              "success": "Спасибо!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "ФИО*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Телефон*"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Укажите номер квитанции LiqPay"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "msg-box5",
           "_styles": {
             "H3": {
@@ -14294,7 +14258,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Подробная информация о темах и содержании лекций скоро появится здесь :)</p>"
+          "text": "<p>Лекция 1. «<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Женское здоровье: от менструации до менопаузы»</b>&nbsp;(13 марта)</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Что такое</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">менструальный цикл? Почему мы по-разному чувствуем себя в разные дни? С чем связано то, что происходит задержка или менструация наступает на несколько дней раньше? Должен ли быть ПМС? Что нормально в цикле, а что - повод обратиться к врачу? Как подготовиться к менопаузе? Почему завершение периода фертильности не оз\u001bначает завершения сексуальной жизни? Все эти вопросы рассмотрим на лекции \"Женское здоровье: от менструации к менопаузе\" 13 марта. Рекомендуется также мамам девочек, чтобы легко и понятно объяснить, что такое менструация, зачем она нужна и что с этим всем делать.&nbsp;</span></p>",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_tags": [
@@ -14367,7 +14336,7 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "Регистрация на лекцию <br>13 мата в 18.30<br><br>",
+          "title": "Регистрация на лекцию <br>«Женское здоровье: от менструации до менопаузы»<br><br>",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "mykhalyova@gmail.com",
@@ -14402,6 +14371,19 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "content1",
+          "_anchor": "content1-cy",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Лекция 2. <b>«Женское здоровье: физиология и питание»</b> (20 марта)</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Как то, что мы едим, влияет на наше самочувствие, сексуальное влечение и активность? Какие продукты обязательны в рационе женщины, а о каких лучше забыть навсегда? Какие виды деятельности хороши для нас в начале цикла, а какие - в конце? Как позаботиться о себе, если настроение на нуле? Обо всем этом будем говорить на лекции \"Женское здоровье: физиология и питание\" 20 марта.</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
@@ -14427,7 +14409,7 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "Регистрация на лекцию&nbsp;<div>20 мата в 18.30</div><div><br></div>",
+          "title": "Регистрация на лекцию&nbsp;<div>«Женское здоровье: физиология и питание»</div><div><br></div>",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "mykhalyova@gmail.com",
@@ -14457,6 +14439,64 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-cz",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/17991597-1309681279108893-5292531573591422615-o-1400x1400.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Лектор:<br> Юлия Ярмоленко - секс-педагог, автор программ по сексуальной грамотности, популяризатор сексуального образования в Украине. ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_tags": [
