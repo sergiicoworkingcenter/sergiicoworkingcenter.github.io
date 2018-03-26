@@ -4484,3 +4484,103 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
+#menu-d0 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-d0 .navbar-caption {
+  color: #ffffff;
+}
+#menu-d0 .navbar-toggler {
+  color: #28324e;
+}
+#menu-d0 .link,
+#menu-d0 .dropdown-item {
+  color: #28324e;
+}
+#menu-d0 .link {
+  font-size: 0.6rem;
+}
+#menu-d0 .dropdown-item,
+#menu-d0 .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-d0 .link:hover,
+#menu-d0 .dropdown-item:hover,
+#menu-d0 .link:focus,
+#menu-d0 .dropdown-item:focus {
+  color: #475577;
+}
+#menu-d0 .link[aria-expanded="true"],
+#menu-d0 .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-d0 .nav-dropdown-sm .link:focus,
+#menu-d0 .nav-dropdown-sm .link:hover,
+#menu-d0 .nav-dropdown-sm .dropdown-item:focus,
+#menu-d0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-d0 .navbar,
+#menu-d0 .nav-dropdown-sm,
+#menu-d0 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-d0 .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-d0 .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-d0 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-d0 .bg-color.transparent.opened .link:hover,
+#menu-d0 .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-d0 .link[aria-expanded="true"],
+#menu-d0 .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-d0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-d0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-d0 .close-icon::before,
+#menu-d0 .close-icon::after {
+  background-color: #28324e;
+}
+#msg-box8-d2 .mbr-section-title,
+#msg-box8-d2 p {
+  color: #fff;
+}
+#msg-box8-d2 .lead P {
+  font-size: 46px;
+}
+#content1-d4 P {
+  font-size: 20px;
+}
+#msg-box1-d5 H3 {
+  font-size: 17px;
+  color: #7e9b9f;
+}
+#msg-box1-d5 H2 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-d6 .form-control-label {
+  color: #232323;
+}
+#form1-d6 .mbr-section-title {
+  font-size: 36px;
+}
+#msg-box5-d9 P {
+  font-size: 22px;
+}
+#contacts2-da STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
