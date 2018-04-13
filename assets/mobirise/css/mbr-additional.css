@@ -1822,11 +1822,11 @@ h6,
   color: #28324e;
 }
 #menu-3k .link {
-  font-size: 0.95rem;
+  font-size: 0.6rem;
 }
 #menu-3k .dropdown-item,
 #menu-3k .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.650rem;
 }
 #menu-3k .link:hover,
 #menu-3k .dropdown-item:hover,
@@ -4581,6 +4581,109 @@ h6,
   font-size: 22px;
 }
 #contacts2-da STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
+
+#menu-db .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-db .navbar-caption {
+  color: #ffffff;
+}
+#menu-db .navbar-toggler {
+  color: #28324e;
+}
+#menu-db .link,
+#menu-db .dropdown-item {
+  color: #28324e;
+}
+#menu-db .link {
+  font-size: 0.6rem;
+}
+#menu-db .dropdown-item,
+#menu-db .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-db .link:hover,
+#menu-db .dropdown-item:hover,
+#menu-db .link:focus,
+#menu-db .dropdown-item:focus {
+  color: #475577;
+}
+#menu-db .link[aria-expanded="true"],
+#menu-db .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-db .nav-dropdown-sm .link:focus,
+#menu-db .nav-dropdown-sm .link:hover,
+#menu-db .nav-dropdown-sm .dropdown-item:focus,
+#menu-db .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-db .navbar,
+#menu-db .nav-dropdown-sm,
+#menu-db .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-db .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-db .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-db .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-db .bg-color.transparent.opened .link:hover,
+#menu-db .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-db .link[aria-expanded="true"],
+#menu-db .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-db.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-db .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-db .close-icon::before,
+#menu-db .close-icon::after {
+  background-color: #28324e;
+}
+#msg-box8-dd .mbr-section-title,
+#msg-box8-dd p {
+  color: #fff;
+}
+#msg-box8-dd .lead P {
+  font-size: 46px;
+}
+#content1-df P {
+  font-size: 20px;
+}
+#msg-box1-dg H3 {
+  font-size: 17px;
+  color: #7e9b9f;
+}
+#msg-box1-dg H2 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-dh .form-control-label {
+  color: #232323;
+}
+#form1-dh .mbr-section-title {
+  font-size: 36px;
+}
+#msg-box5-di P {
+  font-size: 22px;
+}
+#msg-box5-dk P {
+  font-size: 22px;
+}
+#contacts2-dj STRONG {
   color: #ffffff;
   font-size: 16px;
 }
