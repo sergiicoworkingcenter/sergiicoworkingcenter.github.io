@@ -592,7 +592,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"womenHealth.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33346.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33352.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3086,7 +3086,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33747.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33753.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10339,7 +10339,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x77748.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x77754.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -15881,7 +15881,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2000x111149.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2000x111155.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -16315,7 +16315,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2000x111151.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2000x111155.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -16560,7 +16560,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/10850308-866107150076460-1965250504484444494-n-1400x140050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/10850308-866107150076460-1965250504484444494-n-1400x140056.jpg",
               "link": "",
               "alt": "",
               "title": "",
