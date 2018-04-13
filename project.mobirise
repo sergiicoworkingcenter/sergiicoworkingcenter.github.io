@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": " philosophicallecture.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -592,7 +592,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"womenHealth.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33326.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33334.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3086,7 +3086,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33727.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33735.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10339,7 +10339,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x77728.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x77736.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -15881,7 +15881,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2000x111129.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2000x111137.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
