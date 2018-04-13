@@ -592,7 +592,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"womenHealth.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33352.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x3330.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3086,7 +3086,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33753.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3371.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10339,7 +10339,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x77754.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7772.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -15881,7 +15881,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2000x111155.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -15937,12 +15937,12 @@
           "_name": "msg-box1",
           "_styles": {
             "H3": {
-              "font-size": "17px",
+              "font-size": "18px",
               "color": "#7e9b9f"
             },
             "H2": {
               "color": "#000000",
-              "font-size": "30px",
+              "font-size": "32px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
@@ -16315,7 +16315,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2000x111155.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2000x11114.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -16560,7 +16560,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/10850308-866107150076460-1965250504484444494-n-1400x140056.jpg",
+              "src": "@PROJECT_PATH@/assets/images/10850308-866107150076460-1965250504484444494-n-1400x14003.jpg",
               "link": "",
               "alt": "",
               "title": "",
