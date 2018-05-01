@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "psylecture.html",
+    "currentPage": "sex_education2.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 502,
+    "uniqCompNum": 504,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -592,7 +592,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"womenHealth.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3333.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x3330.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3086,7 +3086,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3374.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3371.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8482,16 +8482,15 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content7",
-          "_anchor": "content7-bl",
+          "_name": "content6",
+          "_anchor": "content6-dy",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Тренинг для родителей детей и подростков.</b></p><p>&nbsp;24 марта 2018 в 11.00</p><p>длительность: 5 часов</p><p>стоимость: 500 грн.</p><p>Регистрация закрыта.</p>",
-          "text2": "<p><b>Тренинг для подростков </b></p><p><b>11-13 лет.</b></p><p>&nbsp;25 марта 2018 в 11.00</p><p>длительность: 2,5 часов</p><p>стоимость: 200 грн.</p>",
-          "text3": "<p><b>Тренинг для подростков</b></p><p><b>14-16 лет.</b></p><p>&nbsp;25 марта 2018 в 15.00</p><p>длительность: 2,5 часов</p><p>стоимость: 200 грн.</p><p>Регистрация закрыта.</p>"
+          "text1": "<p><b>Тренинг для подростков</b></p><p><b>11-13 лет.</b></p><p>&nbsp;13 мая 2018 в 11.00</p><p>длительность: 2,5 часов</p><p>стоимость: 200 грн.</p>",
+          "text2": "<p><b>Тренинг для подростков</b></p><p><b>14-16 лет.</b></p><p>&nbsp;13 мая 2018 в 15.00</p><p>длительность: 2,5 часов</p><p>стоимость: 200 грн.</p>"
         },
         {
           "_tags": [
@@ -8545,7 +8544,7 @@
             "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/380505239960\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
-          "text": "Купить билет на тренинг&nbsp;<br>(тренинг для родителей - 500 грн.,<br>тренинг для подростков - 200грн.)",
+          "text": "Купить билет на тренинг&nbsp;<br>(тренинг для подростков - 200грн.)",
           "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
         },
         {
@@ -8577,7 +8576,67 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "Регистрация на тренинг для подростков 11-13 лет <br>25 марта в 11:00<br><br>",
+          "title": "Регистрация на тренинг для подростков 11-13 лет <br>13 мая в 11:00<br><br>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "mykhalyova@gmail.com",
+            "alerts": {
+              "success": "Спасибо!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Укажите номер квитанции LiqPay"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "form1-dz",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": false
+          },
+          "title": "Регистрация на тренинг для подростков 14-16 лет <br>13 мая в 15:00<br><br>",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "mykhalyova@gmail.com",
@@ -10339,7 +10398,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7775.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7772.png",
               "link": "",
               "alt": "",
               "title": "",
