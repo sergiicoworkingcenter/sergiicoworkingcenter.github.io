@@ -4974,6 +4974,12 @@ h6,
 #form1-fp .mbr-section-title {
   font-size: 36px;
 }
+#form1-fr .form-control-label {
+  color: #232323;
+}
+#form1-fr .mbr-section-title {
+  font-size: 36px;
+}
 #contacts2-fm STRONG {
   color: #ffffff;
   font-size: 16px;
