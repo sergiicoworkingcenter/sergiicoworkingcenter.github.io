@@ -4690,3 +4690,105 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+#menu-e0 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-e0 .navbar-caption {
+  color: #ffffff;
+}
+#menu-e0 .navbar-toggler {
+  color: #28324e;
+}
+#menu-e0 .link,
+#menu-e0 .dropdown-item {
+  color: #28324e;
+}
+#menu-e0 .link {
+  font-size: 0.6rem;
+}
+#menu-e0 .dropdown-item,
+#menu-e0 .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-e0 .link:hover,
+#menu-e0 .dropdown-item:hover,
+#menu-e0 .link:focus,
+#menu-e0 .dropdown-item:focus {
+  color: #475577;
+}
+#menu-e0 .link[aria-expanded="true"],
+#menu-e0 .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-e0 .nav-dropdown-sm .link:focus,
+#menu-e0 .nav-dropdown-sm .link:hover,
+#menu-e0 .nav-dropdown-sm .dropdown-item:focus,
+#menu-e0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-e0 .navbar,
+#menu-e0 .nav-dropdown-sm,
+#menu-e0 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-e0 .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-e0 .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-e0 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-e0 .bg-color.transparent.opened .link:hover,
+#menu-e0 .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-e0 .link[aria-expanded="true"],
+#menu-e0 .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-e0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-e0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-e0 .close-icon::before,
+#menu-e0 .close-icon::after {
+  background-color: #28324e;
+}
+#msg-box8-e2 .mbr-section-title,
+#msg-box8-e2 p {
+  color: #fff;
+}
+#msg-box8-e2 .lead P {
+  font-size: 23px;
+}
+#form1-e4 .form-control-label {
+  color: #232323;
+}
+#form1-e4 .mbr-section-title {
+  font-size: 36px;
+}
+#msg-box4-e6 H3 {
+  font-size: 30px;
+  text-align: center;
+}
+#msg-box4-e7 H3 {
+  text-align: center;
+  font-size: 30px;
+}
+#msg-box4-e8 H3 {
+  text-align: center;
+  font-size: 30px;
+}
+#form1-e9 .form-control-label {
+  color: #232323;
+}
+#form1-e9 .mbr-section-title {
+  font-size: 36px;
+}
+#contacts2-ea STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
