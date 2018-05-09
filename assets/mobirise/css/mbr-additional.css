@@ -4995,3 +4995,116 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
+
+#menu-g4 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-g4 .navbar-caption {
+  color: #ffffff;
+}
+#menu-g4 .navbar-toggler {
+  color: #28324e;
+}
+#menu-g4 .link,
+#menu-g4 .dropdown-item {
+  color: #28324e;
+}
+#menu-g4 .link {
+  font-size: 0.6rem;
+}
+#menu-g4 .dropdown-item,
+#menu-g4 .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-g4 .link:hover,
+#menu-g4 .dropdown-item:hover,
+#menu-g4 .link:focus,
+#menu-g4 .dropdown-item:focus {
+  color: #475577;
+}
+#menu-g4 .link[aria-expanded="true"],
+#menu-g4 .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-g4 .nav-dropdown-sm .link:focus,
+#menu-g4 .nav-dropdown-sm .link:hover,
+#menu-g4 .nav-dropdown-sm .dropdown-item:focus,
+#menu-g4 .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-g4 .navbar,
+#menu-g4 .nav-dropdown-sm,
+#menu-g4 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-g4 .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-g4 .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-g4 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-g4 .bg-color.transparent.opened .link:hover,
+#menu-g4 .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-g4 .link[aria-expanded="true"],
+#menu-g4 .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-g4.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-g4 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-g4 .close-icon::before,
+#menu-g4 .close-icon::after {
+  background-color: #28324e;
+}
+#msg-box8-g8 .mbr-section-title,
+#msg-box8-g8 p {
+  color: #fff;
+}
+#msg-box8-g8 .lead P {
+  font-size: 23px;
+}
+#msg-box1-ga H3 {
+  font-size: 17px;
+  color: #7e9b9f;
+}
+#msg-box1-ga H2 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-g9 .form-control-label {
+  color: #232323;
+}
+#form1-g9 .mbr-section-title {
+  font-size: 36px;
+}
+#msg-box5-gc P {
+  font-size: 22px;
+}
+#msg-box1-gd H3 {
+  font-size: 17px;
+  color: #7e9b9f;
+}
+#msg-box1-gd H2 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-ge .form-control-label {
+  color: #232323;
+}
+#form1-ge .mbr-section-title {
+  font-size: 36px;
+}
+#contacts2-g6 STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
