@@ -5095,6 +5095,9 @@ h6,
   font-size: 30px;
   font-family: 'Open Sans', sans-serif;
 }
+#msg-box5-gg P {
+  font-size: 22px;
+}
 #form1-ge .form-control-label {
   color: #232323;
 }
