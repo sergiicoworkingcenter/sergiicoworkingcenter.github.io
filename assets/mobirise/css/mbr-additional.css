@@ -5108,3 +5108,106 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
+#menu-gh .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-gh .navbar-caption {
+  color: #ffffff;
+}
+#menu-gh .navbar-toggler {
+  color: #28324e;
+}
+#menu-gh .link,
+#menu-gh .dropdown-item {
+  color: #28324e;
+}
+#menu-gh .link {
+  font-size: 0.6rem;
+}
+#menu-gh .dropdown-item,
+#menu-gh .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-gh .link:hover,
+#menu-gh .dropdown-item:hover,
+#menu-gh .link:focus,
+#menu-gh .dropdown-item:focus {
+  color: #475577;
+}
+#menu-gh .link[aria-expanded="true"],
+#menu-gh .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-gh .nav-dropdown-sm .link:focus,
+#menu-gh .nav-dropdown-sm .link:hover,
+#menu-gh .nav-dropdown-sm .dropdown-item:focus,
+#menu-gh .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-gh .navbar,
+#menu-gh .nav-dropdown-sm,
+#menu-gh .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-gh .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-gh .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-gh .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-gh .bg-color.transparent.opened .link:hover,
+#menu-gh .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-gh .link[aria-expanded="true"],
+#menu-gh .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-gh.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-gh .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-gh .close-icon::before,
+#menu-gh .close-icon::after {
+  background-color: #28324e;
+}
+#msg-box8-gk .mbr-section-title,
+#msg-box8-gk p {
+  color: #fff;
+}
+#msg-box8-gk .lead {
+  color: #ffffff;
+}
+#msg-box1-gq H3 {
+  font-size: 17px;
+  color: #7e9b9f;
+}
+#msg-box1-gq H2 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-gn .form-control-label {
+  color: #232323;
+}
+#form1-gn .mbr-section-title {
+  font-size: 36px;
+}
+#msg-box5-gl P {
+  font-size: 22px;
+}
+#msg-box5-gm P {
+  font-size: 22px;
+}
+#contacts2-gj STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
+#msg-box5-gp P {
+  font-size: 22px;
+}
