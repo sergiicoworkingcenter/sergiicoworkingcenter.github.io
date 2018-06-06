@@ -592,7 +592,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"womenHealth.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33320.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33324.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3086,7 +3086,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33721.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33725.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10398,7 +10398,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x77722.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x77726.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -16870,7 +16870,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133323.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133327.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -18275,7 +18275,7 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "Регистрация на лекцию 12 июня&nbsp;<br><span style=\"font-weight: normal;\"><i>«Что такое секс или </i></span><br><span style=\"font-weight: normal;\"><i>особенности женской и мужской сексуальности»</i></span>",
+          "title": "Регистрация на лекцию 11 июня&nbsp;<br><span style=\"font-weight: normal;\"><i>«Что такое секс или </i></span><br><span style=\"font-weight: normal;\"><i>особенности женской и мужской сексуальности»</i></span>",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "mykhalyova@gmail.com",
