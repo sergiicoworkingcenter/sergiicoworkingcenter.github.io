@@ -4512,6 +4512,14 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
+#msg-box8-hg .mbr-section-title,
+#msg-box8-hg p {
+  color: #fff;
+}
+#msg-box8-hg .lead P {
+  font-size: 23px;
+}
 #menu-ha .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4578,6 +4586,21 @@ h6,
 #menu-ha .close-icon::before,
 #menu-ha .close-icon::after {
   background-color: #28324e;
+}
+#msg-box1-he H3 {
+  font-size: 17px;
+  color: #7e9b9f;
+}
+#msg-box1-he H2 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-hd .form-control-label {
+  color: #232323;
+}
+#form1-hd .mbr-section-title {
+  font-size: 36px;
 }
 #contacts2-hc STRONG {
   color: #ffffff;
