@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 
 
 
@@ -1520,11 +1521,11 @@ h6,
   color: #28324e;
 }
 #menu-1i .link {
-  font-size: 0.95rem;
+  font-size: 0.6rem;
 }
 #menu-1i .dropdown-item,
 #menu-1i .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.650rem;
 }
 #menu-1i .link:hover,
 #menu-1i .dropdown-item:hover,
@@ -4705,4 +4706,95 @@ h6,
 }
 #msg-box5-gp P {
   font-size: 22px;
+}
+
+#msg-box8-ij .mbr-section-title,
+#msg-box8-ij p {
+  color: #fff;
+}
+#msg-box8-ij .mbr-section-title {
+  font-family: 'Lora', serif;
+}
+#msg-box8-ij .lead H4 {
+  color: #ffffff;
+}
+#msg-box5-ik H3 {
+  font-size: 36px;
+}
+#form1-if .form-control-label {
+  color: #232323;
+}
+#form1-if .mbr-section-title {
+  font-size: 30px;
+}
+#menu-ig .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-ig .navbar-caption {
+  color: #ffffff;
+}
+#menu-ig .navbar-toggler {
+  color: #28324e;
+}
+#menu-ig .link,
+#menu-ig .dropdown-item {
+  color: #28324e;
+}
+#menu-ig .link {
+  font-size: 0.6rem;
+}
+#menu-ig .dropdown-item,
+#menu-ig .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-ig .link:hover,
+#menu-ig .dropdown-item:hover,
+#menu-ig .link:focus,
+#menu-ig .dropdown-item:focus {
+  color: #475577;
+}
+#menu-ig .link[aria-expanded="true"],
+#menu-ig .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-ig .nav-dropdown-sm .link:focus,
+#menu-ig .nav-dropdown-sm .link:hover,
+#menu-ig .nav-dropdown-sm .dropdown-item:focus,
+#menu-ig .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-ig .navbar,
+#menu-ig .nav-dropdown-sm,
+#menu-ig .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-ig .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-ig .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-ig .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-ig .bg-color.transparent.opened .link:hover,
+#menu-ig .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-ig .link[aria-expanded="true"],
+#menu-ig .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-ig.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-ig .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-ig .close-icon::before,
+#menu-ig .close-icon::after {
+  background-color: #28324e;
+}
+#contacts2-ii STRONG {
+  color: #ffffff;
+  font-size: 16px;
 }
