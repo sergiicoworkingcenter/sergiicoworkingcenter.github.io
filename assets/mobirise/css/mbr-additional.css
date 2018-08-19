@@ -4798,3 +4798,94 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
+#msg-box8-iw .mbr-section-title,
+#msg-box8-iw p {
+  color: #fff;
+}
+#msg-box8-iw .mbr-section-title {
+  font-family: 'Lora', serif;
+}
+#msg-box8-iw .lead H4 {
+  color: #ffffff;
+}
+#msg-box5-j0 H3 {
+  font-size: 36px;
+}
+#form1-j1 .form-control-label {
+  color: #232323;
+}
+#form1-j1 .mbr-section-title {
+  font-size: 30px;
+}
+#menu-j2 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-j2 .navbar-caption {
+  color: #ffffff;
+}
+#menu-j2 .navbar-toggler {
+  color: #28324e;
+}
+#menu-j2 .link,
+#menu-j2 .dropdown-item {
+  color: #28324e;
+}
+#menu-j2 .link {
+  font-size: 0.6rem;
+}
+#menu-j2 .dropdown-item,
+#menu-j2 .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-j2 .link:hover,
+#menu-j2 .dropdown-item:hover,
+#menu-j2 .link:focus,
+#menu-j2 .dropdown-item:focus {
+  color: #475577;
+}
+#menu-j2 .link[aria-expanded="true"],
+#menu-j2 .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-j2 .nav-dropdown-sm .link:focus,
+#menu-j2 .nav-dropdown-sm .link:hover,
+#menu-j2 .nav-dropdown-sm .dropdown-item:focus,
+#menu-j2 .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-j2 .navbar,
+#menu-j2 .nav-dropdown-sm,
+#menu-j2 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-j2 .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-j2 .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-j2 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-j2 .bg-color.transparent.opened .link:hover,
+#menu-j2 .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-j2 .link[aria-expanded="true"],
+#menu-j2 .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-j2.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-j2 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-j2 .close-icon::before,
+#menu-j2 .close-icon::after {
+  background-color: #28324e;
+}
+#contacts2-j4 STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
