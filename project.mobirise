@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "clinical approach.html",
+    "currentPage": "clinical_approach.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -592,7 +592,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"womenHealth.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33315.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33318.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3086,7 +3086,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33716.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33719.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -14310,7 +14310,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133317.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133320.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -17579,7 +17579,7 @@
         }
       ]
     },
-    "clinical approach.html": {
+    "clinical_approach.html": {
       "settings": {
         "title": "Клинический подход",
         "meta_descr": "Специализация ВОППГП \"Клинический подход в гештальт-терапии\""
