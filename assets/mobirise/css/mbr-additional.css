@@ -3073,11 +3073,12 @@ h6,
 #msg-box8-ad p {
   color: #fff;
 }
-#msg-box5-ag SPAN {
+#msg-box4-jq H3 {
+  font-size: 32px;
   text-align: center;
 }
-#msg-box5-ag P {
-  text-align: left;
+#msg-box1-jr H3 {
+  font-size: 24px;
 }
 #msg-box1-cv H3 {
   font-size: 24px;
@@ -4999,7 +5000,7 @@ h6,
   color: #232323;
 }
 #form1-jg .mbr-section-title {
-  font-size: 24px;
+  font-size: 30px;
 }
 #msg-box5-ji P {
   font-size: 22px;
@@ -5017,7 +5018,7 @@ h6,
   color: #232323;
 }
 #form1-jk .mbr-section-title {
-  font-size: 36px;
+  font-size: 32px;
 }
 #menu-jl .hide-buttons .nav-btn {
   display: none !important;
