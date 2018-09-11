@@ -4325,6 +4325,15 @@ h6,
 #msg-box8-hg .lead P {
   font-size: 23px;
 }
+#content1-jv P {
+  text-align: left;
+}
+#content1-jw P {
+  text-align: right;
+}
+#content1-hf P {
+  text-align: left;
+}
 #menu-ha .hide-buttons .nav-btn {
   display: none !important;
 }
