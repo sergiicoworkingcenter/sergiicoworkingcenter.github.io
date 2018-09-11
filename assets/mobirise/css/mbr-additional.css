@@ -521,11 +521,11 @@ h6,
   color: #28324e;
 }
 #menu-y .link {
-  font-size: 0.95rem;
+  font-size: 0.6rem;
 }
 #menu-y .dropdown-item,
 #menu-y .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.650rem;
 }
 #menu-y .link:hover,
 #menu-y .dropdown-item:hover,
@@ -757,11 +757,11 @@ h6,
   color: #28324e;
 }
 #menu-1y .link {
-  font-size: 1.05rem;
+  font-size: 0.6rem;
 }
 #menu-1y .dropdown-item,
 #menu-1y .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 0.650rem;
 }
 #menu-1y .link:hover,
 #menu-1y .dropdown-item:hover,
@@ -982,11 +982,11 @@ h6,
   color: #28324e;
 }
 #menu-28 .link {
-  font-size: 1.05rem;
+  font-size: 0.6rem;
 }
 #menu-28 .dropdown-item,
 #menu-28 .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 0.650rem;
 }
 #menu-28 .link:hover,
 #menu-28 .dropdown-item:hover,
@@ -1053,11 +1053,11 @@ h6,
   color: #28324e;
 }
 #menu-2f .link {
-  font-size: 0.95rem;
+  font-size: 0.6rem;
 }
 #menu-2f .dropdown-item,
 #menu-2f .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.650rem;
 }
 #menu-2f .link:hover,
 #menu-2f .dropdown-item:hover,
@@ -1437,11 +1437,11 @@ h6,
   color: #28324e;
 }
 #menu-33 .link {
-  font-size: 0.95rem;
+  font-size: 0.6rem;
 }
 #menu-33 .dropdown-item,
 #menu-33 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.650rem;
 }
 #menu-33 .link:hover,
 #menu-33 .dropdown-item:hover,
@@ -1595,11 +1595,11 @@ h6,
   color: #28324e;
 }
 #menu-3b .link {
-  font-size: 0.95rem;
+  font-size: 0.6rem;
 }
 #menu-3b .dropdown-item,
 #menu-3b .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.650rem;
 }
 #menu-3b .link:hover,
 #menu-3b .dropdown-item:hover,
@@ -1669,11 +1669,11 @@ h6,
   color: #28324e;
 }
 #menu-3g .link {
-  font-size: 0.95rem;
+  font-size: 0.6rem;
 }
 #menu-3g .dropdown-item,
 #menu-3g .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.650rem;
 }
 #menu-3g .link:hover,
 #menu-3g .dropdown-item:hover,
@@ -1740,11 +1740,11 @@ h6,
   color: #28324e;
 }
 #menu-3n .link {
-  font-size: 0.95rem;
+  font-size: 0.6rem;
 }
 #menu-3n .dropdown-item,
 #menu-3n .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.650rem;
 }
 #menu-3n .link:hover,
 #menu-3n .dropdown-item:hover,
@@ -1971,11 +1971,11 @@ h6,
   color: #28324e;
 }
 #menu-47 .link {
-  font-size: 0.95rem;
+  font-size: 0.6rem;
 }
 #menu-47 .dropdown-item,
 #menu-47 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.650rem;
 }
 #menu-47 .link:hover,
 #menu-47 .dropdown-item:hover,
@@ -2119,7 +2119,6 @@ h6,
   font-size: 16px;
 }
 
-
 #msg-box8-4l .mbr-section-title,
 #msg-box8-4l p {
   color: #fff;
@@ -2134,28 +2133,11 @@ h6,
 #msg-box8-4l .lead {
   color: #ffffff;
 }
-#msg-box1-53 H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-53 H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
-}
 #form1-5q .form-control-label {
   color: #232323;
 }
 #form1-5q .mbr-section-title {
   font-size: 25px;
-}
-#msg-box1-54 H3 {
-  color: #7e9b9f;
-  font-size: 17px;
-}
-#msg-box1-54 H2 {
-  font-size: 30px;
-  color: #000000;
 }
 #form1-52 .form-control-label {
   color: #232323;
@@ -2235,8 +2217,6 @@ h6,
   font-size: 16px;
 }
 
-
-
 #menu-5f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2311,25 +2291,11 @@ h6,
 #msg-box8-5n .lead P {
   font-size: 46px;
 }
-#msg-box1-5o H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-5o H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
-}
 #form1-5j .form-control-label {
   color: #232323;
 }
 #form1-5j .mbr-section-title {
   font-size: 36px;
-}
-#msg-box1-63 H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
 }
 #msg-box1-5p H3 {
   font-size: 17px;
@@ -2452,7 +2418,6 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
-
 #menu-64 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2526,15 +2491,6 @@ h6,
 }
 #msg-box8-66 .lead P {
   font-size: 46px;
-}
-#msg-box1-68 H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-68 H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
 }
 #form1-bm .form-control-label {
   color: #232323;
@@ -2662,7 +2618,6 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
-
 #menu-7t .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2736,15 +2691,6 @@ h6,
 }
 #msg-box8-7v .lead P {
   font-size: 46px;
-}
-#msg-box1-80 H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-80 H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
 }
 #form1-81 .form-control-label {
   color: #232323;
@@ -3277,8 +3223,6 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
-
-
 #menu-av .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3364,15 +3308,6 @@ h6,
 #msg-box5-bd P {
   font-size: 22px;
 }
-#msg-box1-b8 H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-b8 H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
-}
 #form1-bb .form-control-label {
   color: #232323;
 }
@@ -3388,15 +3323,6 @@ h6,
 }
 #msg-box5-be H3 {
   font-size: 25px;
-}
-#msg-box1-b9 H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-b9 H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
 }
 #form1-ba .form-control-label {
   color: #232323;
@@ -3425,7 +3351,6 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
-
 #menu-bo .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3503,15 +3428,6 @@ h6,
 #content1-bz P {
   font-size: 20px;
 }
-#msg-box1-bt H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-bt H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
-}
 #form1-bu .form-control-label {
   color: #232323;
 }
@@ -3531,9 +3447,6 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
-
-
-
 #menu-c0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3612,15 +3525,6 @@ h6,
 #msg-box5-c4 P {
   font-size: 22px;
 }
-#msg-box1-c5 H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-c5 H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
-}
 #form1-c6 .form-control-label {
   color: #232323;
 }
@@ -3638,15 +3542,6 @@ h6,
 #msg-box5-c7 P {
   font-size: 22px;
 }
-#msg-box1-c8 H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-c8 H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
-}
 #form1-c9 .form-control-label {
   color: #232323;
 }
@@ -3662,15 +3557,6 @@ h6,
 }
 #msg-box5-ca H3 {
   font-size: 25px;
-}
-#msg-box1-cb H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-cb H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
 }
 #form1-cc .form-control-label {
   color: #232323;
@@ -3699,7 +3585,6 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
-
 #menu-d0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3777,15 +3662,6 @@ h6,
 #content1-d4 P {
   font-size: 20px;
 }
-#msg-box1-d5 H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-d5 H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
-}
 #form1-d6 .form-control-label {
   color: #232323;
 }
@@ -3799,7 +3675,6 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
-
 #menu-dn .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3873,15 +3748,6 @@ h6,
 }
 #content1-dv P {
   font-size: 20px;
-}
-#msg-box1-dw H3 {
-  font-size: 18px;
-  color: #7e9b9f;
-}
-#msg-box1-dw H2 {
-  color: #000000;
-  font-size: 32px;
-  font-family: 'Open Sans', sans-serif;
 }
 #form1-dt .form-control-label {
   color: #232323;
@@ -4091,23 +3957,12 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
-
-
 #msg-box8-fv .mbr-section-title,
 #msg-box8-fv p {
   color: #fff;
 }
 #msg-box8-fv .lead P {
   font-size: 23px;
-}
-#msg-box1-g0 H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-g0 H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
 }
 #form1-g2 .form-control-label {
   color: #232323;
@@ -4117,15 +3972,6 @@ h6,
 }
 #msg-box5-g1 P {
   font-size: 22px;
-}
-#msg-box1-g3 H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-g3 H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
 }
 #form1-fw .form-control-label {
   color: #232323;
@@ -4204,8 +4050,6 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
-
-
 #menu-g4 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4280,29 +4124,11 @@ h6,
 #msg-box8-g8 .lead P {
   font-size: 23px;
 }
-#msg-box1-ga H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-ga H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
-}
 #form1-g9 .form-control-label {
   color: #232323;
 }
 #form1-g9 .mbr-section-title {
   font-size: 36px;
-}
-#msg-box1-gd H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-gd H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
 }
 #msg-box5-gg P {
   font-size: 22px;
@@ -4420,7 +4246,6 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
-
 #menu-i5 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4498,15 +4323,6 @@ h6,
 #msg-box8-i7 .mbr-section-title {
   color: #ffffff;
 }
-#msg-box1-ia H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-ia H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
-}
 #form1-ib .form-control-label {
   color: #232323;
 }
@@ -4517,7 +4333,6 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
-
 #menu-hj .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4595,15 +4410,6 @@ h6,
 #msg-box8-hl .mbr-section-title {
   color: #ffffff;
 }
-#msg-box1-ho H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-ho H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
-}
 #form1-hp .form-control-label {
   color: #232323;
 }
@@ -4614,7 +4420,6 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
-
 #menu-gh .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4688,15 +4493,6 @@ h6,
 }
 #msg-box8-gk .lead {
   color: #ffffff;
-}
-#msg-box1-gq H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-gq H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
 }
 #form1-gn .form-control-label {
   color: #232323;
