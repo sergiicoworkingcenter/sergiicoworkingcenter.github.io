@@ -1507,6 +1507,9 @@ h6,
 #form1-71 .form-control-label {
   color: #232323;
 }
+#form1-71 .mbr-section-title {
+  font-size: 30px;
+}
 #menu-1i .hide-buttons .nav-btn {
   display: none !important;
 }
