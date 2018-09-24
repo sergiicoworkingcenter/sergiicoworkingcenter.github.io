@@ -1869,6 +1869,8 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
+
 #menu-64 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1943,11 +1945,29 @@ h6,
 #msg-box8-66 .lead P {
   font-size: 46px;
 }
+#msg-box1-kd H3 {
+  font-size: 17px;
+  color: #7e9b9f;
+}
+#msg-box1-kd H2 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
 #form1-bm .form-control-label {
   color: #232323;
 }
 #form1-bm .mbr-section-title {
   font-size: 36px;
+}
+#msg-box1-ke H3 {
+  font-size: 17px;
+  color: #7e9b9f;
+}
+#msg-box1-ke H2 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
 }
 #form1-dz .form-control-label {
   color: #232323;
