@@ -1871,6 +1871,8 @@ h6,
 }
 
 
+
+
 #menu-64 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1948,11 +1950,12 @@ h6,
 #msg-box1-kd H3 {
   font-size: 17px;
   color: #7e9b9f;
+  font-family: 'Lora', serif;
 }
 #msg-box1-kd H2 {
   color: #000000;
   font-size: 25px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lora', serif;
   text-align: left;
 }
 #form1-bm .form-control-label {
@@ -1964,11 +1967,12 @@ h6,
 #msg-box1-ke H3 {
   font-size: 17px;
   color: #7e9b9f;
+  font-family: 'Lora', serif;
 }
 #msg-box1-ke H2 {
   color: #000000;
   font-size: 25px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lora', serif;
 }
 #form1-dz .form-control-label {
   color: #232323;
