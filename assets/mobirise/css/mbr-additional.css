@@ -1951,8 +1951,9 @@ h6,
 }
 #msg-box1-kd H2 {
   color: #000000;
-  font-size: 30px;
+  font-size: 25px;
   font-family: 'Open Sans', sans-serif;
+  text-align: left;
 }
 #form1-bm .form-control-label {
   color: #232323;
@@ -1966,7 +1967,7 @@ h6,
 }
 #msg-box1-ke H2 {
   color: #000000;
-  font-size: 30px;
+  font-size: 25px;
   font-family: 'Open Sans', sans-serif;
 }
 #form1-dz .form-control-label {
