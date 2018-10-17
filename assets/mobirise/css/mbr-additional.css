@@ -4443,3 +4443,119 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
+
+#msg-box8-ki .mbr-section-title,
+#msg-box8-ki p {
+  color: #fff;
+}
+#msg-box8-ki .lead P {
+  font-size: 23px;
+}
+#msg-box8-ki .mbr-section-title {
+  font-size: 32px;
+}
+#msg-box1-kk H3 {
+  font-size: 17px;
+  color: #7e9b9f;
+}
+#msg-box1-kk H2 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-kl .form-control-label {
+  color: #232323;
+}
+#form1-kl .mbr-section-title {
+  font-size: 30px;
+}
+#msg-box5-ko P {
+  font-size: 22px;
+}
+#msg-box1-kp H3 {
+  font-size: 17px;
+  color: #7e9b9f;
+}
+#msg-box1-kp H2 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-kq .form-control-label {
+  color: #232323;
+}
+#form1-kq .mbr-section-title {
+  font-size: 32px;
+}
+#menu-kr .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-kr .navbar-caption {
+  color: #ffffff;
+}
+#menu-kr .navbar-toggler {
+  color: #28324e;
+}
+#menu-kr .link,
+#menu-kr .dropdown-item {
+  color: #28324e;
+}
+#menu-kr .link {
+  font-size: 0.6rem;
+}
+#menu-kr .dropdown-item,
+#menu-kr .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-kr .link:hover,
+#menu-kr .dropdown-item:hover,
+#menu-kr .link:focus,
+#menu-kr .dropdown-item:focus {
+  color: #475577;
+}
+#menu-kr .link[aria-expanded="true"],
+#menu-kr .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-kr .nav-dropdown-sm .link:focus,
+#menu-kr .nav-dropdown-sm .link:hover,
+#menu-kr .nav-dropdown-sm .dropdown-item:focus,
+#menu-kr .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-kr .navbar,
+#menu-kr .nav-dropdown-sm,
+#menu-kr .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-kr .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-kr .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-kr .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-kr .bg-color.transparent.opened .link:hover,
+#menu-kr .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-kr .link[aria-expanded="true"],
+#menu-kr .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-kr.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-kr .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-kr .close-icon::before,
+#menu-kr .close-icon::after {
+  background-color: #28324e;
+}
+#contacts2-kt STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
