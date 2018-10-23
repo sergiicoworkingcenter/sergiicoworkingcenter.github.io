@@ -4559,3 +4559,97 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
+#menu-lj .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-lj .navbar-caption {
+  color: #ffffff;
+}
+#menu-lj .navbar-toggler {
+  color: #28324e;
+}
+#menu-lj .link,
+#menu-lj .dropdown-item {
+  color: #28324e;
+}
+#menu-lj .link {
+  font-size: 0.6rem;
+}
+#menu-lj .dropdown-item,
+#menu-lj .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-lj .link:hover,
+#menu-lj .dropdown-item:hover,
+#menu-lj .link:focus,
+#menu-lj .dropdown-item:focus {
+  color: #475577;
+}
+#menu-lj .link[aria-expanded="true"],
+#menu-lj .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-lj .nav-dropdown-sm .link:focus,
+#menu-lj .nav-dropdown-sm .link:hover,
+#menu-lj .nav-dropdown-sm .dropdown-item:focus,
+#menu-lj .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-lj .navbar,
+#menu-lj .nav-dropdown-sm,
+#menu-lj .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-lj .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-lj .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-lj .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-lj .bg-color.transparent.opened .link:hover,
+#menu-lj .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-lj .link[aria-expanded="true"],
+#menu-lj .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-lj.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-lj .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-lj .close-icon::before,
+#menu-lj .close-icon::after {
+  background-color: #28324e;
+}
+#msg-box8-ll .mbr-section-title,
+#msg-box8-ll p {
+  color: #fff;
+}
+#msg-box8-ll .lead P {
+  font-size: 46px;
+}
+#msg-box1-lt H3 {
+  font-size: 17px;
+  color: #7e9b9f;
+}
+#msg-box1-lt H2 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-lr .form-control-label {
+  color: #232323;
+}
+#form1-lr .mbr-section-title {
+  font-size: 25px;
+}
+#contacts2-lv STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
