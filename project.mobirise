@@ -12363,7 +12363,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13332.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -17171,7 +17171,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/ru/checkout/card/1540400521360632_802322_DPpnrlL9OdaAwt2bXJOX\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTQ5MjM2NTkxNDM4IiwiYW1vdW50IjoiMjUwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6ItCc0L7QuSDRgtC%2B0LLQsNGAIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&amp;signature=GguGZQkv4rM8N%2B9vXWJpXvTwT6Q%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
           "text": "Купить билет на лекцию (250 грн)",
           "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
         },
