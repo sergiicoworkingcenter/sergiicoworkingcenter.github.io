@@ -4653,3 +4653,96 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+#menu-lw .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-lw .navbar-caption {
+  color: #ffffff;
+}
+#menu-lw .navbar-toggler {
+  color: #28324e;
+}
+#menu-lw .link,
+#menu-lw .dropdown-item {
+  color: #28324e;
+}
+#menu-lw .link {
+  font-size: 0.6rem;
+}
+#menu-lw .dropdown-item,
+#menu-lw .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-lw .link:hover,
+#menu-lw .dropdown-item:hover,
+#menu-lw .link:focus,
+#menu-lw .dropdown-item:focus {
+  color: #475577;
+}
+#menu-lw .link[aria-expanded="true"],
+#menu-lw .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-lw .nav-dropdown-sm .link:focus,
+#menu-lw .nav-dropdown-sm .link:hover,
+#menu-lw .nav-dropdown-sm .dropdown-item:focus,
+#menu-lw .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-lw .navbar,
+#menu-lw .nav-dropdown-sm,
+#menu-lw .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-lw .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-lw .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-lw .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-lw .bg-color.transparent.opened .link:hover,
+#menu-lw .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-lw .link[aria-expanded="true"],
+#menu-lw .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-lw.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-lw .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-lw .close-icon::before,
+#menu-lw .close-icon::after {
+  background-color: #28324e;
+}
+#msg-box8-ly .mbr-section-title,
+#msg-box8-ly p {
+  color: #fff;
+}
+#msg-box8-ly .lead P {
+  font-size: 24px;
+}
+#msg-box8-ly .mbr-section-title {
+  font-size: 30px;
+}
+#msg-box4-m7 H3 {
+  font-size: 30px;
+}
+#form1-m4 .form-control-label {
+  color: #232323;
+}
+#form1-m4 .mbr-section-title {
+  font-size: 24px;
+}
+#msg-box5-m5 P {
+  font-size: 22px;
+}
+#contacts2-m6 STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
