@@ -1746,7 +1746,7 @@ h6,
   color: #232323;
 }
 #form1-5j .mbr-section-title {
-  font-size: 36px;
+  font-size: 25px;
 }
 #msg-box1-5p H3 {
   font-size: 17px;
@@ -1757,11 +1757,8 @@ h6,
   font-size: 30px;
   font-family: 'Open Sans', sans-serif;
 }
-#form1-5l .form-control-label {
-  color: #232323;
-}
-#form1-5l .mbr-section-title {
-  font-size: 36px;
+#msg-box5-mj P {
+  font-size: 22px;
 }
 #contacts2-5m STRONG {
   color: #ffffff;
