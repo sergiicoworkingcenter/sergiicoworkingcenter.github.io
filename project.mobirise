@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 813,
+    "uniqCompNum": 815,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -4696,7 +4696,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Когда: 13.11.2018, 20.11.2018, 27.11.2018</p><p>Начинаем в 18:30.</p><p>Где:<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span></p><p>Стоимость одной лекции 250 грн. при предоплате, 300 грн в день мероприятия.</p><p>Стоимость трех лекций 750 грн. + вебинар в подарок на тему «Как уберечь детей от насилия» 4.12.2018&nbsp;</p><p>Телефоны для справок:</p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p>"
+          "text": "<p>Когда: 13.11.2018, 20.11.2018, 27.11.2018</p><p>Начинаем в 18:30.</p><p>Где:<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span></p><p>Стоимость одной лекции 250 грн. при предоплате, 300 грн в день мероприятия.</p><p>Стоимость трех лекций 750 грн. + запись вебинара &nbsp;«Почему беседы о капусте и аисте делают наших детей уязвимыми?»</p><p>Телефоны для справок:</p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p>"
         },
         {
           "_tags": [
@@ -4710,6 +4710,48 @@
             "bgColor": "#c2fbc2"
           },
           "text": "<p><br></p><p><b>Сексуальное воспитание — это не разговоры о сексе.&nbsp;</b></p><p>Это беседы о физиологии, гигиене, безопасности, умении говорить \"нет\", о личных границах, понимании своего тела и его потребностей, о здоровом образе жизни.&nbsp;</p><p>Однако большинство взрослых смотрят на проблему слишком узко, верят в силу запретов и боятся дать «лишнюю информацию».&nbsp;</p><p>У нас все еще закрывают глаза ребенку на слишком интимных сценах в фильмах, рассказывают басни о появлении детей, не называют гениталии своими именами, а потом удивляются, почему постсоветские страны впереди планеты всей – по подростковым беременностям/абортам, распространению ВИЧ/ЗППП, изнасилованиям, аноргазмии и прочим проблемам в сексуальной жизни.&nbsp;</p><p>На цикле встреч обсудим самые «острые» вопросы – игры в доктора, раннюю мастурбацию, однополые отношения среди подростков, половые контакты до достижения возраста согласия. Разберемся, почему информация, которую мы даем детям об их теле, помогает избежать сексуального насилия и разного рода домогательств. Определимся с термином «сексуальная грамотность» и «сексуальное здоровье».&nbsp;</p><p>Цикл лекций проведет секс-педагог, автор программ по сексуальной грамотности для подростков и взрослых Юлия Ярмоленко.&nbsp;</p><p><b><br></b></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "17px",
+              "color": "#7e9b9f"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-size": "30px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-5p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTQ5MjM2NTkxNDM4IiwiYW1vdW50IjoiNzUwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6ItCc0L7QuSDRgtC%2B0LLQsNGAIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&amp;signature=oc%2B1IrK4O25rEfSG3huXNQyBXIk%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
+          "text": "Оплатить три лекции -750 грн.&nbsp;<br>И получите подарок запись вебинара <br>«Почему беседы о капусте и аисте делают наших детей уязвимыми?»",
+          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
         },
         {
           "_tags": [
@@ -4775,6 +4817,19 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "content1",
+          "_anchor": "content1-mg",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#f9ebb5"
+          },
+          "text": "<p><b>Лекция №1. Половое воспитание детей: гигиена, мастурбация и «игры в доктора» (13 ноября)</b></p><p>&nbsp;Обсудим:</p><p>•\tпочему изучение половых органов так пугает родителей;&nbsp;</p><p>•\tкогда на это стоит обращаться внимание, а когда нужно пустить на самотек;&nbsp;</p><p>•\tчто делать, если это происходит очень часто и на виду у других людей;&nbsp;</p><p>•\tчто такое патологическая мастурбация в разном возрасте, и как с этим можно справиться.&nbsp;</p><p>А также изучим правила гигиены для девочек и мальчиков.&nbsp;</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "msg-box1",
           "_styles": {
             "H3": {
@@ -4788,7 +4843,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
-          "_anchor": "msg-box1-5p",
+          "_anchor": "msg-box1-ml",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -4809,22 +4864,69 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTQ5MjM2NTkxNDM4IiwiYW1vdW50IjoiNjUwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6ItCc0L7QuSDRgtC%2B0LLQsNGAIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&amp;signature=J3o42JUBU%2FQsgyjvnnRIAb5yMww%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
-          "text": "Оплатить три лекции -750 грн.<br>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTQ5MjM2NTkxNDM4IiwiYW1vdW50IjoiMjUwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6ItCc0L7QuSDRgtC%2B0LLQsNGAIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&amp;signature=GguGZQkv4rM8N%2B9vXWJpXvTwT6Q%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
+          "text": "Оплатить лекцию&nbsp;",
           "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-mg",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#f9ebb5"
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px"
+            }
           },
-          "text": "<p><b>Лекция №1. Половое воспитание детей: гигиена, мастурбация и «игры в доктора» (13 ноября)</b></p><p>&nbsp;Обсудим:</p><p>•\tпочему изучение половых органов так пугает родителей;&nbsp;</p><p>•\tкогда на это стоит обращаться внимание, а когда нужно пустить на самотек;&nbsp;</p><p>•\tчто делать, если это происходит очень часто и на виду у других людей;&nbsp;</p><p>•\tчто такое патологическая мастурбация в разном возрасте, и как с этим можно справиться.&nbsp;</p><p>А также изучим правила гигиены для девочек и мальчиков.&nbsp;</p><p><br></p>"
+          "_anchor": "form1-mm",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": false
+          },
+          "title": "Регистрация на лекцию<br>«Половое воспитание детей: гигиена, мастурбация и «игры в доктора»<br>13 ноября",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "mykhalyova@gmail.com",
+            "alerts": {
+              "success": "Спасибо!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
         },
         {
           "_tags": [
@@ -11921,7 +12023,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13338.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -17478,7 +17580,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTQ5MjM2NTkxNDM4IiwiYW1vdW50IjoiNTAwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6ItCc0L7QuSDRgtC%2B0LLQsNGAIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&amp;signature=KkzhnYjgDZ6qlPJwygFiDUbGIhQ%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTQ5MjM2NTkxNDM4IiwiYW1vdW50IjoiNjAwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6ItCc0L7QuSDRgtC%2B0LLQsNGAIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&amp;signature=HUg%2FQGMh0DxMFy5Lvoqs4eug2Ww%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
           "text": "<b>Оплатить тренинг - 600 грн</b>",
           "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
         },

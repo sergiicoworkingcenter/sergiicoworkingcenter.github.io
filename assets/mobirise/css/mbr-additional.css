@@ -1668,6 +1668,7 @@ h6,
   font-size: 16px;
 }
 
+
 #menu-5f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1742,12 +1743,6 @@ h6,
 #msg-box8-5n .lead P {
   font-size: 46px;
 }
-#form1-5j .form-control-label {
-  color: #232323;
-}
-#form1-5j .mbr-section-title {
-  font-size: 25px;
-}
 #msg-box1-5p H3 {
   font-size: 17px;
   color: #7e9b9f;
@@ -1756,6 +1751,27 @@ h6,
   color: #000000;
   font-size: 30px;
   font-family: 'Open Sans', sans-serif;
+}
+#form1-5j .form-control-label {
+  color: #232323;
+}
+#form1-5j .mbr-section-title {
+  font-size: 25px;
+}
+#msg-box1-ml H3 {
+  font-size: 17px;
+  color: #7e9b9f;
+}
+#msg-box1-ml H2 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-mm .form-control-label {
+  color: #232323;
+}
+#form1-mm .mbr-section-title {
+  font-size: 25px;
 }
 #msg-box5-mj P {
   font-size: 22px;
