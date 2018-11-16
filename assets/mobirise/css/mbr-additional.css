@@ -4091,21 +4091,6 @@ h6,
 #msg-box8-mp .lead P {
   font-size: 30px;
 }
-#msg-box1-ms H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-ms H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
-}
-#form1-mt .form-control-label {
-  color: #232323;
-}
-#form1-mt .mbr-section-title {
-  font-size: 25px;
-}
 #msg-box1-mv H3 {
   font-size: 18px;
   color: #7e9b9f;
@@ -4119,7 +4104,22 @@ h6,
   color: #232323;
 }
 #form1-mw .mbr-section-title {
-  font-size: 25px;
+  font-size: 22px;
+}
+#msg-box1-nf H3 {
+  font-size: 18px;
+  color: #7e9b9f;
+}
+#msg-box1-nf H2 {
+  color: #000000;
+  font-size: 32px;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-ng .form-control-label {
+  color: #232323;
+}
+#form1-ng .mbr-section-title {
+  font-size: 22px;
 }
 #msg-box5-mz P {
   font-size: 22px;
