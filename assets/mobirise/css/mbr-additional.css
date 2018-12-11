@@ -683,11 +683,11 @@ h6,
   color: #28324e;
 }
 #menu-1m .link {
-  font-size: 1.05rem;
+  font-size: 0.6rem;
 }
 #menu-1m .dropdown-item,
 #menu-1m .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 0.650rem;
 }
 #menu-1m .link:hover,
 #menu-1m .dropdown-item:hover,
@@ -4125,6 +4125,99 @@ h6,
   font-size: 22px;
 }
 #contacts2-n0 STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
+#menu-ni .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-ni .navbar-caption {
+  color: #ffffff;
+}
+#menu-ni .navbar-toggler {
+  color: #28324e;
+}
+#menu-ni .link,
+#menu-ni .dropdown-item {
+  color: #28324e;
+}
+#menu-ni .link {
+  font-size: 0.6rem;
+}
+#menu-ni .dropdown-item,
+#menu-ni .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-ni .link:hover,
+#menu-ni .dropdown-item:hover,
+#menu-ni .link:focus,
+#menu-ni .dropdown-item:focus {
+  color: #475577;
+}
+#menu-ni .link[aria-expanded="true"],
+#menu-ni .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-ni .nav-dropdown-sm .link:focus,
+#menu-ni .nav-dropdown-sm .link:hover,
+#menu-ni .nav-dropdown-sm .dropdown-item:focus,
+#menu-ni .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-ni .navbar,
+#menu-ni .nav-dropdown-sm,
+#menu-ni .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-ni .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-ni .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-ni .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-ni .bg-color.transparent.opened .link:hover,
+#menu-ni .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-ni .link[aria-expanded="true"],
+#menu-ni .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-ni.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-ni .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-ni .close-icon::before,
+#menu-ni .close-icon::after {
+  background-color: #28324e;
+}
+#msg-box8-nv .mbr-section-title,
+#msg-box8-nv p {
+  color: #fff;
+}
+#msg-box8-nv .lead P {
+  font-size: 46px;
+}
+#content1-nm P {
+  text-align: left;
+}
+#content1-nm UL {
+  text-align: left;
+}
+#msg-box5-np P {
+  font-size: 22px;
+}
+#form1-nu .form-control-label {
+  color: #232323;
+}
+#form1-nu .mbr-section-title {
+  font-size: 36px;
+}
+#contacts2-nq STRONG {
   color: #ffffff;
   font-size: 16px;
 }
