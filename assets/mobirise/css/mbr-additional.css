@@ -4321,6 +4321,9 @@ h6,
 #msg-box1-ox H3 {
   font-size: 25px;
 }
+#msg-box1-pe H3 {
+  font-size: 25px;
+}
 #form1-p0 .form-control-label {
   color: #232323;
 }
@@ -4408,6 +4411,9 @@ h6,
   background-color: #28324e;
 }
 #msg-box1-p8 H3 {
+  font-size: 25px;
+}
+#msg-box1-pd H3 {
   font-size: 25px;
 }
 #form1-pb .form-control-label {
