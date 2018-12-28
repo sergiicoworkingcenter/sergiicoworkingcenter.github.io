@@ -4426,3 +4426,97 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
+#msg-box8-pf .mbr-section-title,
+#msg-box8-pf p {
+  color: #fff;
+}
+#msg-box8-pf .mbr-section-title {
+  font-family: 'Lora', serif;
+}
+#msg-box8-pf .lead H4 {
+  color: #ffffff;
+}
+#msg-box5-pj H3 {
+  font-size: 36px;
+}
+#msg-box5-po H3 {
+  font-size: 36px;
+}
+#form1-pk .form-control-label {
+  color: #232323;
+}
+#form1-pk .mbr-section-title {
+  font-size: 30px;
+}
+#menu-pl .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-pl .navbar-caption {
+  color: #ffffff;
+}
+#menu-pl .navbar-toggler {
+  color: #28324e;
+}
+#menu-pl .link,
+#menu-pl .dropdown-item {
+  color: #28324e;
+}
+#menu-pl .link {
+  font-size: 0.6rem;
+}
+#menu-pl .dropdown-item,
+#menu-pl .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-pl .link:hover,
+#menu-pl .dropdown-item:hover,
+#menu-pl .link:focus,
+#menu-pl .dropdown-item:focus {
+  color: #475577;
+}
+#menu-pl .link[aria-expanded="true"],
+#menu-pl .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-pl .nav-dropdown-sm .link:focus,
+#menu-pl .nav-dropdown-sm .link:hover,
+#menu-pl .nav-dropdown-sm .dropdown-item:focus,
+#menu-pl .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-pl .navbar,
+#menu-pl .nav-dropdown-sm,
+#menu-pl .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-pl .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-pl .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-pl .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-pl .bg-color.transparent.opened .link:hover,
+#menu-pl .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-pl .link[aria-expanded="true"],
+#menu-pl .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-pl.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-pl .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-pl .close-icon::before,
+#menu-pl .close-icon::after {
+  background-color: #28324e;
+}
+#contacts2-pn STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
