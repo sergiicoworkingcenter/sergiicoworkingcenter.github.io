@@ -2546,102 +2546,6 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
-#menu-bo .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-bo .navbar-caption {
-  color: #ffffff;
-}
-#menu-bo .navbar-toggler {
-  color: #28324e;
-}
-#menu-bo .link,
-#menu-bo .dropdown-item {
-  color: #28324e;
-}
-#menu-bo .link {
-  font-size: 0.6rem;
-}
-#menu-bo .dropdown-item,
-#menu-bo .nav-dropdown-sm .link {
-  font-size: 0.650rem;
-}
-#menu-bo .link:hover,
-#menu-bo .dropdown-item:hover,
-#menu-bo .link:focus,
-#menu-bo .dropdown-item:focus {
-  color: #475577;
-}
-#menu-bo .link[aria-expanded="true"],
-#menu-bo .dropdown-menu {
-  background: #d6d6d6;
-}
-#menu-bo .nav-dropdown-sm .link:focus,
-#menu-bo .nav-dropdown-sm .link:hover,
-#menu-bo .nav-dropdown-sm .dropdown-item:focus,
-#menu-bo .nav-dropdown-sm .dropdown-item:hover {
-  background: #e7e7e7!important;
-}
-#menu-bo .navbar,
-#menu-bo .nav-dropdown-sm,
-#menu-bo .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-bo .nav-dropdown-sm .dropdown-menu {
-  background: #efefef;
-}
-#menu-bo .bg-color.transparent .link {
-  color: #28324e;
-  transition: none;
-}
-#menu-bo .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-bo .bg-color.transparent.opened .link:hover,
-#menu-bo .bg-color.transparent.opened .link:focus {
-  color: #475577;
-}
-#menu-bo .link[aria-expanded="true"],
-#menu-bo .dropdown-item[aria-expanded="true"] {
-  color: #475577!important;
-}
-#menu-bo.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-bo .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-bo .close-icon::before,
-#menu-bo .close-icon::after {
-  background-color: #28324e;
-}
-#msg-box8-bq .mbr-section-title,
-#msg-box8-bq p {
-  color: #fff;
-}
-#msg-box8-bq .lead P {
-  font-size: 46px;
-}
-#content1-bz P {
-  font-size: 20px;
-}
-#form1-bu .form-control-label {
-  color: #232323;
-}
-#form1-bu .mbr-section-title {
-  font-size: 36px;
-}
-#form1-bv .form-control-label {
-  color: #232323;
-}
-#form1-bv .mbr-section-title {
-  font-size: 36px;
-}
-#msg-box5-cz P {
-  font-size: 22px;
-}
-#contacts2-bx STRONG {
-  color: #ffffff;
-  font-size: 16px;
-}
 #menu-c0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4517,6 +4421,102 @@ h6,
   background-color: #28324e;
 }
 #contacts2-pn STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
+#menu-bo .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-bo .navbar-caption {
+  color: #ffffff;
+}
+#menu-bo .navbar-toggler {
+  color: #28324e;
+}
+#menu-bo .link,
+#menu-bo .dropdown-item {
+  color: #28324e;
+}
+#menu-bo .link {
+  font-size: 0.6rem;
+}
+#menu-bo .dropdown-item,
+#menu-bo .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-bo .link:hover,
+#menu-bo .dropdown-item:hover,
+#menu-bo .link:focus,
+#menu-bo .dropdown-item:focus {
+  color: #475577;
+}
+#menu-bo .link[aria-expanded="true"],
+#menu-bo .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-bo .nav-dropdown-sm .link:focus,
+#menu-bo .nav-dropdown-sm .link:hover,
+#menu-bo .nav-dropdown-sm .dropdown-item:focus,
+#menu-bo .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-bo .navbar,
+#menu-bo .nav-dropdown-sm,
+#menu-bo .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-bo .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-bo .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-bo .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-bo .bg-color.transparent.opened .link:hover,
+#menu-bo .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-bo .link[aria-expanded="true"],
+#menu-bo .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-bo.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-bo .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-bo .close-icon::before,
+#menu-bo .close-icon::after {
+  background-color: #28324e;
+}
+#msg-box8-bq .mbr-section-title,
+#msg-box8-bq p {
+  color: #fff;
+}
+#msg-box8-bq .lead P {
+  font-size: 46px;
+}
+#content1-bz P {
+  font-size: 20px;
+}
+#form1-bu .form-control-label {
+  color: #232323;
+}
+#form1-bu .mbr-section-title {
+  font-size: 36px;
+}
+#form1-bv .form-control-label {
+  color: #232323;
+}
+#form1-bv .mbr-section-title {
+  font-size: 36px;
+}
+#msg-box5-cz P {
+  font-size: 22px;
+}
+#contacts2-bx STRONG {
   color: #ffffff;
   font-size: 16px;
 }
