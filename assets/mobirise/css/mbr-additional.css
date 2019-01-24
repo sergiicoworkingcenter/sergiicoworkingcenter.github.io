@@ -1684,6 +1684,7 @@ h6,
 }
 
 
+
 #menu-5f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1758,20 +1759,8 @@ h6,
 #msg-box8-5n .lead P {
   font-size: 46px;
 }
-#msg-box1-5p H3 {
-  font-size: 17px;
-  color: #7e9b9f;
-}
-#msg-box1-5p H2 {
-  color: #000000;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
-}
-#form1-5j .form-control-label {
-  color: #232323;
-}
-#form1-5j .mbr-section-title {
-  font-size: 25px;
+#content1-mg P {
+  font-size: 22px;
 }
 #msg-box1-ml H3 {
   font-size: 18px;
@@ -1788,8 +1777,44 @@ h6,
 #form1-mm .mbr-section-title {
   font-size: 25px;
 }
+#content1-mh H2 {
+  font-size: 22px;
+}
+#content1-mh P {
+  font-size: 22px;
+}
+#msg-box1-qe H3 {
+  font-size: 18px;
+  color: #7e9b9f;
+}
+#msg-box1-qe H2 {
+  color: #000000;
+  font-size: 32px;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-qd .form-control-label {
+  color: #232323;
+}
+#form1-qd .mbr-section-title {
+  font-size: 25px;
+}
 #msg-box5-mj P {
   font-size: 22px;
+}
+#msg-box1-qg H3 {
+  font-size: 18px;
+  color: #7e9b9f;
+}
+#msg-box1-qg H2 {
+  color: #000000;
+  font-size: 32px;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-qf .form-control-label {
+  color: #232323;
+}
+#form1-qf .mbr-section-title {
+  font-size: 25px;
 }
 #contacts2-5m STRONG {
   color: #ffffff;
