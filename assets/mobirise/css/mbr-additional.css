@@ -4658,7 +4658,6 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
-
 #menu-qi .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4744,15 +4743,6 @@ h6,
 }
 #content1-qn UL {
   text-align: left;
-}
-#msg-box1-qo H3 {
-  font-size: 18px;
-  color: #7e9b9f;
-}
-#msg-box1-qo H2 {
-  color: #000000;
-  font-size: 32px;
-  font-family: 'Open Sans', sans-serif;
 }
 #form1-qp .form-control-label {
   color: #232323;
