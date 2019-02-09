@@ -5116,3 +5116,106 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
+#menu-ry .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-ry .navbar-caption {
+  color: #ffffff;
+}
+#menu-ry .navbar-toggler {
+  color: #28324e;
+}
+#menu-ry .link,
+#menu-ry .dropdown-item {
+  color: #28324e;
+}
+#menu-ry .link {
+  font-size: 0.6rem;
+}
+#menu-ry .dropdown-item,
+#menu-ry .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-ry .link:hover,
+#menu-ry .dropdown-item:hover,
+#menu-ry .link:focus,
+#menu-ry .dropdown-item:focus {
+  color: #475577;
+}
+#menu-ry .link[aria-expanded="true"],
+#menu-ry .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-ry .nav-dropdown-sm .link:focus,
+#menu-ry .nav-dropdown-sm .link:hover,
+#menu-ry .nav-dropdown-sm .dropdown-item:focus,
+#menu-ry .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-ry .navbar,
+#menu-ry .nav-dropdown-sm,
+#menu-ry .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-ry .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-ry .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-ry .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-ry .bg-color.transparent.opened .link:hover,
+#menu-ry .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-ry .link[aria-expanded="true"],
+#menu-ry .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-ry.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-ry .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-ry .close-icon::before,
+#menu-ry .close-icon::after {
+  background-color: #28324e;
+}
+#msg-box8-s0 .mbr-section-title,
+#msg-box8-s0 p {
+  color: #fff;
+}
+#msg-box8-s0 .lead P {
+  font-size: 46px;
+}
+#content1-s2 P {
+  text-align: left;
+}
+#content1-s2 UL {
+  text-align: left;
+}
+#msg-box1-sb H3 {
+  font-size: 18px;
+  color: #7e9b9f;
+}
+#msg-box1-sb H2 {
+  color: #000000;
+  font-size: 32px;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-s4 .form-control-label {
+  color: #232323;
+}
+#form1-s4 .mbr-section-title {
+  font-size: 24px;
+}
+#msg-box5-s5 P {
+  font-size: 22px;
+}
+#contacts2-s8 STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
