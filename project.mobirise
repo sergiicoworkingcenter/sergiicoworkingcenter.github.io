@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "sexeducation.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -10462,7 +10462,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13332.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -13117,7 +13117,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x14001.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x14003.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -13853,7 +13853,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x14001.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x14003.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -19177,48 +19177,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H3": {
-              "font-size": "18px",
-              "color": "#7e9b9f"
-            },
-            "H2": {
-              "color": "#000000",
-              "font-size": "32px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_anchor": "msg-box1-rn",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTQ5MjM2NTkxNDM4IiwiYW1vdW50IjoiMjUwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6ItCc0L7QuSDRgtC%2B0LLQsNGAIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&amp;signature=GguGZQkv4rM8N%2B9vXWJpXvTwT6Q%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
-          "text": "Оплатить лекцию&nbsp;",
-          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
@@ -19231,7 +19189,7 @@
           "_anchor": "form1-ro",
           "_params": {
             "showTitle": true,
-            "showSubTitle": false,
+            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -19245,7 +19203,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Регистрация на лекцию<br>Подростки  11-13 лет в 10.00",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "subtitle": "Оплата лекции на месте - 300 грн",
           "form": {
             "action": "mykhalyova@gmail.com",
             "alerts": {
@@ -19291,7 +19249,7 @@
           "_anchor": "form1-rw",
           "_params": {
             "showTitle": true,
-            "showSubTitle": false,
+            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -19305,7 +19263,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Регистрация на лекцию<br>Подростки  11-13 лет в 12.30",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "subtitle": "Оплата лекции на месте - 300 грн",
           "form": {
             "action": "mykhalyova@gmail.com",
             "alerts": {
@@ -19351,7 +19309,7 @@
           "_anchor": "form1-rx",
           "_params": {
             "showTitle": true,
-            "showSubTitle": false,
+            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -19365,7 +19323,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Регистрация на лекцию<br>Подростки  14-17 лет в 15.00",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "subtitle": "Оплата лекции на месте - 300 грн",
           "form": {
             "action": "mykhalyova@gmail.com",
             "alerts": {
