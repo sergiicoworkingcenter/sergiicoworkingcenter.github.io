@@ -4882,7 +4882,6 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
-
 #menu-r6 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4957,6 +4956,11 @@ h6,
 #msg-box8-r8 .lead P {
   font-size: 46px;
 }
+#content1-sc P {
+  text-align: center;
+  font-size: 48px;
+  color: #b8312f;
+}
 #content1-ra P {
   text-align: left;
 }
@@ -4968,21 +4972,6 @@ h6,
 }
 #content1-rb UL {
   text-align: left;
-}
-#msg-box1-rc H3 {
-  font-size: 18px;
-  color: #7e9b9f;
-}
-#msg-box1-rc H2 {
-  color: #000000;
-  font-size: 32px;
-  font-family: 'Open Sans', sans-serif;
-}
-#form1-rd .form-control-label {
-  color: #232323;
-}
-#form1-rd .mbr-section-title {
-  font-size: 24px;
 }
 #msg-box5-re P {
   font-size: 22px;
