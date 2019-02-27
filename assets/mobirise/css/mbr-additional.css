@@ -5157,6 +5157,15 @@ h6,
 #msg-box8-tc .lead H4 {
   color: #ffffff;
 }
+#content1-tl P {
+  text-align: right;
+}
+#content1-te P {
+  text-align: left;
+}
+#msg-box5-tk P {
+  font-size: 22px;
+}
 #form1-tf .form-control-label {
   color: #232323;
 }
