@@ -422,6 +422,9 @@ h6,
 #header1-1 .mbr-section-lead SPAN {
   text-align: right;
 }
+#features3-x P {
+  text-align: left;
+}
 #features4-b .card-subtitle {
   color: #bcbcbc;
 }
@@ -495,9 +498,6 @@ h6,
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #28324e;
-}
-#features3-x P {
-  text-align: left;
 }
 #features3-0 H4 {
   font-family: 'Open Sans', sans-serif;
