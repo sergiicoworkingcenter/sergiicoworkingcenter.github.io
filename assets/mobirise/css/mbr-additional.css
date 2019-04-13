@@ -4519,7 +4519,6 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
-
 #menu-ri .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4605,21 +4604,6 @@ h6,
 }
 #content1-rm P {
   font-size: 22px;
-}
-#msg-box1-rn H3 {
-  font-size: 18px;
-  color: #7e9b9f;
-}
-#msg-box1-rn H2 {
-  color: #000000;
-  font-size: 32px;
-  font-family: 'Open Sans', sans-serif;
-}
-#form1-rw .form-control-label {
-  color: #232323;
-}
-#form1-rw .mbr-section-title {
-  font-size: 25px;
 }
 #form1-rx .form-control-label {
   color: #232323;
