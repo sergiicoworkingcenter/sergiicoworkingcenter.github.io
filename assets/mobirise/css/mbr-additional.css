@@ -5318,6 +5318,7 @@ h6,
   font-size: 16px;
 }
 
+
 #msg-box8-hg .mbr-section-title,
 #msg-box8-hg p {
   color: #fff;
@@ -5327,6 +5328,15 @@ h6,
 }
 #content1-jv P {
   text-align: left;
+}
+#msg-box1-u7 H3 {
+  font-size: 17px;
+  color: #7e9b9f;
+}
+#msg-box1-u7 H2 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-ha .hide-buttons .nav-btn {
   display: none !important;

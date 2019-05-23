@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1087,
+    "uniqCompNum": 1088,
     "versionPublish": "4.9.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2641,7 +2641,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3376.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3379.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8927,7 +8927,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133310.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11529,7 +11529,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x14008.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x140011.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -12267,7 +12267,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x14008.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x140011.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -20259,6 +20259,48 @@
           "text": "<p>Движение и упражнение без лишних слов.\n</p><p>На МК будем разбирать и делать доступные телесные упражнения, которые помогут Вам:\n</p><p>•\tСнизить мышечное напряжение.\n</p><p>•\tНаучиться расслабляться и отдыхать.\n</p><p>•\tНаучиться сладко спать и хорошо высыпаться.\n</p><p>•\tСправиться с тревожными состояниями и паническими атаками.\n</p><p>•\tСправиться с головными болями.\n</p><p>\n</p><p>Уже с МК Вы уйдете с чувством облегчения, а выполняя данные на встрече упражнения в повседневной жизни, существенно улучшите качество вашего физического и психического здоровья. \n</p><p>Регистрируйтесь и приходите!\n</p><p>\n</p><p><br></p>"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "Зарегистрироваться и купить билет<br>(100грн.)",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/3/subscription&#9;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a> ",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "17px",
+              "color": "#7e9b9f"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-size": "30px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-u7"
+        },
+        {
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
@@ -20553,7 +20595,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/2/subscription&#9;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/3/subscription&#9;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a> ",
           "text": "Зарегистрироваться и купить билет<br>(100грн.)",
           "title": ""
         },
