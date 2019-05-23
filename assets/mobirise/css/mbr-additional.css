@@ -5317,3 +5317,97 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
+#msg-box8-hg .mbr-section-title,
+#msg-box8-hg p {
+  color: #fff;
+}
+#msg-box8-hg .lead P {
+  font-size: 23px;
+}
+#content1-jv P {
+  text-align: left;
+}
+#menu-ha .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-ha .navbar-caption {
+  color: #ffffff;
+}
+#menu-ha .navbar-toggler {
+  color: #28324e;
+}
+#menu-ha .link,
+#menu-ha .dropdown-item {
+  color: #28324e;
+}
+#menu-ha .link {
+  font-size: 0.6rem;
+}
+#menu-ha .dropdown-item,
+#menu-ha .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-ha .link:hover,
+#menu-ha .dropdown-item:hover,
+#menu-ha .link:focus,
+#menu-ha .dropdown-item:focus {
+  color: #475577;
+}
+#menu-ha .link[aria-expanded="true"],
+#menu-ha .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-ha .nav-dropdown-sm .link:focus,
+#menu-ha .nav-dropdown-sm .link:hover,
+#menu-ha .nav-dropdown-sm .dropdown-item:focus,
+#menu-ha .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-ha .navbar,
+#menu-ha .nav-dropdown-sm,
+#menu-ha .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-ha .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-ha .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-ha .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-ha .bg-color.transparent.opened .link:hover,
+#menu-ha .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-ha .link[aria-expanded="true"],
+#menu-ha .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-ha.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-ha .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-ha .close-icon::before,
+#menu-ha .close-icon::after {
+  background-color: #28324e;
+}
+#msg-box1-he H3 {
+  font-size: 17px;
+  color: #7e9b9f;
+}
+#msg-box1-he H2 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-mk P {
+  font-size: 22px;
+}
+#contacts2-hc STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
