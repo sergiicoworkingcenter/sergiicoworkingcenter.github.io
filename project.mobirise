@@ -2641,7 +2641,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33721.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33724.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8927,7 +8927,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133322.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133325.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11529,7 +11529,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x140023.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x140026.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -12267,7 +12267,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x140023.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x140026.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -20653,7 +20653,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Ведущия:<br>Наталья Чернуха - кризисный психолог, телесноориентированный терапевт, соматерапевт, автор и тренер программ по&nbsp;телесноориентированным методам психотерапии и физическому оздоровлению.<br>",
+          "text": "Ведущая:<br>Наталья Чернуха - кризисный психолог, телесноориентированный терапевт, соматерапевт, автор и тренер программ по&nbsp;телесноориентированным методам психотерапии и физическому оздоровлению.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
