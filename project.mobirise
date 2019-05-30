@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "lecture3.html",
+    "currentPage": "index.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -93,119 +93,6 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-tn",
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x337.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://goo.gl/tfR7vF",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Исторические, культурологические и психологические аспекты инцеста.",
-          "subtitle1": "19 апреля в 18:30",
-          "caption1": "Лекцию читают: Максим Жидко и Юлия Ярмоленко",
-          "button1": "<a data-app-btn=\"true\" href=\"birth_experience.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-4-600x333.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Информация скоро появится",
-          "subtitle2": "Информация скоро появится",
-          "caption2": "Информация скоро появится",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "file:///C:/Users/Olga/AppData/Local/Mobirise.com/Mobirise/projectData/%D0%9D%D0%B5%20%D0%B4%D0%B5%D0%BB%D0%B0%D0%B9%D1%82%D0%B5%20%D0%BC%D0%BD%D0%B5%20%D0%BD%D0%B5%D1%80%D0%B2%D1%8B!-600x333.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "womenHealth.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Информация скоро появится",
-          "subtitle3": "Информация скоро появится",
-          "caption3": "Информация скоро появится",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
           "_anchor": "features3-dm",
           "_params": {
             "showImages": true,
@@ -231,14 +118,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x333.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x333.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "lecture3.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "title1": "Исторические, культурологические и психологические аспекты инцеста.",
@@ -247,14 +133,13 @@
           "button1": "<a data-app-btn=\"true\" href=\"birth_experience.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x333.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x333.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "womenHealth2.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "title2": "Информация скоро появится",
@@ -263,133 +148,19 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x333.png",
+              "src": "@PROJECT_PATH@/assets/images/-3-600x333.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "womenHealth.html",
+              "link": "lecture5.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "title3": "Информация скоро появится",
           "subtitle3": "Информация скоро появится",
           "caption3": "Информация скоро появится",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-4a",
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-6-600x314.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "sexeducation.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Буллинг. Агрессия. Безопасность.",
-          "subtitle1": "Лекции для родителей и педагогов.<br>26.02.18, 05.03.18, 12.03.18<br>Читает лекции Надежда Терещенко.",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"bullying.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-8-600x314.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "sex_education.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Если завтра в эфир",
-          "subtitle2": "Программа для тех, кто хочет вести online трансляции и записывать видео-презентации красиво и грамотно, используя подручные средства.<br>Начало 28.02.18<br>Ведет программу Юлия Снурникова.",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"online_stream\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-3-600x333.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "1step.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "На границе близости",
-          "subtitle3": "Психологическая программа по работе с границами личности.<br>Начинаем 01.03.2018",
-          "caption3": "Ведет программу Виктория Кравец",
-          "button3": "<a data-app-btn=\"true\" href=\"boundaries_of_personality.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
@@ -462,14 +233,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1980-1080-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/calebs-6th-birthday-1-600x333.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "allaboutfood.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "title1": "Программа по работе с созависимостью",
@@ -2646,7 +2416,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33742.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8932,7 +8702,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133343.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133345.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11534,7 +11304,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x140044.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x140046.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -12272,7 +12042,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x140044.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x140046.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -20825,7 +20595,7 @@
           },
           "title": "",
           "text": "Зарегистрироваться и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/5/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Здесь</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/6/subscription&#9;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Здесь</a>",
           "_tags": [
             "Тема"
           ],
