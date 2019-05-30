@@ -5419,3 +5419,104 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
+#menu-qi .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-qi .navbar-caption {
+  color: #ffffff;
+}
+#menu-qi .navbar-toggler {
+  color: #28324e;
+}
+#menu-qi .link,
+#menu-qi .dropdown-item {
+  color: #28324e;
+}
+#menu-qi .link {
+  font-size: 0.6rem;
+}
+#menu-qi .dropdown-item,
+#menu-qi .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-qi .link:hover,
+#menu-qi .dropdown-item:hover,
+#menu-qi .link:focus,
+#menu-qi .dropdown-item:focus {
+  color: #475577;
+}
+#menu-qi .link[aria-expanded="true"],
+#menu-qi .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-qi .nav-dropdown-sm .link:focus,
+#menu-qi .nav-dropdown-sm .link:hover,
+#menu-qi .nav-dropdown-sm .dropdown-item:focus,
+#menu-qi .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-qi .navbar,
+#menu-qi .nav-dropdown-sm,
+#menu-qi .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-qi .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-qi .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-qi .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-qi .bg-color.transparent.opened .link:hover,
+#menu-qi .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-qi .link[aria-expanded="true"],
+#menu-qi .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-qi.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-qi .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-qi .close-icon::before,
+#menu-qi .close-icon::after {
+  background-color: #28324e;
+}
+#msg-box8-qk .mbr-section-title,
+#msg-box8-qk p {
+  color: #fff;
+}
+#msg-box8-qk .lead P {
+  font-size: 46px;
+}
+#content1-qn P {
+  text-align: left;
+}
+#content1-qn UL {
+  text-align: left;
+}
+#msg-box1-u9 H3 {
+  font-size: 18px;
+  color: #7e9b9f;
+}
+#msg-box1-u9 H2 {
+  color: #000000;
+  font-size: 32px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-ua P {
+  font-size: 22px;
+}
+#msg-box1-qt H2 {
+  color: #000000;
+  font-size: 25px;
+}
+#contacts2-qs STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
