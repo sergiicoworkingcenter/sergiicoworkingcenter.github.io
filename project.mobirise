@@ -2646,7 +2646,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"cinderella.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33736.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x33739.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8932,7 +8932,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133340.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11534,7 +11534,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x140038.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x140041.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -12272,7 +12272,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x140038.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x140041.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -16408,7 +16408,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"womenHealth.html\" data-toolbar=\"-mbrBtnMove\">Посмотреть</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"lecture3.html\" data-toolbar=\"-mbrBtnMove\">Посмотреть</a>",
           "text": "<b>Следующая лекция</b>",
           "title": "PRE MADE BLOCKS"
         },
