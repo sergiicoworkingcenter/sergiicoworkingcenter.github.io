@@ -4191,6 +4191,7 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
 #menu-qi .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4277,13 +4278,16 @@ h6,
 #content1-qn UL {
   text-align: left;
 }
-#form1-qp .form-control-label {
-  color: #232323;
+#msg-box1-u9 H3 {
+  font-size: 18px;
+  color: #7e9b9f;
 }
-#form1-qp .mbr-section-title {
-  font-size: 24px;
+#msg-box1-u9 H2 {
+  color: #000000;
+  font-size: 32px;
+  font-family: 'Open Sans', sans-serif;
 }
-#msg-box5-qq P {
+#msg-box5-ua P {
   font-size: 22px;
 }
 #msg-box1-qr H2 {
