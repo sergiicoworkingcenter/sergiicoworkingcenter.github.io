@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "lecture5.html",
+    "currentPage": "lecture3.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 1091,
-    "versionPublish": "4.9.3",
+    "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -8702,7 +8702,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133351.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11304,7 +11304,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x140052.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x14001.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -12042,7 +12042,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x140052.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x14001.jpg",
               "link": "",
               "alt": "",
               "title": "",
