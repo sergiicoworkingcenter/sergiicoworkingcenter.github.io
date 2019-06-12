@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "allaboutfood.html",
+    "currentPage": "psychiatry_for_psychologists.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -8702,7 +8702,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13332.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13334.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -10432,7 +10432,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Психиатрия для психологов",
-          "text": "<p>Лекционный курс</p><h2><span style=\"color: rgb(255, 255, 255); font-size: 1.5rem; line-height: 1.1;\">9-11 ноября</span><br></h2><p><br></p>",
+          "text": "<p>Лекционный курс</p><p><span style=\"font-size: 1.5rem; font-weight: 600; letter-spacing: -1px;\">даты уточняются</span></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -10446,7 +10446,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><b>Когда:</b>&nbsp;9-11 ноября (пт. с 15.00 до 20.00, сб. и вс. с 11.00 до 19.00)</p><p><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ.&nbsp;</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> 130 уе.</span><br></p><p><b>Телефоны для справок:</b></p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p>"
+          "text": "<p><b>Когда:</b>&nbsp;даты уточняются (пт. с 15.00 до 20.00, сб. и вс. с 11.00 до 19.00 с перерывом на обед)</p><p><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ.&nbsp;</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> 130 уе.</span><br></p><p><b>Телефоны для справок:</b></p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>"
         },
         {
           "_tags": [
@@ -11304,7 +11304,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x14003.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x14005.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -12042,7 +12042,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x14003.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x14005.jpg",
               "link": "",
               "alt": "",
               "title": "",
