@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "lecture3.html",
+    "currentPage": "allaboutfood.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -8702,7 +8702,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13332.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11304,7 +11304,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x14001.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x14003.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -12042,7 +12042,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x14001.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x14003.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -18584,7 +18584,7 @@
             "overlayOpacity": 0.5
           },
           "title": "&nbsp;Скажи, как есть",
-          "text": "<p><span style=\"font-size: 1.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\">Практическое исследование с теоретическим сопровождением.&nbsp;</span><br></p><p><span style=\"font-size: 1.5rem; line-height: 1.1; font-weight: 600; letter-spacing: -1px;\">&nbsp;31 мая - 2 июня 2019</span><span style=\"font-size: 1.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\">\u001b\u001b</span></p>",
+          "text": "<p><span style=\"font-size: 1.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\">Практическое исследование с теоретическим сопровождением.&nbsp;</span><br></p><p><span style=\"font-size: 1.5rem; line-height: 1.1; font-weight: 600; letter-spacing: -1px;\">&nbsp;4 - 6 октября 2019</span><span style=\"font-size: 1.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\">\u001b\u001b</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -18598,7 +18598,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><b>Когда:</b>&nbsp;</p><p>31 мая - 2 июня 2019</p><p>пт: 15.00 - 20.00</p><p>сб, вс: 11.00 - 19.00</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Где:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</span></p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ и всех, кого интересует тема пищевого поведения</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> 130 уе.\u001b\u001b\u001b</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</b><br></p><p>+38 (050) 523 99 60<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Ольга</span></p><p>+38 (050) 303 92 26 Мария</p>"
+          "text": "<p><b>Когда:</b>&nbsp;</p><p>4 - 6 октября 2019</p><p>пт: 15.00 - 20.00</p><p>сб, вс: 11.00 - 19.00</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Где:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</span></p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ и всех, кого интересует тема пищевого поведения</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> 130 уе.\u001b\u001b\u001b</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</b><br></p><p>+38 (050) 523 99 60<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Ольга</span></p><p>+38 (050) 303 92 26 Мария</p>"
         },
         {
           "_tags": [
