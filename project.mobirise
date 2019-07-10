@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "womenHealth.html",
+    "currentPage": "index.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -118,7 +118,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x333.png",
+              "src": "@PROJECT_PATH@/assets/images/-3-600x333.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -148,13 +148,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-3-600x333.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x333.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "lecture5.html",
+              "link": "womenHealth.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "Информация скоро появится",
@@ -8702,7 +8703,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13332.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13334.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11304,7 +11305,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x14003.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x14005.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -12042,7 +12043,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x14003.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x14005.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -15537,7 +15538,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-1-1500x500.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-3-1500x500.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -15950,7 +15951,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-1500x500.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x500.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#e579d0",
@@ -20083,7 +20084,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x500.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x5006.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -20438,7 +20439,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-810x450.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-1500x500.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#e579d0",
