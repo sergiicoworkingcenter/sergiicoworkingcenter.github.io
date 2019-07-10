@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "big_fish.html",
+    "currentPage": "womenHealth.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1091,
+    "uniqCompNum": 1101,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -8702,7 +8702,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13332.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11304,7 +11304,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x14001.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x14003.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -12042,7 +12042,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x14001.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x14003.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -15402,444 +15402,6 @@
         }
       ]
     },
-    "womenHealth.html": {
-      "settings": {
-        "title": "Лекция",
-        "meta_descr": "Лекция о женском здоровье",
-        "order": 40
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#28324e"
-            },
-            ".link, .dropdown-item": {
-              "color": "#28324e"
-            },
-            ".link": {
-              "font-size": "0.6rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#28324e",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#475577!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#28324e"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-pq",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#efefef",
-            "fontSize": "0.6",
-            "fontName": {},
-            "fontColor": "#28324e",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html#header1-1",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-dm\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-pr",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2016 Mobirise."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead P": {
-              "font-size": "46px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-ps",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-5-2000x666.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "&nbsp;",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-pt",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p><b>Когда: </b>16.04.2019 в 18.30&nbsp;</p><p><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko</p><p><b>Стоимость: </b>250 грн. при предоплате, </p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 300 грн - в день мероприятия и на месте.</p><p><b>Телефоны для справок:\u001b</b></p><p>+38 (050) 523 99 60<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Ольга</span></p><p>+38 (050) 303 92 26 Мария</p>",
-          "text2": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "UL": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content1-pu",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "Эта лекция о базовых вещах, которые стоит знать о своем здоровье, теле и физиологии каждой девушке, женщине. О менструациях, правильной подготовке к менопаузе, о разных видах контрацепции, их плюсах/минусах, о средствах гигиены и полезных упражнениях, которые улучшают женское здоровье. А еще о современных приспособлениях, которые делают нашу жизнь более комфортной.<div><br></div><div>После этой встречи у вас будет намного больше понимания, что такое менструальный цикл, что есть нормой, а что — повод немедленно обратиться к врачу. И как сохранить свое здоровье, в том числе сексуальное, на долгие годы.</div>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "UL": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content1-pv",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Вопросы, которые обязательно рассмотрим на лекции:</p><p><br></p><p>— Как образ жизни и окружающий мир влияют на наше женское и сексуальное здоровье?</p><p>— Менструальный цикл: на что обратить внимание в первую очередь.</p><p>— Должен быть ПМС?</p><p>— Как с помощью средств гигиены сделать период менструации комфортным?</p><p>— Что такое менопауза и почему к ней стоит готовиться?</p><p>— Почему окончание фертильного периода не означает окончания сексуальной жизни?</p><p>— Влияет ли отсутствие секса на женское здоровье?</p><p>— Контрацепция: как выбирать без ущерба для своего организма.</p><p>— Бюстгальтер: носить нельзя игнорировать. Польза или вред?</p><p>— Вагинальные шарики и современные тренажеры: когда, зачем и как?</p><p>— Лубриканты, как способ сделать секс более комфортным и безопасным.</p><p>— ВИЧ и ЗППП: о чем важно знать, имея постоянного партнера?</p><p><br></p><p>На встрече можно изучить образцы разных средств гигиены и вагинальные тренажеры.&nbsp;</p><p><b><br></b></p><p>Когда: 16.04.2019 в 18.30&nbsp;</p><p>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko</p><p>Стоимость: 250 грн. при предоплате,<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;300 грн - в день мероприятия и на месте.</span></p><p>Телефоны для справок:\u001b</p><p>+38 (050) 523 99 60 Ольга</p><p>+38 (050) 303 92 26 Мария</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H3": {
-              "font-size": "18px",
-              "color": "#7e9b9f"
-            },
-            "H2": {
-              "color": "#000000",
-              "font-size": "32px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_anchor": "msg-box1-q2",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.liqpay.ua/api/3/checkout?data=eyJ2ZXJzaW9uIjozLCJhY3Rpb24iOiJwYXkiLCJwdWJsaWNfa2V5IjoiaTQ5MjM2NTkxNDM4IiwiYW1vdW50IjoiMzAwIiwiY3VycmVuY3kiOiJVQUgiLCJkZXNjcmlwdGlvbiI6Ik15IGdvb2RzIiwidHlwZSI6ImJ1eSIsImxhbmd1YWdlIjoicnUifQ%3D%3D&amp;signature=sbriRNQra0V4npDqzaHl80xkrr8%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a>",
-          "text": "Оплатить лекцию&nbsp;",
-          "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "font-size": "24px"
-            }
-          },
-          "_anchor": "form1-pw",
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": false,
-            "labelsColor": "#232323",
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Регистрация на лекцию <br>«Женское здоровье»",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "form": {
-            "action": "mykhalyova@gmail.com",
-            "alerts": {
-              "success": "Спасибо!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "ФИО*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Телефон*"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Сообщение"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "msg-box5-px",
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/17991597-1309681279108893-5292531573591422615-o-1400x1400-1.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Лекторка:<br> Юлия Ярмоленко -секс-педагог, автор программ по сексуальной грамотности для подростков и взрослых.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H2": {
-              "color": "#000000",
-              "font-size": "25px"
-            }
-          },
-          "_anchor": "msg-box1-tm",
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"womenHealth2.html\" data-toolbar=\"-mbrBtnMove\">Посмотреть</a>",
-          "text": "<b>Предыдущая лекция</b>",
-          "title": "PRE MADE BLOCKS"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff",
-              "font-size": "16px"
-            }
-          },
-          "_anchor": "contacts2-py",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#00a885",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "Харьков Гаршина 9\n",
-              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
-        }
-      ]
-    },
     "womenHealth2.html": {
       "settings": {
         "title": "женская сексуальность",
@@ -15997,7 +15559,7 @@
             "paddingBottom": 1,
             "bgColor": "#fcf0f9"
           },
-          "text1": "<p><b>Когда: </b>11.06.2019 в 18.30&nbsp;</p><p><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko</p><p><b>Стоимость: </b>300&nbsp;грн. при предоплате, </p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 350 грн - в день мероприятия и на месте.</p><p><b>Телефон для справок:</b></p><p>+38 (066) 036 40 29<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span></p>",
+          "text1": "<p><b>Когда: </b>24.07.2019 в 18.30&nbsp;</p><p><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko</p><p><b>Стоимость: </b>300&nbsp;грн. при предоплате, </p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 350 грн - в день мероприятия и на месте.</p><p><b>Телефон для справок:</b></p><p>+38 (066) 036 40 29<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span></p>",
           "text2": "",
           "_tags": [
             "Тема"
@@ -16045,7 +15607,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Рассмотрим такие вопросы:</p><p><br></p><p>— Как антропологические, исторические, социальные и культурные факторы влияют на нашу сексуальность.</p><p>— Что такое человеческая сексуальность? Есть ли разница между женской и мужской сексуальностью?</p><p>— Физиология: особенности построения клитора, вульвы и влагалища.</p><p>— Здоровье: гигиена во время менструации, современные гигиенические средства.</p><p>— Мастурбация в подростковом и взрослом возрасте: польза или вред?</p><p>— Оргазм: основные причины отсутствия во время полового акта.</p><p>— Точки/зоны G, К, А, U — правда или вымысел?</p><p>— Методы исследования эрогенных зон и собственного тела.</p><p>— Техники, которые помогат достигать большего удовольствия.</p><p>— Товары из секс-шопа, которые делают нашу жизнь комфортнее.</p><p><br></p><p><br></p><p>Когда: 11.06.2019 в 18.30 \n</p><p>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko\n</p><p>Стоимость: 300 грн. при предоплате,\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 350 грн - в день мероприятия и на месте.\n</p><p>Телефон для справок:\n</p><p>+38 (066) 036 40 29&nbsp;</p>"
+          "text": "<p>Рассмотрим такие вопросы:</p><p><br></p><p>— Как антропологические, исторические, социальные и культурные факторы влияют на нашу сексуальность.</p><p>— Что такое человеческая сексуальность? Есть ли разница между женской и мужской сексуальностью?</p><p>— Физиология: особенности построения клитора, вульвы и влагалища.</p><p>— Здоровье: гигиена во время менструации, современные гигиенические средства.</p><p>— Мастурбация в подростковом и взрослом возрасте: польза или вред?</p><p>— Оргазм: основные причины отсутствия во время полового акта.</p><p>— Точки/зоны G, К, А, U — правда или вымысел?</p><p>— Методы исследования эрогенных зон и собственного тела.</p><p>— Техники, которые помогат достигать большего удовольствия.</p><p>— Товары из секс-шопа, которые делают нашу жизнь комфортнее.</p><p><br></p><p><br></p><p>Когда: 24.07.2019 в 18.30 \n</p><p>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko\n</p><p>Стоимость: 300 грн. при предоплате,\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 350 грн - в день мероприятия и на месте.\n</p><p>Телефон для справок:\n</p><p>+38 (066) 036 40 29&nbsp;</p>"
         },
         {
           "_params": {
@@ -16070,7 +15632,7 @@
           },
           "title": "",
           "text": "Зарегистрироваться и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/5/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Здесь</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/9/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Здесь</a>",
           "_tags": [
             "Тема"
           ],
@@ -16178,7 +15740,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"lecture5.html\" data-toolbar=\"-mbrBtnMove\">Посмотреть</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"womenHealth.html\" data-toolbar=\"-mbrBtnMove\">Посмотреть</a>",
           "text": "<b>Следующая лекция</b>",
           "title": "PRE MADE BLOCKS"
         },
@@ -16257,7 +15819,7 @@
       "settings": {
         "title": "Лекция",
         "meta_descr": "Лекция ",
-        "order": 41
+        "order": 40
       },
       "components": [
         {
@@ -16415,7 +15977,7 @@
             "paddingBottom": 1,
             "bgColor": "#fcf0f9"
           },
-          "text1": "<p><b>Когда: </b>06.06.2019 в 18.30&nbsp;</p><p><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko</p><p><b>Стоимость: </b>300 грн. при предоплате, </p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 350 грн - в день мероприятия и на месте.</p><p><b>Телефон для справок:</b></p><p>+38 (066) 036 40 29<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span></p>",
+          "text1": "<p><b>Когда: </b>17.07.2019 в 18.30&nbsp;</p><p><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko</p><p><b>Стоимость: </b>300 грн. при предоплате, </p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 350 грн - в день мероприятия и на месте.</p><p><b>Телефон для справок:</b></p><p>+38 (066) 036 40 29<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span></p>",
           "text2": ""
         },
         {
@@ -16458,7 +16020,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Мы обязательно поговорим о здоровье и правилах безопасности в сексе, а также о том, что может помочь вернуть страсть в длительные отношения. Все присутствующие получат интересное «домашнее задание» и примут участие в розыгрыше тематических призов. А еще смогу развеять несколько мифов и стереотипов о сексе и сексуальности.</p><p><br></p><p>Конфиденциальность, безопасное пространство и отличное настроение гарантируется!</p><p><br></p><p><br></p><p>Когда: 06.06.2019 в 18.30&nbsp;</p><p>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko</p><p>Стоимость: 300 грн. при предоплате,<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;350 грн - в день мероприятия и на месте.</span></p><p>Телефоны для справок:</p><p>+38 (066) 036 40 29&nbsp;</p>"
+          "text": "<p>Мы обязательно поговорим о здоровье и правилах безопасности в сексе, а также о том, что может помочь вернуть страсть в длительные отношения. Все присутствующие получат интересное «домашнее задание» и примут участие в розыгрыше тематических призов. А еще смогу развеять несколько мифов и стереотипов о сексе и сексуальности.</p><p><br></p><p>Конфиденциальность, безопасное пространство и отличное настроение гарантируется!</p><p><br></p><p><br></p><p>Когда: 17.07.2019 в 18.30&nbsp;</p><p>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko</p><p>Стоимость: 300 грн. при предоплате,<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;350 грн - в день мероприятия и на месте.</span></p><p>Телефоны для справок:</p><p>+38 (066) 036 40 29&nbsp;</p>"
         },
         {
           "_tags": [
@@ -16498,7 +16060,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/4/subscription&#9;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Здесь</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/8/subscription&#9;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Здесь</a>",
           "text": "Зарегистрироваться и купить билет",
           "title": ""
         },
@@ -20739,6 +20301,383 @@
           },
           "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
+        }
+      ]
+    },
+    "womenHealth.html": {
+      "settings": {
+        "title": "Лекция о женском здоровье",
+        "meta_descr": "Лекция о женском здоровье",
+        "order": 41
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#efefef",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-dm\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-0\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-ub"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_anchor": "footer1-uc"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "46px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-810x450.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#e579d0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0"
+          },
+          "title": "<span style=\"font-weight: normal;\">Ирушки</span><br><span style=\"font-weight: normal;\"><br></span>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_anchor": "msg-box8-ud"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fcf0f9"
+          },
+          "text1": "<p><b>Когда: </b>31.07.2019 в 18.30&nbsp;</p><p><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko</p><p><b>Стоимость: </b>300 грн. при предоплате, </p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 350 грн - в день мероприятия и на месте.</p><p><b>Телефон для справок:</b></p><p>+38 (066) 036 40 29<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span></p>",
+          "text2": "",
+          "_anchor": "content6-ue"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "UL": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<div></div>",
+          "_anchor": "content1-uf"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "UL": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>После этой встречи у вас будет намного больше понимания, что такое менструальный цикл, что есть нормой, а что — повод немедленно обратиться к врачу. И как сохранить свое здоровье, в том числе сексуальное, на долгие годы.</p><p>Вопросы, которые обязательно рассмотрим на лекции:</p><p><br></p><p>— Как образ жизни и окружающий мир влияют на наше женское и сексуальное здоровье?</p><p>— Менструальный цикл: на что обратить внимание в первую очередь.</p><p>— Должен быть ПМС?</p><p>— Как с помощью средств гигиены сделать период менструации комфортным?</p><p>— Что такое менопауза и почему к ней стоит готовиться?</p><p>— Почему окончание фертильного периода не означает окончания сексуальной жизни?</p><p>— Влияет ли отсутствие секса на женское здоровье?</p><p>— Контрацепция: как выбирать без ущерба для своего организма.</p><p>— Бюстгальтер: носить нельзя игнорировать. Польза или вред?</p><p>— Вагинальные шарики и современные тренажеры: когда, зачем и как?</p><p>— Лубриканты, как способ сделать секс более комфортным и безопасным.</p><p>— ВИЧ и ЗППП: о чем важно знать, имея постоянного партнера?</p><p><br></p><p>На встрече можно изучить образцы разных средств гигиены и вагинальные тренажеры.&nbsp;</p><p><br></p><p><br></p><p>Когда: 31.07.2019 в 18.30&nbsp;</p><p>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko</p><p>Стоимость: 300 грн. при предоплате,<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;350 грн - в день мероприятия и на месте.</span></p><p>Телефоны для справок:</p><p>+38 (066) 036 40 29&nbsp;</p>",
+          "_anchor": "content1-ug"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px",
+              "color": "#7e9b9f"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-size": "32px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fcf0f9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://hubyabloko.com/womenHealth.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Здесь</a>",
+          "text": "Зарегистрироваться и купить билет",
+          "title": "",
+          "_anchor": "msg-box1-uh"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "37",
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/39522355-1822272441183105-3921491036022505472-n-424x423.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Лекторка:<br> Юлия Ярмоленко -секс-педагог, автор программ по сексуальной грамотности для подростков и взрослых.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_anchor": "msg-box5-ui"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "font-size": "25px"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"womenHealth2.html\" data-toolbar=\"-mbrBtnMove\">Посмотреть</a>",
+          "text": "<b>Предыдущая лекция</b>",
+          "title": "PRE MADE BLOCKS",
+          "_anchor": "msg-box1-uj"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#00a885",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>",
+          "_anchor": "contacts2-uk"
         }
       ]
     }
