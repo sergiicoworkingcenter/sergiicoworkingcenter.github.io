@@ -8037,7 +8037,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133310.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133312.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16146,7 +16146,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Когда: 23 и 30 июля</p><p>Начинаем в 18.30.</p><p>Где:<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span></p><p>Стоимость лекции 300 грн. при предоплате, 350 грн в день мероприятия.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</span><br></p><p>+38 (066) 036 40 29&nbsp;</p>"
+          "text": "<p><b>Когда:</b> 23 и 30 июля</p><p>Начинаем в 18.30.</p><p><b>Где:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span></p><p><b>Стоимость лекции</b> 300 грн. при предоплате, 350 грн в день мероприятия.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Телефоны для справок:</b></span><br></p><p>+38 (066) 036 40 29&nbsp;</p>"
         },
         {
           "_tags": [
@@ -17006,7 +17006,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50011.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50013.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
