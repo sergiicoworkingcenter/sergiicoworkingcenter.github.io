@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "psychiatry_for_psychologists.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -236,7 +236,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33314.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33318.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -248,7 +248,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33315.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33319.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8150,7 +8150,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133316.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133320.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -9504,7 +9504,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><b>Когда:</b>&nbsp;даты уточняются (пт. с 15.00 до 20.00, сб. и вс. с 11.00 до 19.00 с перерывом на обед)</p><p><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ.&nbsp;</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> 130 уе.</span><br></p><p><b>Телефоны для справок:</b></p><p>+38 (050) 523 99 60&nbsp;<span style=\"font-size: 1.07rem;\">Ольга</span></p><p>+38 (050) 303 92 26 Мария&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+          "text": "<p><b>Когда:</b>&nbsp;6 - 8 декабря (пт. с 15.00 до 20.00, сб. и вс. с 11.00 до 19.00 с перерывом на обед)</p><p><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ.&nbsp;</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> 130 уе.</span><br></p><p><b>Телефоны для справок:</b></p><p>+38 (050) 523 99 60&nbsp;<span style=\"font-size: 1.07rem;\">Ольга</span></p><p>+38 (050) 303 92 26 Мария&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>"
         },
         {
           "_tags": [
@@ -17119,7 +17119,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50017.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50021.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
