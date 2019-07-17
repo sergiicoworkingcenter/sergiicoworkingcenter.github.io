@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "specialization.html",
+    "currentPage": "big_fish.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -236,7 +236,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x3330.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x3334.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -248,7 +248,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3331.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x3335.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8150,7 +8150,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13332.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13336.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -8778,7 +8778,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2019-06-15-16-35-11-720x405.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/solaris01-1024x768.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -8805,7 +8805,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Когда: 21 июня в 18:30.</p><p>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko.</p><p>Стоимость лекции: 150 грн. по предоплате, 200 грн.в день мероприятия и на месте.</p><p>Телефон для справок: </p><p>+38 (050) 523 99 60&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Ольга</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">+38 (050) 303 92 26 Мария&nbsp;</span></p>"
+          "text": "<p>Когда: 25 июля в 18:30.</p><p>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko.</p><p>Стоимость лекции: 150 грн. по предоплате, 200 грн.в день мероприятия и на месте.</p><p>Телефон для справок: </p><p>+38 (050) 523 99 60&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Ольга</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">+38 (050) 303 92 26 Мария&nbsp;</span></p>"
         },
         {
           "_tags": [
@@ -8836,7 +8836,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<div>Фильм «Клетка» - киноклассика, must have в обучении каждого психолога: красочный, захватывающий и очень странный триллер с Дженнифер Лопес и Винсом Воном в главных ролях.&nbsp;</div><div><br></div><div>Картина известного клипмейкера Тарсема Сингха в большом кинематографе заняла и девятнадцать лет прочно удерживает позицию канона между детективным полюсом \"Молчания ягнят\" и мистическим полюсом \"Коматозников\".&nbsp;</div><div><br></div><div>Даже если вы когда-то как-то уже смотрели фильм - приходите, посмотрим вместе так, как вы еще его не видели ;)</div>"
+          "text": "<div>«На первый план режиссёр выдвинул трагичную любовь Криса и Хари — эмоциональный элемент решающим образом доминирует над интеллектуальным. Солярийский же океан является Великим Отсутствующим. В фильме есть своя неповторимая, захватывающая зрителя атмосфера. Насыщение светом, колоритность, трактовка темы, музыка, игра актёров, умеренное применение специальных эффектов, прозрачный сюжет — всё это создаёт произведение необычное, захватывающее, действительно новаторское. Содерберг создал пример смелого художественного кино — твёрдый орешек для раскусывания массовым потребителем, которого кормят голливудской кашей» (Станислав Лем об экранизации романа «Солярис» Стивеном Содербергом).</div><div><br></div><div>Регистрируйтесь и приходите, будем вместе с Вами анализировать кинорассказ о том, что «любовь — это вечно любовь. Даже в будущем вашем далёком»!</div>"
         },
         {
           "_tags": [
@@ -9001,7 +9001,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/7/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/13/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a> ",
           "text": "Купить билет<br>(150грн.)",
           "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
         },
@@ -9041,11 +9041,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/10850308-866107150076460-1965250504484444494-n-1400x1400-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/58590372-10216128909434574-6447656457247653888-n-484x484.jpg",
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -17119,7 +17118,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x5003.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x5007.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
