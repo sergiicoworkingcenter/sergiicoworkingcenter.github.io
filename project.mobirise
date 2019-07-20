@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "big_fish.html",
+    "currentPage": "1step_for_psychotherapist.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -23,7 +23,8 @@
       "additionalSetColors": [
         "#e579d0",
         "#fbdef5",
-        "#fcf0f9"
+        "#fcf0f9",
+        "#eaedfa"
       ]
     },
     "versionFirst": "3.12.1",
@@ -236,7 +237,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x3334.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x3338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -248,7 +249,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3335.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x3339.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -832,7 +833,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -1160,7 +1161,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -1369,7 +1370,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -1578,7 +1579,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -1787,7 +1788,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -2021,7 +2022,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -2230,7 +2231,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -2365,7 +2366,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         },
         {
@@ -2730,7 +2731,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -2965,7 +2966,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -3169,7 +3170,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         },
         {
@@ -3255,13 +3256,13 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-37",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButton": false,
             "paddingTop": "5",
-            "paddingBottom": "0",
+            "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-11-2000x666.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-4-1500x500.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -3271,7 +3272,7 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0"
           },
           "title": "",
           "text": "<p><br></p><p><br></p><p><br></p><p><br></p>",
@@ -3288,7 +3289,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>В современном мире на первый план выходят навыки успешной коммуникации и осознанного поведения. С этими навыками не рождаются, но им вполне возможно научиться, что существенно повысит качество вашей жизни и темпы личностного роста. А людям, чья работа требует регулярного и многоуровневого общения с людьми, просто необходим высокий уровень психологического образования.</p><p>Именно поэтому мы приглашаем вас на программу «Теория и практика гештальт-терапии.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1 ступень».</span></p><p><br></p><p>Программа будет полезна людям, интересующимися своим внутренним миром, отношениями с близкими людьми и гармоничными отношениями с окружающим миром. Прохождение программы поможет на работе, если вам необходимо находить общий язык с людьми и при этом отстаивать свои интересы. Также программа будет полезна людям помогающих профессий: психологам, hr-ам, педагогам, врачам, социальным работникам. Ну и, конечно, это программа необходима, если вы планируете стать гештальт-терапевтом.</p><p><br></p>"
+          "text": "<p>Жизнь быстрее, мир теснее, требования к себе все выше и выше.</p><p><br></p><p>Как во всем этом меняющемся потоке «надо», «должен», «успеть», «справиться», «достичь» прожить свою жизнь? Достичь не всего, а именно того, что будет радовать? Отпустить или даже прогнать тех, кто мучает и найти тех, рядом с которыми тепло? Как понять, чего хочется на самом деле и не бороться за все сокровища мира, которые для вас захотел кто-то другой? Как найти тот самый заветный баланс в жизни, чтобы сложилось важное?</p><p><br></p><p>Чтобы разобраться со всеми «как» и познакомиться с собой настоящим, приглашаем Вас в обучающе-исследовательский проект «Основы гештальт-терапии. 1 ступень».</p><p><br></p><p>Группу ведут:</p><p>Виктория Кривцова - аккредитованный гештальт- терапевт, сертифицированный супервизор.</p><p>Светлана Николаеко - аккредитованный гештальт- терапевт, сертифицированный супервизор.</p><p>Куратор проекта:</p><p>Таисия Тадыка - ведущий тренер ВОППГП, врач-психиатр, нарколог.</p><p><br></p><p><br></p>"
         },
         {
           "_tags": [
@@ -3304,9 +3305,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#eaedfa"
           },
-          "text": "<p><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, Lifehub Yabloko</p><p><b>Когда:</b>&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1 модуль: 01.03.2019 - 03.03.2019&nbsp;</span></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>2 модуль:</b> <b>10.05.2019 - 12.05.2019 </b>(После второго модуля группа закрывается, это связанно с правилами ведения групп)</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3 модуль: 13.07.2019 - 15.07.2019\u001b</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4 модуль: 30.08.2019 - 01.09.2019</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5 модуль: 15.11.2019 - 17.11.2019</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;6 модуль: 17.01.2020 - 19.01.2020</p><p><br></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Расписание модуля:</b><br></p><p>пт. 15:00-20:00</p><p>сб. 11:00-19:00</p><p>вс. 11:00-19:00</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Стоимость одного модуля:</b> 120 уе.</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Контактные телефоны:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">+38 (050) 523 99 60</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">+38 (097) 901 37 15 Ольга</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">+38 (050) 303 92 26 Мария<br></span><br></p><p><br></p>"
+          "text": "<p><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, Lifehub Yabloko</p><p><b>Когда:</b>&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1 модуль: 18.10.2019 - 20.10.2019&nbsp;</span></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>&nbsp;</b>Расписание остальных пяти модулей будет согласованно и назначенно вместе с группой. </p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; После второго модуля группа закрывается, это связанно с правилами ведения групп.</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Расписание модуля:</b><br></p><p>пт. 15:00-20:00</p><p>сб. 11:00-19:00</p><p>вс. 11:00-19:00</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Стоимость одного модуля:</b> 100 уе.</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Контактные телефоны:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">+38 (050) 523 99 60</span><span style=\"font-size: 1.07rem;\">&nbsp;Ольга</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">+38 (050) 303 92 26 Мария<br></span><br></p><p><br></p>"
         },
         {
           "_styles": {
@@ -3426,7 +3427,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Гештальт - терапия - это самостоятельное направление в современной практической психологии, сосредоточенное на восстановлении контакта человека с собой, окружающим миром и обретение жизненной энергии, посредством работы с актуальными чувствами и телесными проявлениями.&nbsp;</p><p><br></p><p>Приглашаем вас принять участие в обучающей программе I ступени ВОППГП (всеукраинское общество практикующих психологов гештальт-подход) \"ОСНОВЫ ГЕШТАЛЬТ-ТЕРАПИИ\".</p><p><br></p><p>Программа соответствует стандартам Европейской Ассоциации Гештальт Терапии (EAGT).&nbsp;</p><p>В рамках обучения на первой ступени участники посетят шесть трехдневных модулей (пятница - воскресенье) с перерывом в 1.5 - 2 месяца.</p><p><br></p><p>Количество участников в группе 10-17 человек.&nbsp;</p><p><br></p><p>Формы и методы обучения: теоретическая подготовка (лекции и семинары), личная терапия (индивидуальная и групповая), групповая динамика.</p><p><br></p><p>По окончанию выдаётся сертификат ОППГП.</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Программа предназначена для всех интересующихся вопросами психологии.</span><br></p><p><br></p><p>Программа включает в себя знакомство с методом, теоретическими основами и историей возникновения метода, обучение основным понятиям и принципам гештальт-подхода, личный терапевтический опыт в группе.&nbsp;</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">В процессе обучения вы познакомитесь с философией и методологией гештальт-подхода, побываете в роли клиента и убедитесь в эффективности этого метода лично для себя, попробуете разные техники гештальт-терапии, научитесь использовать элементы гештальт-подхода в работе и в своей жизни.</span><br></p><p>&nbsp;</p><p>В результате прохождения данной программы, вы станете лучше понимать мотивы ваших действий, научитесь делать осознанный выбор в жизненных ситуациях, не поддаваясь манипуляциям окружающих, повысите свою эффективность, улучшите качество жизни.</p><p><br></p>"
+          "text": "<p>Гештальт - терапия - это самостоятельное направление в современной практической психологии, сосредоточенное на восстановлении контакта человека с собой, окружающим миром и обретение жизненной энергии, посредством работы с актуальными чувствами и телесными проявлениями.&nbsp;</p><p><br></p><p>Приглашаем вас принять участие в обучающей программе I ступени ВОППГП (всеукраинское общество практикующих психологов гештальт-подход) \"ОСНОВЫ ГЕШТАЛЬТ-ТЕРАПИИ\".</p><p><br></p><p>Программа соответствует стандартам Европейской Ассоциации Гештальт Терапии (EAGT).&nbsp;</p><p>В рамках обучения на первой ступени участники посетят шесть трехдневных модулей (пятница - воскресенье) с перерывом в 1.5 - 2 месяца.</p><p><br></p><p>Количество участников в группе 10-15 человек.&nbsp;</p><p><br></p><p>Формы и методы обучения: теоретическая подготовка (лекции и семинары), личная терапия (индивидуальная и групповая), групповая динамика.</p><p><br></p><p>По окончанию выдаётся сертификат ОППГП.</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Программа предназначена для всех интересующихся вопросами психологии.</span><br></p><p><br></p><p>Программа включает в себя знакомство с методом, теоретическими основами и историей возникновения метода, обучение основным понятиям и принципам гештальт-подхода, личный терапевтический опыт в группе.&nbsp;</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">В процессе обучения вы познакомитесь с философией и методологией гештальт-подхода, побываете в роли клиента и убедитесь в эффективности этого метода лично для себя, попробуете разные техники гештальт-терапии, научитесь использовать элементы гештальт-подхода в работе и в своей жизни.</span><br></p><p>&nbsp;</p><p>В результате прохождения данной программы, вы станете лучше понимать мотивы ваших действий, научитесь делать осознанный выбор в жизненных ситуациях, не поддаваясь манипуляциям окружающих, повысите свою эффективность, улучшите качество жизни.</p><p><br></p>"
         },
         {
           "_tags": [
@@ -3444,13 +3445,13 @@
             "showText": false,
             "showButtons": true,
             "inverse": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#eaedfa",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3461,7 +3462,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"1step_for_life.html\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "Хочу разобраться со своими переживаниями и жизненными ситуациями"
+          "title": "Как все будет проходить?"
         },
         {
           "_tags": [
@@ -3479,13 +3480,13 @@
             "showText": false,
             "showButtons": true,
             "inverse": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#eaedfa",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3496,7 +3497,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"1step_for_psychotherapist.html\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "Хочу стать гештальт-терапевтом"
+          "title": "Гештальт для работы"
         },
         {
           "_tags": [
@@ -3534,11 +3535,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/49496963-1945550215529677-8298223252229062656-n-1-719x900.jpg",
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -3553,7 +3553,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Ведущий группы:<br>Роман Сидорченко - ассоциированный тренер ВОППГП, врач-психиатр (г. Киев).<br>",
+          "text": "Ведущая группы:<br>Виктория Кривцова - аккредитованный гештальт- терапевт, сертифицированный супервизор.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -3592,11 +3592,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x2140.jpg",
+              "src": "@PROJECT_PATH@/assets/images/14671318-1814110395542542-8373546628498408448-n-847x847.jpg",
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -3611,7 +3610,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Ведущая группы:<br>Алена Шараева -  психолог, психотерапевт (г. Киев).<br>",
+          "text": "Ведущая группы:<br>Светлана Николаеко - аккредитованный гештальт- терапевт, сертифицированный супервизор.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -3643,7 +3642,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Заявка на участие в программе <br>\"Теория и практика гештальт-терапии. <br>1 ступень\"",
+          "title": "Заявка на участие в программе <br>\"Основы гештальт-терапии. <br>1 ступень\"",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "mykhalyova@gmail.com",
@@ -3704,7 +3703,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -4139,7 +4138,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -4639,7 +4638,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -5109,7 +5108,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -5542,7 +5541,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -6371,7 +6370,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -6780,7 +6779,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -7510,7 +7509,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -8010,7 +8009,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -8150,7 +8149,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13336.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133310.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -8342,7 +8341,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -8732,7 +8731,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         },
         {
@@ -9092,7 +9091,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -9439,7 +9438,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -9773,7 +9772,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -10049,7 +10048,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -10211,7 +10210,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -10586,7 +10585,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -10970,7 +10969,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -11483,7 +11482,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -11512,13 +11511,13 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-or",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButton": false,
             "paddingTop": "5",
-            "paddingBottom": "0",
+            "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-11-2000x666.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-4-1500x500.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11528,7 +11527,7 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0"
           },
           "title": "",
           "text": "<p><br></p><p><br></p><p><br></p><p><br></p>",
@@ -11652,7 +11651,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ответы на некоторые вопросы, которые люди задают перед тем, как пойти на учебную  группу «Основы гештальт-терапии. 1 ступень».</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Что такое учебная группа?</b></span><br></p><p>Это небольшая групп людей 10 - 17 человек. Они приходят в определенное, заранее назначенное время.  Вместе они проведут три дня, делая перерывы каждый час-полтора, на то, чтобы, например, выпить чая или кофе. Так же предусмотрен обеденный перерыв. Обычно люди располагаются на удобных стульях или креслах в круг. Такое расположение позволяет всем более или менее хорошо видеть друг друга. У группы есть ведущий. Их может быть один или два. Это опытные психотерапевты, чья квалификация позволяет вести данную группу.</p><p><br></p><p><b>Что за люди приходят на группы?</b></p><p>Ничего особенного в них нет. Обычные люди, которым интересен свой внутренний мир, чувства и переживания, способы контактировать с окружающим миром.&nbsp;</p><p><br></p><p><b>Как происходит обучение?</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Учебный процесс включает в себя три основные формы: лекции, терапевтическая группа и индивидуальные работы. Немного поясним, что такое терапевтическая группа.  Дело в том, что,  хотим мы или нет, но в группе начинаем жить так же как, как и в обычной жизни. Иначе, просто не можем. А дальше, находясь в окружении людей, которые обеспечивают нам достаточно благоприятную среду, мы можем остановится и рассмотреть, что же собственно происходит с нашей жизнью. Если вы смотрели фильм “Матрица”, то группу можно сравнить с эффектом остановки времени, когда привычный темп течения событий вдруг замирает, и у нас появляется шанс “походить” вокруг и понять, что, собственно, происходит. А поняв это, выработать индивидуальное, подходящее только конкретно вам решение, что нужно с этим счастьем делать. Индивидуальные работы - это обычные консультации, только происходят они в кругу с последующим откликом всей группы. Отклик построен таким образом, чтобы не давать советов и не оценивать. Подобные консультации очень часто затрагивают многих участников группы и оказываются полезными не только тому, кто работает в кругу.</span><br></p><p><br></p><p><b>А как все это происходит?</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Посторонний наблюдатель мог бы увидеть людей которые сидят в кругу и разговаривают. Вот только от обычных бесед, диалоги в группе отличаются тем, что сопровождаются различными, иногда достаточно неожиданными чувствами. Вы даже не представляете сколько всего может с вами произойти, если вам просто позволить говорить свободно, отслеживая при это свои чувства. Пребывание в группе -процесс крайне увлекательный сам по себе. И в группе не может быть посторонних наблюдателей.&nbsp;</span><br></p><p><br></p><p><b>Какие правила у всего этого процесса?</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Первое, и, наверное самое главное правило, это конфиденциальность. Все, что было сказано в группе в ней же и остается. Это важно, особенно когда участники начинают чуть чуть больше доверять друг другу и раскрывается немного больше, чем в обычной жизни. </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Второе - полный запрет насилия и принуждения. </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Третье - в группе не поощряются такие вещи как осуждение, оценка. Мы слишком разные, а мир очень многообразен, для того, что бы кто-либо кого-либо осуждал. </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Четвертое правило - правило “стоп”. Вы можете  в любой момент остановить любое действие касающееся Вас.</span></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ответы на некоторые вопросы, которые люди задают перед тем, как пойти на учебную  группу «Основы гештальт-терапии. 1 ступень».</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Что такое учебная группа?</b></span><br></p><p>Это небольшая групп людей 10 - 15 человек. Они приходят в определенное, заранее назначенное время.  Вместе они проведут три дня, делая перерывы каждый час-полтора, на то, чтобы, например, выпить чая или кофе. Так же предусмотрен обеденный перерыв. Обычно люди располагаются на удобных стульях или креслах в круг. Такое расположение позволяет всем более или менее хорошо видеть друг друга. У группы есть ведущий. Их может быть один или два. Это опытные психотерапевты, чья квалификация позволяет вести данную группу.</p><p><br></p><p><b>Что за люди приходят на группы?</b></p><p>Ничего особенного в них нет. Обычные люди, которым интересен свой внутренний мир, чувства и переживания, способы контактировать с окружающим миром.&nbsp;</p><p><br></p><p><b>Как происходит обучение?</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Учебный процесс включает в себя три основные формы: лекции, терапевтическая группа и индивидуальные работы. Немного поясним, что такое терапевтическая группа.  Дело в том, что,  хотим мы или нет, но в группе начинаем жить так же как, как и в обычной жизни. Иначе, просто не можем. А дальше, находясь в окружении людей, которые обеспечивают нам достаточно благоприятную среду, мы можем остановится и рассмотреть, что же собственно происходит с нашей жизнью. Если вы смотрели фильм “Матрица”, то группу можно сравнить с эффектом остановки времени, когда привычный темп течения событий вдруг замирает, и у нас появляется шанс “походить” вокруг и понять, что, собственно, происходит. А поняв это, выработать индивидуальное, подходящее только конкретно вам решение, что нужно с этим счастьем делать. Индивидуальные работы - это обычные консультации, только происходят они в кругу с последующим откликом всей группы. Отклик построен таким образом, чтобы не давать советов и не оценивать. Подобные консультации очень часто затрагивают многих участников группы и оказываются полезными не только тому, кто работает в кругу.</span><br></p><p><br></p><p><b>А как все это происходит?</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Посторонний наблюдатель мог бы увидеть людей которые сидят в кругу и разговаривают. Вот только от обычных бесед, диалоги в группе отличаются тем, что сопровождаются различными, иногда достаточно неожиданными чувствами. Вы даже не представляете сколько всего может с вами произойти, если вам просто позволить говорить свободно, отслеживая при это свои чувства. Пребывание в группе -процесс крайне увлекательный сам по себе. И в группе не может быть посторонних наблюдателей.&nbsp;</span><br></p><p><br></p><p><b>Какие правила у всего этого процесса?</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Первое, и, наверное самое главное правило, это конфиденциальность. Все, что было сказано в группе в ней же и остается. Это важно, особенно когда участники начинают чуть чуть больше доверять друг другу и раскрывается немного больше, чем в обычной жизни. </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Второе - полный запрет насилия и принуждения. </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Третье - в группе не поощряются такие вещи как осуждение, оценка. Мы слишком разные, а мир очень многообразен, для того, что бы кто-либо кого-либо осуждал. </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Четвертое правило - правило “стоп”. Вы можете  в любой момент остановить любое действие касающееся Вас.</span></p>"
         },
         {
           "_tags": [
@@ -11670,13 +11669,13 @@
             "showText": false,
             "showButtons": true,
             "inverse": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#eaedfa",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -11705,13 +11704,13 @@
             "showText": false,
             "showButtons": true,
             "inverse": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#eaedfa",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -11753,7 +11752,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Заявка на участие в программе <br>\"Теория и практика гештальт-терапии. <br>1 ступень\"",
+          "title": "Заявка на участие в программе <br>\"Основы гештальт-терапии. <br>1 ступень\"",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "mykhalyova@gmail.com",
@@ -11814,7 +11813,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -11843,13 +11842,13 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-p2",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButton": false,
             "paddingTop": "5",
-            "paddingBottom": "0",
+            "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-11-2000x666.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-4-1500x500.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11859,7 +11858,7 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0"
           },
           "title": "",
           "text": "<p><br></p><p><br></p><p><br></p><p><br></p>",
@@ -12001,13 +12000,13 @@
             "showText": false,
             "showButtons": true,
             "inverse": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#eaedfa",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -12036,13 +12035,13 @@
             "showText": false,
             "showButtons": true,
             "inverse": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#eaedfa",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -12084,7 +12083,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Заявка на участие в программе <br>\"Теория и практика гештальт-терапии. <br>1 ступень\"",
+          "title": "Заявка на участие в программе <br>\"Основы гештальт-терапии. <br>1 ступень\"",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "mykhalyova@gmail.com",
@@ -12145,7 +12144,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -12553,7 +12552,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -12966,7 +12965,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -13343,7 +13342,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -13699,7 +13698,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -14043,7 +14042,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -14424,7 +14423,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -14700,7 +14699,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -14976,7 +14975,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -15252,7 +15251,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -15609,7 +15608,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -16091,7 +16090,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -16470,7 +16469,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -16978,7 +16977,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -17118,7 +17117,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x5007.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50011.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17334,7 +17333,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>"
         }
       ]
@@ -17710,7 +17709,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60<br>+38 (097) 901 37 15 Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>",
           "_anchor": "contacts2-uk"
         }
