@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "1step.html",
+    "currentPage": "1step_for_psychotherapist.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -237,7 +237,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33360.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33364.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -249,7 +249,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33361.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33365.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8266,7 +8266,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133362.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133366.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11634,7 +11634,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-4-1500x500.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-5-1500x500.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11965,7 +11965,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-4-1500x500.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-5-1500x500.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17234,7 +17234,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50063.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50067.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
