@@ -4999,3 +4999,191 @@ section.form .container {
   color: #ffffff;
   font-size: 16px;
 }
+
+#msg-box8-uy .mbr-section-title,
+#msg-box8-uy p {
+  color: #fff;
+}
+#msg-box8-uy .mbr-section-title {
+  font-family: 'Lora', serif;
+}
+#msg-box8-uy .lead H4 {
+  color: #ffffff;
+}
+#content1-v0 P {
+  text-align: left;
+}
+#msg-box5-v1 P {
+  font-size: 22px;
+}
+#form1-v3 .form-control-label {
+  color: #232323;
+}
+#form1-v3 .mbr-section-title {
+  font-size: 30px;
+}
+#menu-v4 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-v4 .navbar-caption {
+  color: #ffffff;
+}
+#menu-v4 .navbar-toggler {
+  color: #28324e;
+}
+#menu-v4 .link,
+#menu-v4 .dropdown-item {
+  color: #28324e;
+}
+#menu-v4 .link {
+  font-size: 0.6rem;
+}
+#menu-v4 .dropdown-item,
+#menu-v4 .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-v4 .link:hover,
+#menu-v4 .dropdown-item:hover,
+#menu-v4 .link:focus,
+#menu-v4 .dropdown-item:focus {
+  color: #475577;
+}
+#menu-v4 .link[aria-expanded="true"],
+#menu-v4 .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-v4 .nav-dropdown-sm .link:focus,
+#menu-v4 .nav-dropdown-sm .link:hover,
+#menu-v4 .nav-dropdown-sm .dropdown-item:focus,
+#menu-v4 .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-v4 .navbar,
+#menu-v4 .nav-dropdown-sm,
+#menu-v4 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-v4 .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-v4 .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-v4 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-v4 .bg-color.transparent.opened .link:hover,
+#menu-v4 .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-v4 .link[aria-expanded="true"],
+#menu-v4 .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-v4.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-v4 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-v4 .close-icon::before,
+#menu-v4 .close-icon::after {
+  background-color: #28324e;
+}
+#contacts2-v6 STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
+
+#msg-box8-v7 .mbr-section-title,
+#msg-box8-v7 p {
+  color: #fff;
+}
+#msg-box8-v7 .mbr-section-title {
+  font-family: 'Lora', serif;
+}
+#msg-box8-v7 .lead H4 {
+  color: #ffffff;
+}
+#content1-v9 P {
+  text-align: left;
+}
+#msg-box5-va P {
+  font-size: 22px;
+}
+#form1-vb .form-control-label {
+  color: #232323;
+}
+#form1-vb .mbr-section-title {
+  font-size: 30px;
+}
+#menu-vc .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-vc .navbar-caption {
+  color: #ffffff;
+}
+#menu-vc .navbar-toggler {
+  color: #28324e;
+}
+#menu-vc .link,
+#menu-vc .dropdown-item {
+  color: #28324e;
+}
+#menu-vc .link {
+  font-size: 0.6rem;
+}
+#menu-vc .dropdown-item,
+#menu-vc .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-vc .link:hover,
+#menu-vc .dropdown-item:hover,
+#menu-vc .link:focus,
+#menu-vc .dropdown-item:focus {
+  color: #475577;
+}
+#menu-vc .link[aria-expanded="true"],
+#menu-vc .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-vc .nav-dropdown-sm .link:focus,
+#menu-vc .nav-dropdown-sm .link:hover,
+#menu-vc .nav-dropdown-sm .dropdown-item:focus,
+#menu-vc .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-vc .navbar,
+#menu-vc .nav-dropdown-sm,
+#menu-vc .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-vc .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-vc .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-vc .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-vc .bg-color.transparent.opened .link:hover,
+#menu-vc .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-vc .link[aria-expanded="true"],
+#menu-vc .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-vc.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-vc .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-vc .close-icon::before,
+#menu-vc .close-icon::after {
+  background-color: #28324e;
+}
+#contacts2-ve STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
