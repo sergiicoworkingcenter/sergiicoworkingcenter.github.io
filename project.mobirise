@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "1step_for_life.html",
+    "currentPage": "1step.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -237,7 +237,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33356.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33360.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -249,7 +249,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33357.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33361.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3424,7 +3424,7 @@
             "paddingBottom": 1,
             "bgColor": "#eaedfa"
           },
-          "text": "<p><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, Lifehub Yabloko</p><p><b>Когда:</b>&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1 модуль: 18.10.2019 - 20.10.2019&nbsp;</span></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>&nbsp;</b>Расписание остальных пяти модулей будет согласовано и назначенно вместе с группой. </p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; После второго модуля группа закрывается, это связанно с правилами ведения групп.</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Расписание модуля:</b><br></p><p>пт. 15:00-20:00</p><p>сб. 11:00-19:00</p><p>вс. 11:00-19:00</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Стоимость одного модуля:</b> 100 уе.</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Контактные телефоны:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">+38 (050) 523 99 60</span><span style=\"font-size: 1.07rem;\">&nbsp;Ольга</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">+38 (050) 303 92 26 Мария<br></span><br></p><p><br></p>"
+          "text": "<p><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, Lifehub Yabloko</p><p><b>Когда:</b>&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1 модуль: 18.10.2019 - 20.10.2019&nbsp;</span></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>&nbsp;</b>Расписание остальных пяти модулей будет согласовано и назначенно вместе с группой. </p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; После второго модуля группа закрывается, это связанно с правилами ведения групп.</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; По окончанию выдаётся сертификат ОППГП..</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Расписание модуля:</b><br></p><p>пт. 15:00-20:00</p><p>сб. 11:00-19:00</p><p>вс. 11:00-19:00</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Стоимость одного модуля:</b> 100 уе.</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Контактные телефоны:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">+38 (050) 523 99 60</span><span style=\"font-size: 1.07rem;\">&nbsp;Ольга</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">+38 (050) 303 92 26 Мария<br></span><br></p><p><br></p>"
         },
         {
           "_styles": {
@@ -3652,7 +3652,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/49496963-1945550215529677-8298223252229062656-n-1-719x900.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20190320-205300-1080x1210.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8266,7 +8266,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133358.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133362.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17234,7 +17234,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50059.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50063.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
