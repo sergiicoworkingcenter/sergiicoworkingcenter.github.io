@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "group.html",
+    "currentPage": "supergroup1.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -237,7 +237,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33344.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33348.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -249,7 +249,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33345.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33349.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8266,7 +8266,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133346.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133350.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17234,7 +17234,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50047.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50051.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17890,7 +17890,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><b>Расписание группы сезон 2019/2020:</b></p><p>30 сентября &nbsp;10.00-18.00</p><p>28 октября &nbsp; &nbsp;10.00-18.00</p><p>25 ноября &nbsp; &nbsp; &nbsp;10.00-18.00</p><p>23 декабря &nbsp; &nbsp;10.00-18.00</p><p>20 января &nbsp; &nbsp; &nbsp;10.00-18.00</p><p>17 феврал &nbsp; &nbsp; 10.00-18.00</p><p>30 марта &nbsp; &nbsp; &nbsp; &nbsp;10.00-18.00</p><p>20 апреля &nbsp; &nbsp; &nbsp;10.00-18.00</p><p>25 мая &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;10.00-18.00</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Где:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</span><br></p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ и всех, кого интересует тема пищевого поведения</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;1000 грн.\u001b\u001b\u001b</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</b><br></p><p>+38 (050) 523 99 60<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Ольга</span></p><p>+38 (050) 303 92 26 Мария</p>",
+          "text": "<p><b>Расписание группы сезон 2019/2020:</b></p><p>30 сентября &nbsp;10.00-18.00</p><p>28 октября &nbsp; &nbsp;10.00-18.00</p><p>25 ноября &nbsp; &nbsp; &nbsp;10.00-18.00</p><p>23 декабря &nbsp; &nbsp;10.00-18.00</p><p>20 января &nbsp; &nbsp; &nbsp;10.00-18.00</p><p>17 феврал &nbsp; &nbsp; 10.00-18.00</p><p>30 марта &nbsp; &nbsp; &nbsp; &nbsp;10.00-18.00</p><p>20 апреля &nbsp; &nbsp; &nbsp;10.00-18.00</p><p>25 мая &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;10.00-18.00</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Где:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</span><br></p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ.</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;1000 грн.\u001b\u001b\u001b</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</b><br></p><p>+38 (050) 523 99 60<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Ольга</span></p><p>+38 (050) 303 92 26 Мария</p>",
           "_anchor": "content1-up"
         },
         {
@@ -18285,7 +18285,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><b>Расписание группы сезон 2019/2020:</b></p><p>5 сентября &nbsp;11.00-19.00</p><p>Расписание остальных встречь будет назначено вместе с группой.</p><p>Встречи будут происходить раз в месяц.</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Где:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</span><br></p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ и всех, кого интересует тема пищевого поведения</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;1000 грн.\u001b\u001b\u001b</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</b><br></p><p>+38 (050) 523 99 60<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Ольга</span></p><p>+38 (050) 303 92 26 Мария</p>",
+          "text": "<p><b>Расписание группы сезон 2019/2020:</b></p><p>5 сентября &nbsp;11.00-19.00</p><p>Расписание остальных встречь будет назначено вместе с группой.</p><p>Встречи будут происходить раз в месяц.</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Где:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</span><br></p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ.</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;1000 грн.\u001b\u001b\u001b</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</b><br></p><p>+38 (050) 523 99 60<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Ольга</span></p><p>+38 (050) 303 92 26 Мария</p>",
           "_anchor": "content1-uz"
         },
         {
