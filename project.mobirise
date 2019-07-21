@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "supergroup1.html",
+    "currentPage": "group.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -237,7 +237,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33348.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33352.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -249,7 +249,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33349.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33353.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8266,7 +8266,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133350.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133354.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17234,7 +17234,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50051.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50055.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18285,7 +18285,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><b>Расписание группы сезон 2019/2020:</b></p><p>5 сентября &nbsp;11.00-19.00</p><p>Расписание остальных встречь будет назначено вместе с группой.</p><p>Встречи будут происходить раз в месяц.</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Где:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</span><br></p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ.</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;1000 грн.\u001b\u001b\u001b</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</b><br></p><p>+38 (050) 523 99 60<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Ольга</span></p><p>+38 (050) 303 92 26 Мария</p>",
+          "text": "<p><b>Расписание группы сезон 2019/2020:</b></p><p>5 сентября &nbsp;11.00-19.00</p><p>Расписание остальных встреч будет назначено вместе с группой.</p><p>Встречи будут происходить раз в месяц.</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Где:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</span><br></p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ.</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;1000 грн.\u001b\u001b\u001b</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</b><br></p><p>+38 (050) 523 99 60<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Ольга</span></p><p>+38 (050) 303 92 26 Мария</p>",
           "_anchor": "content1-uz"
         },
         {
@@ -18303,7 +18303,7 @@
             "paddingBottom": "4",
             "bgColor": "#fff"
           },
-          "text": "<b>Для качественного развития или удачного старта практики приглашаем гештальт-терапевтов в супервизорскую группы.\n</b><div><b>\n</b></div><div><b><br></b></div><div><b>Встречи один раз в месяц, по понедельникам с 11:00-19:00.\n</b></div><div><b>Количество участников 8-12 человек. После набора (2-3 встречи) группа работает в закрытом формате.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Формат работы: индивидуальные сессии, очная и заочная супервизия, групповая супервизия, процесс-анализ - по запросу присутствующих.</b></div><div><b>\n</b></div>",
+          "text": "<b>Для качественного развития или удачного старта практики приглашаем гештальт-терапевтов в супервизорскую группы.\n</b><div><b>\n</b></div><div><b><br></b></div><div><b>Встречи один раз в месяц с 11:00-19:00.\n</b></div><div><b>Количество участников 8-12 человек. После набора (2-3 встречи) группа работает в закрытом формате.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Формат работы: индивидуальные сессии, очная и заочная супервизия, групповая супервизия, процесс-анализ - по запросу присутствующих.</b></div><div><b>\n</b></div>",
           "_anchor": "content1-v0"
         },
         {
@@ -18359,7 +18359,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Людмила Волошина (Lyudmila Voloshina) - сертифицированный гештальт-терапевт, аккредитованный супервизор, ассоциированный тренер ОППГП. Ведущая специализации \" Работа с зависимыми состояниями в гештальт подходе\".<br>",
+          "text": "Людмила Волошина - сертифицированный гештальт-терапевт, аккредитованный супервизор, ассоциированный тренер ОППГП. Ведущая специализации \" Работа с зависимыми состояниями в гештальт подходе\".<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_anchor": "msg-box5-v1"
         },
@@ -18623,7 +18623,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><b>Расписание группы сезон 2019/2020:</b></p><p>9 сентября &nbsp;11.00-19.00</p><p>Расписание остальных встречь будет назначено вместе с группой.</p><p>Встречи будут происходить раз в месяц.</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Где:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;800 грн.\u001b\u001b\u001b</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</b><br></p><p>+38 (050) 523 99 60<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Ольга</span></p><p>+38 (050) 303 92 26 Мария</p>",
+          "text": "<p><b>Расписание группы сезон 2019/2020:</b></p><p>9 сентября &nbsp;11.00-19.00</p><p>Расписание остальных встреч будет назначено вместе с группой.</p><p>Встречи будут происходить раз в месяц.</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Где:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;800 грн.\u001b\u001b\u001b</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</b><br></p><p>+38 (050) 523 99 60<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Ольга</span></p><p>+38 (050) 303 92 26 Мария</p>",
           "_anchor": "content1-v8"
         },
         {
