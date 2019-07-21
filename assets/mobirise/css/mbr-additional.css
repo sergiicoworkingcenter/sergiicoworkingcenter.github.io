@@ -4902,3 +4902,100 @@ section.form .container {
   color: #ffffff;
   font-size: 16px;
 }
+
+#msg-box8-uo .mbr-section-title,
+#msg-box8-uo p {
+  color: #fff;
+}
+#msg-box8-uo .mbr-section-title {
+  font-family: 'Lora', serif;
+}
+#msg-box8-uo .lead H4 {
+  color: #ffffff;
+}
+#content1-ur P {
+  text-align: left;
+}
+#msg-box5-us P {
+  font-size: 22px;
+}
+#msg-box5-ux P {
+  font-size: 22px;
+}
+#form1-ut .form-control-label {
+  color: #232323;
+}
+#form1-ut .mbr-section-title {
+  font-size: 30px;
+}
+#menu-uu .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-uu .navbar-caption {
+  color: #ffffff;
+}
+#menu-uu .navbar-toggler {
+  color: #28324e;
+}
+#menu-uu .link,
+#menu-uu .dropdown-item {
+  color: #28324e;
+}
+#menu-uu .link {
+  font-size: 0.6rem;
+}
+#menu-uu .dropdown-item,
+#menu-uu .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-uu .link:hover,
+#menu-uu .dropdown-item:hover,
+#menu-uu .link:focus,
+#menu-uu .dropdown-item:focus {
+  color: #475577;
+}
+#menu-uu .link[aria-expanded="true"],
+#menu-uu .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-uu .nav-dropdown-sm .link:focus,
+#menu-uu .nav-dropdown-sm .link:hover,
+#menu-uu .nav-dropdown-sm .dropdown-item:focus,
+#menu-uu .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-uu .navbar,
+#menu-uu .nav-dropdown-sm,
+#menu-uu .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-uu .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-uu .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-uu .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-uu .bg-color.transparent.opened .link:hover,
+#menu-uu .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-uu .link[aria-expanded="true"],
+#menu-uu .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-uu.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-uu .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-uu .close-icon::before,
+#menu-uu .close-icon::after {
+  background-color: #28324e;
+}
+#contacts2-uw STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
