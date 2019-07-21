@@ -237,7 +237,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33336.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33340.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -249,7 +249,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33337.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33341.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -316,7 +316,7 @@
         {
           "_params": {
             "showImages": true,
-            "showTitles": false,
+            "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
@@ -395,13 +395,13 @@
               "active": true
             }
           },
-          "title1": "Программа по работе с созависимостью",
+          "title1": "старт 9 сентября",
           "subtitle1": "",
           "caption1": "",
-          "title2": "Business Case Club",
+          "title2": "старт 5 сентября",
           "subtitle2": "Business Case Club – это лаборатория уникального практического опыта, полезных идей, а также увлекательного и открытого общения.&nbsp;",
           "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Для бизнесменов, руководителей, консультантов и организационных психологов.</span><br>Разбор актуальных задач, индивидуальное консультирование и супервизии, новые практики управления организационным развитием и бизнес процессами.<br>",
-          "title3": "1 ступень",
+          "title3": "старт 30 сентября",
           "subtitle3": "Теория и практика гештальт - терапии&nbsp;",
           "caption3": "- разобраться со своими чувствами и переживаниями,<br>- понять причины сложных жизненных ситуаций,<br>- взглянуть по-другому на отношения с близкими и ценными людьми,<br>- добавить немного оптимизма и легкости в вашу жизнь<br>",
           "title4": "Unlimited Sites",
@@ -8266,7 +8266,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133342.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17234,7 +17234,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50039.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50043.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
