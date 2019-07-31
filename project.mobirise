@@ -89,7 +89,7 @@
           },
           "title": "LifeHub «Yabloko»",
           "text": "<b><br></b><br><b>LifeHubYabloko</b> – познавательно-психологическое пространство в центре Харькова.<br>Наши посетители интересуются своим внутренним миром, окружающим миром во всех его проявлениях и отношениями.<br> <br>Мы проводим научно-популярные лекции, терапевтические и обучающие группы, профессиональные обучающие программы.<br> <br>Но какую бы программу мы не планировали для нас всегда очень важно, чтобы продукт получился качественным, питательным для вашего развития и экологичным для вашей психики.<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"index.html#features3-dm\" data-toolbar=\"-mbrBtnMove\">Мероприятия<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"index.html#features3-0\" data-toolbar=\"-mbrBtnMove\">Аренда</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"events.html\" data-toolbar=\"-mbrBtnMove\">Мероприятия<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"rent.html\" data-toolbar=\"-mbrBtnMove\">Аренда</a>"
         },
         {
           "_styles": {
@@ -7683,7 +7683,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133368.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133372.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16651,7 +16651,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50069.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50073.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18817,7 +18817,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33370.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33374.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18828,7 +18828,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33371.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33375.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
