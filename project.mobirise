@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "rent.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1144,
+    "uniqCompNum": 1154,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7683,7 +7683,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133372.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133376.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16651,7 +16651,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50073.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50077.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18817,7 +18817,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33374.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33378.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18828,7 +18828,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33375.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33379.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19043,6 +19043,24 @@
         },
         {
           "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Правила аренды:\n</b></p><p><b>1.</b> Аренда осуществляется и оплачивается почасово. Это значит, что при аренде залов и кабинетов важно, чтобы вы учли весь процесс вашей работы и записались на то количество часов, которое необходимо вам для подготовки вашего мероприятия или индивидуальной работы и для завершения процессов и выхода из помещения за 2-5 минут до окончания вашей записи. Наш администратор напомнит вам об окончании вашего времени негромким стуком в дверь.\n</p><p><b>2.</b> Особенности работы групп (мероприятия, тренинги и т.п.) и индивидуальной работы такие как:\n</p><p>- использование инвентаря/оборудования, находящегося в залах \n</p><p>- употребление пищи\n</p><p>- пользование электроприборами в залах и кабинетах\n</p><p>- занос и /или хранение своего оборудования в центре\n</p><p>возможны, но при согласовании с администратором центра заранее.\n</p><p><b>3.</b> Бронирование залов производится после предоплаты 50% от полной стоимости аренды. Для брони кабинетов достаточно записаться у администратора.\n</p><p><br></p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-vt",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -19133,27 +19151,27 @@
             }
           },
           "title1": "Лекторный зал",
-          "subtitle1": "Вместимость зала: до 60 человек.",
-          "caption1": "Зал предназначен для проведения лекций, мастер-классов, вебинаров, воркшопов, мини-конференций.<br><span style=\"font-size: 1rem; line-height: 1.5;\">Наполнение:</span><br>Экран, проектор, стулья.<br>Есть возможность организации кофебрейков.<br>",
+          "subtitle1": "Вместимость зала: до 50 человек.",
+          "caption1": "Зал предназначен для проведения лекций, мастер-классов, вебинаров, воркшопов, мини-конференций.<br><span style=\"font-size: 1rem; line-height: 1.5;\">Наполнение:</span><br>Экран, проектор, стулья, флипчарт, столы по запросу.<br>Есть возможность организации кофебрейков.<br>",
           "title2": "Зал для бодинамических практик",
           "subtitle2": "Вместимость зала: до 15 человек.",
-          "caption2": "Зал предназначен для проведения образовательных занятий в формате «сидя на полу», для телесных практик. <br>Пол устлан мягкими матами, есть пледы и музыкальная установка.<br>",
+          "caption2": "Зал предназначен для проведения образовательных занятий в формате «сидя на полу», для телесных практик. <br>Пол устлан мягкими матами, есть пледы и музыкальная установка, флипчарт.<br>",
           "title3": "Кабинеты для терапии",
           "subtitle3": "Вместимость: 2-4 человека.",
           "caption3": "Два кабинета для индивидуальной терапевтической работы, либо переговоров “с глазу на глаз”. Кабинеты светлые и уютные. <br> Есть два - четыре удобных мягких кресла, кофейный столик или   рабочий стол.&nbsp;<br>",
-          "title4": "Кабинет&nbsp;<div>для детской &nbsp;терапии</div>",
-          "subtitle4": "<span style=\"font-size: 0.875rem; line-height: 1.7857;\">Вместимость: 2-4 человека.</span><br>",
-          "caption4": "Просторный кабинет<br>для индивидуальной работы с детьми и их родителями, а также <br>для проведения групповой работы <br>с детьми. Кабинет снабжен утяжеленным одеялом и подвесом для сенсорной интеграции, песочницей для терапии песком, игрушками, стульями.&nbsp;<br><br>",
+          "title4": "Зал для малых групп",
+          "subtitle4": "<span style=\"font-size: 0.875rem; line-height: 1.7857;\">Вместимость: 12 человека.</span><br>",
+          "caption4": "Зал предназначен для проведения небольших групп.<br>Наполнение:<br>Флипчарт, стулья, столы по запросу.<br>",
           "title5": "Кабинет <br>для детской терапии",
           "subtitle5": "&nbsp;Вместимость: до 6 человек.",
           "caption5": "Просторный кабинет<br> для индивидуальной работы с детьми и их родителями, а также <br>для проведения групповой работы <br>с детьми. Кабинет снабжен утяжеленным одеялом и подвесом для сенсорной интеграции, песочницей для терапии песком, игрушками, стульями.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"CF-rent.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Заказать</a> <a data-app-btn=\"true\" href=\"lecturehall.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Фото<br></a>",
-          "button2": "<a data-app-btn=\"true\" href=\"CF-rent.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Заказать</a> <a data-app-btn=\"true\" href=\"bodily -practises-hall.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Фото</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"CF-rent.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Заказать</a> <a data-app-btn=\"true\" href=\"room-for-therapy.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Фото</a> ",
-          "button4": "<a data-app-btn=\"true\" href=\"CF-rent.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>Заказать</a> <a data-app-btn=\"true\" href=\"room-for-children-theropy.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Фото</a>",
+          "button1": " <a data-app-btn=\"true\" href=\"lecturehall.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Фото<br></a>",
+          "button2": " <a data-app-btn=\"true\" href=\"bodily -practises-hall.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Фото</a>",
+          "button3": " <a data-app-btn=\"true\" href=\"room-for-therapy.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Фото</a> ",
+          "button4": " <a data-app-btn=\"true\" href=\"room-for-children-theropy.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Фото</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -19167,6 +19185,57 @@
             }
           },
           "_anchor": "features3-vr"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-946x998.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-w1"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "3",
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-1-947x1003.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-vw"
         },
         {
           "_tags": [

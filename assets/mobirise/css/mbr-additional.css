@@ -5325,6 +5325,9 @@ section.form .container {
 #menu-vn .close-icon::after {
   background-color: #28324e;
 }
+#content1-vt P {
+  font-size: 20px;
+}
 #features3-vr H4 {
   font-family: 'Open Sans', sans-serif;
 }
