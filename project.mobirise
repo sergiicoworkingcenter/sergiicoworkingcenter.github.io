@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "rent.html",
+    "currentPage": "SOS.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -26,11 +26,12 @@
         "#fcf0f9",
         "#eaedfa",
         "#f5de95",
-        "#eac3b2"
+        "#eac3b2",
+        "#78b950"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1159,
+    "uniqCompNum": 1166,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -88,8 +89,8 @@
             "overlayOpacity": "0"
           },
           "title": "LifeHub «Yabloko»",
-          "text": "<b><br></b><br><b>LifeHubYabloko</b> – познавательно-психологическое пространство в центре Харькова.<br>Наши посетители интересуются своим внутренним миром, окружающим миром во всех его проявлениях и отношениями.<br> <br>Мы проводим научно-популярные лекции, терапевтические и обучающие группы, профессиональные обучающие программы.<br> <br>Но какую бы программу мы не планировали для нас всегда очень важно, чтобы продукт получился качественным, питательным для вашего развития и экологичным для вашей психики.<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"SOS.html\" data-toolbar=\"-mbrBtnMove\">Психотерапевты<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"events.html\" data-toolbar=\"-mbrBtnMove\">Мероприятия<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"rent.html\" data-toolbar=\"-mbrBtnMove\">Аренда</a>"
+          "text": "<b><br></b><br><b>LifeHubYabloko</b> – познавательно-психологическое пространство в центре Харькова.<br>Наши посетители интересуются своим внутренним миром, окружающим миром во всех его проявлениях и отношениями.<br> <br>Мы проводим научно-популярные лекции, терапевтические и обучающие группы.<br>Приглашаем Вас в обучающие программы, если вы хотите начать или укрепить профессиональную практику.<br> <br>Но какую бы программу мы не планировали для нас всегда очень важно, чтобы продукт получился качественным, питательным для вашего развития и экологичным для вашей психики.<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"SOS.html\" data-toolbar=\"-mbrBtnMove\">ДЛЯ СЕБЯ<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"events.html\" data-toolbar=\"-mbrBtnMove\">ДЛЯ ПРОФ ПРАКТИКИ<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"rent.html\" data-toolbar=\"-mbrBtnMove\">АРЕНДА</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"events.html\" data-toolbar=\"-mbrBtnMove\">МЕРОПРИЯТИЯ</a>"
         },
         {
           "_styles": {
@@ -356,7 +357,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -376,7 +377,7 @@
       "settings": {
         "title": "Созависимость",
         "meta_descr": "Созависимость",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -684,7 +685,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -704,7 +705,7 @@
       "settings": {
         "title": "Лекторный зал",
         "meta_descr": "Лекторный зал",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -893,7 +894,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -913,7 +914,7 @@
       "settings": {
         "title": "Зал для телесных практик",
         "meta_descr": "Зал для телесных практик",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1102,7 +1103,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -1122,7 +1123,7 @@
       "settings": {
         "title": "Аренда - контактная форма",
         "meta_descr": "Аренда",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1311,7 +1312,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -1331,7 +1332,7 @@
       "settings": {
         "title": "Кабинет для терапии",
         "meta_descr": "Кабинет для терапии",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1545,7 +1546,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -1565,7 +1566,7 @@
       "settings": {
         "title": "Кабинет для работы с детьми",
         "meta_descr": "Кабинет для работы с детьми",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -1754,7 +1755,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -1774,7 +1775,7 @@
       "settings": {
         "title": "Галерея",
         "meta_descr": "Галерея",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1889,7 +1890,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -2016,7 +2017,7 @@
       "settings": {
         "title": "articles",
         "meta_descr": "статьи",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2254,7 +2255,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -2274,7 +2275,7 @@
       "settings": {
         "title": "cinderella",
         "meta_descr": "А вы мечтали стать Золушкой?\nСказка о созависимости.\n",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -2489,7 +2490,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -2509,7 +2510,7 @@
       "settings": {
         "title": "Невеста Пряни",
         "meta_descr": "Невеста Пряни",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -2693,7 +2694,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -2770,7 +2771,7 @@
       "settings": {
         "title": "Первая ступень",
         "meta_descr": "Первая ступень",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -3226,7 +3227,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -3246,7 +3247,7 @@
       "settings": {
         "title": "BCC",
         "meta_descr": "BCC",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -3661,7 +3662,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -3681,7 +3682,7 @@
       "settings": {
         "title": "телесно-ориентированная программа",
         "meta_descr": "Эмоции. Тело. Действия.",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -4161,7 +4162,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -4181,7 +4182,7 @@
       "settings": {
         "title": "Утерянные эмоции",
         "meta_descr": "Утерянные эмоции",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -4631,7 +4632,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -4651,7 +4652,7 @@
       "settings": {
         "title": "Как научиться распознавать свои эмоции",
         "meta_descr": "Как научиться распознавать свои эмоции",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -5064,7 +5065,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -5084,7 +5085,7 @@
       "settings": {
         "title": "Границы близости",
         "meta_descr": "Границы близости",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -5893,7 +5894,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -5913,7 +5914,7 @@
       "settings": {
         "title": "Психологические границы",
         "meta_descr": "Психологические границы",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -6302,7 +6303,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -6322,7 +6323,7 @@
       "settings": {
         "title": "Буллинг. Агрессия. Безопасность.",
         "meta_descr": "Лекции на тему буллинга, агрессии и безопасности детей и подростков в коллективе.",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -7032,7 +7033,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -7052,7 +7053,7 @@
       "settings": {
         "title": "телесно-ориентированная программа",
         "meta_descr": "Открытый семинар \"Память тела\"",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -7532,7 +7533,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -7552,7 +7553,7 @@
       "settings": {
         "title": "Открытый семинар \"Память тела\"",
         "meta_descr": "Открытый семинар \"Память тела\"",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -7683,7 +7684,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133388.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133392.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -7864,7 +7865,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -7884,7 +7885,7 @@
       "settings": {
         "title": "Математика любви",
         "meta_descr": "Математика любви",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -8254,7 +8255,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -8287,7 +8288,7 @@
       "settings": {
         "title": "Психологический кинолекторий \"Большая рыба\"",
         "meta_descr": "Психологический кинолекторий \"Большая рыба\"",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -8614,7 +8615,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -8634,7 +8635,7 @@
       "settings": {
         "title": "Экзистенциальный опыт рождения",
         "meta_descr": "Экзистенциальный опыт рождения\nТематическая терапевтическая группа",
-        "order": 52
+        "order": 53
       },
       "components": [
         {
@@ -8961,7 +8962,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -8981,7 +8982,7 @@
       "settings": {
         "title": "Психиатрия для психологов",
         "meta_descr": "Психиатрия для психологов\nЛекционный курс",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -9295,7 +9296,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -9315,7 +9316,7 @@
       "settings": {
         "title": "Клинический подход",
         "meta_descr": "Специализация ВОППГП \"Клинический подход в гештальт-терапии\"",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -9571,7 +9572,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -9591,7 +9592,7 @@
       "settings": {
         "title": "ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ",
         "meta_descr": "ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -9733,7 +9734,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -9753,7 +9754,7 @@
       "settings": {
         "title": "Вебинар для родителей",
         "meta_descr": "Вебинар для родителей",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -10108,7 +10109,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -10128,7 +10129,7 @@
       "settings": {
         "title": "Тренинг для родителей",
         "meta_descr": "Тренинг для родителей",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -10492,7 +10493,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -10512,7 +10513,7 @@
       "settings": {
         "title": "Лекции для родителей детей и подростков",
         "meta_descr": "Лекции для родителей детей и подростков",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -11005,7 +11006,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -11025,7 +11026,7 @@
       "settings": {
         "title": "Первая ступень",
         "meta_descr": "Первая ступень",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -11336,7 +11337,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -11356,7 +11357,7 @@
       "settings": {
         "title": "Первая ступень",
         "meta_descr": "Первая ступень",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -11667,7 +11668,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -11687,7 +11688,7 @@
       "settings": {
         "title": "Женское здоровье",
         "meta_descr": "Женское здоровье",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -12075,7 +12076,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -12095,7 +12096,7 @@
       "settings": {
         "title": "женская сексуальность",
         "meta_descr": "Лекция ",
-        "order": 39
+        "order": 40
       },
       "components": [
         {
@@ -12488,7 +12489,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -12508,7 +12509,7 @@
       "settings": {
         "title": "Лекция",
         "meta_descr": "Лекция ",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -12865,7 +12866,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -12885,7 +12886,7 @@
       "settings": {
         "title": "Лекция",
         "meta_descr": "Лекция ",
-        "order": 50
+        "order": 51
       },
       "components": [
         {
@@ -13221,7 +13222,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -13241,7 +13242,7 @@
       "settings": {
         "title": "ПОДРОСТКАМ О СЕКСЕ:  ПРОСТО И ДОСТУПНО ",
         "meta_descr": "ПОДРОСТКАМ О СЕКСЕ: ПРОСТО И ДОСТУПНО ",
-        "order": 41
+        "order": 42
       },
       "components": [
         {
@@ -13565,7 +13566,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -13585,7 +13586,7 @@
       "settings": {
         "title": "Воркшоп для HR",
         "meta_descr": "Воркшоп для HR",
-        "order": 42
+        "order": 43
       },
       "components": [
         {
@@ -13946,7 +13947,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -13966,7 +13967,7 @@
       "settings": {
         "title": "Клинический подход",
         "meta_descr": "Специализация ВОППГП \"Клинический подход в гештальт-терапии\"",
-        "order": 43
+        "order": 44
       },
       "components": [
         {
@@ -14222,7 +14223,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -14242,7 +14243,7 @@
       "settings": {
         "title": "Групповая терапия",
         "meta_descr": "Специализация \"Групповая терапия в рамках гештальт-подхода\"",
-        "order": 44
+        "order": 45
       },
       "components": [
         {
@@ -14498,7 +14499,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -14518,7 +14519,7 @@
       "settings": {
         "title": "Специализация",
         "meta_descr": "Специализация \"Работа с сексуальной тематикой в гештальт подходе\"",
-        "order": 45
+        "order": 46
       },
       "components": [
         {
@@ -14774,7 +14775,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -14794,7 +14795,7 @@
       "settings": {
         "title": "Скажи, как есть. ",
         "meta_descr": "Скажи, как есть.\nПрактическое исследование с теоретическим сопровождением\n",
-        "order": 46
+        "order": 47
       },
       "components": [
         {
@@ -15131,7 +15132,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -15151,7 +15152,7 @@
       "settings": {
         "title": "Сексуальная грамотность: зачем это нашим детям",
         "meta_descr": "Сексуальная грамотность: зачем это нашим детям",
-        "order": 51
+        "order": 52
       },
       "components": [
         {
@@ -15613,7 +15614,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -15633,7 +15634,7 @@
       "settings": {
         "title": "Сексуальная грамотность: зачем это нашим детям",
         "meta_descr": "Сексуальная грамотность: зачем это нашим детям",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -15992,7 +15993,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -16012,7 +16013,7 @@
       "settings": {
         "title": "Мышечное расслабление",
         "meta_descr": "Телесный мастер-класс",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -16500,7 +16501,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -16520,7 +16521,7 @@
       "settings": {
         "title": "Глазами мужчины",
         "meta_descr": "Лекция ",
-        "order": 40
+        "order": 41
       },
       "components": [
         {
@@ -16651,7 +16652,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50089.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50093.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16856,7 +16857,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -16876,7 +16877,7 @@
       "settings": {
         "title": "Лекция о женском здоровье",
         "meta_descr": "Лекция о женском здоровье",
-        "order": 38
+        "order": 39
       },
       "components": [
         {
@@ -17232,7 +17233,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -17253,7 +17254,7 @@
       "settings": {
         "title": "supergroup1",
         "meta_descr": "Супервизорская группа",
-        "order": 47
+        "order": 48
       },
       "components": [
         {
@@ -17627,7 +17628,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -17648,7 +17649,7 @@
       "settings": {
         "title": "supergroup2",
         "meta_descr": "Супервизорская группа",
-        "order": 48
+        "order": 49
       },
       "components": [
         {
@@ -17965,7 +17966,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -17986,7 +17987,7 @@
       "settings": {
         "title": "group",
         "meta_descr": "Терапетическая группа",
-        "order": 49
+        "order": 50
       },
       "components": [
         {
@@ -18303,7 +18304,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -18324,7 +18325,7 @@
       "settings": {
         "meta_descr": "Наши мероприятия",
         "title": "events",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -18817,7 +18818,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33390.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33394.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18828,7 +18829,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33391.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33395.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18910,7 +18911,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -18931,7 +18932,7 @@
       "settings": {
         "meta_descr": "Аренда",
         "title": "rent",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -19256,7 +19257,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -19277,7 +19278,7 @@
       "settings": {
         "meta_descr": "Подбор психотерапевта",
         "title": "SOS",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -19389,16 +19390,34 @@
         },
         {
           "_params": {
-            "paddingTop": "7",
-            "paddingBottom": "2",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Бывает так, что в жизни происходят события, с которыми сложно справиться в одиночку.</p><p>А хорошего психотерапевта Вы не знаете. Мы готовы помочь вам подобрать Вашего психотерапевта. Это обязательно будет квалифицированный и надежный специалист.</p><p>&nbsp;</p><p>Вам стоит задуматься о помощи психотерапевта, если:</p><p>- вроде все хорошо, но невыносимо плохо;</p><p>- кажется, что вы живете не свою жизнь или каждый день, как «день сурка»;</p><p>- одни и те же неприятные ситуации повторяются в вашей жизни, и вы как будто ходите по замкнутому кругу;</p><p>- у вас есть навязчивая болезнь, а врачи не видят объективной причины для этого;</p><p>- вы ненавидите свою внешность;</p><p>- вы не можете справиться с прокрастинацией;</p><p>- вы часто испытываете стыд и/или вину;</p><p>- у вас есть навязчивые страхи или вы находитесь в отношениях, которые мучительны для вас.</p><p>&nbsp;</p><p>Возможно, мы упустили какой-то довод, но мы уверены, вы не должны терпеть боль, насилие или одиночество. Это не пройдет само собой и не сделает вас счастливей. Обращение за психологической помощью – смелый шаг взрослого человека, который меняет свою жизнь к лучшему!</p><p><br></p><p>Данная услуга бесплатна.</p><p><br></p><p>Как это будет просходить?</p><p><br></p><p>В форме ниже, оставьте, пожалуйста, контактную информацию и если это возможно краткую информацию о вашем запросе.\r</p><p>Вам могут помочь такие вопросы:\r</p><p>- Что меня тревожит?\r</p><p>- Что я хочу изменить или с чем справиться?\r</p><p>- Какая ситуация не дает мне покоя?\r</p><p>\r</p><p>Мы свяжемся с Вами, чтобы задать уточняющие вопросы и предложим Вам несколько терапевтов.\r</p><p><br></p><p><br></p>",
+          "text": "<p>В LifeHub Yabloko проходят научно-популярные лекции, терапевтические и обучающие группы</p><p><br></p>",
           "_tags": [
             "Тема"
           ],
           "_name": "content1",
-          "_anchor": "content1-w5"
+          "_anchor": "content1-wb"
+        },
+        {
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Бывает так, что в жизни происходят события, с которыми сложно справиться в одиночку.<br></p><p>А хорошего психотерапевта Вы не знаете. Мы готовы помочь вам подобрать Вашего психотерапевта. Это обязательно будет квалифицированный и надежный специалист.</p><p>&nbsp;</p><p>Вам стоит задуматься о помощи психотерапевта, если:</p><p>- вроде все хорошо, но невыносимо плохо;</p><p>- кажется, что вы живете не свою жизнь или каждый день, как «день сурка»;</p><p>- одни и те же неприятные ситуации повторяются в вашей жизни, и вы как будто ходите по замкнутому кругу;</p><p>- у вас есть навязчивая болезнь, а врачи не видят объективной причины для этого;</p><p>- вы ненавидите свою внешность;</p><p>- вы не можете справиться с прокрастинацией;</p><p>- вы часто испытываете стыд и/или вину;</p><p>- у вас есть навязчивые страхи или вы находитесь в отношениях, которые мучительны для вас.</p><p>&nbsp;</p><p>Возможно, мы упустили какой-то довод, но мы уверены, вы не должны терпеть боль, насилие или одиночество. Это не пройдет само собой и не сделает вас счастливей. Обращение за психологической помощью – смелый шаг взрослого человека, который меняет свою жизнь к лучшему!</p><p><br></p><p>Данная услуга бесплатна.</p><p><br></p><p>Как это будет просходить?</p><p><br></p><p>В форме ниже, оставьте, пожалуйста, контактную информацию и если это возможно краткую информацию о вашем запросе.\n</p><p>Вам могут помочь такие вопросы:\n</p><p>- Что меня тревожит?\n</p><p>- Что я хочу изменить или с чем справиться?\n</p><p>- Какая ситуация не дает мне покоя?\n</p><p>\n</p><p>Мы свяжемся с Вами, чтобы задать уточняющие вопросы и предложим Вам несколько терапевтов.\n</p><p><br></p><p><br></p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-w5",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_params": {
@@ -19475,7 +19494,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#78b950",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -19489,6 +19508,168 @@
           "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>по вопросам аренды и расписания центра:<br>+380 (66) 036 40 29 администратор<br><br>по вопросам терапевтических групп и обучающих программ:<br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>",
           "_anchor": "contacts2-w4"
+        }
+      ]
+    },
+    "practice.html": {
+      "settings": {
+        "meta_descr": "Для практики ",
+        "title": "practice",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#efefef",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SOS.html\" aria-expanded=\"false\"><p>Психотерапевты</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rent.html\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-w7"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Yabloko.",
+          "_anchor": "footer1-w8"
+        },
+        {
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-wa"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#78b950",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>по вопросам аренды и расписания центра:<br>+380 (66) 036 40 29 администратор<br><br>по вопросам терапевтических групп и обучающих программ:<br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>",
+          "_anchor": "contacts2-w9"
         }
       ]
     }
