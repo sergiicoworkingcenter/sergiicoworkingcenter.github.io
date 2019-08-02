@@ -5403,6 +5403,9 @@ section.form .container {
 #menu-w2 .close-icon::after {
   background-color: #28324e;
 }
+#content1-wf P {
+  font-size: 20px;
+}
 #content1-w5 P {
   font-size: 22px;
 }
@@ -5479,6 +5482,9 @@ section.form .container {
 #menu-w7 .close-icon::before,
 #menu-w7 .close-icon::after {
   background-color: #28324e;
+}
+#content1-wa P {
+  font-size: 20px;
 }
 #contacts2-w9 STRONG {
   color: #ffffff;
