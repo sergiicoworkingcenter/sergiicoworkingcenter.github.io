@@ -5504,3 +5504,116 @@ section.form .container {
   color: #ffffff;
   font-size: 16px;
 }
+
+
+#menu-wr .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-wr .navbar-caption {
+  color: #ffffff;
+}
+#menu-wr .navbar-toggler {
+  color: #28324e;
+}
+#menu-wr .link,
+#menu-wr .dropdown-item {
+  color: #28324e;
+}
+#menu-wr .link {
+  font-size: 0.6rem;
+}
+#menu-wr .dropdown-item,
+#menu-wr .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-wr .link:hover,
+#menu-wr .dropdown-item:hover,
+#menu-wr .link:focus,
+#menu-wr .dropdown-item:focus {
+  color: #475577;
+}
+#menu-wr .link[aria-expanded="true"],
+#menu-wr .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-wr .nav-dropdown-sm .link:focus,
+#menu-wr .nav-dropdown-sm .link:hover,
+#menu-wr .nav-dropdown-sm .dropdown-item:focus,
+#menu-wr .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-wr .navbar,
+#menu-wr .nav-dropdown-sm,
+#menu-wr .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-wr .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-wr .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-wr .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-wr .bg-color.transparent.opened .link:hover,
+#menu-wr .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-wr .link[aria-expanded="true"],
+#menu-wr .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-wr.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-wr .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-wr .close-icon::before,
+#menu-wr .close-icon::after {
+  background-color: #28324e;
+}
+#msg-box8-wt .mbr-section-title,
+#msg-box8-wt p {
+  color: #fff;
+}
+#msg-box8-wt .lead P {
+  font-size: 46px;
+}
+#msg-box8-wt .mbr-section-title DIV {
+  color: #000000;
+}
+#msg-box8-wt .mbr-section-title SPAN {
+  color: #000000;
+}
+#msg-box8-wt .mbr-section-title {
+  color: #000000;
+}
+#content1-wv P {
+  font-size: 22px;
+}
+#msg-box1-ww H3 {
+  font-size: 18px;
+  color: #7e9b9f;
+}
+#msg-box1-ww H2 {
+  color: #000000;
+  font-size: 32px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box1-wx H3 {
+  font-size: 18px;
+  color: #7e9b9f;
+}
+#msg-box1-wx H2 {
+  color: #000000;
+  font-size: 32px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-wy P {
+  font-size: 22px;
+}
+#contacts2-wz STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
