@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sex_education.html",
+    "currentPage": "sexeducation.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1175,
+    "uniqCompNum": 1179,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7797,7 +7797,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13336.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -13522,7 +13522,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Когда: 14.04.2019</p><p>Подростки  11-13 лет в 12.30</p><p>Подростки 14-17 лет в 15.00</p><p>Где:<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span></p><p>Стоимость одной лекции 250 грн. при предоплате, 300 грн в день мероприятия и на месте.</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</span></p><p>+38 (050) 523 99 60&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Ольга</span></p><p>+38 (050) 303 92 26 Мария</p>"
+          "text": "<p>Когда: 12.10.2019</p><p>Подростки  11-13 лет в 12.00</p><p>Подростки 14-17 лет в 14.30</p><p>Где:<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span></p><p>Стоимость одной лекции 250 грн. при предоплате, 300 грн в день мероприятия и на месте.</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</span></p><p>+38 (066) 036 40 29&nbsp;</p>"
         },
         {
           "_tags": [
@@ -13540,79 +13540,93 @@
             "paddingBottom": 1,
             "bgColor": "#f9ebb5"
           },
-          "text": "<p><b style=\"line-height: 1.5;\">Как показывает опыт европейских стран, чем больше подросток знает о сексе, контрацепции, возможных последствиях, тем позже он начинает половую жизнь и делает это абсолютно осознанно и грамотно. Задача взрослых – убедиться в том, что дети знают, что такое секс, сексуальность; информированы о правилах безопасности; в курсе, как себя защитить; как отказаться от секса, если не хочется; как не стать жертвой насилия или манипуляции. Хорошо, если в семье эта тема не табуирована так, как в обществе. Но что делать, если родители постеснялись донести до ребенка важную информацию или не знали, как это сделать? Тогда дело за специалистами, которые не только ответят на все вопросы подростков, но и дадут правильную информацию о сексуальной культуре, о здоровом образе жизни и его влиянии на сексуальность, о физиологии, изменениях в теле во время пубертата, о мифах, которые витают в обществе и создают массу проблем и взрослым, и детям.</b><br></p><p><b><br></b></p><p><b>Мастер-класс для подростков – одна из возможностей донести до детей полезную и важную информацию в интересном и комфортном формате.</b></p><p><b><br></b></p><p><b>&nbsp;</b><b style=\"line-height: 1.5;\">О чем будем говорить?</b></p><p><b><br></b></p><p><b>— Гигиена: что важно знать.</b></p><p><b>— Какие физиологические изменения больше всего пугают подростков с 11 до 16? Коротко об эрекции, поллюциях, менструации, росте груди, выделениях из влагалища.</b></p><p><b>— Как правильное питание, отсутствие вредных привычек и физическая активность влияют на нашу сексуальность, самочувствие, продолжительность и качество жизни.</b></p><p><b>— Почему просмотр порно стоит отложить до 18 лет, и какие негативные последствия могут быть при просмотре фильмов для взрослых в подростковом возрасте.</b></p><p><b>— Зачем нужны контрацептивы и как ими правильно пользоваться.</b></p><p><b>— Что нужно знать перед первым сексом. Как избежать манипуляций и принуждения? Что такое «культура согласия»? Учимся говорить «нет».</b></p><p><b>— Куда обратиться за помощью: медицинской, психологической.</b></p><p><b>— Ответы на волнующие вопросы.</b></p><p><b><br></b></p><p><b>Каждый участник и участница мастер-класса получает в подарок набор закладок с полезной информацией и презерватив.</b></p>"
+          "text": "<p><b>Как показывает опыт европейских стран, чем больше подросток знает о сексе, контрацепции, возможных последствиях, тем позже он начинает половую жизнь и делает это абсолютно осознанно и грамотно. Задача взрослых – убедиться в том, что дети знают, что такое секс, сексуальность; информированы о правилах безопасности; в курсе, как себя защитить; как отказаться от секса, если не хочется; как не стать жертвой насилия или манипуляции. Хорошо, если в семье эта тема не табуирована так, как в обществе. Но что делать, если родители постеснялись донести до ребенка важную информацию или не знали, как это сделать? Тогда дело за специалистами, которые не только ответят на все вопросы подростков, но и дадут правильную информацию о сексуальной культуре, о здоровом образе жизни и его влиянии на сексуальность, о физиологии, изменениях в теле во время пубертата, о мифах, которые витают в обществе и создают массу проблем и взрослым, и детям.</b><br></p><p><b><br></b></p><p><b>Мастер-класс для подростков – одна из возможностей донести до детей полезную и важную информацию в интересном и комфортном формате.</b></p><p><b><br></b></p><p><b>О чем будем говорить?</b></p><p><b><br></b></p><p><b>— Гигиена: что важно знать.</b></p><p><b>— Какие физиологические изменения больше всего пугают подростков с 11 до 16? Коротко об эрекции, поллюциях, менструации, росте груди, выделениях из влагалища.</b></p><p><b>— Как правильное питание, отсутствие вредных привычек и физическая активность влияют на нашу сексуальность, самочувствие, продолжительность и качество жизни.</b></p><p><b>— Почему просмотр порно стоит отложить до 18 лет, и какие негативные последствия могут быть при просмотре фильмов для взрослых в подростковом возрасте.</b></p><p><b>— Зачем нужны контрацептивы и как ими правильно пользоваться.</b></p><p><b>— Что нужно знать перед первым сексом. Как избежать манипуляций и принуждения? Что такое «культура согласия»? Учимся говорить «нет».</b></p><p><b>— Куда обратиться за помощью: медицинской, психологической.</b></p><p><b>— Ответы на волнующие вопросы.</b></p><p><b><br></b></p><p><b>Каждый участник и участница мастер-класса получает в подарок набор закладок с полезной информацией и презерватив.</b></p>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "font-size": "25px"
-            }
-          },
-          "_anchor": "form1-rx",
           "_params": {
             "showTitle": true,
-            "showSubTitle": false,
-            "labelsColor": "#232323",
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Регистрация на лекцию<br>Подростки  14-17 лет в 15.00",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "form": {
-            "action": "mykhalyova@gmail.com",
-            "alerts": {
-              "success": "Спасибо!"
+          "title": "Подростки 11-13 лет 12 &nbsp;октября в 12.00",
+          "text": "Зарегистрировать подростка и купить билет",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/16/subscription&#9;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Здесь</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px",
+              "color": "#7e9b9f"
             },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "ФИО*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Телефон*"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Сообщение"
-              }
+            "H2": {
+              "color": "#000000",
+              "font-size": "32px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+          "_anchor": "msg-box1-wo"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Подростки 14-17 лет 12 &nbsp;октября в 14.30",
+          "text": "Зарегистрировать подростка и купить билет",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/18/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Здесь</a>",
           "_tags": [
-            "Theme"
+            "Тема"
           ],
-          "_name": "msg-box5",
+          "_name": "msg-box1",
           "_styles": {
-            "P": {
-              "font-size": "22px"
+            "H3": {
+              "font-size": "18px",
+              "color": "#7e9b9f"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-size": "32px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
-          "_anchor": "msg-box5-rs",
+          "_anchor": "msg-box1-wp"
+        },
+        {
           "_params": {
             "showTitle": false,
             "showText": true,
@@ -13638,11 +13652,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/17991597-1309681279108893-5292531573591422615-o-1400x1400-2.jpg",
+              "src": "@PROJECT_PATH@/assets/images/39522355-1822272441183105-3921491036022505472-n-424x423.jpg",
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -13657,8 +13670,18 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Лектор:<br> Юлия Ярмоленко -секс-педагог, автор программ по сексуальной грамотности для подростков и взрослых, член Ассоциации сексологов и сексотерапевтов Украины.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "Лектор:<br> Юлия Ярмоленко - психолог, эксперт по сексуальному образованию, секс-педагог, автор книги для детей 4-10 лет \"Малечі про інтимні речі\".<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "msg-box5-wq"
         },
         {
           "_tags": [
@@ -16765,7 +16788,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x5004.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x5007.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18931,7 +18954,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x3335.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x3338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,

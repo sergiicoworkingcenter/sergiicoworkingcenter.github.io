@@ -3791,6 +3791,8 @@ section.form .container {
   color: #ffffff;
   font-size: 16px;
 }
+
+
 #menu-ri .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3877,13 +3879,25 @@ section.form .container {
 #content1-rm P {
   font-size: 22px;
 }
-#form1-rx .form-control-label {
-  color: #232323;
+#msg-box1-wo H3 {
+  font-size: 18px;
+  color: #7e9b9f;
 }
-#form1-rx .mbr-section-title {
-  font-size: 25px;
+#msg-box1-wo H2 {
+  color: #000000;
+  font-size: 32px;
+  font-family: 'Open Sans', sans-serif;
 }
-#msg-box5-rs P {
+#msg-box1-wp H3 {
+  font-size: 18px;
+  color: #7e9b9f;
+}
+#msg-box1-wp H2 {
+  color: #000000;
+  font-size: 32px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-wq P {
   font-size: 22px;
 }
 #contacts2-rv STRONG {
