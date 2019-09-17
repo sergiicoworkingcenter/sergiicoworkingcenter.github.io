@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "events.html",
+    "currentPage": "index.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -117,14 +117,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1980-1080-05-600x338.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "http://bit.ly/2m8Hev0",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media2": {
@@ -141,11 +140,11 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x333.png",
+              "src": "@PROJECT_PATH@/assets/images/2-600x314.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "events.html",
+              "link": "1step_for_life.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -7797,7 +7796,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133326.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133328.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16752,7 +16751,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50027.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50029.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
