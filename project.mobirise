@@ -7797,7 +7797,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133324.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133326.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16752,7 +16752,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50025.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50027.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18632,14 +18632,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1980-1080-05-600x338.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "http://bit.ly/2m8Hev0",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media2": {
@@ -18656,11 +18655,11 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x333.png",
+              "src": "@PROJECT_PATH@/assets/images/2-600x314.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "events.html",
+              "link": "1step_for_life.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -19031,10 +19030,10 @@
               "active": true
             }
           },
-          "title1": "старт 9 сентября",
+          "title1": "&nbsp;24 октября",
           "subtitle1": "",
           "caption1": "",
-          "title2": "старт 5 сентября",
+          "title2": "старт 23 октября",
           "subtitle2": "Business Case Club – это лаборатория уникального практического опыта, полезных идей, а также увлекательного и открытого общения.&nbsp;",
           "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Для бизнесменов, руководителей, консультантов и организационных психологов.</span><br>Разбор актуальных задач, индивидуальное консультирование и супервизии, новые практики управления организационным развитием и бизнес процессами.<br>",
           "title3": "старт 30 сентября",
