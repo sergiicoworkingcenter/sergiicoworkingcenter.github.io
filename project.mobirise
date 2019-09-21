@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "specialization.html",
+    "currentPage": "allaboutfood.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7796,7 +7796,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133332.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16751,7 +16751,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50031.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50033.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
