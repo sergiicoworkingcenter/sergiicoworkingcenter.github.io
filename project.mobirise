@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sexeducation.html",
+    "currentPage": "menstruation.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7796,7 +7796,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133336.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -13485,7 +13485,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Когда: 12.10.2019</p><p>Подростки  11-13 лет в 12.00</p><p>Подростки 14-17 лет в 14.30</p><p>Где:<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span></p><p>Стоимость одной лекции 300 грн. при предоплате, 350 грн в день мероприятия и на месте.</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</span></p><p>+38 (066) 036 40 29&nbsp;</p>"
+          "text": "<p>Когда: 12.10.2019</p><p>Подростки  11-13 лет в 12.00</p><p>Подростки 14-17 лет в 14.30</p><p>Где:<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span></p><p>Стоимость лекции 300 грн. при предоплате, 350 грн в день мероприятия и на месте.</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</span></p><p>+38 (066) 036 40 29&nbsp;</p>"
         },
         {
           "_tags": [
@@ -16751,7 +16751,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50035.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50037.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -20190,7 +20190,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Когда: 27.10.2019</p><p>Подростки  10-12 лет в 12.00</p><p>Подростки 13-15 лет в 14.30</p><p>Где:<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span></p><p>Стоимость одной лекции 300 грн. при предоплате, 350 грн в день мероприятия и на месте.</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</span></p><p>+38 (066) 036 40 29&nbsp;</p>",
+          "text": "<p>Когда: 27.10.2019</p><p>Подростки  10-12 лет в 12.00</p><p>Подростки 13-15 лет в 14.30</p><p>Где:<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span></p><p>Стоимость лекции 300 грн. при предоплате, 350 грн в день мероприятия и на месте.</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</span></p><p>+38 (066) 036 40 29&nbsp;</p>",
           "_anchor": "content1-wu"
         },
         {
