@@ -7796,7 +7796,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133344.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133346.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16751,7 +16751,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50045.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50047.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -20678,7 +20678,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Панические атаки и повышенная тревожность. Израильская методика «самообороны»<div><br></div>",
+          "title": "Панические атаки и повышенная тревожность. <br>Израильская методика «самообороны»<div><br></div>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Тема"
@@ -20698,7 +20698,7 @@
           },
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "4",
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
           "text": "<p><span style=\"font-size: 1.07rem;\">В программе семинара:</span><br></p><p>1.\tИндивидуальная реакция на стресс  - экспресс методика определения врожденной реакции на стресс\n</p><p>2.\tПовышенная тревожность – «черная дыра» жизненной энергии \n</p><p>3.\tТехники снижения тревоги:  дыхательные практики (особый метод дыхания при стрессах) , «парадоксальное расслабление», практика Mindfulness. \n</p><p>4.\tКак справиться с приступами паники – практические методы\n</p><p>5.\t«Мысль опережает действие» -   методика работы с негативными мыслями\n</p><p>6.\tАктивизация ресурсов  для жизни без панических атак и повышенной тревоги – авторский метод\n</p><p>7.\tНавстречу страхам или 10 шагов к ощущению полноты жизни. \n</p><p>На семинаре  вы получите ,  проверенные в Израиле практические методы снижения тревоги и методы  преодоления панических атак. \n</p><p>Научитесь практике Mindfulness, приобретете навык самостоятельной работы с негативными мыслями, получите практические  рекомендации,  как справляться с приступами тревоги и паническими атаками. \n</p><p>По окончании семинара – сертификат участника международной образовательной программы  от International Psycho-educational Projects при поддержке International Human Rights Commission и United Nations Economic and Social Council.\n</p><p><br></p>",
@@ -20721,8 +20721,8 @@
             "showTitle": true,
             "showSubTitle": true,
             "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
