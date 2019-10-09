@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "events.html",
+    "currentPage": "supergroup12.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7796,7 +7796,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133312.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16751,7 +16751,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x5009.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50013.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -19090,7 +19090,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33810.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33814.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19102,7 +19102,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33811.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33815.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -21236,7 +21236,7 @@
         }
       ]
     },
-    "page58.html": {
+    "supergroup12.html": {
       "settings": {
         "title": "supergroup12",
         "meta_descr": "Супервизорская группа",
