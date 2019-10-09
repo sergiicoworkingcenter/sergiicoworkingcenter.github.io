@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1231,
+    "uniqCompNum": 1232,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7796,7 +7796,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133312.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133316.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16751,7 +16751,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50013.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50017.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -19090,7 +19090,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33814.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33818.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19102,7 +19102,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33815.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33819.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -21244,45 +21244,56 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".lead H4": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
           "_params": {
             "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-6-1500x500.png",
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "61",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0"
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
-          "title": "&nbsp;Скажи, как есть",
-          "text": "<p><span style=\"font-size: 1.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\">Практическое исследование с теоретическим сопровождением.&nbsp;</span><br></p><p><span style=\"font-size: 1.5rem; line-height: 1.1; font-weight: 600; letter-spacing: -1px;\">&nbsp;4 - 6 октября 2019</span><span style=\"font-size: 1.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\">\u001b\u001b</span></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_anchor": "msg-box8-xy"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-4-1400x788.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<b>Расписание группы сезон</b> <b>2019/2020</b>:<br>25 ноября      10.00-18.00<br>24 декабря    10.00-18.00<br>21 января      10.00-18.00<br>18 феврал     10.00-18.00<br>24 марта        10.00-18.00<br>21 апреля      10.00-18.00<br>26 мая            10.00-18.00",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-y7"
         },
         {
           "_tags": [
@@ -21294,7 +21305,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><b>Расписание группы сезон 2019/2020:</b></p><p><span style=\"font-size: 1.07rem;\">25 ноября &nbsp; &nbsp; &nbsp;10.00-18.00</span><br></p><p>24 декабря &nbsp; &nbsp;10.00-18.00</p><p>21 января &nbsp; &nbsp; &nbsp;10.00-18.00</p><p>18 феврал &nbsp; &nbsp; 10.00-18.00</p><p>24 марта &nbsp; &nbsp; &nbsp; &nbsp;10.00-18.00</p><p>21 апреля &nbsp; &nbsp; &nbsp;10.00-18.00</p><p>26 мая &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;10.00-18.00</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Где:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</span><br></p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ.</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;1000 грн.\u001b\u001b\u001b</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</b><br></p><p>+38 (050) 523 99 60<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Ольга</span></p><p>+38 (050) 303 92 26 Мария</p>",
+          "text": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Где:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</span><br></p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ.</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;1000 грн.\u001b\u001b\u001b</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</b><br></p><p>+38 (050) 523 99 60<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Ольга</span></p><p>+38 (050) 303 92 26 Мария</p>",
           "_anchor": "content1-xz"
         },
         {
