@@ -5870,3 +5870,100 @@ section.form .container {
   color: #ffffff;
   font-size: 16px;
 }
+
+#msg-box8-xy .mbr-section-title,
+#msg-box8-xy p {
+  color: #fff;
+}
+#msg-box8-xy .mbr-section-title {
+  font-family: 'Lora', serif;
+}
+#msg-box8-xy .lead H4 {
+  color: #ffffff;
+}
+#content1-y0 P {
+  text-align: left;
+}
+#msg-box5-y1 P {
+  font-size: 22px;
+}
+#msg-box5-y2 P {
+  font-size: 22px;
+}
+#form1-y3 .form-control-label {
+  color: #232323;
+}
+#form1-y3 .mbr-section-title {
+  font-size: 30px;
+}
+#menu-y4 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-y4 .navbar-caption {
+  color: #ffffff;
+}
+#menu-y4 .navbar-toggler {
+  color: #28324e;
+}
+#menu-y4 .link,
+#menu-y4 .dropdown-item {
+  color: #28324e;
+}
+#menu-y4 .link {
+  font-size: 0.6rem;
+}
+#menu-y4 .dropdown-item,
+#menu-y4 .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-y4 .link:hover,
+#menu-y4 .dropdown-item:hover,
+#menu-y4 .link:focus,
+#menu-y4 .dropdown-item:focus {
+  color: #475577;
+}
+#menu-y4 .link[aria-expanded="true"],
+#menu-y4 .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-y4 .nav-dropdown-sm .link:focus,
+#menu-y4 .nav-dropdown-sm .link:hover,
+#menu-y4 .nav-dropdown-sm .dropdown-item:focus,
+#menu-y4 .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-y4 .navbar,
+#menu-y4 .nav-dropdown-sm,
+#menu-y4 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-y4 .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-y4 .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-y4 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-y4 .bg-color.transparent.opened .link:hover,
+#menu-y4 .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-y4 .link[aria-expanded="true"],
+#menu-y4 .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-y4.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-y4 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-y4 .close-icon::before,
+#menu-y4 .close-icon::after {
+  background-color: #28324e;
+}
+#contacts2-y6 STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
