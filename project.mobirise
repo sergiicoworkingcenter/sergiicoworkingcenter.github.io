@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "supergroup1.html",
+    "currentPage": "events.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7796,7 +7796,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13334.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16751,7 +16751,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x5001.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x5005.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18647,7 +18647,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "page58.html",
+              "link": "supergroup12.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -19090,7 +19090,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3382.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x3386.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19102,7 +19102,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x3383.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x3387.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
