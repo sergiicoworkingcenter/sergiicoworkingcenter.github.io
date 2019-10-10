@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "supergroup12.html",
+    "currentPage": "supergroup1.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7796,7 +7796,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133316.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16751,7 +16751,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50017.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x5001.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -19090,7 +19090,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33818.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x3382.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19102,7 +19102,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33819.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x3383.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -21287,7 +21287,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Расписание группы сезон</b> <b>2019/2020</b>:<br>25 ноября      10.00-18.00<br>24 декабря    10.00-18.00<br>21 января      10.00-18.00<br>18 феврал     10.00-18.00<br>24 марта        10.00-18.00<br>21 апреля      10.00-18.00<br>26 мая            10.00-18.00",
+          "text": "<b>Расписание группы сезон</b> <b>2019/2020</b>:<br>26 ноября      10.00-18.00<br>24 декабря    10.00-18.00<br>21 января      10.00-18.00<br>18 феврал     10.00-18.00<br>24 марта        10.00-18.00<br>22 апреля      10.00-18.00<br>26 мая            10.00-18.00",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
