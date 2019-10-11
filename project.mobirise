@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "menstruation.html",
+    "currentPage": "panicattacks.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7796,7 +7796,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133312.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16751,7 +16751,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x5009.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50013.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -19089,7 +19089,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33810.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33814.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19101,7 +19101,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33811.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33815.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -20660,7 +20660,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><b>Когда:</b>&nbsp;8 ноября 2019 в 19.00</p><p><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</p><p><span style=\"font-size: 1.07rem;\"><b>Телефоны для справок:</b></span><br></p><p>+38 (050) 523 99 60 Ольга</p><p>+38 (050) 303 92 26 Мария</p>",
-          "text2": "<p><b>Для кого:</b> психологов, психотерапевтов, врачей, студентов и людей помагающих профессий</p><p><b>Стоимость:</b>&nbsp; 300 грн по предоплате, 400 грн в день мероприятия\u001b\u001b\u001b</p><p><br></p>",
+          "text2": "<p><b>Для кого:</b> психологов, психотерапевтов, врачей, студентов и людей помогающих профессий</p><p><b>Стоимость:</b>&nbsp; 300 грн по предоплате, 400 грн в день мероприятия\u001b\u001b\u001b</p><p><br></p>",
           "_tags": [
             "Тема"
           ],
@@ -20974,7 +20974,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><b>Когда:</b> 9-10 ноября 2019</p><p>сб, вс: 10.00 - 19.00</p><p><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</p><p><span style=\"font-size: 1.07rem;\"><b>Телефоны для справок:</b></span><br></p><p>+38 (050) 523 99 60 Ольга</p><p>+38 (050) 303 92 26 Мария</p>",
-          "text2": "<p><b>Для кого:</b> психологов, психотерапевтов, врачей, студентов и людей помагающих профессий</p><p><b>Стоимость:</b> 120 уе.\u001b\u001b\u001b</p><p><br></p>",
+          "text2": "<p><b>Для кого:</b> психологов, психотерапевтов, врачей, студентов и людей помогающих профессий</p><p><b>Стоимость:</b> 120 уе.\u001b\u001b\u001b</p><p><br></p>",
           "_tags": [
             "Тема"
           ],
