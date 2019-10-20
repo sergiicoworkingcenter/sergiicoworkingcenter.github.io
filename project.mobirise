@@ -7796,7 +7796,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133316.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133320.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16751,7 +16751,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50017.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50021.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -19089,7 +19089,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33818.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33822.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19101,7 +19101,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33819.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33823.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
