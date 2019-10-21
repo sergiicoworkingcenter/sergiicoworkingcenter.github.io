@@ -7796,7 +7796,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133332.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133336.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16751,7 +16751,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50033.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50037.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -19091,7 +19091,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33834.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33838.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19103,7 +19103,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33835.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33839.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -20279,7 +20279,7 @@
           },
           "title": "Подростки 13-15 лет 27 &nbsp;октября в 14.30",
           "text": "Зарегистрировать подростка и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://events.hubyabloko.com/event/20/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация закрыта</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"menstruation.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация закрыта</a>",
           "_tags": [
             "Тема"
           ],
