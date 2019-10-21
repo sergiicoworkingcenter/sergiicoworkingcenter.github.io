@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "psychosomatics.html",
+    "currentPage": "events.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7796,7 +7796,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133340.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133344.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16751,7 +16751,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50041.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50045.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18985,11 +18985,11 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "supergroup2.html",
+              "link": "psychosomatics.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -19034,7 +19034,7 @@
           "title1": "&nbsp;24 октября",
           "subtitle1": "",
           "caption1": "",
-          "title2": "старт 23 октября",
+          "title2": "старт 10-12 марта",
           "subtitle2": "Business Case Club – это лаборатория уникального практического опыта, полезных идей, а также увлекательного и открытого общения.&nbsp;",
           "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Для бизнесменов, руководителей, консультантов и организационных психологов.</span><br>Разбор актуальных задач, индивидуальное консультирование и супервизии, новые практики управления организационным развитием и бизнес процессами.<br>",
           "title3": "второй модуль 15-17 ноября&nbsp;",
@@ -19091,7 +19091,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33842.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33846.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19103,7 +19103,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33843.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
