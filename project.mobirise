@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "events.html",
+    "currentPage": "supergroup12.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7796,7 +7796,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133344.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133347.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16751,7 +16751,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50045.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50048.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -19091,7 +19091,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33846.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33849.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -21324,7 +21324,7 @@
             "paddingBottom": "4",
             "bgColor": "#fff"
           },
-          "text": "<b>Для качественного развития или удачного старта практики приглашаем гештальт-терапевтов в супервизорскую группы.\n</b><div><b>\n</b></div><div><b><br></b></div><div><b>Встречи один раз в месяц, по понедельникам с 10:00-18:00.\n</b></div><div><b>Количество участников 10-15 человек. После набора (2-3 встречи) группа работает в закрытом формате.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Формат работы: индивидуальные сессии, очная и заочная супервизия, групповая супервизия, процесс-анализ - по запросу присутствующих.</b></div><div><b><br></b></div><div><b>Алена и Роман будут приезжать по очереди.</b></div><div><b>\n</b></div>",
+          "text": "<b>Для качественного развития или удачного старта практики приглашаем гештальт-терапевтов в супервизорскую группы.\n</b><div><b>\n</b></div><div><b><br></b></div><div><b>Встречи один раз в месяц, по вторникам с 10:00-18:00.\n</b></div><div><b>Количество участников 10-15 человек. После набора (2-3 встречи) группа работает в закрытом формате.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Формат работы: индивидуальные сессии, очная и заочная супервизия, групповая супервизия, процесс-анализ - по запросу присутствующих.</b></div><div><b><br></b></div><div><b>Алена и Роман будут приезжать по очереди.</b></div><div><b>\n</b></div>",
           "_anchor": "content1-y0"
         },
         {
