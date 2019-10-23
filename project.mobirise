@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "group_psychotherapy.html",
+    "currentPage": "menstruation.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7796,7 +7796,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133350.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133353.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16751,7 +16751,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50051.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50054.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -19091,7 +19091,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33852.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33855.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -20237,7 +20237,7 @@
           },
           "title": "Подростки 10-12 лет 27 &nbsp;октября в 12.00",
           "text": "Зарегистрировать подростка и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/19/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Здесь</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://events.hubyabloko.com/event/19/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация закрыта</a>",
           "_tags": [
             "Тема"
           ],
