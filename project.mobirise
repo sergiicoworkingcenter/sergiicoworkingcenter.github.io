@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "panicattacks.html",
+    "currentPage": "protocolmethods.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7796,7 +7796,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133362.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133365.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16751,7 +16751,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50063.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50066.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -19091,7 +19091,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33864.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33867.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -20901,7 +20901,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "<b><br>Также приглашаем Вас на практический семинар о панических атаках, тревожных состояниях и инструментах психотерапевта для работы с этими состояниями&nbsp;</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"panicattacks.html\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "_tags": [
             "Тема"
           ],
@@ -21329,20 +21329,6 @@
           "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>по вопросам аренды и расписания центра:<br>+380 (66) 036 40 29 администратор<br><br>по вопросам терапевтических групп и обучающих программ:<br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>",
           "_anchor": "contacts2-xi"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-xm"
         }
       ]
     },
