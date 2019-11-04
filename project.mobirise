@@ -7796,7 +7796,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133359.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133362.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16751,7 +16751,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50060.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50063.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -19091,7 +19091,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33861.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33864.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -21290,7 +21290,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "<br>Также приглашаем Вас на лекцию о работе с КПТ-протоколами<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"protocolmethods.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"protocolmethods.html\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
           "_tags": [
             "Тема"
           ],
