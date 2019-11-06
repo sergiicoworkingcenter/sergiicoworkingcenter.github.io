@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "psychosomatics.html",
+    "currentPage": "group_psychotherapy.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7796,7 +7796,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133371.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133374.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -14346,47 +14346,6 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".lead H4": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-sd",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-16-2000x666.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "&nbsp;Групповая терапия в рамках гештальт-подхода",
-          "text": "<p>Специализация ВОППГП</p><h2><span style=\"color: rgb(255, 255, 255); font-size: 1.5rem; line-height: 1.1;\">начало 10-12 февраля 2020г\u001b</span><br></h2><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
           "_params": {
             "showTitle": false,
             "showText": true,
@@ -16795,7 +16754,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50072.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50075.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -19135,7 +19094,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33873.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33876.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
