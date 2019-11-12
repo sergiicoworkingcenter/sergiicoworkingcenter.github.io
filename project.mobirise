@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "events.html",
+    "currentPage": "big_fish.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1271,
+    "uniqCompNum": 1272,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7796,7 +7796,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133377.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -8441,17 +8441,61 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-hi",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
-          "text": "<p>Когда: 25 июля в 18:30.</p><p>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko.</p><p>Стоимость лекции: 150 грн. по предоплате, 200 грн.в день мероприятия и на месте.</p><p>Телефон для справок: </p><p>+38 (050) 523 99 60&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Ольга</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">+38 (050) 303 92 26 Мария&nbsp;</span></p>"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-1-810x450.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Когда: 21 ноября в 18:30.<br>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko.<br>Стоимость лекции: 150 грн. по предоплате, 200 грн.в день мероприятия и на месте.<br>Телефон для справок:<br>+38 (050) 523 99 60 Ольга<br>+38 (050) 303 92 26 Мария&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box5-zb"
         },
         {
           "_tags": [
@@ -8482,7 +8526,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<div>«На первый план режиссёр выдвинул трагичную любовь Криса и Хари — эмоциональный элемент решающим образом доминирует над интеллектуальным. Солярийский же океан является Великим Отсутствующим. В фильме есть своя неповторимая, захватывающая зрителя атмосфера. Насыщение светом, колоритность, трактовка темы, музыка, игра актёров, умеренное применение специальных эффектов, прозрачный сюжет — всё это создаёт произведение необычное, захватывающее, действительно новаторское. Содерберг создал пример смелого художественного кино — твёрдый орешек для раскусывания массовым потребителем, которого кормят голливудской кашей» (Станислав Лем об экранизации романа «Солярис» Стивеном Содербергом).</div><div><br></div><div>Регистрируйтесь и приходите, будем вместе с Вами анализировать кинорассказ о том, что «любовь — это вечно любовь. Даже в будущем вашем далёком»!</div>"
+          "text": "<div>Человечество плохо существует без иллюзий и мифов. По иронии судьбы один из самых бескомпромиссных разоблачителей мифов и борцов с иллюзиями Зигмунд Фройд после смерти сам превратился в икону масскультуры и неиссякающий генератор различных мифологем. В камерной, наполненной поэтическим символизмом, мелодраме 2018 года он предстает в непривычном образе человека перед лицом смерти на фоне неотвратимо наползающей мировой катастрофы. Наверное поэтому режиссёр Николаус Лейтнер в экранизации бестселлера Роберта Ситалера \"Табачник\" доверил эту роль Бруно Гансу (она стала последней работой в его жизни) - культовому актёру, в чьём репертуаре такие разные персонажи как спустившийся на Землю ангел, Гитлер и Вергилий в аду. Мы видим его глазами юного Франца - семнадцатилетнего изгнанника из рая детства, постигающего удовольствия и боль взрослой жизни. </div><div><br></div><div>Во время мини-лекции \"Сумерки Фрейда: табак познания добра и зла\" и обсуждения мы будем говорить о Вене, природе времени, смелости, сексуальности и влечениях к смерти, аутентичности и мещанстве. И о том, что мы приходим в этот мир не узнавать ответы, а задавать вопросы.</div>"
         },
         {
           "_tags": [
@@ -8647,7 +8691,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/13/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/27/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a> ",
           "text": "Купить билет<br>(150грн.)",
           "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
         },
@@ -16754,7 +16798,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50078.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x5001.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18864,7 +18908,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33879.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x3382.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
