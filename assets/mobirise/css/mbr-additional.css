@@ -5253,6 +5253,9 @@ section.form .container {
 #menu-vg .close-icon::after {
   background-color: #28324e;
 }
+#features3-zc P {
+  text-align: left;
+}
 #features3-vj P {
   text-align: left;
 }
