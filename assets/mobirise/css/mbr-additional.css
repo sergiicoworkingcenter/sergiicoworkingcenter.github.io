@@ -2348,99 +2348,6 @@ section.form .container {
   color: #ffffff;
   font-size: 16px;
 }
-#msg-box8-fv .mbr-section-title,
-#msg-box8-fv p {
-  color: #fff;
-}
-#msg-box8-fv .lead P {
-  font-size: 23px;
-}
-#form1-g2 .form-control-label {
-  color: #232323;
-}
-#form1-g2 .mbr-section-title {
-  font-size: 36px;
-}
-#msg-box5-g1 P {
-  font-size: 22px;
-}
-#form1-fw .form-control-label {
-  color: #232323;
-}
-#form1-fw .mbr-section-title {
-  font-size: 36px;
-}
-#menu-fs .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-fs .navbar-caption {
-  color: #ffffff;
-}
-#menu-fs .navbar-toggler {
-  color: #28324e;
-}
-#menu-fs .link,
-#menu-fs .dropdown-item {
-  color: #28324e;
-}
-#menu-fs .link {
-  font-size: 0.6rem;
-}
-#menu-fs .dropdown-item,
-#menu-fs .nav-dropdown-sm .link {
-  font-size: 0.650rem;
-}
-#menu-fs .link:hover,
-#menu-fs .dropdown-item:hover,
-#menu-fs .link:focus,
-#menu-fs .dropdown-item:focus {
-  color: #475577;
-}
-#menu-fs .link[aria-expanded="true"],
-#menu-fs .dropdown-menu {
-  background: #d6d6d6;
-}
-#menu-fs .nav-dropdown-sm .link:focus,
-#menu-fs .nav-dropdown-sm .link:hover,
-#menu-fs .nav-dropdown-sm .dropdown-item:focus,
-#menu-fs .nav-dropdown-sm .dropdown-item:hover {
-  background: #e7e7e7!important;
-}
-#menu-fs .navbar,
-#menu-fs .nav-dropdown-sm,
-#menu-fs .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-fs .nav-dropdown-sm .dropdown-menu {
-  background: #efefef;
-}
-#menu-fs .bg-color.transparent .link {
-  color: #28324e;
-  transition: none;
-}
-#menu-fs .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-fs .bg-color.transparent.opened .link:hover,
-#menu-fs .bg-color.transparent.opened .link:focus {
-  color: #475577;
-}
-#menu-fs .link[aria-expanded="true"],
-#menu-fs .dropdown-item[aria-expanded="true"] {
-  color: #475577!important;
-}
-#menu-fs.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-fs .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-fs .close-icon::before,
-#menu-fs .close-icon::after {
-  background-color: #28324e;
-}
-#contacts2-fu STRONG {
-  color: #ffffff;
-  font-size: 16px;
-}
 
 #msg-box5-zb P {
   font-size: 17px;
@@ -6114,6 +6021,86 @@ section.form .container {
   background-color: #28324e;
 }
 #contacts2-yw STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
+#msg-box5-g1 P {
+  font-size: 22px;
+}
+#form1-fw .form-control-label {
+  color: #232323;
+}
+#form1-fw .mbr-section-title {
+  font-size: 36px;
+}
+#menu-fs .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-fs .navbar-caption {
+  color: #ffffff;
+}
+#menu-fs .navbar-toggler {
+  color: #28324e;
+}
+#menu-fs .link,
+#menu-fs .dropdown-item {
+  color: #28324e;
+}
+#menu-fs .link {
+  font-size: 0.6rem;
+}
+#menu-fs .dropdown-item,
+#menu-fs .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-fs .link:hover,
+#menu-fs .dropdown-item:hover,
+#menu-fs .link:focus,
+#menu-fs .dropdown-item:focus {
+  color: #475577;
+}
+#menu-fs .link[aria-expanded="true"],
+#menu-fs .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-fs .nav-dropdown-sm .link:focus,
+#menu-fs .nav-dropdown-sm .link:hover,
+#menu-fs .nav-dropdown-sm .dropdown-item:focus,
+#menu-fs .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-fs .navbar,
+#menu-fs .nav-dropdown-sm,
+#menu-fs .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-fs .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-fs .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-fs .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-fs .bg-color.transparent.opened .link:hover,
+#menu-fs .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-fs .link[aria-expanded="true"],
+#menu-fs .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-fs.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-fs .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-fs .close-icon::before,
+#menu-fs .close-icon::after {
+  background-color: #28324e;
+}
+#contacts2-fu STRONG {
   color: #ffffff;
   font-size: 16px;
 }
