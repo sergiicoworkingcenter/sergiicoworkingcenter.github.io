@@ -7797,7 +7797,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13334.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16359,7 +16359,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x5001.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x5005.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18587,7 +18587,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3382.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x3386.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -21898,7 +21898,7 @@
             "inverse": true,
             "imageSize": "57",
             "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -21916,7 +21916,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x7883.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x7887.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21953,7 +21953,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Лекция 1.</b> Начало психодинамики. Классическая теория личности З. Фрейда&nbsp;</p><p><span style=\"font-size: 1.07rem;\"><b><br></b></span></p><p><span style=\"font-size: 1.07rem;\"><b>Лекция 2.</b> Этапы психосексуального и психосоциального развития личности (З.Фрейд, Э.Эриксон, А.Фрейд, М.Малер и другие)&nbsp;</span></p><p><br></p><p><b>Лекция 3.</b> Теория привязанности Дж.Боулби. Работа с разными типами привязанности</p><p><b><br></b></p><p><b>Лекция 4.</b> Границы личности в теории К.Г. Юнга. Анализ переноса как проекции&nbsp;</p><p><br></p><p><b>Лекция 5.</b> &nbsp;Структура личности Н.Мак-Вильямс. Особенности переноса и контр-переноса при работе с разными типами характеров.&nbsp;</p><p><br></p><p><b>Лекция 6.</b> Синтез теории влечений и теории отношений (О.Кернберг). Структурное интервью по Кернбергу&nbsp;</p><p><br></p><p><b>Лекция 7.</b> Грандиозность и идеализация в психологии самости Х.Кохута . Эмпатия в отношениях терапевт-клиент.</p><p><span style=\"font-size: 1.07rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Теория базисного дефекта М.Балинта. Fit состояние в диадах мать/ребёнок и терапевт/клиент&nbsp;</span><br></p><p><br></p><p><b>Лекция 8.</b> &nbsp;Дифференциация Я как способ построения отношений с собой и миром в концепции В.Тэхке. Аналитик как объект пациента&nbsp;</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
+          "text": "<p><b>Содержание курса:</b></p><p><b><br></b></p><p><b>Лекция 1.</b> Начало психодинамики. Классическая теория личности З. Фрейда&nbsp;</p><p><span style=\"font-size: 1.07rem;\"><b><br></b></span></p><p><span style=\"font-size: 1.07rem;\"><b>Лекция 2.</b> Этапы психосексуального и психосоциального развития личности (З.Фрейд, Э.Эриксон, А.Фрейд, М.Малер и другие)&nbsp;</span></p><p><br></p><p><b>Лекция 3.</b> Теория привязанности Дж.Боулби. Работа с разными типами привязанности</p><p><b><br></b></p><p><b>Лекция 4.</b> Границы личности в теории К.Г. Юнга. Анализ переноса как проекции&nbsp;</p><p><br></p><p><b>Лекция 5.</b> &nbsp;Структура личности Н.Мак-Вильямс. Особенности переноса и контр-переноса при работе с разными типами характеров.&nbsp;</p><p><br></p><p><b>Лекция 6.</b> Синтез теории влечений и теории отношений (О.Кернберг). Структурное интервью по Кернбергу&nbsp;</p><p><br></p><p><b>Лекция 7.</b> Грандиозность и идеализация в психологии самости Х.Кохута . Эмпатия в отношениях терапевт-клиент.</p><p><span style=\"font-size: 1.07rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Теория базисного дефекта М.Балинта. Fit состояние в диадах мать/ребёнок и терапевт/клиент&nbsp;</span><br></p><p><br></p><p><b>Лекция 8.</b> &nbsp;Дифференциация Я как способ построения отношений с собой и миром в концепции В.Тэхке. Аналитик как объект пациента&nbsp;</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
         },
         {
           "_tags": [
