@@ -1305,14 +1305,11 @@ section.form .container {
 #header6-32 .mbr-section-text {
   color: #565656;
 }
-
-#msg-box8-37 .mbr-section-title,
-#msg-box8-37 p {
-  color: #fff;
+#msg-box5-zh P {
+  font-size: 22px;
 }
-#msg-box8-37 .btn {
-  font-size: 14px;
-  font-family: 'Roboto', sans-serif;
+#msg-box5-zi P {
+  font-size: 22px;
 }
 #content1-8t P {
   font-size: 17px;
@@ -1383,18 +1380,6 @@ section.form .container {
 #menu-33 .close-icon::before,
 #menu-33 .close-icon::after {
   background-color: #28324e;
-}
-#msg-box1-oa H3 {
-  font-size: 25px;
-}
-#msg-box1-ob H3 {
-  font-size: 25px;
-}
-#msg-box5-oc P {
-  font-size: 22px;
-}
-#msg-box5-of P {
-  font-size: 22px;
 }
 #form1-oe .form-control-label {
   color: #232323;
