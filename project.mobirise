@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "1step.html",
+    "currentPage": "page61.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1279,
+    "uniqCompNum": 1288,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7753,7 +7753,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133320.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133324.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -9265,7 +9265,7 @@
       "settings": {
         "title": "ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ",
         "meta_descr": "ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ",
-        "order": 34
+        "order": 33
       },
       "components": [
         {
@@ -9427,7 +9427,7 @@
       "settings": {
         "title": "Вебинар для родителей",
         "meta_descr": "Вебинар для родителей",
-        "order": 35
+        "order": 34
       },
       "components": [
         {
@@ -9802,7 +9802,7 @@
       "settings": {
         "title": "Тренинг для родителей",
         "meta_descr": "Тренинг для родителей",
-        "order": 36
+        "order": 35
       },
       "components": [
         {
@@ -10186,7 +10186,7 @@
       "settings": {
         "title": "Лекции для родителей детей и подростков",
         "meta_descr": "Лекции для родителей детей и подростков",
-        "order": 37
+        "order": 36
       },
       "components": [
         {
@@ -10699,7 +10699,7 @@
       "settings": {
         "title": "Первая ступень",
         "meta_descr": "Первая ступень",
-        "order": 38
+        "order": 37
       },
       "components": [
         {
@@ -11030,7 +11030,7 @@
       "settings": {
         "title": "Первая ступень",
         "meta_descr": "Первая ступень",
-        "order": 39
+        "order": 38
       },
       "components": [
         {
@@ -11361,7 +11361,7 @@
       "settings": {
         "title": "Женское здоровье",
         "meta_descr": "Женское здоровье",
-        "order": 40
+        "order": 39
       },
       "components": [
         {
@@ -11769,7 +11769,7 @@
       "settings": {
         "title": "женская сексуальность",
         "meta_descr": "Лекция ",
-        "order": 44
+        "order": 43
       },
       "components": [
         {
@@ -12146,7 +12146,7 @@
       "settings": {
         "title": "Лекция",
         "meta_descr": "Лекция ",
-        "order": 41
+        "order": 40
       },
       "components": [
         {
@@ -12879,7 +12879,7 @@
       "settings": {
         "title": "ПОДРОСТКАМ О СЕКСЕ:  ПРОСТО И ДОСТУПНО ",
         "meta_descr": "ПОДРОСТКАМ О СЕКСЕ: ПРОСТО И ДОСТУПНО ",
-        "order": 46
+        "order": 45
       },
       "components": [
         {
@@ -13246,7 +13246,7 @@
       "settings": {
         "title": "Воркшоп для HR",
         "meta_descr": "Воркшоп для HR",
-        "order": 48
+        "order": 47
       },
       "components": [
         {
@@ -13627,7 +13627,7 @@
       "settings": {
         "title": "Клинический подход",
         "meta_descr": "Специализация ВОППГП \"Клинический подход в гештальт-терапии\"",
-        "order": 49
+        "order": 48
       },
       "components": [
         {
@@ -13903,7 +13903,7 @@
       "settings": {
         "title": "Групповая терапия",
         "meta_descr": "Специализация \"Групповая терапия в рамках гештальт-подхода\"",
-        "order": 50
+        "order": 49
       },
       "components": [
         {
@@ -14182,7 +14182,7 @@
       "settings": {
         "title": "Специализация",
         "meta_descr": "Специализация \"Работа с сексуальной тематикой в гештальт подходе\"",
-        "order": 51
+        "order": 50
       },
       "components": [
         {
@@ -14458,7 +14458,7 @@
       "settings": {
         "title": "Скажи, как есть. ",
         "meta_descr": "Скажи, как есть.\nПрактическое исследование с теоретическим сопровождением\n",
-        "order": 52
+        "order": 51
       },
       "components": [
         {
@@ -15297,7 +15297,7 @@
       "settings": {
         "title": "Сексуальная грамотность: зачем это нашим детям",
         "meta_descr": "Сексуальная грамотность: зачем это нашим детям",
-        "order": 42
+        "order": 41
       },
       "components": [
         {
@@ -16184,7 +16184,7 @@
       "settings": {
         "title": "Глазами мужчины",
         "meta_descr": "Лекция ",
-        "order": 45
+        "order": 44
       },
       "components": [
         {
@@ -16315,7 +16315,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50021.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50025.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16576,7 +16576,7 @@
       "settings": {
         "title": "Лекция о женском здоровье",
         "meta_descr": "Лекция о женском здоровье",
-        "order": 43
+        "order": 42
       },
       "components": [
         {
@@ -18543,7 +18543,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33822.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x33826.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19479,7 +19479,7 @@
       "settings": {
         "title": "Девочкам о менструации и взрослении",
         "meta_descr": "Девочкам о менструации и взрослении",
-        "order": 47
+        "order": 46
       },
       "components": [
         {
@@ -20418,7 +20418,7 @@
       "settings": {
         "title": "Панические атаки",
         "meta_descr": "Панические  атаки и повышенная тревожность. \nИзраильская методика  «самообороны» \n",
-        "order": 53
+        "order": 52
       },
       "components": [
         {
@@ -21872,7 +21872,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78823.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78827.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22180,6 +22180,324 @@
             "bgColor": "#efefef"
           },
           "text": "<p><br></p><p>Вы помните себя до рождения?&nbsp;</p><p>Или что происходило, когда вы родились?&nbsp;</p><p>Как вы ощущали себя в месяц, в два, …, в год?&nbsp;</p><p>Как вам было?&nbsp;</p><p>Тепло, уютно, спокойно?&nbsp;</p><p>Тревожно и одиноко?</p><p>Не помните?&nbsp;</p><p>А тело помнит! И тело может стать проводником к вашему ресурсу, силе, внутренней поддержке из вашего раннего детства!</p><p><br></p><p>На семинаре вы будете исследовать как сформировалось ваше внутреннее «Я» и узнаете как проанализировать внутреннее «Я» другого человека.&nbsp;</p><p>Познакомитесь с телесными практиками, которые помогают получить доступ к сильным сторонам вашего характера и скомпенсировать слабые.&nbsp;</p><p><br></p><p>После семинара вы сможете почувствовать:</p><p>- Я существую! Я имею право быть, быть таким как есть, быть особенным и неповторимым!</p><p>- Я знаю, что я хочу! Я имею право желать и получать то, что мне нужно!</p><p><br></p><p><br></p><p><b>Ведущая:</b></p><p><b>Маргарита Лебедева</b> - сертифицированный гештальт-терапевт, сертифицированный специалист в области перинатальной психологии и телесно-ориентированной терапии (Институт клинической психологии и психотерапии г. Москва), выпускник программы терапевтов - бодинамистов II ступень, Институт Бодинамического анализа (Дания), программы по травмотерапии Институт EMDR (Германия).</p><p><br></p><p>Семинар длится 3 дня:&nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 25 мая с 17.00 до 20.00</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 26 мая с 11.00 до 19.00</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 27 мая с 11.00 до 19.00</p><p>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko.</p><p>Стоимость семинара: 3000 грн.</p><p>Телефоны для справок:</p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p>"
+        }
+      ]
+    },
+    "page61.html": {
+      "settings": {
+        "title": "help",
+        "meta_descr": "Панические  атаки и повышенная тревожность. \nИзраильская методика  «самообороны» \n",
+        "order": 53
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<b>Семинар ведет:</b><br><b>Александр Гершанов</b> <br>психотерапевт КПТ, международный эксперт по работе с кризисами и травмой, консультант ООН, директор образовательных программ IPP, ISRAEL.<br>Много лет в составе израильских и международных гуманитарных организаций оказывает профессиональную поддержку людям, которые работают и живут в зонах конфликтов и стихийных бедствий.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box5-zj"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Когда:</b>&nbsp;27 – 29 марта 2020</p><p>пт: 15.00 – 20.00</p><p>сб, вс: 10.00 – 19.00</p><p><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</p><p><span style=\"font-size: 1.07rem;\"><b>Телефоны для справок:</b></span><br></p><p>+38 (050) 523 99 60 Ольга</p>",
+          "text2": "<p><b>Для кого:</b> психологов, психотерапевтов, врачей, студентов и людей помогающих профессий</p><p><b>Стоимость:</b> 160 уе.\u001b</p><p><b><br></b></p><p><b>По окончании семинара – сертификат участника международной образовательной программы  от International Psycho-educational Projects при поддержке International Human Rights Commission и United Nations Economic and Social Council.\u001b\u001b</b></p><p><br></p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-zk"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<div>Помощь помогающему</div>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-zl"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Практический семинар для профессионалов в сфере помогающих профессий (психологи, социальные работники, педагоги, работающие с людьми с особыми потребностями, медицинский персонал, полиция, пожарная служба, спасатели), направленный на поддержку и обучение эффективным стратегиям самопомощи и поддержания психологического благополучия.</p><p><br></p><p><b>Цель программы:\n</b></p><p>Программа курса «Помощь Помогающему» предназначена для того, чтобы помочь устранить стресс-факторы, облегчить симптомы вторичной травматизации, улучшить субъективное качество жизни и межличностные отношения, построить эффективные стратегии решения проблем, повысить эффективность деятельности и научиться самопомощи. \n</p><p>Программа обучает профессионалов в сфере помогающих профессий протоколам помощи и самопомощи в чрезвычайной ситуации, методам облегчения симптоматики вторичной травматизации, психологическим технологиям получения доступа к ресурсам, которые обеспечивают спокойствие, психологическую гармонию и жизненную силу. \n</p><p>\n</p><p><b>Подходы и методы</b>\n:</p><p>Специалистами IPP разработана комплексная авторская методика для поддержки представителей помогающих профессий (модель CAMEA-SoS), основанная на современных  концепциях в области психологии эмоций, когнитивной психологии, работы со стрессом, кризисными состояниями и лечения психо-травмы.   Работа направлена на снижение симптомов вторичной и косвенной травматизации, повышение психологической устойчивости, саморегуляции и навыков самопомощи. \n</p><p>В основе программы лежит методология салютогенного и системного подходов, концепция мультимодальных моделей, методы Арт-терапии, когнитивно-поведенческой терапии, краткосрочной психотерапии и технологии работы с метафорическими ассоциативными картами. \n</p><p>\n</p><p><b>Достижение как обучающих, так и терапевтических целей курса предполагает решение трех основных задач:</b>\n</p><p>1.\tИнформирование и обучение протоколам работы и методам помощи и самопомощи. Таким образом повышается ассертивность и снижается уровень стресса во время работы, повышается эффективность деятельности, усиливается осознанность и саморегуляция.\n</p><p>2.\tСнижение симптоматики вторичной травматизации, повышение психологической компетентности участников, обучение методам саморегуляции. Общие протоколы и авторские методики IPP.\n</p><p>3.\tРабота с ресурсами личности. Обучение способам самопомощи и обеспечение доступа к ресурсам с использованием прошедших апробацию и доказавших свою эффективность авторских разработок IPP.\n</p><p><span style=\"font-size: 1.07rem;\"></span><br></p><p><b>Основные темы курса:</b>\n</p><p>1.\tАнализ феноменов вторичной травматизации, усталости от сострадания и прочих последствий психотерапевтической работы и оказания социально-психологической помощи людям, пострадавшим от травматических событий и/или пережившим потерю.\n</p><p>2.\t Обучение протоколам работы при вторичной травматизации.\n</p><p>3.\tОбучение методам самопомощи и использования собственного психологического ресурса специалистами помогающих профессий.\n</p><p>4.\tОбучение способам реагирования на сильные эмоции, дезинформацию, агрессивные настроения, слухи и другие стихийные деструктивные массовые проявления, в том числе в СМИ и социальных сетях, сопутствующие чрезвычайной ситуации.</p><p><br></p><p><b>Программа курса «Помощь помогающему»\n</b></p><p><b>День первый &nbsp;\n</b></p><p><span style=\"font-size: 1.07rem;\"><b>•</b>\tОпределения психотравмы, терминология и понятия, психофизиология душевной травмы, основные термины и понятия.\n</span></p><p><span style=\"font-size: 1.07rem;\"><b>•</b>\tПсихотравма на шкале времени: ASR; ASD; PTSD; Delayed PTSD; Chronic PTSD.\n</span></p><p><span style=\"font-size: 1.07rem;\"><b>•</b>\tЛекция «Помощь Помогающему».\n</span></p><p><span style=\"font-size: 1.07rem;\"><b>•</b>\tАнализ ситуаций и состояний, в которых данный вид помощи необходим:\n</span></p><p><span style=\"font-size: 1.07rem;\">&nbsp; &nbsp; &nbsp;1.     Усталость от сострадания\n</span></p><p><span style=\"font-size: 1.07rem;\">&nbsp; &nbsp; &nbsp;2.     Вторичная травматизация (ПТСР)\n</span></p><p><span style=\"font-size: 1.07rem;\">&nbsp; &nbsp; &nbsp;3.     Косвенная травматизация&nbsp; \n</span></p><p><span style=\"font-size: 1.07rem;\">&nbsp; &nbsp; &nbsp;4.     Бремя ухода  &nbsp;\n</span></p><p><span style=\"font-size: 1.07rem;\">&nbsp; &nbsp; &nbsp;5.     Профессиональное выгорание\n</span></p><p><span style=\"font-size: 1.07rem;\"><b>•</b>\tГармонизирующая ресурсная арт-терапия. Упражнение с цветными картами.\n</span></p><p><span style=\"font-size: 1.07rem;\"><b>•</b>\tРелаксационные техники.&nbsp;\n</span></p><p><span style=\"font-size: 1.07rem;\"><b>•</b>\tАвторская модель помощи помогающему CAMEA SoS.\n</span></p><p><span style=\"font-size: 1.07rem;\"><b>•</b>\tМетодологические основы CAMEA SoS. Салютогенный подход, КПТ, система поддержки, метафорические ассоциативные карты, арт-терапия, стресс-менеджмент, ресурсинговые мультимодальные модели на примере модели BASIC PH, управление тревожностью – SUDs, непрерывность жизни.&nbsp;\n</span></p><p><span style=\"font-size: 1.07rem;\"><b>•</b>\tПродолжение анализа методологии CAMEA SoS. Работа с базовыми убеждениями и личностными смыслами. Упражнения в малых группах.&nbsp;\n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><b>День второй</b></span><br></p><p>\n</p><p><b>•</b> Модели работы с потерей и горем.</p><p><b>•</b> Различные модели работы с потерей и гореванием.</p><p><b>•</b> Горе и реакции горевания. Культурно-религиозные и психологические аспекты траура. \n</p><p><b>•</b> Модели работы горя: \n</p><p>&nbsp; &nbsp; &nbsp; Модель Кюблер-Росс;\n</p><p>&nbsp; &nbsp; &nbsp; Модель Дж.Уорден;\n</p><p>&nbsp; &nbsp; &nbsp; Модель «Двух направлений» Шимшон Рубин;\n</p><p>&nbsp; &nbsp; &nbsp; Различия и сходства травмы и потери – критерии.\n</p><p>\n</p><p><b>•</b> Контроль и тревожность. \n</p><p>\n</p><p><b>•</b> Управление тревожностью и стресс-менеджмент. \n</p><p>\n</p><p><b>•</b> Диагностика и выявление ведущих ресурсных каналов с помощью МАК OMNIS.\n</p><p>\n</p><p><b>•</b> Работа с МАК OMNIS. Протокол усиления ресурсных состояний.\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p><br></p><p><b>День третий\n</b></p><p>\n</p><p><b>•</b> Понятие «непрерывность жизни». Восстановление непрерывности жизни. Упражнение «Три карты» \n</p><p>\n</p><p><b>•</b> «Защищенное место» - упражнение \n</p><p>\n</p><p><b>•</b> Коммуникационный тренинг. Активизация ресурса социальной поддержки. Групповые упражнения на ресурс групповой и социальной поддержки. Умение давать и принимать помощь. \n</p><p><b>•</b> Взаимо и самопомощь \n</p><p><b>•</b> Релаксационные техники и гармонизирующая арт-терапия\n</p><p><b>•</b> Завершение работы семинара, обратная связь, подведение итогов.  Вручение сертификатов.</p><p><br></p><p> \n</p><p><b>По окончании семинара – сертификат участника международной образовательной программы  от International Psycho-educational Projects при поддержке International Human Rights Commission и United Nations Economic and Social Council.</b></p><p> \n</p><p><br></p>",
+          "_anchor": "content1-zm"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Заявка на участие в семинаре&nbsp;<div>«Помощь помогающему»</div>",
+          "subtitle": "Если у вас остались вопросы или вы хотите забронировать место в группе, оставьте свои контактыв форме ниже.<br>",
+          "form": {
+            "action": "mykhalyova@gmail.com",
+            "alerts": {
+              "success": "Спасибо!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
+          "_anchor": "form1-zn"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#efefef",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SOS.html\" aria-expanded=\"false\"><p>Для себя</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"practice.html\" aria-expanded=\"false\">Для проф практики</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rent.html\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-zo"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_anchor": "footer1-zp"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#78b950",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>по вопросам аренды и расписания центра:<br>+380 (66) 036 40 29 администратор<br><br>по вопросам терапевтических групп и обучающих программ:<br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>",
+          "_anchor": "contacts2-zr"
         }
       ]
     }
