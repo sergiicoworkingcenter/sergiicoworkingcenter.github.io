@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "lecture3.html",
+    "currentPage": "events.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1288,
+    "uniqCompNum": 1289,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7753,7 +7753,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133332.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133336.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -7983,7 +7983,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-3-810x450.png",
+              "src": "@PROJECT_PATH@/assets/images/-4-810x450.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -8001,7 +8001,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Когда: 19 декабря в 18:30.<br>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko.<br>Стоимость лекции: 150 грн. по предоплате, 200 грн.в день мероприятия и на месте.<br>Телефон для справок:<br>+38 (050) 523 99 60 Ольга<br>+38 (050) 303 92 26 Мария&nbsp;<br>",
+          "text": "Когда: 13 февраля в 18:30.<br>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko.<br>Стоимость лекции: 150 грн. по предоплате, 200 грн.в день мероприятия и на месте.<br>Телефон для справок:<br>+38 (066) 036 40 29&nbsp;<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -8043,7 +8043,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<div>«Даже если не знаешь, куда идёт поезд, главное – сесть в него»\n</div><div>\n</div><div><span style=\"font-size: 1.07rem;\">•\tЗачем взрослым стоит продолжать верить в Деда Мороза, Санта-Клауса, Святого Николая и прочих рождественских мифологических персонажей?&nbsp;\n</span></div><div><span style=\"font-size: 1.07rem;\">•\tВ чем психологический смысл новогодних праздников?&nbsp;\n</span></div><div><span style=\"font-size: 1.07rem;\">•\tПочему человек без ожидания чуда не совсем жив?&nbsp;\n</span></div><div><span style=\"font-size: 1.07rem;\">•\tКто мы - стоящие на полустанке зрители, тоскливо провожающие взглядом рисково проносящиеся мимо экспрессы новых возможностей или пассажиры в них?&nbsp;\n</span></div><div><span style=\"font-size: 1.07rem;\">На эти и множество других важных и интересных вопросов мы попробуем найти ответы вместе с культовым фильмом Роберта Земекиса \"Полярный экспресс\", по версии множества рейтингов одним из самых лучших фильмов для просмотра в эти дни.</span><br></div><div>Регистрируйтесь и приходите за порцией праздничного чуда!\n</div><div><br></div>"
+          "text": "<div>На первом заседании в новом году, перед днем Святого Валентина, будем смотреть самую революционную (по степени откровенности и скандальности) кинокартину русскоязычного пространства в 2019 году – камерную эротическую драму Нигины Сайфуллаевой \"Верность\", получившую специальный диплом жюри «За безграничную веру актёров в режиссёра» на кинофестивале «Кинотавр». \r</div><div>\r</div><div>Что происходит с сексуальностью современных людей? \r</div><div>Что такое чувства и карьера, верность и измена для нынешних семей? \r</div><div>Может ли месть принести сатисфакцию? \r</div><div>\r</div><div>На эти вопросы будем искать ответы на примере \"истории брака\" акушер-гинеколога Лены и актёра Сергея, одновременно нежно и жёстко рассказанной в фильме. Как всегда, участников ожидает мини-лекция \"Ревность: сцены супружеской жизни\" от кандидата психологических наук, доцента, семейного психотерапевта с более чем двадцатилетним стажем Максима Жидко, ответы на вопросы и диалог между участниками в доброжелательной и продуктивной атмосфере.\r</div><div><br></div>"
         },
         {
           "_tags": [
@@ -8208,7 +8208,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/28/subscription&#9;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/30/subscription&#9;yes\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a> ",
           "text": "Купить билет<br>(150грн.)",
           "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
         },
@@ -12257,55 +12257,61 @@
           "text": "Copyright (c) 2016 Mobirise."
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead P": {
-              "font-size": "46px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-qw",
           "_params": {
             "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x500.png",
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#e579d0",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0"
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">Ирушки</span><br><span style=\"font-weight: normal;\"><br></span>",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-1-810x450.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Когда: 11.02.2020 в 18.30 <br>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko<br>Стоимость: 400 грн. при предоплате,<br>                    450 грн - в день мероприятия и на месте.<br>Телефон для справок:<br>+38 (066) 036 40 29&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
-            "Theme"
+            "Тема"
           ],
-          "_name": "content6",
-          "_anchor": "content6-qx",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fcf0f9"
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
           },
-          "text1": "<p><b>Когда: </b>11.02.2020 в 18.30&nbsp;</p><p><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko</p><p><b>Стоимость: </b>400 грн. при предоплате, </p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 450 грн - в день мероприятия и на месте.</p><p><b>Телефон для справок:</b></p><p>+38 (066) 036 40 29<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span></p>",
-          "text2": ""
+          "_anchor": "msg-box5-zs"
         },
         {
           "_tags": [
@@ -12368,7 +12374,7 @@
           },
           "_anchor": "msg-box1-r0",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": true,
             "inverse": false,
@@ -16279,7 +16285,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x50033.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2-1500x500.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18159,7 +18165,18 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x333.png",
+              "src": "@PROJECT_PATH@/assets/images/-4-600x333.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "big_fish.html",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-1-600x33337.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18169,21 +18186,9 @@
               "linkInNewWindow": false
             }
           },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x333.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "events.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-3-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/%D0%A1%D1%82%D1%8B%D0%B4%D0%BD%D0%BE%20%D0%B1%D1%8B%D1%82%D1%8C%20%D0%B1%D0%B5%D1%81%D1%81%D1%82%D1%8B%D0%B6%D0%B8%D0%BC-3-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18277,11 +18282,11 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/66378934-1995255357246954-1939803373440073728-n-600x333.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "psychiatry_for_psychologists.html",
+              "link": "psychosomatics.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -18289,11 +18294,11 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-3-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/56456114-1852515684854256-7631742738475515904-o-600x338.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "supergroup12.html",
+              "link": "group_psychotherapy.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -18301,11 +18306,11 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2-600x314.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "1step_for_life.html",
+              "link": "helping.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -18368,13 +18373,13 @@
         {
           "_params": {
             "showImages": true,
-            "showTitles": true,
+            "showTitles": false,
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": "3",
+            "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -18390,22 +18395,23 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x33838.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "group.html",
+              "link": "personalitytheory.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/1-3-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "psychosomatics.html",
+              "link": "1step.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -18481,124 +18487,6 @@
             }
           },
           "_anchor": "features3-vj"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x33834.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "protocolmethods.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x338.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "panicattacks.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/1920-600x337.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "group_psychotherapy.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Программа по работе с созависимостью",
-          "subtitle1": "",
-          "caption1": "",
-          "title2": "Business Case Club",
-          "subtitle2": "Business Case Club – это лаборатория уникального практического опыта, полезных идей, а также увлекательного и открытого общения.&nbsp;",
-          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Для бизнесменов, руководителей, консультантов и организационных психологов.</span><br>Разбор актуальных задач, индивидуальное консультирование и супервизии, новые практики управления организационным развитием и бизнес процессами.<br>",
-          "title3": "1 ступень",
-          "subtitle3": "Теория и практика гештальт - терапии&nbsp;",
-          "caption3": "- разобраться со своими чувствами и переживаниями,<br>- понять причины сложных жизненных ситуаций,<br>- взглянуть по-другому на отношения с близкими и ценными людьми,<br>- добавить немного оптимизма и легкости в вашу жизнь<br>",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"codependency.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"BCC.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"1step.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "features3-vk"
         },
         {
           "_tags": [
@@ -21836,7 +21724,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78835.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78839.png",
               "link": "",
               "alt": "",
               "title": ""
