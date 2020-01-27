@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "events.html",
+    "currentPage": "big_fish.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7753,7 +7753,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133340.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133344.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -8208,7 +8208,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/30/subscription&#9;yes\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/30/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить</a> ",
           "text": "Купить билет<br>(150грн.)",
           "title": "Пожалуйста, сохраните письмо с квитанцией об оплате для входа на лекцию и зарегистрируйтесь в форме ниже."
         },
@@ -18176,7 +18176,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x33341.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x33345.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18395,7 +18395,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x33842.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x33846.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -21724,7 +21724,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78843.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78847.png",
               "link": "",
               "alt": "",
               "title": ""
