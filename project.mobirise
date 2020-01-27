@@ -7753,7 +7753,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133336.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133340.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18176,11 +18176,11 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x33337.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x33341.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "big_fish.html",
+              "link": "lecture3.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -18395,7 +18395,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x33838.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x33842.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -21724,7 +21724,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78839.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78843.png",
               "link": "",
               "alt": "",
               "title": ""
