@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "big_fish.html",
+    "currentPage": "lecture3.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7753,7 +7753,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133344.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133348.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -12384,7 +12384,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcf0f9",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -12393,7 +12393,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/29/subscription&#9;yes\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Здесь</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/29/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Здесь</a>",
           "text": "Зарегистрироваться и купить билет",
           "title": ""
         },
@@ -18176,7 +18176,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x33345.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x33349.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18395,7 +18395,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x33846.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x33850.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -21724,7 +21724,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78847.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78851.png",
               "link": "",
               "alt": "",
               "title": ""
