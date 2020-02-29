@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sexeducation.html",
+    "currentPage": "womenHealth2.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1292,
+    "uniqCompNum": 1293,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7753,7 +7753,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133328.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133332.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11880,55 +11880,61 @@
           "text": "Copyright (c) 2016 Mobirise."
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead P": {
-              "font-size": "46px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-qk",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
-            "showButton": false,
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-3-1500x500.png",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0"
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
-          "title": "&nbsp;",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fcf0f9"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-4-810x45033.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
           },
-          "text1": "<p><b>Когда: </b>2.10.2019 в 18.30&nbsp;</p><p><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko</p><p><b>Стоимость: </b>350&nbsp;грн. при предоплате, </p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 400 грн - в день мероприятия и на месте.</p><p><b>Телефон для справок:</b></p><p>+38 (066) 036 40 29<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span></p>",
-          "text2": "",
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<b>Когда:</b> 18.03.2020 в 18.30 <br><br><b>Где:</b> Харьков, ул. Гаршина 9, LifeHub Yabloko<br><br><b>Стоимость:</b> 400 грн. при предоплате,<br>                    450 грн - в день мероприятия и на месте.<br><br><b>Телефон для справок:</b><br>+38 (066) 036 40 29&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
           ],
-          "_name": "content6",
-          "_anchor": "content6-u8"
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box5-zw"
         },
         {
           "_tags": [
@@ -11970,7 +11976,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Рассмотрим такие вопросы:</p><p><br></p><p>— Как антропологические, исторические, социальные и культурные факторы влияют на нашу сексуальность.</p><p>— Что такое человеческая сексуальность? Есть ли разница между женской и мужской сексуальностью?</p><p>— Физиология: особенности построения клитора, вульвы и влагалища.</p><p>— Здоровье: гигиена во время менструации, современные гигиенические средства.</p><p>— Мастурбация в подростковом и взрослом возрасте: польза или вред?</p><p>— Оргазм: основные причины отсутствия во время полового акта.</p><p>— Точки/зоны G, К, А, U — правда или вымысел?</p><p>— Методы исследования эрогенных зон и собственного тела.</p><p>— Техники, которые помогат достигать большего удовольствия.</p><p>— Товары из секс-шопа, которые делают нашу жизнь комфортнее.</p><p><br></p><p><br></p><p>Когда: 2.10.2019 в 18.30 \n</p><p>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko\n</p><p>Стоимость: 350 грн. при предоплате,\n</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 400 грн - в день мероприятия и на месте.\n</p><p>Телефон для справок:\n</p><p>+38 (066) 036 40 29&nbsp;</p>"
+          "text": "<p>Рассмотрим такие вопросы:</p><p><br></p><p>— Как антропологические, исторические, социальные и культурные факторы влияют на нашу сексуальность.</p><p>— Что такое человеческая сексуальность? Есть ли разница между женской и мужской сексуальностью?</p><p>— Физиология: особенности построения клитора, вульвы и влагалища.</p><p>— Здоровье: гигиена во время менструации, современные гигиенические средства.</p><p>— Мастурбация в подростковом и взрослом возрасте: польза или вред?</p><p>— Оргазм: основные причины отсутствия во время полового акта.</p><p>— Точки/зоны G, К, А, U — правда или вымысел?</p><p>— Методы исследования эрогенных зон и собственного тела.</p><p>— Техники, которые помогат достигать большего удовольствия.</p><p>— Товары из секс-шопа, которые делают нашу жизнь комфортнее.</p><p><br></p>"
         },
         {
           "_params": {
@@ -11995,7 +12001,7 @@
           },
           "title": "",
           "text": "Зарегистрироваться и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/21/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Здесь</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/36/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация</a>",
           "_tags": [
             "Тема"
           ],
@@ -12070,42 +12076,6 @@
             }
           },
           "_anchor": "msg-box5-ua"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H2": {
-              "color": "#000000",
-              "font-size": "25px"
-            }
-          },
-          "_anchor": "msg-box1-qr",
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"womenHealth.html\" data-toolbar=\"-mbrBtnMove\">Посмотреть</a>",
-          "text": "<b>Следующая лекция</b>",
-          "title": "PRE MADE BLOCKS"
         },
         {
           "_tags": [
@@ -12985,7 +12955,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1200x628.png",
+              "src": "@PROJECT_PATH@/assets/images/-4-810x45033.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -15401,7 +15371,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1200x628.png",
+              "src": "@PROJECT_PATH@/assets/images/-4-810x45033.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -18181,7 +18151,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x33329.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x33334.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18400,7 +18370,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x33830.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x33835.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19472,7 +19442,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1200x628.png",
+              "src": "@PROJECT_PATH@/assets/images/-4-810x45033.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21688,7 +21658,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78831.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78836.png",
               "link": "",
               "alt": "",
               "title": ""

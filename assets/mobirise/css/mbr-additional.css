@@ -3427,12 +3427,8 @@ section.form .container {
 #menu-qi .close-icon::after {
   background-color: #28324e;
 }
-#msg-box8-qk .mbr-section-title,
-#msg-box8-qk p {
-  color: #fff;
-}
-#msg-box8-qk .lead P {
-  font-size: 46px;
+#msg-box5-zw P {
+  font-size: 17px;
 }
 #content1-qm P {
   text-align: left;
@@ -3457,10 +3453,6 @@ section.form .container {
 }
 #msg-box5-ua P {
   font-size: 22px;
-}
-#msg-box1-qr H2 {
-  color: #000000;
-  font-size: 25px;
 }
 #contacts2-qs STRONG {
   color: #ffffff;
