@@ -7753,7 +7753,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13334.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18176,7 +18176,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x3331.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x3335.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18395,7 +18395,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x3382.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x3386.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19539,7 +19539,7 @@
           },
           "title": "в форме укажите ФИО подростка и телефон одного из родителей",
           "text": "Зарегистрировать подростка и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"menstruation.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/31/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
           "_tags": [
             "Тема"
           ],
@@ -21683,7 +21683,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x7883.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x7887.png",
               "link": "",
               "alt": "",
               "title": ""
