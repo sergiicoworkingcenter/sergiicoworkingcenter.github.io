@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sex_education.html",
+    "currentPage": "sexeducation.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7753,7 +7753,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133316.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133320.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -15471,9 +15471,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "",
+          "title": "25 марта 18:30",
           "text": "Зарегистрироваться и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/14/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Здесь</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/34/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Здесь</a>",
           "_tags": [
             "Тема"
           ],
@@ -15534,9 +15534,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "",
+          "title": "8 апреля 18:30",
           "text": "Зарегистрироваться и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/15/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Здесь</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/35/subscription&#9;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Здесь</a>",
           "_tags": [
             "Тема"
           ],
@@ -18181,7 +18181,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x33317.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x33321.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18400,7 +18400,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x33818.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x33822.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -21688,7 +21688,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78819.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78823.png",
               "link": "",
               "alt": "",
               "title": ""
