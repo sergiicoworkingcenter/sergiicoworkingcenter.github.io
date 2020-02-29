@@ -3736,21 +3736,8 @@ section.form .container {
 #menu-ri .close-icon::after {
   background-color: #28324e;
 }
-#msg-box8-rk .mbr-section-title,
-#msg-box8-rk p {
-  color: #fff;
-}
-#msg-box8-rk .lead P {
-  font-size: 46px;
-}
-#msg-box8-rk .mbr-section-title DIV {
-  color: #000000;
-}
-#msg-box8-rk .mbr-section-title SPAN {
-  color: #000000;
-}
-#msg-box8-rk .mbr-section-title {
-  color: #000000;
+#msg-box5-zu P {
+  font-size: 17px;
 }
 #content1-rm P {
   font-size: 22px;
