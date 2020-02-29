@@ -5045,6 +5045,9 @@ section.form .container {
   color: #ffffff;
   font-size: 16px;
 }
+#features3-vj P {
+  text-align: left;
+}
 #menu-vg .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -5113,9 +5116,6 @@ section.form .container {
   background-color: #28324e;
 }
 #features3-zc P {
-  text-align: left;
-}
-#features3-vj P {
   text-align: left;
 }
 #contacts2-vi STRONG {
