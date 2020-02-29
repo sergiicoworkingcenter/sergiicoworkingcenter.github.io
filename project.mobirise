@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sexeducation.html",
+    "currentPage": "sex_education.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7753,7 +7753,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133320.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133324.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11769,7 +11769,7 @@
       "settings": {
         "title": "женская сексуальность",
         "meta_descr": "Лекция ",
-        "order": 43
+        "order": 42
       },
       "components": [
         {
@@ -15265,7 +15265,7 @@
       "settings": {
         "title": "Сексуальная грамотность: зачем это нашим детям",
         "meta_descr": "Сексуальная грамотность: зачем это нашим детям",
-        "order": 41
+        "order": 44
       },
       "components": [
         {
@@ -16159,7 +16159,7 @@
       "settings": {
         "title": "Глазами мужчины",
         "meta_descr": "Лекция ",
-        "order": 44
+        "order": 43
       },
       "components": [
         {
@@ -16551,7 +16551,7 @@
       "settings": {
         "title": "Лекция о женском здоровье",
         "meta_descr": "Лекция о женском здоровье",
-        "order": 42
+        "order": 41
       },
       "components": [
         {
@@ -18181,7 +18181,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x33321.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x33325.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18400,7 +18400,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x33822.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x33826.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -21688,7 +21688,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78823.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78827.png",
               "link": "",
               "alt": "",
               "title": ""
