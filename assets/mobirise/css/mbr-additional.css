@@ -5381,7 +5381,6 @@ section.form .container {
   font-size: 16px;
 }
 
-
 #menu-wr .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -5449,21 +5448,8 @@ section.form .container {
 #menu-wr .close-icon::after {
   background-color: #28324e;
 }
-#msg-box8-wt .mbr-section-title,
-#msg-box8-wt p {
-  color: #fff;
-}
-#msg-box8-wt .lead P {
-  font-size: 46px;
-}
-#msg-box8-wt .mbr-section-title DIV {
-  color: #000000;
-}
-#msg-box8-wt .mbr-section-title SPAN {
-  color: #000000;
-}
-#msg-box8-wt .mbr-section-title {
-  color: #000000;
+#msg-box5-zt P {
+  font-size: 17px;
 }
 #content1-wv P {
   font-size: 22px;
@@ -5477,14 +5463,8 @@ section.form .container {
   font-size: 32px;
   font-family: 'Open Sans', sans-serif;
 }
-#msg-box1-wx H3 {
-  font-size: 18px;
-  color: #7e9b9f;
-}
-#msg-box1-wx H2 {
-  color: #000000;
-  font-size: 32px;
-  font-family: 'Open Sans', sans-serif;
+#msg-box1-ww .btn {
+  font-size: 14px;
 }
 #msg-box5-wy P {
   font-size: 22px;
