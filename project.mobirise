@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "events.html",
+    "currentPage": "menstruation.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1294,
+    "uniqCompNum": 1295,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7640,7 +7640,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133354.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133358.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11792,7 +11792,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-4-810x45055.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1200x628.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -12842,7 +12842,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-4-810x45055.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1200x628.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -15258,7 +15258,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-4-810x45055.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1200x628.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -18376,7 +18376,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x33856.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x33859.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19430,7 +19430,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -19443,7 +19443,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-4-810x45055.png",
+              "src": "@PROJECT_PATH@/assets/images/-3-1200x628.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19461,18 +19461,13 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Для девочек 10–12 лет</b><br><br><b>Когда:</b> 7.03.2020 в 11:00<br><br><b>Где:</b> Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><br><b>Стоимость лекции:</b> 400 грн. при предоплате, 450 грн в день мероприятия и на месте.<br><br><b>Телефон для справок:</b><br>+38 (066) 036 40 29&nbsp;",
+          "text": "<b>Для девочек 10–12 лет</b><br><br><b>Когда: </b>7.03.2020 в 11:00<br><br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><br><b>Стоимость лекции:</b> 400 грн. при предоплате, 450 грн в день мероприятия и на месте.<br><br><b>Телефон для справок:</b><br>+38 (066) 036 40 29&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "msg-box5-zt"
+          "_anchor": "msg-box5-zy"
         },
         {
           "_tags": [
@@ -21659,7 +21654,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78857.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78860.png",
               "link": "",
               "alt": "",
               "title": ""
