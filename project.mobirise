@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sex_education.html",
+    "currentPage": "events.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7640,7 +7640,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133369.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11792,7 +11792,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-4-810x45070.png",
+              "src": "@PROJECT_PATH@/assets/images/-4-810x4501.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -17910,11 +17910,11 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "personalitytheory.html",
+              "link": "https://www.facebook.com/events/2798943080332886/",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -17922,14 +17922,13 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-3-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/1-4-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "1step.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media3": {
@@ -18135,238 +18134,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-3-600x314.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "menstruation.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x314.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "sexeducation.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D0%A1%D1%82%D1%8B%D0%B4%D0%BD%D0%BE%20%D0%B1%D1%8B%D1%82%D1%8C%20%D0%B1%D0%B5%D1%81%D1%81%D1%82%D1%8B%D0%B6%D0%B8%D0%BC-3-600x338.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "supergroup1.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "",
-          "subtitle1": "",
-          "caption1": "",
-          "title2": "",
-          "subtitle2": "Business Case Club – это лаборатория уникального практического опыта, полезных идей, а также увлекательного и открытого общения.&nbsp;",
-          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Для бизнесменов, руководителей, консультантов и организационных психологов.</span><br>Разбор актуальных задач, индивидуальное консультирование и супервизии, новые практики управления организационным развитием и бизнес процессами.<br>",
-          "title3": "старт 30 сентября",
-          "subtitle3": "Теория и практика гештальт - терапии&nbsp;",
-          "caption3": "- разобраться со своими чувствами и переживаниями,<br>- понять причины сложных жизненных ситуаций,<br>- взглянуть по-другому на отношения с близкими и ценными людьми,<br>- добавить немного оптимизма и легкости в вашу жизнь<br>",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"codependency.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"BCC.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"1step.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "features3-zc"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-4-600x333.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "womenHealth2.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x314.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "sex_education.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-3-600x333.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "lecture3.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Исторические, культурологические и психологические аспекты инцеста.",
-          "subtitle1": "19 апреля в 18:30",
-          "caption1": "Лекцию читают: Максим Жидко и Юлия Ярмоленко",
-          "title2": "Информация скоро появится",
-          "subtitle2": "Информация скоро появится",
-          "caption2": "Информация скоро появится",
-          "title3": "Информация скоро появится",
-          "subtitle3": "Информация скоро появится",
-          "caption3": "Информация скоро появится",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"birth_experience.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-zx"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x33871.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18390,7 +18158,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/%D0%A1%D0%BF%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B2%20%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0%D1%85%20%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D0%B8_%20%D0%B5%D1%81%D1%82%D1%8C%20%D0%B8%D0%BB%D0%B8%20%D0%BD%D0%B5%D1%82%20(1)-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -21644,7 +21412,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78872.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x7882.png",
               "link": "",
               "alt": "",
               "title": ""
