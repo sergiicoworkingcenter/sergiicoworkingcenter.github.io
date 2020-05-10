@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "financialbehavior.html",
+    "currentPage": "events.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7640,7 +7640,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13334.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11792,7 +11792,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-4-810x4501.png",
+              "src": "@PROJECT_PATH@/assets/images/-4-810x4505.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -18118,7 +18118,7 @@
             "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": "2",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -18158,11 +18158,11 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/%D0%A1%D0%BF%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B2%20%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0%D1%85%20%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B8%D0%B8_%20%D0%B5%D1%81%D1%82%D1%8C%20%D0%B8%D0%BB%D0%B8%20%D0%BD%D0%B5%D1%82%20(1)-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "helping.html",
+              "link": "financialbehavior.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -21412,7 +21412,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x7882.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x7886.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22074,7 +22074,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7883.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7887.png",
               "link": "",
               "alt": "",
               "title": ""
