@@ -3657,7 +3657,6 @@ section.form .container {
   font-size: 16px;
 }
 
-
 #menu-ri .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3736,15 +3735,6 @@ section.form .container {
   color: #7e9b9f;
 }
 #msg-box1-wo H2 {
-  color: #000000;
-  font-size: 32px;
-  font-family: 'Open Sans', sans-serif;
-}
-#msg-box1-wp H3 {
-  font-size: 18px;
-  color: #7e9b9f;
-}
-#msg-box1-wp H2 {
   color: #000000;
   font-size: 32px;
   font-family: 'Open Sans', sans-serif;
