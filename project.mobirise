@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sexeducation.html",
+    "currentPage": "womenHealth2.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7640,7 +7640,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13336.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13339.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11792,7 +11792,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-6-810x450.png",
+              "src": "@PROJECT_PATH@/assets/images/-8-810x450.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -12134,7 +12134,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-810x450.png",
+              "src": "@PROJECT_PATH@/assets/images/-7-810x450.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -17880,26 +17880,24 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x333.png",
+              "src": "@PROJECT_PATH@/assets/images/-7-600x333.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "lecture3.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-6-600x333.png",
+              "src": "@PROJECT_PATH@/assets/images/-8-600x333.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "womenHealth2.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media4": {
@@ -21483,7 +21481,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x7887.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78810.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22145,7 +22143,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7888.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78811.png",
               "link": "",
               "alt": "",
               "title": ""
