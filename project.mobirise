@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1308,
+    "uniqCompNum": 1310,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7640,7 +7640,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133318.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133321.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -12907,9 +12907,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Подростки 14-17 лет 16 июля в 14.00<br>(В форме укажите ФИО подростка и телефон одного из родителей)<div><br></div>",
+          "title": "Подростки 11-13 лет 16 июля в 11.00<br>(В форме укажите ФИО подростка и телефон одного из родителей)<div><br></div>",
           "text": "Зарегистрировать подростка и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/42/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/41/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
           "_tags": [
             "Тема"
           ],
@@ -12926,7 +12926,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
-          "_anchor": "msg-box1-10a"
+          "_anchor": "msg-box1-wo"
         },
         {
           "_params": {
@@ -12949,9 +12949,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Подростки 11-13 лет 16 июля в 11.00<br>(В форме укажите ФИО подростка и телефон одного из родителей)<div><br></div>",
+          "title": "Подростки 14-17 лет 16 июля в 14.00<br>(В форме укажите ФИО подростка и телефон одного из родителей)<div><br></div>",
           "text": "Зарегистрировать подростка и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/41/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/42/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
           "_tags": [
             "Тема"
           ],
@@ -12968,7 +12968,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
-          "_anchor": "msg-box1-wo"
+          "_anchor": "msg-box1-10d"
         },
         {
           "_params": {
@@ -21523,7 +21523,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78819.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78822.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22185,7 +22185,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78820.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78823.png",
               "link": "",
               "alt": "",
               "title": ""
