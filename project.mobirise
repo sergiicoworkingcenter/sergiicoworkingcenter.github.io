@@ -7640,7 +7640,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13336.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -21523,7 +21523,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x7884.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x7887.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22185,7 +22185,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7885.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7888.png",
               "link": "",
               "alt": "",
               "title": ""
