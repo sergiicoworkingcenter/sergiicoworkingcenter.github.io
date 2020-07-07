@@ -3658,7 +3658,6 @@ section.form .container {
 }
 
 
-
 #menu-ri .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3732,15 +3731,6 @@ section.form .container {
 #content1-rm P {
   font-size: 22px;
 }
-#msg-box1-wo H3 {
-  font-size: 18px;
-  color: #7e9b9f;
-}
-#msg-box1-wo H2 {
-  color: #000000;
-  font-size: 32px;
-  font-family: 'Open Sans', sans-serif;
-}
 #msg-box1-10a H3 {
   font-size: 18px;
   color: #7e9b9f;
@@ -3750,11 +3740,11 @@ section.form .container {
   font-size: 32px;
   font-family: 'Open Sans', sans-serif;
 }
-#msg-box1-10b H3 {
+#msg-box1-wo H3 {
   font-size: 18px;
   color: #7e9b9f;
 }
-#msg-box1-10b H2 {
+#msg-box1-wo H2 {
   color: #000000;
   font-size: 32px;
   font-family: 'Open Sans', sans-serif;
