@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sexeducation.html",
+    "currentPage": "menstruation.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7640,7 +7640,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133321.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133324.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -19312,7 +19312,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-3-1200x628.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1200x628.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19330,7 +19330,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Для девочек 10–12 лет</b><br><br><b>Когда: </b>7.03.2020 в 11:00<br><br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><br><b>Стоимость лекции:</b> 400 грн. при предоплате, 450 грн в день мероприятия и на месте.<br><br><b>Телефон для справок:</b><br>+38 (066) 036 40 29&nbsp;",
+          "text": "<b>Для девочек 10–12 лет</b><br><br><b>Когда: </b>23.07.2020 в 11:00<br><br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><br><b>Стоимость лекции:</b> 400 грн. при предоплате, 450 грн в день мероприятия и на месте ( при наличии свободных мест).<br><br><b>Телефон для справок:</b><br>+38 (066) 036 40 29 <br><br><b>Мероприятие проводится с соблюдением карантинных норм. Количество людей в группе ограничено. <br>Если у подростка или членов его семьи в день мероприятия появились симптомы вирусной инфекции, свяжитесь, пожалуйста, с нами и воздержитесь от посещения мероприятия..</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -19379,7 +19379,7 @@
           },
           "title": "(В форме укажите ФИО подростка и телефон одного из родителей)",
           "text": "Зарегистрировать подростка и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/31/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/43/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
           "_tags": [
             "Тема"
           ],
@@ -21523,7 +21523,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78822.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78825.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22185,7 +22185,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78823.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78826.png",
               "link": "",
               "alt": "",
               "title": ""
