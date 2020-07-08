@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sex_education.html",
+    "currentPage": "events.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1310,
+    "uniqCompNum": 1311,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7640,7 +7640,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133327.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133330.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -15271,7 +15271,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Когда: </b><br>29 июля&nbsp;в 18.30.<br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость лекции: </b>400&nbsp;грн. при предоплате, 450 грн в день ( при наличии свободных мест).<br><br><b>Телефон для справок:</b><br>+38 (066) 036 40 29 <br><br><b>Мероприятие проводится с соблюдением карантинных норм. Количество людей в группе ограничено. <br>Если у подростка или членов его семьи в день мероприятия появились симптомы вирусной инфекции, свяжитесь, пожалуйста, с нами и воздержитесь от посещения мероприятия.&nbsp;мероприятия.</b><br><br>",
+          "text": "<b>Когда: </b><br>29 июля&nbsp;в 18.30.<br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость лекции: </b>400&nbsp;грн. при предоплате, 450 грн в день ( при наличии свободных мест).<br><br><b>Телефон для справок:</b><br>+38 (066) 036 40 29 <br><br><b>Мероприятие проводится с соблюдением карантинных норм. Количество людей в группе ограничено. <br>Если у подростка или членов его семьи в день мероприятия появились симптомы вирусной инфекции, свяжитесь, пожалуйста, с нами и воздержитесь от посещения мероприятия.&nbsp;</b><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -17853,8 +17853,7 @@
               "active": true,
               "link": "sexeducation.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media2": {
@@ -17932,6 +17931,118 @@
           ],
           "_name": "features3",
           "_anchor": "features3-108"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-7-600x314.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "sexeducation.html",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-9-600x314.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "menstruation.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-11-600x314.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "sex_education.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Исторические, культурологические и психологические аспекты инцеста.",
+          "subtitle1": "19 апреля в 18:30",
+          "caption1": "Лекцию читают: Максим Жидко и Юлия Ярмоленко",
+          "title2": "Информация скоро появится",
+          "subtitle2": "Информация скоро появится",
+          "caption2": "Информация скоро появится",
+          "title3": "Информация скоро появится",
+          "subtitle3": "Информация скоро появится",
+          "caption3": "Информация скоро появится",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"birth_experience.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-10e"
         },
         {
           "_params": {
@@ -19267,7 +19378,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Для девочек 10–12 лет</b><br><br><b>Когда: </b>23.07.2020 в 11:00<br><br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><br><b>Стоимость лекции:</b> 400 грн. при предоплате, 450 грн в день мероприятия и на месте ( при наличии свободных мест).<br><br><b>Телефон для справок:</b><br>+38 (066) 036 40 29 <br><br><b>Мероприятие проводится с соблюдением карантинных норм. Количество людей в группе ограничено. <br>Если у подростка или членов его семьи в день мероприятия появились симптомы вирусной инфекции, свяжитесь, пожалуйста, с нами и воздержитесь от посещения мероприятия..</b><br>",
+          "text": "<b>Для девочек 10–12 лет</b><br><br><b>Когда: </b>23.07.2020 в 11:00<br><br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><br><b>Стоимость лекции:</b> 400 грн. при предоплате, 450 грн в день мероприятия и на месте ( при наличии свободных мест).<br><br><b>Телефон для справок:</b><br>+38 (066) 036 40 29 <br><br><b>Мероприятие проводится с соблюдением карантинных норм. Количество людей в группе ограничено. <br>Если у подростка или членов его семьи в день мероприятия появились симптомы вирусной инфекции, свяжитесь, пожалуйста, с нами и воздержитесь от посещения мероприятия.</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -21460,7 +21571,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78828.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78831.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22122,7 +22233,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78829.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78832.png",
               "link": "",
               "alt": "",
               "title": ""
