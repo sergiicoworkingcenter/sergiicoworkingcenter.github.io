@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sexeducation.html",
+    "currentPage": "womenHealth2.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7640,7 +7640,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133336.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133339.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11864,7 +11864,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -11882,7 +11882,7 @@
             "overlayOpacity": 0.5
           },
           "title": "",
-          "text": "Зарегистрироваться и купить билет",
+          "text": "Регистрация на 22 июля закрыта.<div>Следите за нашими анонсами.</div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/39/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация</a>",
           "_tags": [
             "Тема"
@@ -11894,7 +11894,7 @@
               "color": "#7e9b9f"
             },
             "H2": {
-              "color": "#000000",
+              "color": "#b8312f",
               "font-size": "32px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
@@ -21571,7 +21571,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78837.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78840.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22233,7 +22233,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78838.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78841.png",
               "link": "",
               "alt": "",
               "title": ""
