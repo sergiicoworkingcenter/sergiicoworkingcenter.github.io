@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1313,
+    "uniqCompNum": 1316,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7640,7 +7640,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -16752,45 +16752,56 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".lead H4": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
           "_params": {
             "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-6-1500x500.png",
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "61",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0"
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
-          "title": "&nbsp;Скажи, как есть",
-          "text": "<p><span style=\"font-size: 1.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\">Практическое исследование с теоретическим сопровождением.&nbsp;</span><br></p><p><span style=\"font-size: 1.5rem; line-height: 1.1; font-weight: 600; letter-spacing: -1px;\">&nbsp;4 - 6 октября 2019</span><span style=\"font-size: 1.5rem; font-weight: 600; letter-spacing: -1px; line-height: 1.1;\">\u001b\u001b</span></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_anchor": "msg-box8-uo"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-1400x788.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<b>Расписание группы сезон</b> <b>2020/2021</b>:<br>14 сентября  10.00-18.00 Роман<br>19 октября    10.00-18.00 Алена<br>2 ноября        10.00-18.00 Роман<br>14 декабря    10.00-18.00 Алена<br>11 января      10.00-18.00 Роман<br>22 феврал     10.00-18.00 Алена<br>22 марта        10.00-18.00 Роман<br>12 апреля      10.00-18.00 Алена<br>3 мая              10.00-18.00 Роман<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-10i"
         },
         {
           "_tags": [
@@ -16802,7 +16813,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><b>Расписание группы сезон 2019/2020:</b></p><p>30 сентября &nbsp;10.00-18.00</p><p>28 октября &nbsp; &nbsp;10.00-18.00</p><p>25 ноября &nbsp; &nbsp; &nbsp;10.00-18.00</p><p>23 декабря &nbsp; &nbsp;10.00-18.00</p><p>20 января &nbsp; &nbsp; &nbsp;10.00-18.00</p><p>17 феврал &nbsp; &nbsp; 10.00-18.00</p><p>23 марта &nbsp; &nbsp; &nbsp; &nbsp;10.00-18.00</p><p>20 апреля &nbsp; &nbsp; &nbsp;10.00-18.00</p><p>25 мая &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;10.00-18.00</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Где:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</span><br></p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ.</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;1000 грн.\u001b\u001b\u001b</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</b><br></p><p>+38 (050) 523 99 60<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Ольга</span></p><p>+38 (050) 303 92 26 Мария</p>",
+          "text": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Где:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</span><br></p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ.</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;1000 грн.\u001b\u001b\u001b</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</b><br></p><p>+38 (050) 523 99 60<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Ольга</span></p>",
           "_anchor": "content1-up"
         },
         {
@@ -16820,7 +16831,7 @@
             "paddingBottom": "4",
             "bgColor": "#fff"
           },
-          "text": "<b>Для качественного развития или удачного старта практики приглашаем гештальт-терапевтов в супервизорскую группы.\n</b><div><b>\n</b></div><div><b><br></b></div><div><b>Встречи один раз в месяц, по понедельникам с 10:00-18:00.\n</b></div><div><b>Количество участников 8-12 человек. После набора (2-3 встречи) группа работает в закрытом формате.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Формат работы: индивидуальные сессии, очная и заочная супервизия, групповая супервизия, процесс-анализ - по запросу присутствующих.</b></div><div><b><br></b></div><div><b>Алена и Роман будут приезжать по очереди.</b></div><div><b>\n</b></div>",
+          "text": "<b>Для качественного развития или удачного старта практики приглашаем гештальт-терапевтов в супервизорскую группы.\n</b><div><b>\n</b></div><div><b><br></b></div><div><b>Встречи один раз в месяц, по понедельникам с 10:00-18:00.\n</b></div><div><b>Количество участников 12-15 человек. После набора (2-3 встречи) группа работает в закрытом формате.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Формат работы: индивидуальные сессии, очная и заочная супервизия, групповая супервизия, процесс-анализ - по запросу присутствующих.</b></div><div><b><br></b></div><div><b>Алена и Роман будут приезжать по очереди.</b></div><div><b>\n</b></div>",
           "_anchor": "content1-ur"
         },
         {
@@ -18293,11 +18304,11 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "psychosomatics.html",
+              "link": "supergroup1.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -18305,11 +18316,11 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/56456114-1852515684854256-7631742738475515904-o-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "group_psychotherapy.html",
+              "link": "supergroup12.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -18317,7 +18328,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x3384.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19780,7 +19791,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x7885.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20422,7 +20433,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x7885.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20516,7 +20527,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-4-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20534,13 +20545,13 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Расписание группы сезон</b> <b>2019/2020</b>:<br>26 ноября      10.00-18.00<br>24 декабря    10.00-18.00<br>21 января      10.00-18.00<br>18 феврал     10.00-18.00<br>24 марта        10.00-18.00<br>21 апреля      10.00-18.00<br>26 мая            10.00-18.00",
+          "text": "<b>Расписание группы сезон</b> <b>2020/2021</b>:<br>15 сентября  10.00-18.00 Роман<br>15 октября    10.00-18.00 Алена (четверг)<br>3 ноября        10.00-18.00 Роман<br>15 декабря    10.00-18.00 Алена<br>12 января      10.00-18.00 Роман<br>23 феврал     10.00-18.00 Алена<br>23 марта        10.00-18.00 Роман<br>13 апреля      10.00-18.00 Алена<br>4 мая              10.00-18.00 Роман<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-y7"
+          "_anchor": "msg-box5-10j"
         },
         {
           "_tags": [
@@ -20552,7 +20563,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Где:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</span><br></p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ.</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;1000 грн.\u001b\u001b\u001b</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</b><br></p><p>+38 (050) 523 99 60<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Ольга</span></p><p>+38 (050) 303 92 26 Мария</p>",
+          "text": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Где:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</span><br></p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ.</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;1000 грн.\u001b\u001b\u001b</span></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Телефоны для справок:</b><br></p><p>+38 (050) 523 99 60<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Ольга</span></p>",
           "_anchor": "content1-xz"
         },
         {
@@ -21571,7 +21582,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x7881.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x7886.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21915,7 +21926,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7887.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22233,7 +22244,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7882.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7888.png",
               "link": "",
               "alt": "",
               "title": ""
