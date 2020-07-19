@@ -7640,7 +7640,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13339.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133315.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18322,13 +18322,12 @@
               "active": true,
               "link": "supergroup12.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x33810.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x33816.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19791,7 +19790,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78811.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78817.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20433,7 +20432,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78811.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78817.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21582,7 +21581,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78812.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78818.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21926,7 +21925,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78813.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78819.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22244,7 +22243,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78814.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78820.png",
               "link": "",
               "alt": "",
               "title": ""
