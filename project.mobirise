@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "1step.html",
+    "currentPage": "addictiontherapy.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1335,
+    "uniqCompNum": 1338,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7640,7 +7640,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13337.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17201,13 +17201,13 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Сезон 2020/2021:</b><br>Старт будет назначен по мере формирования группы.<br>Встречи будут происходить раз в месяц по будним дням.<br>Ведется запись в группу.<br><br><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko<br><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ.<br><b>Стоимость:</b> 1000 грн.\u001b\u001b\u001b<br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга<br><br>",
+          "text": "<b>Сезон 2020/2021:</b><br>Старт будет назначен по мере формирования группы.<br>Встречи будут происходить раз в месяц по будним дням.<br>Ведется запись в группу.<br><br><b>Где: </b>г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko<br><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ.<br><b>Стоимость:</b> 1000 грн.\u001b\u001b\u001b<br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-10l"
+          "_anchor": "msg-box5-115"
         },
         {
           "_tags": [
@@ -17519,7 +17519,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-4-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x788.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -18212,7 +18212,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x3381.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x3388.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18301,7 +18301,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x3382.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x3389.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19788,7 +19788,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x7883.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78810.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20154,7 +20154,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78811.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20430,7 +20430,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x7883.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78810.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21579,7 +21579,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x7884.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78812.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21923,7 +21923,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7885.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78813.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22241,7 +22241,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7886.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78814.png",
               "link": "",
               "alt": "",
               "title": ""
