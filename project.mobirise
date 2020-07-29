@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "addictiontherapy.html",
+    "currentPage": "sex_education.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7640,7 +7640,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -15319,8 +15319,8 @@
             "overlayOpacity": 0.5
           },
           "title": "29 июля 18:30",
-          "text": "Зарегистрироваться и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/44/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Здесь</a>",
+          "text": "Зарегистрироваться и купить билет&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sex_education.html#msg-box1-ul\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация закрыта</a>",
           "_tags": [
             "Тема"
           ],
@@ -18212,7 +18212,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x3388.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x3381.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18301,7 +18301,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x3389.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x3382.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19788,7 +19788,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78810.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x7883.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20154,7 +20154,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78811.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x7884.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20430,7 +20430,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78810.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x7883.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21579,7 +21579,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78812.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x7885.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21923,7 +21923,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78813.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7886.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22241,7 +22241,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78814.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7887.png",
               "link": "",
               "alt": "",
               "title": ""
