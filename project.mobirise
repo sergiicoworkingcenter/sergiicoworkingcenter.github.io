@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sex_education.html",
+    "currentPage": "sexeducation.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1338,
+    "uniqCompNum": 1339,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -3749,54 +3749,69 @@
           "text": "Copyright (c) 2016 Mobirise."
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead P": {
-              "font-size": "23px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-5v",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
-            "showButton": false,
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "62",
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#222",
+            "overlay": false,
+            "overlayColor": "#fff",
             "overlayOpacity": 0.5
           },
-          "title": "Эмоции. Тело. Действия.&nbsp;",
-          "text": "<p>телесно-ориентированная программа</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-8-1400x788.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<b>Когда:</b> 12-13 сентября - первый модуль<br><b>Распсание:</b> 11.00 -19.00 с перерывом на обед&nbsp;<br><b>Где:</b> Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость</b> <b>одного модуля:</b> 100 уе.&nbsp;<br>Программа рассчитана на 5 тематических модулей по 2 дня с интервалом в 1,5 месяца.<br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-116"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-5w",
+          "_anchor": "content1-5z",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
-          "text": "<p>Когда: 3 - 4 марта - первый модуль</p><p>Начинаем в 11.00.</p><p>Где:<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Харьков, ул. Гаршина 9, LifeHub Yabloko.</span></p><p>Стоимость одного модуля 2200 грн. - по предоплате, 2500 грн. - на месте.</p><p>Программа рассчитана на 7 тематических модулей по 2 дня с интервалом в 2 месяца.</p><p>Телефоны для справок:</p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p>"
+          "text": "<p><br></p><p>Наши эмоции руководят нашими действиями.&nbsp;</p><p>А как руководить эмоциями? Откуда они появляются и как формируются?</p><p>Как уловить свои эмоции до того, как сделано или сказано что-то сгоряча?</p><p>Между эмоциями и действиями есть ТЕЛО.&nbsp;</p><p>Ваше ТЕЛО. Ваш мудрый советчик и лучший друг!&nbsp;</p><p>В нем отражается каждая эмоция и застывает, если вы ее не увидели, не прожили, не поняли.</p><p><b><br></b></p><p><b>Что вы получите, приняв участие в программе?&nbsp;</b></p><p>- познакомитесь со своими эмоциями через тело;</p><p>- понимая свои эмоции, научитесь принимать осознанные решения и совершать желаемые действия;&nbsp;</p><p>- разберетесь как вы злитесь, радуетесь, печалитесь, возбуждаетесь;</p><p>- научитесь проживать эмоции без вреда для тела.</p><p><b><br></b></p><p><b>Вам будет интересна эта программа, если:&nbsp;</b></p><p>- вы эмоциональны и вам сложно в стрессовой ситуации быть эффективными;&nbsp;</p><p>- вы не испытываете «плохих эмоций», но у вас часто болит голова, мышцы спины и шеи;&nbsp;</p><p>- вам нужно находить контакт с очень разными людьми и это лишает вас сил;&nbsp;</p><p>- вы хотите сохранить ваше тело здоровым, разум – ясным, а жизнь – радостной!</p><p><b><br></b></p><p><b>Программа рассчитана на 7 тематических модулей по 2 дня с интервалом в 2 месяца.</b></p><p><b><br></b></p><p><b>Темы модулей</b></p><p>1.\tБезопасность.</p><p>2.\tКонтакт с внутренними потребностями.</p><p>3.\tГраницы.</p><p>4.\tКонтакт с внутренней силой. Воля.</p><p>5.\tЛюбовь и сексуальность.</p><p>6.\tМнение.</p><p>7.\tКак остаться собой в толпе.</p><p><b><br></b></p><p>Данные темы, рассматриваются в контексте формирования структуры личности. Каждой из этих тем соответствует определенный период формирования и развития человека. В ходе программы участники получат теоретические знания и практические навыки для развития ресурсных сторон и сбалансирования слабых.&nbsp;</p><p><br></p><p><b>Ведущая:</b></p><p><b>Маргарита Лебедева</b> - сертифицированный гештальт-терапевт, сертифицированный специалист в области перинатальной психологии и телесно-ориентированной терапии (Институт клинической психологии и психотерапии г. Москва), выпускник программы терапевтов - бодинамистов II ступень, Институт Бодинамического анализа (Дания), программы по травмотерапии Институт EMDR (Германия).</p><p><br></p>"
         },
         {
           "_tags": [
@@ -3857,19 +3872,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-5z",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p><br></p><p>Наши эмоции руководят нашими действиями.&nbsp;</p><p>А как руководить эмоциями? Откуда они появляются и как формируются?</p><p>Как уловить свои эмоции до того, как сделано или сказано что-то сгоряча?</p><p>Между эмоциями и действиями есть ТЕЛО.&nbsp;</p><p>Ваше ТЕЛО. Ваш мудрый советчик и лучший друг!&nbsp;</p><p>В нем отражается каждая эмоция и застывает, если вы ее не увидели, не прожили, не поняли.</p><p><b><br></b></p><p><b>Что вы получите, приняв участие в программе?&nbsp;</b></p><p>- познакомитесь со своими эмоциями через тело;</p><p>- понимая свои эмоции, научитесь принимать осознанные решения и совершать желаемые действия;&nbsp;</p><p>- разберетесь как вы злитесь, радуетесь, печалитесь, возбуждаетесь;</p><p>- научитесь проживать эмоции без вреда для тела.</p><p><b><br></b></p><p><b>Вам будет интересна эта программа, если:&nbsp;</b></p><p>- вы эмоциональны и вам сложно в стрессовой ситуации быть эффективными;&nbsp;</p><p>- вы не испытываете «плохих эмоций», но у вас часто болит голова, мышцы спины и шеи;&nbsp;</p><p>- вам нужно находить контакт с очень разными людьми и это лишает вас сил;&nbsp;</p><p>- вы хотите сохранить ваше тело здоровым, разум – ясным, а жизнь – радостной!</p><p><b><br></b></p><p><b>Программа рассчитана на 7 тематических модулей по 2 дня с интервалом в 2 месяца.</b></p><p><b><br></b></p><p><b>Темы модулей</b></p><p>1.\tБезопасность.</p><p>2.\tКонтакт с внутренними потребностями.</p><p>3.\tГраницы.</p><p>4.\tКонтакт с внутренней силой. Воля.</p><p>5.\tЛюбовь и сексуальность.</p><p>6.\tМнение.</p><p>7.\tКак остаться собой в толпе.</p><p><b><br></b></p><p>Данные темы, рассматриваются в контексте формирования структуры личности. Каждой из этих тем соответствует определенный период формирования и развития человека. В ходе программы участники получат теоретические знания и практические навыки для развития ресурсных сторон и сбалансирования слабых.&nbsp;</p><p><br></p><p><b>Ведущая:</b></p><p><b>Маргарита Лебедева</b> - сертифицированный гештальт-терапевт, сертифицированный специалист в области перинатальной психологии и телесно-ориентированной терапии (Институт клинической психологии и психотерапии г. Москва), выпускник программы терапевтов - бодинамистов II ступень, Институт Бодинамического анализа (Дания), программы по травмотерапии Институт EMDR (Германия).</p><p><br></p><p>Когда: &nbsp;3 - 4 марта - первый модуль</p><p>Начинаем в 11.00.</p><p>Где: Харьков, ул. Гаршина 9, LifeHub Yabloko.</p><p>Стоимость одного модуля 2200 грн. - по предоплате, 2500 грн. - на месте.</p><p>Программа рассчитана на 7 тематических модулей по 2 дня с интервалом в 2 месяца.&nbsp;</p><p>Телефоны для справок:</p><p>+38 (050) 523 99 60</p><p>+38 (097) 901 37 15 Ольга</p><p>+38 (050) 303 92 26 Мария</p><p><b><br></b></p>"
         },
         {
           "_inherit": "msg-box5",
@@ -7640,7 +7642,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13338.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -12909,7 +12911,7 @@
           },
           "title": "Подростки 11-13 лет 6 августа в 11.00<br>(В форме укажите ФИО подростка и телефон одного из родителей)<div><br></div>",
           "text": "Зарегистрировать подростка и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/45/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://events.hubyabloko.com/event/45/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация закрыта</a>",
           "_tags": [
             "Тема"
           ],
@@ -18212,7 +18214,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x3381.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x3389.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18301,7 +18303,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x3382.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33810.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19788,7 +19790,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x7883.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78811.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20154,7 +20156,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x7884.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78812.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20430,7 +20432,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x7883.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78811.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21579,7 +21581,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x7885.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78813.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21923,7 +21925,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7886.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78814.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22241,7 +22243,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7887.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78815.png",
               "link": "",
               "alt": "",
               "title": ""
