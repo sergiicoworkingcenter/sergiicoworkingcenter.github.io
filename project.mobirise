@@ -7642,7 +7642,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133316.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -12911,7 +12911,7 @@
           },
           "title": "Подростки 11-13 лет 6 августа в 11.00<br>(В форме укажите ФИО подростка и телефон одного из родителей)<div><br></div>",
           "text": "Зарегистрировать подростка и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://events.hubyabloko.com/event/45/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация закрыта</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"sexeducation.html#msg-box1-10g\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация закрыта</a>",
           "_tags": [
             "Тема"
           ],
@@ -18214,7 +18214,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x3389.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x33817.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18303,7 +18303,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33810.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33818.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19790,7 +19790,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78811.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78819.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20156,7 +20156,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78812.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78820.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20432,7 +20432,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78811.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78819.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21581,7 +21581,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78813.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78821.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21925,7 +21925,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78814.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78822.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22243,7 +22243,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78815.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78823.png",
               "link": "",
               "alt": "",
               "title": ""
