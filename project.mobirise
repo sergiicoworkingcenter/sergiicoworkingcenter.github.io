@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "addictiontherapy.html",
+    "currentPage": "Bodymind.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1339,
+    "uniqCompNum": 1355,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7642,7 +7642,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133340.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133349.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -8548,58 +8548,56 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".lead H4": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-iw",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
-            "showButton": false,
-            "paddingTop": "5",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2000x1250.jpg",
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "63",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#222",
+            "overlay": false,
+            "overlayColor": "#fff",
             "overlayOpacity": 0.5
           },
-          "title": "Психиатрия для психологов",
-          "text": "<p>Лекционный курс</p><p><span style=\"font-size: 1.5rem; font-weight: 600; letter-spacing: -1px;\">6 - 8 декабря&nbsp;</span></p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-iy",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-2-810x450.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
           },
-          "text": "<p><b>Когда:</b>&nbsp;6 - 8 декабря (пт. с 15.00 до 20.00, сб. и вс. с 11.00 до 19.00 с перерывом на обед)</p><p><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko</p><p><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ.&nbsp;</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Стоимость:</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> 130 уе.</span><br></p><p><b>Телефоны для справок:</b></p><p>+38 (050) 523 99 60&nbsp;<span style=\"font-size: 1.07rem;\">Ольга</span></p><p>+38 (050) 303 92 26 Мария&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<b>Когда:</b> 4 - 6 декабря (пт. с 15.00 до 20.00, сб. и вс. с 11.00 до 19.00 с перерывом на обед)<br><b>Где: г</b>. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko<br><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ. <br><b>Стоимость:</b> 130 уе.<br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга &nbsp; &nbsp; &nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-118"
         },
         {
           "_tags": [
@@ -8608,11 +8606,11 @@
           "_name": "content1",
           "_anchor": "content1-iz",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "4",
             "bgColor": "#fff"
           },
-          "text": "<p><b>Что будем делать:</b></p><ul><li>Разбираться в общей психопатологии, психических расстройствах.</li><li>Решать, брать ли клиента в терапию.</li><li>Выбирать направление работы.</li><li>Предлагать консультацию психиатра, перенаправлять.</li><li>Узнавать, как сотрудничать с врачом-психиатром, если клиент принимает медикаментозное лечение.</li><li>Выяснять, как работать безопасно для себя.</li><li>Отработаем ситуацию, что делать, если у клиента произошла паническая атака,обморок или эпиприступ на сессии.</li></ul><p><b><br></b></p><p><b><br></b></p><p><b>Содержание курса:&nbsp;</b></p><p>Представление о психических расстройствах. Общая психопатология. Психозы. Органические расстройства. Аффективные расстройства. Расстройства личности. Невротические расстройства - тревожно-фобическое, паническое, обсессивно-компульсивное и соматизированные.</p>"
+          "text": "<p><b>Курс лекций по психиатрии&nbsp;</b><b style=\"font-size: 1.07rem;\">для будущих и практикующих психотерапевтов</b></p><p><br></p><p>— Когда у клиента депрессивное состояние, то он устал до истощения, переживает утрату, болеет или у него дистимия? В соведении с кем он нуждается — врачом общей практики, фитнес-тренером или психиатром?&nbsp;</p><p>— Когда клиент рассказывает о влиянии космоса, встречах с инопланетянами, это человек с богатым воображением или в остром психозе?</p><p>— Когда клиент часто моет руки, не дотрагивается до дверных ручек, это признаки обсессивно-компульсивного расстройства или его мама была эпидемиологом?</p><p>&nbsp;— Как устроена психиатрическая помощь в Украине, правда ли, что она может быть анонимна, как получить консультацию психиатра, разные ли специалисты консультируют детей, взрослых и пожилых?</p><p><br></p><p>В эти три дня мы разберемся в общей психопатологии. Запомним, что отдельный симптом ни о чем не говорит, но приглашает к поиску синдрома. Настроим терапевтическое мышление, запомним алгоритм мышления врача-психиатра, начнем выявлять психические расстройства на клинических примерах. </p><p>Для чего? Чтобы определять, показана ли клиенту психотерапия, нужна ли ему консультация врача-психиатра, и если да, то как эту встречу организовать.</p><p><br></p><p>&nbsp;</p><p><b>Содержание курса:&nbsp;</b></p><p><br></p><p>— Представление о психических расстройствах.&nbsp;</p><p>— Общая психопатология. Симптомы расстройства ориетировки, восприятия, представлений, мышления, памяти, настроения, влечений. Синдромы.</p><p>— Органические расстройства. Мозговые дисфункции. Деменции.</p><p>— Аффективные расстройства. Депрессии, мании.</p><p>— Психозы. Шизофрения, бредовое расстройство, острые психотические расстройства.</p><p>— Расстройства личности. Шизоидное, параноидное, конверсионное и другие.&nbsp;</p><p>— Невротические расстройства. Паническое, генерализованное тревожное, фобическое, обсессивно-компульсивное.</p><p>— Вопросы безопасности терапевта.&nbsp;</p><p>— Медикаментозное лечение: антидепрессанты, анксиолитики, транквилизаторы, нейролептики, нормотимики.</p><p><br></p><p><b>Формат работы – трехдневная сессия (30 академ.часов)</b></p><p><br></p>"
         },
         {
           "_tags": [
@@ -9154,7 +9152,7 @@
       "settings": {
         "title": "ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ",
         "meta_descr": "ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ",
-        "order": 35
+        "order": 34
       },
       "components": [
         {
@@ -9316,7 +9314,7 @@
       "settings": {
         "title": "Вебинар для родителей",
         "meta_descr": "Вебинар для родителей",
-        "order": 36
+        "order": 35
       },
       "components": [
         {
@@ -9691,7 +9689,7 @@
       "settings": {
         "title": "Тренинг для родителей",
         "meta_descr": "Тренинг для родителей",
-        "order": 37
+        "order": 36
       },
       "components": [
         {
@@ -10075,7 +10073,7 @@
       "settings": {
         "title": "Лекции для родителей детей и подростков",
         "meta_descr": "Лекции для родителей детей и подростков",
-        "order": 38
+        "order": 37
       },
       "components": [
         {
@@ -10588,7 +10586,7 @@
       "settings": {
         "title": "Первая ступень",
         "meta_descr": "Первая ступень",
-        "order": 39
+        "order": 38
       },
       "components": [
         {
@@ -10919,7 +10917,7 @@
       "settings": {
         "title": "Первая ступень",
         "meta_descr": "Первая ступень",
-        "order": 40
+        "order": 39
       },
       "components": [
         {
@@ -11250,7 +11248,7 @@
       "settings": {
         "title": "Женское здоровье",
         "meta_descr": "Женское здоровье",
-        "order": 41
+        "order": 40
       },
       "components": [
         {
@@ -11658,7 +11656,7 @@
       "settings": {
         "title": "женская сексуальность",
         "meta_descr": "Лекция ",
-        "order": 44
+        "order": 43
       },
       "components": [
         {
@@ -12000,7 +11998,7 @@
       "settings": {
         "title": "Лекция",
         "meta_descr": "Лекция ",
-        "order": 42
+        "order": 41
       },
       "components": [
         {
@@ -12703,7 +12701,7 @@
       "settings": {
         "title": "ПОДРОСТКАМ О СЕКСЕ:  ПРОСТО И ДОСТУПНО ",
         "meta_descr": "ПОДРОСТКАМ О СЕКСЕ: ПРОСТО И ДОСТУПНО ",
-        "order": 47
+        "order": 46
       },
       "components": [
         {
@@ -13068,7 +13066,7 @@
       "settings": {
         "title": "Воркшоп для HR",
         "meta_descr": "Воркшоп для HR",
-        "order": 49
+        "order": 48
       },
       "components": [
         {
@@ -13449,7 +13447,7 @@
       "settings": {
         "title": "Клинический подход",
         "meta_descr": "Специализация ВОППГП \"Клинический подход в гештальт-терапии\"",
-        "order": 50
+        "order": 49
       },
       "components": [
         {
@@ -13725,7 +13723,7 @@
       "settings": {
         "title": "Групповая терапия",
         "meta_descr": "Специализация \"Групповая терапия в рамках гештальт-подхода\"",
-        "order": 51
+        "order": 50
       },
       "components": [
         {
@@ -14004,7 +14002,7 @@
       "settings": {
         "title": "Специализация",
         "meta_descr": "Специализация \"Работа с сексуальной тематикой в гештальт подходе\"",
-        "order": 53
+        "order": 52
       },
       "components": [
         {
@@ -14280,7 +14278,7 @@
       "settings": {
         "title": "Скажи, как есть. ",
         "meta_descr": "Скажи, как есть.\nПрактическое исследование с теоретическим сопровождением\n",
-        "order": 54
+        "order": 53
       },
       "components": [
         {
@@ -15119,7 +15117,7 @@
       "settings": {
         "title": "Сексуальная грамотность: зачем это нашим детям",
         "meta_descr": "Сексуальная грамотность: зачем это нашим детям",
-        "order": 46
+        "order": 45
       },
       "components": [
         {
@@ -15945,7 +15943,7 @@
       "settings": {
         "title": "Глазами мужчины",
         "meta_descr": "Лекция ",
-        "order": 45
+        "order": 44
       },
       "components": [
         {
@@ -16337,7 +16335,7 @@
       "settings": {
         "title": "Лекция о женском здоровье",
         "meta_descr": "Лекция о женском здоровье",
-        "order": 43
+        "order": 42
       },
       "components": [
         {
@@ -18214,7 +18212,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x33841.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x33850.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18303,7 +18301,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33842.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33851.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19234,7 +19232,7 @@
       "settings": {
         "title": "Девочкам о менструации и взрослении",
         "meta_descr": "Девочкам о менструации и взрослении",
-        "order": 48
+        "order": 47
       },
       "components": [
         {
@@ -19790,7 +19788,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78843.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78852.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20156,7 +20154,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78844.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78853.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20432,7 +20430,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78843.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78852.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21581,7 +21579,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78845.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78854.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21925,7 +21923,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78846.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78855.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22214,7 +22212,7 @@
       "settings": {
         "title": "Психология финансового поведения",
         "meta_descr": "Психология финансового поведения",
-        "order": 52
+        "order": 51
       },
       "components": [
         {
@@ -22243,7 +22241,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78847.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78856.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22493,7 +22491,7 @@
       "settings": {
         "title": "Терапия зависимых состояний",
         "meta_descr": "Специализация ВОППГП \"Терапия зависимых состояний в гештальт подходе\"",
-        "order": 34
+        "order": 33
       },
       "components": [
         {
@@ -22522,7 +22520,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78848.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78857.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22817,6 +22815,361 @@
           "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>по вопросам аренды и расписания центра:<br>+380 (66) 036 40 29 администратор<br><br>по вопросам терапевтических групп и обучающих программ:<br>+38 (050) 523 99 60&nbsp;Ольга<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>",
           "_anchor": "contacts2-10z"
+        }
+      ]
+    },
+    "Bodymind.html": {
+      "settings": {
+        "title": "телесный диалог ",
+        "meta_descr": "Осознанное прикосновение и телесный диалог \nПрактическое исследование с теоретическим сопровождением\n",
+        "order": 54
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "58",
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/calebs-6th-birthday-2-810x450.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<b>Когда: </b>13 - 15 ноября 2020<br>пт: 15.00 - 20.00<br>сб, вс: 11.00 - 19.00<br><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko<br><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ и всех, кого интересует тема пищевого поведения и отношений с телом.<br><b>Стоимость: </b>130 уе.\u001b\u001b\u001b<br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-11i"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Осознанное прикосновение и телесный диалог</b></p><p><b>практическое исследование с теоретическим сопровождением формирования образа тела, его нарушений и работы по восстановлению телесной осознанности и позитивного отношения к телу.</b></p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-11m"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Если бы я знала(знал) раньше, если бы меня научили этому в детстве! </p><p>Как часто мы говорим эти слова, и как часто они о наших телах. \n</p><p><span style=\"font-size: 1.07rem;\">Так жаль, что многие из нас впитали буквально с молоком матери представление о теле, как о рабочем муле, механизме, который не устает и не должен ломаться, другими словами, подводить и предавать, как об источнике боли и стыда, хранилище тайн и травм, которые нужно прятать даже от себя.&nbsp;</span></p><p>Так жаль, что бОльшая часть жизни проживается без доступа к телесному опыту, отчужденно от тела и его сокровищ. И наше телесное Я становится лишь скоплением напряженных мышц, которые защищают наше существование, или объектом постоянного совершенствования для соответствий требованиям социума, а очень часто грушей для битья, ответственной за все наши неудачи. И есть опасность все чаще избегать отношений, все реже появляться среди людей, все ниже падать в своей самооценке, отказываться от любого рода движений, как от приносящих только разочарование.\n</p><p>Так легко не любить и наказывать тело. И так дорого за это придется платить.\n</p><p>На самом же деле наши тела это мы сами, и не только в физическом смысле, но и, как говорит Арие Бурштейн, преподаватель, мастер Bodymind Gestalt Терапии, тело – это вместилище, дом, выражение наших чувств и переживаний, которое одновременно является сценой, актером и автором истории нашей жизни.\n</p><p>\n</p><p>Эта группа-исследование поможет вам изменить отношение к телу, своему и других людей, или хотя бы начать этот процесс, изменить на отношение, основанное на доверии, уважении, благодарности, доброжелательности, принятии, заботе, любви и, страшно сказать, удовольствии.</p><p><br></p><p>\n</p><p>\n</p><p><b>Итак, на этой группе мы:</b></p><p><span style=\"font-size: 1.07rem;\">– поговорим о том, что такое образ тела и схема тела,&nbsp;</span><br></p><p>– вспомним о влиянии системных и семейных факторов на формирование образа тела,\n</p><p>– обратим внимание на роль теории привязанности, куда же без нее, в развитии интероцептивной осознанности,\n</p><p>– поисследуем эту самую интероцептивную осознанность у себя , узнаем, чем она важна, и как ее развивать,\n</p><p>– понакомимся с понятиями дисморфия и комплекс Адониса, узнаем, как их распознать и профилактировать,\n</p><p>– разберемся, как поливагальная теория Стивена Порджеса может помочь в обнаружении спрятанных в теле следов травмы, влекущих телесную отключенность от мира, и в интеграции этого травматического опыта,\n</p><p>– рассмотрим сострадательный взгляд на тело, как альтернативу контролю и принуждению, \n</p><p>– будем исследовать стыд тела и запрет на телесность,\n</p><p>и параллельно, в этих процессах, в течение всех трех дней мы будем много дышать, двигаться, прикасаться, укореняться и освобождаться, – ощущать и чувствовать, замечать свои телесные границы, осознавать, заземляться, балансировать, приближаться, напрягаться, контактировать, отстраняться, искать телесную радость.</p><p><br></p><p> \n</p><p>Не знаю пока, как мы все это успеем, но очень верю и хочу, что так и будет :))</p><p><b><br></b></p>",
+          "_anchor": "content1-11c"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "34",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-1400x1871.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Ведущий тренер:<br> Елена Тыцкая – психолог, гештальт-терапевт, супервизор, тренер ВОПП ГП, ведущая супервизорских, тематических и обучающих групп.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_anchor": "msg-box5-11d"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Заявка на участие в тематической трехдневке&nbsp;<div>\"Осознанное прикосновение и телесный диалог \"</div>",
+          "subtitle": "Если у вас остались вопросы, оставьте свои контакты, мы свяжемся с вами и ответим на них.<br>",
+          "form": {
+            "action": "mykhalyova@gmail.com",
+            "alerts": {
+              "success": "Спасибо!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
+          "_anchor": "form1-11e"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#efefef",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SOS.html\" aria-expanded=\"false\"><p>Для себя</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"practice.html\" aria-expanded=\"false\">Для проф практики</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rent.html\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-11f"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_anchor": "footer1-11g"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#78b950",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>по вопросам аренды и расписания центра:<br>+380 (66) 036 40 29 администратор<br><br>по вопросам терапевтических групп и обучающих программ:<br>+38 (050) 523 99 60&nbsp;Ольга<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>",
+          "_anchor": "contacts2-11h"
         }
       ]
     }

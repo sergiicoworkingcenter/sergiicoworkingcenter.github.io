@@ -2510,17 +2510,6 @@ section.form .container {
   color: #ffffff;
   font-size: 16px;
 }
-
-#msg-box8-iw .mbr-section-title,
-#msg-box8-iw p {
-  color: #fff;
-}
-#msg-box8-iw .mbr-section-title {
-  font-family: 'Lora', serif;
-}
-#msg-box8-iw .lead H4 {
-  color: #ffffff;
-}
 #msg-box5-j0 H3 {
   font-size: 36px;
 }
@@ -6209,6 +6198,92 @@ section.form .container {
   background-color: #28324e;
 }
 #contacts2-10z STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
+#content1-11m P {
+  text-align: center;
+}
+#content1-11c P {
+  text-align: left;
+}
+#msg-box5-11d P {
+  font-size: 22px;
+}
+#form1-11e .form-control-label {
+  color: #232323;
+}
+#form1-11e .mbr-section-title {
+  font-size: 30px;
+}
+#menu-11f .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-11f .navbar-caption {
+  color: #ffffff;
+}
+#menu-11f .navbar-toggler {
+  color: #28324e;
+}
+#menu-11f .link,
+#menu-11f .dropdown-item {
+  color: #28324e;
+}
+#menu-11f .link {
+  font-size: 0.6rem;
+}
+#menu-11f .dropdown-item,
+#menu-11f .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-11f .link:hover,
+#menu-11f .dropdown-item:hover,
+#menu-11f .link:focus,
+#menu-11f .dropdown-item:focus {
+  color: #475577;
+}
+#menu-11f .link[aria-expanded="true"],
+#menu-11f .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-11f .nav-dropdown-sm .link:focus,
+#menu-11f .nav-dropdown-sm .link:hover,
+#menu-11f .nav-dropdown-sm .dropdown-item:focus,
+#menu-11f .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-11f .navbar,
+#menu-11f .nav-dropdown-sm,
+#menu-11f .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-11f .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-11f .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-11f .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-11f .bg-color.transparent.opened .link:hover,
+#menu-11f .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-11f .link[aria-expanded="true"],
+#menu-11f .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-11f.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-11f .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-11f .close-icon::before,
+#menu-11f .close-icon::after {
+  background-color: #28324e;
+}
+#contacts2-11h STRONG {
   color: #ffffff;
   font-size: 16px;
 }
