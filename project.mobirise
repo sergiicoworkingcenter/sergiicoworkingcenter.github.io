@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sexeducation.html",
+    "currentPage": "addictiontherapy.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7642,7 +7642,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133332.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133340.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18214,7 +18214,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x33833.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x33841.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18303,7 +18303,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33834.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33842.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19790,7 +19790,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78835.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78843.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20156,7 +20156,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78836.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78844.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20432,7 +20432,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78835.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78843.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21581,7 +21581,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78837.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78845.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21925,7 +21925,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78838.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78846.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22243,7 +22243,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78839.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78847.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22522,7 +22522,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-3-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78848.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22540,7 +22540,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Когда:</b>&nbsp;<br>Даты будут назначены по мере формирования группы.<br>Идет запись в группу сезона 2020/2021.<br><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko<br><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ. <b><br>Стоимость: </b>130 уе./модуль<br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60&nbsp;Ольга<br><br>",
+          "text": "<b>Когда:</b>&nbsp;<br>старт 24-26 ноября 2020<br>остальные даты будут назначены вместе с группой.<br><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko<br><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ. <b><br>Стоимость: </b>130 уе./модуль<br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60&nbsp;Ольга<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
