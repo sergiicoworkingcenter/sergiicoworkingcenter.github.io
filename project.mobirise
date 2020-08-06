@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "lecture3.html",
+    "currentPage": "sexeducation.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7642,7 +7642,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133324.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133332.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -12247,7 +12247,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://events.hubyabloko.com/event/47/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация закрыта</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"lecture3.html#msg-box1-r0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация закрыта</a>",
           "text": "<b>Зарегистрироваться и купить билет</b>",
           "title": ""
         },
@@ -12953,7 +12953,7 @@
           },
           "title": "Подростки 14-17 лет 6 августа в 14.00<br>(В форме укажите ФИО подростка и телефон одного из родителей)<div><br></div>",
           "text": "Зарегистрировать подростка и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://events.hubyabloko.com/event/46/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация закрыта&nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"sexeducation.html#msg-box1-10f\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация закрыта&nbsp;</a>",
           "_tags": [
             "Тема"
           ],
@@ -18214,7 +18214,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x33825.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x33833.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18303,7 +18303,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33826.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33834.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19790,7 +19790,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78827.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78835.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20156,7 +20156,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78828.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78836.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20432,7 +20432,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78827.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78835.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21581,7 +21581,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78829.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78837.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21925,7 +21925,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78830.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78838.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22243,7 +22243,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78831.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78839.png",
               "link": "",
               "alt": "",
               "title": ""
