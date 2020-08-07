@@ -6287,3 +6287,98 @@ section.form .container {
   color: #ffffff;
   font-size: 16px;
 }
+#menu-11q .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-11q .navbar-caption {
+  color: #ffffff;
+}
+#menu-11q .navbar-toggler {
+  color: #28324e;
+}
+#menu-11q .link,
+#menu-11q .dropdown-item {
+  color: #28324e;
+}
+#menu-11q .link {
+  font-size: 0.6rem;
+}
+#menu-11q .dropdown-item,
+#menu-11q .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-11q .link:hover,
+#menu-11q .dropdown-item:hover,
+#menu-11q .link:focus,
+#menu-11q .dropdown-item:focus {
+  color: #475577;
+}
+#menu-11q .link[aria-expanded="true"],
+#menu-11q .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-11q .nav-dropdown-sm .link:focus,
+#menu-11q .nav-dropdown-sm .link:hover,
+#menu-11q .nav-dropdown-sm .dropdown-item:focus,
+#menu-11q .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-11q .navbar,
+#menu-11q .nav-dropdown-sm,
+#menu-11q .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-11q .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-11q .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-11q .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-11q .bg-color.transparent.opened .link:hover,
+#menu-11q .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-11q .link[aria-expanded="true"],
+#menu-11q .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-11q.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-11q .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-11q .close-icon::before,
+#menu-11q .close-icon::after {
+  background-color: #28324e;
+}
+#form1-11v .form-control-label {
+  color: #232323;
+}
+#form1-11v .mbr-section-title {
+  font-size: 36px;
+}
+#msg-box4-11w H3 {
+  font-size: 30px;
+  text-align: center;
+}
+#msg-box4-11x H3 {
+  text-align: center;
+  font-size: 30px;
+}
+#msg-box4-11y H3 {
+  text-align: center;
+  font-size: 30px;
+}
+#form1-11z .form-control-label {
+  color: #232323;
+}
+#form1-11z .mbr-section-title {
+  font-size: 36px;
+}
+#contacts2-120 STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
