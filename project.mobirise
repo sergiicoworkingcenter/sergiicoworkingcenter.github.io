@@ -7694,7 +7694,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133385.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133394.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18264,7 +18264,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x33886.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x33895.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18353,7 +18353,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33887.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33896.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19952,7 +19952,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78888.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78897.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20318,7 +20318,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78889.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78898.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20594,7 +20594,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78888.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78897.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21743,7 +21743,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78890.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78899.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22087,7 +22087,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78891.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788100.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22405,7 +22405,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78892.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788101.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22684,7 +22684,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78893.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x788102.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -23513,7 +23513,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Отношения с родителями не всегда складываются легко. </p><p>Здесь и взаимные обиды, и борьба за власть, и бесконечные попытки доказать, что «ты не такой», и последняя надежда на любовь и принятие.\n</p><p>Мы никогда не перестанем быть детьми наших родителей.\n</p><p>И даже после разрыва отношений или смерти родителей, конфликты продолжаются у нас внутри. \n</p><p>Приглашаем Вас на терапевтическую группу «Взрослые дети и их родители», чтобы получить поддержку в этой теме, найти внутренние опоры, разрешитт себе злиться и горевать, обнаружить что-то ценное только для вас и не нести этот груз больше в одиночку.\n</p><p><br></p>",
+          "text": "<p>Отношения с родителями не всегда складываются легко. </p><p>Здесь и взаимные обиды, и борьба за власть, и бесконечные попытки доказать, что ты не такой, и последняя надежда на любовь и принятие.\n</p><p>Мы никогда не перестанем быть детьми наших родителей.\n</p><p>И даже после разрыва отношений или смерти родителей, конфликты продолжаются у нас внутри. \n</p><p>Приглашаем Вас на терапевтическую группу «Взрослые дети и их родители», чтобы получить поддержку в этой теме, найти внутренние опоры, разрешить себе злиться и горевать, обнаружить что-то ценное только для вас и не нести этот груз больше в одиночку.\n</p><p><br></p>",
           "_anchor": "content1-11t"
         },
         {
