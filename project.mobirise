@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "bodynamic.html",
+    "currentPage": "addictiontherapy.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7694,7 +7694,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333130.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333139.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18264,7 +18264,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x338131.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x338140.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18353,7 +18353,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x338132.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x338141.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19952,7 +19952,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788133.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788142.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20318,7 +20318,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x788134.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x788143.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20594,7 +20594,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788133.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788142.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21743,7 +21743,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x788135.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x788144.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22087,7 +22087,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x788136.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788145.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22405,7 +22405,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x788137.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788146.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22684,7 +22684,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x788138.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x788147.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22767,7 +22767,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Людмила Волошина </b>- сертифицированный гештальт-терапевт, аккредитованный супервизор, ассоциированный тренер ОППГП. Ведущая специализации \" Работа с зависимыми состояниями в гештальт подходе\".<br>",
+          "text": "<b>Людмила Волошина </b>- сертифицированный гештальт-терапевт, аккредитованный супервизор, ассоциированный тренер ОППГП,&nbsp;ведущая терапевтических и обучающих групп.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
