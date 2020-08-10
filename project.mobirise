@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "adultchildren.html",
+    "currentPage": "group.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7694,7 +7694,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333112.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333121.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17589,7 +17589,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<p><b>Расписание группы сезон 2020/2021:</b><br>16 сентября  11.00-19.00<br>30 октября&nbsp;11.00-19.00<br>17 ноября&nbsp;11.00-19.00<br>11 декабря&nbsp;11.00-19.00<br>12 января&nbsp;11.00-19.00<br>19 февраля&nbsp;11.00-19.00<br>16 марта&nbsp;11.00-19.00<br>23 апреля&nbsp;11.00-19.00<br>11 мая&nbsp;11.00-19.00<br>(Расписание встреч может быть откорректировано&nbsp;вместе с группой)<br><br><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko<br><b>Стоимость:</b> 1000 грн.\u001b\u001b\u001b<br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга</p>",
+          "text": "<p><b>Расписание группы сезон 2020/2021:</b><br>16 сентября  11.00-19.00<br>30 октября&nbsp;11.00-19.00<br>27 ноября&nbsp;11.00-19.00<br>11 декабря&nbsp;11.00-19.00<br>12 января&nbsp;11.00-19.00<br>19 февраля&nbsp;11.00-19.00<br>16 марта&nbsp;11.00-19.00<br>23 апреля&nbsp;11.00-19.00<br>11 мая&nbsp;11.00-19.00<br>(Расписание встреч может быть откорректировано&nbsp;вместе с группой)<br><br><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko<br><b>Стоимость:</b> 1000 грн.\u001b\u001b\u001b<br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -18264,7 +18264,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x338113.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x338122.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18353,7 +18353,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x338114.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x338123.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19952,7 +19952,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788115.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788124.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20318,7 +20318,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x788116.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x788125.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20594,7 +20594,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788115.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788124.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21743,7 +21743,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x788117.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x788126.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22087,7 +22087,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x788118.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788127.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22405,7 +22405,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x788119.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788128.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22684,7 +22684,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x788120.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x788129.png",
               "link": "",
               "alt": "",
               "title": ""
