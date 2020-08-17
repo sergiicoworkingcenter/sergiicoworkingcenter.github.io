@@ -7694,7 +7694,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333166.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333175.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18264,7 +18264,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x338167.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x338176.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18353,7 +18353,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x338168.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x338177.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19952,7 +19952,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788169.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788178.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20318,7 +20318,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x788170.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x788179.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20594,7 +20594,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788169.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788178.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21743,7 +21743,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x788171.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x788180.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22087,7 +22087,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x788172.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788181.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22405,7 +22405,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x788173.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788182.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22684,7 +22684,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x788174.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x788183.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -23495,7 +23495,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Когда:</b>&nbsp;24 сентября в 18:00 - первая встреча<br><b>Где:</b> Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость</b>&nbsp;встречи<b>:</b> 500 грн.&nbsp;<br><b>Формат группы: </b>встречи раз в 2 недели, после набора группа работает в закрытом режиме и не принимает новых участников.<br><b>Студентам гештальт-программ часы засчитываются как групповая терапия.</b><br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга<br>",
+          "text": "<b>Когда:</b>&nbsp;24 сентября в 18:00 - первая встреча<br><b>Где:</b> Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость</b>&nbsp;<b>встречи:</b> 500 грн.&nbsp;<br><b>Формат группы: </b>встречи раз в 2 недели, после набора группа работает в закрытом режиме и не принимает новых участников.<br><b>Студентам гештальт-программ часы засчитываются как групповая терапия.</b><br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
