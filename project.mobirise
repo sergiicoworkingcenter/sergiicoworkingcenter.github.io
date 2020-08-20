@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "adultchildren.html",
+    "currentPage": "1step.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -2144,10 +2144,10 @@
               "color": "#28324e"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2800,7 +2800,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1-6-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/1-1-1400x788.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -2818,7 +2818,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<br><b>Когда: </b><br><br>1 модуль: 12 -14. 06.2020<br><b>2 сессия-21-23.08.20</b><br>3сессия-23-25.10.20<br>4сессия-18-20.12.20<br>5сессия-12-14.02.21<br>6 сессия 2-4.04.21<br>7 сессия 11-13.06.21<br><br>              Расписание остальных модулей будет согласовано и назначено вместе с группой.<br>              После второго модуля группа закрывается, это связанно с правилами ведения групп.<br><br><b>Расписание модуля:</b><br>пт. 15:00-20:00<br>сб. 11:00-19:00<br>вс. 11:00-19:00<br><br><b>Стоимость одного модуля:</b> 130 уе.<br><br><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, Lifehub Yabloko<br><b>Контактные телефоны: </b><br>+38 (050) 523 99 60 Ольга<br><br>",
+          "text": "<br><b>Когда: </b><br><b>1 модуль: 30 октября – 1 ноября 2020</b><br>              Расписание остальных модулей будет согласовано и назначено вместе с группой.<br>              После второго модуля группа закрывается, это связанно с правилами ведения групп.<br><br><b>Расписание модуля:</b><br>пт. 15:00-20:00<br>сб. 11:00-19:00<br>вс. 11:00-19:00<br><br><b>Стоимость одного модуля:</b> 100 уе.<br><br><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, Lifehub Yabloko<br><b>Контактные телефоны: </b><br>+38 (050) 523 99 60 Ольга<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -2857,10 +2857,10 @@
             "showTitle": false,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "30",
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -2878,7 +2878,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/60100322-434555360665893-7395089194357358592-n-1-571x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/79990123-826509634449297-345230983080968192-n-1-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2896,7 +2896,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Людмила Волошина</b> – ассоциированный тренер и аккредетированный супервизор ВОППГП, гештальт-терапевт, супервизор, ведущая специализации «Работа с зависимыми состояниями в гештальт подходе».<br>",
+          "text": "<b>Виктория Кривцова </b>- аккредитованный гештальт- терапевт, сертифицированный супервизор.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -2935,7 +2935,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/60120309-2924316247792851-6796201535878463488-n-650x1024.jpg",
+              "src": "@PROJECT_PATH@/assets/images/80039398-850232442096203-5457232540614000640-n-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2953,7 +2953,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Алексей Тихолаз</b> – клинический психолог, гештальт - терапевт, ассоциированный тренер и аккредетированный супервизор ВОППГП. Направления работы: индивидуальная, групповая, семейная психотерапия, супервизия. <br>Специализация:<br>Философия Гештальт-Подхода;<br>Телесно фокусированный подход в Гештальт терапии;<br>Групповая терапия и тренинг;<br>Сертификацированный специалист по методу танатотерапии, квалификация Танатотехник.<br>",
+          "text": "<b>Светлана Николаенко</b> - аккредитованный гештальт- терапевт, сертифицированный супервизор.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -2982,7 +2982,7 @@
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p><br></p><p><b>Когда:&nbsp;</b></p><p>21-23 августа 2020</p><p><br></p><p>Расписание остальных модулей будет согласовано и назначено вместе с группой.</p><p>После второго модуля группа закрывается, это связанно с правилами ведения групп.</p><p><b><br></b></p><p><b>Расписание модуля:</b></p><p>пт. 15:00-20:00</p><p>сб. 11:00-19:00</p><p>вс. 11:00-19:00</p><p><br></p><p><b>Стоимость одного модуля:</b> 130 уе.</p><p><b><br></b></p><p><b>Где: </b>г. Харьков, ул. Гаршина 9, 3 этаж, Lifehub Yabloko</p><p><b>Контактные телефоны:&nbsp;</b></p><p>+38 (050) 523 99 60 Ольга</p><p><b><br></b></p>"
+          "text": "<p><br></p><p><b>Когда:&nbsp;</b></p><p>30 октября – 1 ноября 2020</p><p><br></p><p>Расписание остальных модулей будет согласовано и назначено вместе с группой.</p><p>После второго модуля группа закрывается, это связанно с правилами ведения групп.</p><p><b><br></b></p><p><b>Расписание модуля:</b></p><p>пт. 15:00-20:00</p><p>сб. 11:00-19:00</p><p>вс. 11:00-19:00</p><p><br></p><p><b>Стоимость одного модуля:</b> 100 уе.</p><p><b><br></b></p><p><b>Где: </b>г. Харьков, ул. Гаршина 9, 3 этаж, Lifehub Yabloko</p><p><b>Контактные телефоны:&nbsp;</b></p><p>+38 (050) 523 99 60 Ольга</p><p><b><br></b></p>"
         },
         {
           "_styles": {
@@ -7694,7 +7694,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333175.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18264,7 +18264,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x338176.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-600x3381.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18353,7 +18353,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x338177.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x3382.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19952,7 +19952,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788178.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x7883.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20318,7 +20318,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x788179.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x7884.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20594,7 +20594,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788178.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x7883.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21743,7 +21743,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x788180.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x7885.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22087,7 +22087,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x788181.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7886.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22405,7 +22405,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x788182.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7887.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22684,7 +22684,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x788183.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x7888.png",
               "link": "",
               "alt": "",
               "title": ""

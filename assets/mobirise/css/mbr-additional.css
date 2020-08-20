@@ -1086,11 +1086,11 @@ section.form .container {
   color: #28324e;
 }
 #menu-2k .link {
-  font-size: 1.05rem;
+  font-size: 0.6rem;
 }
 #menu-2k .dropdown-item,
 #menu-2k .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 0.650rem;
 }
 #menu-2k .link:hover,
 #menu-2k .dropdown-item:hover,
