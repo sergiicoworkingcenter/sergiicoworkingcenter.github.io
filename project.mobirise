@@ -7694,7 +7694,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133336.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133344.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18142,7 +18142,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33837.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33845.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18255,6 +18255,18 @@
           },
           "media2": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/96025415-2578560228916461-2167449159957741568-o-600x338.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "financialbehavior.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
               "src": "@PROJECT_PATH@/assets/images/calebs-6th-birthday-2-600x333.png",
               "class": "card-img-top",
               "width": 600,
@@ -18263,17 +18275,6 @@
               "alt": "",
               "title": "",
               "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/96025415-2578560228916461-2167449159957741568-o-600x338.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "financialbehavior.html",
-              "alt": "",
-              "title": ""
             }
           },
           "media4": {
@@ -19841,7 +19842,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78838.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78846.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20207,7 +20208,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78839.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78847.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20483,7 +20484,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78838.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78846.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21632,7 +21633,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78840.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78848.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21976,7 +21977,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78841.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78849.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22294,7 +22295,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78842.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78850.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22573,7 +22574,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78843.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78851.png",
               "link": "",
               "alt": "",
               "title": ""
