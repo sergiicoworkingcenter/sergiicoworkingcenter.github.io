@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "psiGroup.html",
+    "currentPage": "events.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1392,
+    "uniqCompNum": 1394,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7694,7 +7694,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13339.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133318.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17888,120 +17888,9 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": "4",
-            "paddingBottom": "2",
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-12-600x314.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "sexeducation.html",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-9-600x333.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "lecture3.html",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-10-600x314.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "sex_education.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Исторические, культурологические и психологические аспекты инцеста.",
-          "subtitle1": "19 апреля в 18:30",
-          "caption1": "Лекцию читают: Максим Жидко и Юлия Ярмоленко",
-          "title2": "Информация скоро появится",
-          "subtitle2": "Информация скоро появится",
-          "caption2": "Информация скоро появится",
-          "title3": "Информация скоро появится",
-          "subtitle3": "Информация скоро появится",
-          "caption3": "Информация скоро появится",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"birth_experience.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-108"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": 2,
+            "paddingTop": "3",
             "paddingBottom": 2,
-            "columns": "2",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -18029,7 +17918,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-6-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/1-1-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18040,11 +17929,11 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1980-1080-3-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x333.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "specialization.html",
+              "link": "psychiatry_for_psychologists.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -18241,11 +18130,11 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/-10-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "supergroup1.html",
+              "link": "bodynamic.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -18253,18 +18142,132 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33819.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "supergroup12.html",
+              "link": "group.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x33810.png",
+              "src": "@PROJECT_PATH@/assets/images/-11-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "adultchildren.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Исторические, культурологические и психологические аспекты инцеста.",
+          "subtitle1": "19 апреля в 18:30",
+          "caption1": "Лекцию читают: Максим Жидко и Юлия Ярмоленко",
+          "title2": "Информация скоро появится",
+          "subtitle2": "Информация скоро появится",
+          "caption2": "Информация скоро появится",
+          "title3": "Информация скоро появится",
+          "subtitle3": "Информация скоро появится",
+          "caption3": "Информация скоро появится",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"birth_experience.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-12o"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-17-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "psiGroup.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/calebs-6th-birthday-2-600x333.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "Bodymind.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-1-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -18353,18 +18356,6 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33811.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "group.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
               "src": "@PROJECT_PATH@/assets/images/-4-600x338.png",
               "class": "card-img-top",
               "width": 600,
@@ -18375,6 +18366,17 @@
               "linkInNewWindow": false
             }
           },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-1-600x33820.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "supergroup12.html",
+              "alt": "",
+              "title": ""
+            }
+          },
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/-5-600x338.png",
@@ -18383,118 +18385,6 @@
               "active": true,
               "link": "addictiontherapy.html",
               "alt": "",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Исторические, культурологические и психологические аспекты инцеста.",
-          "subtitle1": "19 апреля в 18:30",
-          "caption1": "Лекцию читают: Максим Жидко и Юлия Ярмоленко",
-          "title2": "Информация скоро появится",
-          "subtitle2": "Информация скоро появится",
-          "caption2": "Информация скоро появится",
-          "title3": "Информация скоро появится",
-          "subtitle3": "Информация скоро появится",
-          "caption3": "Информация скоро появится",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"birth_experience.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-112"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/calebs-6th-birthday-2-600x333.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "Bodymind.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x333.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "psychiatry_for_psychologists.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-10-600x338.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "bodynamic.html",
-              "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
@@ -18551,7 +18441,7 @@
             "Тема"
           ],
           "_name": "features3",
-          "_anchor": "features3-11n"
+          "_anchor": "features3-12p"
         },
         {
           "_tags": [
@@ -19952,7 +19842,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78812.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78821.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20318,7 +20208,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78813.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78822.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20594,7 +20484,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78812.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78821.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21743,7 +21633,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78814.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78823.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22087,7 +21977,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78815.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78824.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22405,7 +22295,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78816.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78825.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22684,7 +22574,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78817.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78826.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24173,7 +24063,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Что такое терапевтическая группа?\r</b></p><p>Это место и круг людей, неравнодушных к себе, к другим и к отношениям.\r</p><p>Здесь ты не будешь одна(ин). \r</p><p>Раз в две недели мы будем встречаться в безопасной среде. Если захочешь, то тебе будет где и кому рассказать о своих мыслях и переживаниях, радостях и печалях, победах и ошибках, осознавать что-то новое и вспоминать давно забытое.\r</p><p>Ты сможешь при поддержке ведущего и участников группы, залечивать душевные раны, замечать и открывать новые грани себя, свои возможности, скрытые таланты. \r</p><p>А если у тебя не будет для этого сил или желания, то можно будет посмотреть, как это делают другие – порой это бывает очень ресурсно.\r</p><p>Ты узнаешь, как отношения влияют на настроение, чувства, тело и здоровье. \r</p><p>Сможешь выйти из лабиринта семейных посланий, внутренних программ, которые часто водят тебя по жизни путями далёкими от того, что делает тебя счастливой(ым).\r</p><p><br></p><p><br></p>",
+          "text": "<p><b>Что такое терапевтическая группа?\n</b></p><p>Это место и круг людей, неравнодушных к себе, к другим и к отношениям.\n</p><p>Здесь ты не будешь одна(ин). \n</p><p>Раз в две недели мы будем встречаться в безопасной среде. Если захочешь, то тебе будет где и кому рассказать о своих мыслях и переживаниях, радостях и печалях, победах и ошибках, осознавать что-то новое и вспоминать давно забытое.\n</p><p>Ты сможешь при поддержке ведущего и участников группы, залечивать душевные раны, замечать и открывать новые грани себя, свои возможности, скрытые таланты. \n</p><p>А если у тебя не будет для этого сил или желания, то можно будет посмотреть, как это делают другие – порой это бывает очень ресурсно.\n</p><p>Ты узнаешь, как отношения влияют на настроение, чувства, тело и здоровье. \n</p><p>Сможешь выйти из лабиринта семейных посланий, внутренних программ, которые часто водят тебя по жизни путями далёкими от того, что делает тебя счастливой(ым).\n</p><p><br></p><p><br></p>",
           "_tags": [
             "Тема"
           ],
