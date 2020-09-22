@@ -7694,7 +7694,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133316.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133324.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18142,7 +18142,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x33817.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33825.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19846,7 +19846,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78818.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78826.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20212,7 +20212,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78819.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78827.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20488,7 +20488,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78818.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78826.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21637,7 +21637,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78820.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78828.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21981,7 +21981,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78821.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78829.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22299,7 +22299,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78822.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78830.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22578,7 +22578,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78823.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78831.png",
               "link": "",
               "alt": "",
               "title": ""
