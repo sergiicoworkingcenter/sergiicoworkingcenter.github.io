@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page69.html",
+    "currentPage": "groups.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7694,7 +7694,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13338.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133316.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18142,7 +18142,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x3389.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x33817.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19846,7 +19846,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78810.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78818.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20212,7 +20212,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78811.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78819.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20488,7 +20488,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78810.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78818.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21637,7 +21637,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78812.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78820.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21981,7 +21981,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78813.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78821.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22299,7 +22299,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78814.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78822.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22578,7 +22578,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78815.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78823.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24695,10 +24695,10 @@
         }
       ]
     },
-    "page69.html": {
+    "groups.html": {
       "settings": {
         "meta_descr": "Наши мероприятия",
-        "title": "groups",
+        "title": "Вечерние группы",
         "order": 6
       },
       "components": [
