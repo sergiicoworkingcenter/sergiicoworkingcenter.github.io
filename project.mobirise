@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "PsyGroup2.html",
+    "currentPage": "page69.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1406,
+    "uniqCompNum": 1413,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -377,7 +377,7 @@
       "settings": {
         "title": "Созависимость",
         "meta_descr": "Созависимость",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -705,7 +705,7 @@
       "settings": {
         "title": "Лекторный зал",
         "meta_descr": "Лекторный зал",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -914,7 +914,7 @@
       "settings": {
         "title": "Зал для телесных практик",
         "meta_descr": "Зал для телесных практик",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1123,7 +1123,7 @@
       "settings": {
         "title": "Аренда - контактная форма",
         "meta_descr": "Аренда",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -1332,7 +1332,7 @@
       "settings": {
         "title": "Кабинет для терапии",
         "meta_descr": "Кабинет для терапии",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1566,7 +1566,7 @@
       "settings": {
         "title": "Кабинет для работы с детьми",
         "meta_descr": "Кабинет для работы с детьми",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -1775,7 +1775,7 @@
       "settings": {
         "title": "Галерея",
         "meta_descr": "Галерея",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -2017,7 +2017,7 @@
       "settings": {
         "title": "articles",
         "meta_descr": "статьи",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -2275,7 +2275,7 @@
       "settings": {
         "title": "cinderella",
         "meta_descr": "А вы мечтали стать Золушкой?\nСказка о созависимости.\n",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -2510,7 +2510,7 @@
       "settings": {
         "title": "Невеста Пряни",
         "meta_descr": "Невеста Пряни",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -2771,7 +2771,7 @@
       "settings": {
         "title": "Первая ступень",
         "meta_descr": "Первая ступень",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -3203,7 +3203,7 @@
       "settings": {
         "title": "BCC",
         "meta_descr": "BCC",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -3638,7 +3638,7 @@
       "settings": {
         "title": "телесно-ориентированная программа",
         "meta_descr": "Эмоции. Тело. Действия.",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -4192,7 +4192,7 @@
       "settings": {
         "title": "Утерянные эмоции",
         "meta_descr": "Утерянные эмоции",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -4662,7 +4662,7 @@
       "settings": {
         "title": "Как научиться распознавать свои эмоции",
         "meta_descr": "Как научиться распознавать свои эмоции",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -5095,7 +5095,7 @@
       "settings": {
         "title": "Границы близости",
         "meta_descr": "Границы близости",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -5924,7 +5924,7 @@
       "settings": {
         "title": "Психологические границы",
         "meta_descr": "Психологические границы",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -6333,7 +6333,7 @@
       "settings": {
         "title": "Буллинг. Агрессия. Безопасность.",
         "meta_descr": "Лекции на тему буллинга, агрессии и безопасности детей и подростков в коллективе.",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -7063,7 +7063,7 @@
       "settings": {
         "title": "телесно-ориентированная программа",
         "meta_descr": "Открытый семинар \"Память тела\"",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -7563,7 +7563,7 @@
       "settings": {
         "title": "Открытый семинар \"Память тела\"",
         "meta_descr": "Открытый семинар \"Память тела\"",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -7694,7 +7694,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13338.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -7895,7 +7895,7 @@
       "settings": {
         "title": "Психологический кинолекторий \"Большая рыба\"",
         "meta_descr": "Психологический кинолекторий \"Большая рыба\"",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -8249,7 +8249,7 @@
       "settings": {
         "title": "Экзистенциальный опыт рождения",
         "meta_descr": "Экзистенциальный опыт рождения\nТематическая терапевтическая группа",
-        "order": 68
+        "order": 69
       },
       "components": [
         {
@@ -8596,7 +8596,7 @@
       "settings": {
         "title": "Психиатрия для психологов",
         "meta_descr": "Психиатрия для психологов\nЛекционный курс",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -8928,7 +8928,7 @@
       "settings": {
         "title": "Клинический подход",
         "meta_descr": "Специализация ВОППГП \"Клинический подход в гештальт-терапии\"",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -9204,7 +9204,7 @@
       "settings": {
         "title": "ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ",
         "meta_descr": "ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ",
-        "order": 38
+        "order": 39
       },
       "components": [
         {
@@ -9366,7 +9366,7 @@
       "settings": {
         "title": "Вебинар для родителей",
         "meta_descr": "Вебинар для родителей",
-        "order": 39
+        "order": 40
       },
       "components": [
         {
@@ -9741,7 +9741,7 @@
       "settings": {
         "title": "Тренинг для родителей",
         "meta_descr": "Тренинг для родителей",
-        "order": 40
+        "order": 41
       },
       "components": [
         {
@@ -10125,7 +10125,7 @@
       "settings": {
         "title": "Лекции для родителей детей и подростков",
         "meta_descr": "Лекции для родителей детей и подростков",
-        "order": 41
+        "order": 42
       },
       "components": [
         {
@@ -10638,7 +10638,7 @@
       "settings": {
         "title": "Первая ступень",
         "meta_descr": "Первая ступень",
-        "order": 42
+        "order": 43
       },
       "components": [
         {
@@ -10969,7 +10969,7 @@
       "settings": {
         "title": "Первая ступень",
         "meta_descr": "Первая ступень",
-        "order": 43
+        "order": 44
       },
       "components": [
         {
@@ -11300,7 +11300,7 @@
       "settings": {
         "title": "Женское здоровье",
         "meta_descr": "Женское здоровье",
-        "order": 44
+        "order": 45
       },
       "components": [
         {
@@ -11708,7 +11708,7 @@
       "settings": {
         "title": "женская сексуальность",
         "meta_descr": "Лекция ",
-        "order": 47
+        "order": 48
       },
       "components": [
         {
@@ -12050,7 +12050,7 @@
       "settings": {
         "title": "Лекция",
         "meta_descr": "Лекция ",
-        "order": 45
+        "order": 46
       },
       "components": [
         {
@@ -12397,7 +12397,7 @@
       "settings": {
         "title": "Лекция",
         "meta_descr": "Лекция ",
-        "order": 66
+        "order": 67
       },
       "components": [
         {
@@ -12753,7 +12753,7 @@
       "settings": {
         "title": "ПОДРОСТКАМ О СЕКСЕ:  ПРОСТО И ДОСТУПНО ",
         "meta_descr": "ПОДРОСТКАМ О СЕКСЕ: ПРОСТО И ДОСТУПНО ",
-        "order": 50
+        "order": 51
       },
       "components": [
         {
@@ -13118,7 +13118,7 @@
       "settings": {
         "title": "Воркшоп для HR",
         "meta_descr": "Воркшоп для HR",
-        "order": 52
+        "order": 53
       },
       "components": [
         {
@@ -13499,7 +13499,7 @@
       "settings": {
         "title": "Клинический подход",
         "meta_descr": "Специализация ВОППГП \"Клинический подход в гештальт-терапии\"",
-        "order": 53
+        "order": 54
       },
       "components": [
         {
@@ -13775,7 +13775,7 @@
       "settings": {
         "title": "Групповая терапия",
         "meta_descr": "Специализация \"Групповая терапия в рамках гештальт-подхода\"",
-        "order": 54
+        "order": 55
       },
       "components": [
         {
@@ -14054,7 +14054,7 @@
       "settings": {
         "title": "Специализация",
         "meta_descr": "Специализация \"Работа с сексуальной тематикой в гештальт подходе\"",
-        "order": 56
+        "order": 57
       },
       "components": [
         {
@@ -14330,7 +14330,7 @@
       "settings": {
         "title": "Скажи, как есть. ",
         "meta_descr": "Скажи, как есть.\nПрактическое исследование с теоретическим сопровождением\n",
-        "order": 57
+        "order": 58
       },
       "components": [
         {
@@ -14687,7 +14687,7 @@
       "settings": {
         "title": "Сексуальная грамотность: зачем это нашим детям",
         "meta_descr": "Сексуальная грамотность: зачем это нашим детям",
-        "order": 67
+        "order": 68
       },
       "components": [
         {
@@ -15169,7 +15169,7 @@
       "settings": {
         "title": "Сексуальная грамотность: зачем это нашим детям",
         "meta_descr": "Сексуальная грамотность: зачем это нашим детям",
-        "order": 49
+        "order": 50
       },
       "components": [
         {
@@ -15487,7 +15487,7 @@
       "settings": {
         "title": "Мышечное расслабление",
         "meta_descr": "Телесный мастер-класс",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -15995,7 +15995,7 @@
       "settings": {
         "title": "Глазами мужчины",
         "meta_descr": "Лекция ",
-        "order": 48
+        "order": 49
       },
       "components": [
         {
@@ -16387,7 +16387,7 @@
       "settings": {
         "title": "Лекция о женском здоровье",
         "meta_descr": "Лекция о женском здоровье",
-        "order": 46
+        "order": 47
       },
       "components": [
         {
@@ -16800,7 +16800,7 @@
       "settings": {
         "title": "supergroup1",
         "meta_descr": "Супервизорская группа",
-        "order": 62
+        "order": 63
       },
       "components": [
         {
@@ -17206,7 +17206,7 @@
       "settings": {
         "title": "supergroup2",
         "meta_descr": "Супервизорская группа",
-        "order": 64
+        "order": 65
       },
       "components": [
         {
@@ -17542,7 +17542,7 @@
       "settings": {
         "title": "group",
         "meta_descr": "Терапетическая группа",
-        "order": 65
+        "order": 66
       },
       "components": [
         {
@@ -18142,7 +18142,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x3381.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-600x3389.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19290,7 +19290,7 @@
       "settings": {
         "title": "Девочкам о менструации и взрослении",
         "meta_descr": "Девочкам о менструации и взрослении",
-        "order": 51
+        "order": 52
       },
       "components": [
         {
@@ -19817,7 +19817,7 @@
       "settings": {
         "title": "Спонтанность в протокольных методах психотерапии",
         "meta_descr": "Спонтанность в протокольных методах психотерапии\n",
-        "order": 61
+        "order": 62
       },
       "components": [
         {
@@ -19846,7 +19846,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x7882.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78810.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20183,7 +20183,7 @@
       "settings": {
         "title": "Панические атаки",
         "meta_descr": "Панические  атаки и повышенная тревожность. \nИзраильская методика  «самообороны» \n",
-        "order": 59
+        "order": 60
       },
       "components": [
         {
@@ -20212,7 +20212,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x7883.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78811.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20488,7 +20488,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x7882.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78810.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20553,7 +20553,7 @@
       "settings": {
         "title": "supergroup12",
         "meta_descr": "Супервизорская группа",
-        "order": 63
+        "order": 64
       },
       "components": [
         {
@@ -20959,7 +20959,7 @@
       "settings": {
         "title": "boo",
         "meta_descr": "Психологический кинолекторий \"Большая рыба\"",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -21277,7 +21277,7 @@
       "settings": {
         "title": "Психосоматка в  гештальт-терапии",
         "meta_descr": "Специализация ВОППГП \"Психосоматка в \nгештальт-терапии\"",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -21608,7 +21608,7 @@
       "settings": {
         "title": "Теории личности",
         "meta_descr": "Лекционный курс",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -21637,7 +21637,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x7884.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78812.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21952,7 +21952,7 @@
       "settings": {
         "title": "helping",
         "meta_descr": "Помощь помагающему",
-        "order": 60
+        "order": 61
       },
       "components": [
         {
@@ -21981,7 +21981,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7885.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78813.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22270,7 +22270,7 @@
       "settings": {
         "title": "Психология финансового поведения",
         "meta_descr": "Психология финансового поведения",
-        "order": 55
+        "order": 56
       },
       "components": [
         {
@@ -22299,7 +22299,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7886.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78814.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22549,7 +22549,7 @@
       "settings": {
         "title": "Терапия зависимых состояний",
         "meta_descr": "Специализация ВОППГП \"Терапия зависимых состояний в гештальт подходе\"",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -22578,7 +22578,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x7887.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78815.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22880,7 +22880,7 @@
       "settings": {
         "title": "телесный диалог ",
         "meta_descr": "Осознанное прикосновение и телесный диалог \nПрактическое исследование с теоретическим сопровождением\n",
-        "order": 58
+        "order": 59
       },
       "components": [
         {
@@ -23235,7 +23235,7 @@
       "settings": {
         "title": "Взрослые дети и их родители",
         "meta_descr": "Терапевтическая группа \"Взрослые дети и их родители\"",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -23561,7 +23561,7 @@
       "settings": {
         "title": "Page 67",
         "meta_descr": "Первая ступень",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -23993,7 +23993,7 @@
       "settings": {
         "title": "Отношения для души",
         "meta_descr": "Психотерапевтическая группа\n",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -24355,7 +24355,7 @@
       "settings": {
         "title": "Моя жизнь: инструкция к применению",
         "meta_descr": "Терапевтическая группа",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -24692,6 +24692,272 @@
           ],
           "_name": "content1",
           "_anchor": "content1-130"
+        }
+      ]
+    },
+    "page69.html": {
+      "settings": {
+        "meta_descr": "Наши мероприятия",
+        "title": "groups",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#efefef",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SOS.html\" aria-expanded=\"false\"><p>Для себя</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"practice.html\" aria-expanded=\"false\">Для проф практики</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rent.html\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-133"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Yabloko.",
+          "_anchor": "footer1-134"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "4",
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-20-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "adultchildren.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-17-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "psiGroup.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-19-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "PsyGroup2.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-19-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "PsyGroup2.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Исторические, культурологические и психологические аспекты инцеста.",
+          "subtitle1": "19 апреля в 18:30",
+          "caption1": "Лекцию читают: Максим Жидко и Юлия Ярмоленко",
+          "title2": "Информация скоро появится",
+          "subtitle2": "Информация скоро появится",
+          "caption2": "Информация скоро появится",
+          "title3": "Информация скоро появится",
+          "subtitle3": "Информация скоро появится",
+          "caption3": "Информация скоро появится",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"birth_experience.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-136"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#78b950",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>по вопросам аренды и расписания центра:<br>+380 (66) 036 40 29 администратор<br><br>по вопросам терапевтических групп и обучающих программ:<br>+38 (050) 523 99 60&nbsp;Ольга<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"><b>Facebook</b></a><a href=\"https://www.facebook.com/HubYabloko/\" class=\"text-white\"></a><b><a href=\"https://www.facebook.com/HubYabloko/\"></a></b></li><br></ul>",
+          "_anchor": "contacts2-138"
         }
       ]
     }
