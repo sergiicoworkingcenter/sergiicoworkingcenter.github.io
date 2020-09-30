@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "groups.html",
+    "currentPage": "bodynamic.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -3774,7 +3774,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-8-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/-34-1400x788.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -3792,7 +3792,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Когда:</b> 12-13 сентября - первый модуль<br><b>Расписание:</b> 11.00 -19.00 с перерывом на обед&nbsp;<br><b>Где:</b> Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость</b> <b>одного модуля:</b> 100 уе.&nbsp;<br>Программа рассчитана на 5 тематических модулей по 2 дня с интервалом в 1,5 месяца.<br><b>Студентам гештальт-программ часы засчитываются как групповая терапия.<br>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга<br>",
+          "text": "<b>Когда:</b> 12-13 сентября - первый модуль<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 7 - 8 ноября - второй модуль - группа открыта и примет еще несколько участников.&nbsp;<br><b>Расписание:</b> 11.00 -19.00 с перерывом на обед&nbsp;<br><b>Где:</b> Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость</b> <b>одного модуля:</b> 100 уе.&nbsp;<br>Программа рассчитана на 5 тематических модулей по 2 дня с интервалом в 1,5 месяца.<br><b>Студентам гештальт-программ часы засчитываются как групповая терапия.<br>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -7694,7 +7694,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13339.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133318.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18130,14 +18130,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-10-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/-34-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "bodynamic.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media2": {
@@ -18383,7 +18382,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x33810.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x33819.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19846,7 +19845,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78811.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78820.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20212,7 +20211,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78812.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78821.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20488,7 +20487,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78811.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78820.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21637,7 +21636,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78813.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78822.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21981,7 +21980,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78814.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78823.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22299,7 +22298,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78815.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78824.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22578,7 +22577,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78816.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78825.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -25098,7 +25097,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78817.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78826.png",
               "link": "",
               "alt": "",
               "title": ""
