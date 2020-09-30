@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "events.html",
+    "currentPage": "groups.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7694,7 +7694,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13339.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18383,7 +18383,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x3381.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x33810.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19846,7 +19846,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x7882.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78811.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20212,7 +20212,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x7883.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78812.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20488,7 +20488,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x7882.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78811.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21637,7 +21637,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x7884.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78813.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21981,7 +21981,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7885.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78814.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22299,7 +22299,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7886.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78815.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22578,7 +22578,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x7887.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78816.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -23371,7 +23371,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/-29-1400x788.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -23389,7 +23389,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Когда:</b>&nbsp;24 сентября в 18:00 - первая встреча<br><b>Где:</b> Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость</b>&nbsp;<b>встречи:</b> 500 грн.&nbsp;<br><b>Формат группы: </b>встречи раз в 2 недели, после набора группа работает в закрытом режиме и не принимает новых участников.<br><b>Студентам гештальт-программ часы засчитываются как групповая терапия.</b><br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга<br>",
+          "text": "<b>Когда:</b>&nbsp;8 октября в 18:00&nbsp;<br><b>Где:</b> Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость</b>&nbsp;<b>встречи:</b> 500 грн.&nbsp;<br><b>Формат группы: </b>встречи раз в 2 недели, после набора группа работает в закрытом режиме и не принимает новых участников.<br><b>Студентам гештальт-программ часы засчитываются как групповая терапия.</b><br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -24022,7 +24022,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-17-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/-31-1400x788.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24040,7 +24040,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<br><b>Когда: </b>29&nbsp;сентября в 18:00 - первая встреча<br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость встречи:</b> 500 грн. <br><b>Формат группы</b>: встречи раз в 2 недели, после набора группа работает в закрытом режиме и не принимает новых участников.<br>Студентам гештальт-программ часы засчитываются как групповая терапия.<br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга<br><br>",
+          "text": "<br><b>Когда: </b>13&nbsp;октября в 18:00&nbsp;<br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость встречи:</b> 500 грн. <br><b>Формат группы</b>: встречи раз в 2 недели, после набора группа работает в закрытом режиме и не принимает новых участников.<br>Студентам гештальт-программ часы засчитываются как групповая терапия.<br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -24402,7 +24402,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<br><b>Когда: </b>13 октября в 18:00 - первая встреча<br><b>Где:</b> Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость встречи:</b> 500 грн. <br><b>Формат группы:</b> встречи раз в 2 недели, после набора группа работает в закрытом режиме и не принимает новых участников.<br>Студентам гештальт-программ часы засчитываются как групповая терапия.<br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга<br>",
+          "text": "<br><b>Когда: </b>13 октября в 18:00<br><b>Где:</b> Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость встречи:</b> 500 грн. <br><b>Формат группы:</b> встречи раз в 2 недели, после набора группа работает в закрытом режиме и не принимает новых участников.<br>Студентам гештальт-программ часы засчитываются как групповая терапия.<br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -24813,7 +24813,7 @@
           "_params": {
             "showImages": true,
             "showTitles": false,
-            "showSubtitles": false,
+            "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "4",
@@ -24834,38 +24834,35 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-20-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/-29-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "adultchildren.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-17-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/-31-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "psiGroup.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-19-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/-30-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "PsyGroup2.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media4": {
@@ -24897,13 +24894,13 @@
             }
           },
           "title1": "Исторические, культурологические и психологические аспекты инцеста.",
-          "subtitle1": "19 апреля в 18:30",
+          "subtitle1": "8 октября 18:00",
           "caption1": "Лекцию читают: Максим Жидко и Юлия Ярмоленко",
           "title2": "Информация скоро появится",
-          "subtitle2": "Информация скоро появится",
+          "subtitle2": "13 октября 18:00",
           "caption2": "Информация скоро появится",
           "title3": "Информация скоро появится",
-          "subtitle3": "Информация скоро появится",
+          "subtitle3": "13 октября 18:00",
           "caption3": "Информация скоро появится",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
@@ -25101,7 +25098,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x7888.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78817.png",
               "link": "",
               "alt": "",
               "title": ""
