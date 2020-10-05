@@ -7694,7 +7694,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133354.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133363.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18382,7 +18382,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x33855.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x33864.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19845,7 +19845,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78856.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78865.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20211,7 +20211,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78857.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78866.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20487,7 +20487,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78856.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78865.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21636,7 +21636,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78858.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78867.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21980,7 +21980,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78859.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78868.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22298,7 +22298,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78860.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78869.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22577,7 +22577,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78861.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78870.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -25098,7 +25098,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78862.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78871.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -25766,7 +25766,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "<b>Мастер-класс «Семейные сценарии: как написать свой»</b><br><br>Часто мы встречаемся с «семейными проклятиями», когда в семье из поколения в поколение повторяется похожая история.\n<br>Что это? Проклятие? Плохая наследственность? Или все проще?<br>На мастер-классе будем исследовать как не повторять семейные сценарий, а написать свой. Регистрируйтесь и приходите.<br><br><b>Маргарита Лебедева</b> - сертифицированный гештальт-терапевт, супервизор, ведущая терапевтических и обучающих программ, сертифицированный специалист в области перинатальной психологии и телесно-ориентированной терапии.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Зарегистрироваться и купить билет</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://events.hubyabloko.com/event/48/subscription\" data-toolbar=\"-mbrBtnMove\">Зарегистрироваться и купить билет</a>",
           "_tags": [
             "Тема"
           ],
@@ -25818,7 +25818,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "<b><br>Мастер-класс «Я достойна»</b><br><br>Как найти личную внутреннюю опору в жизни, не зависящую от внешних обстоятельств?\n<br>Как перестать себя обесценивать, занижать свои достоинства и вообще, как выйти и заявить о своих талантах? \n<br>Как стать уверенной, перестать сомневаться в себе и реализовать уже то, о чем ты мечтаешь?\n<br>Интересно, регистрируйся и приходи на МК.\n<br><br><b>Светлана Николаенко</b> - аккредитованный гештальт- терапевт, сертифицированный супервизор, ведущая терапевтических и обучающих программ,.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Зарегистрироваться и купить билет</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://events.hubyabloko.com/event/49/subscription\" data-toolbar=\"-mbrBtnMove\">Зарегистрироваться и купить билет</a>",
           "_tags": [
             "Тема"
           ],
@@ -25875,7 +25875,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "<b><br>Мастер-класс «Отношения: источник силы и вдохновения»</b><br><br>Устали от «не тех» отношений, но как изменить все к лучшему не понятно.\n<br>Приходите на МК, чтобы узнать:\n<br>- Как строить? \n<br>- С кем? \n<br>- Чего не делать? \n<br>- Как заботиться о себе?\n<br><br><b>Виктория Кривцова </b>- аккредитованный гештальт- терапевт, сертифицированный супервизор, ведущая терапевтических и обучающих программ.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Зарегистрироваться и купить билет</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/50/subscription\" data-toolbar=\"-mbrBtnMove\">Зарегистрироваться и купить билет</a>",
           "_tags": [
             "Тема"
           ],
