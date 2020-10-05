@@ -53,6 +53,12 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Open Sans', sans-serif;
 }
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
+}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -6835,6 +6841,83 @@ section.form .container {
   font-size: 36px;
 }
 #contacts2-13o STRONG {
+  color: #ffffff;
+  font-size: 16px;
+}
+#msg-box5-13y P {
+  font-size: 17px;
+}
+#msg-box5-145 P {
+  font-size: 17px;
+}
+#menu-13z .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-13z .navbar-caption {
+  color: #ffffff;
+}
+#menu-13z .navbar-toggler {
+  color: #28324e;
+}
+#menu-13z .link,
+#menu-13z .dropdown-item {
+  color: #28324e;
+}
+#menu-13z .link {
+  font-size: 0.6rem;
+}
+#menu-13z .dropdown-item,
+#menu-13z .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#menu-13z .link:hover,
+#menu-13z .dropdown-item:hover,
+#menu-13z .link:focus,
+#menu-13z .dropdown-item:focus {
+  color: #475577;
+}
+#menu-13z .link[aria-expanded="true"],
+#menu-13z .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-13z .nav-dropdown-sm .link:focus,
+#menu-13z .nav-dropdown-sm .link:hover,
+#menu-13z .nav-dropdown-sm .dropdown-item:focus,
+#menu-13z .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-13z .navbar,
+#menu-13z .nav-dropdown-sm,
+#menu-13z .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-13z .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-13z .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-13z .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-13z .bg-color.transparent.opened .link:hover,
+#menu-13z .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-13z .link[aria-expanded="true"],
+#menu-13z .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-13z.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-13z .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-13z .close-icon::before,
+#menu-13z .close-icon::after {
+  background-color: #28324e;
+}
+#contacts2-142 STRONG {
   color: #ffffff;
   font-size: 16px;
 }
