@@ -7694,7 +7694,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133381.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133390.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18382,7 +18382,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x33882.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x33891.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19845,7 +19845,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78883.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78892.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20211,7 +20211,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78884.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78893.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20487,7 +20487,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78883.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78892.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21636,7 +21636,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78885.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78894.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21980,7 +21980,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78886.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78895.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22298,7 +22298,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78887.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78896.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22577,7 +22577,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78888.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78897.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -25098,7 +25098,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78889.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78898.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -25856,7 +25856,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-13-1080x1080.png",
+              "src": "@PROJECT_PATH@/assets/images/-15-1080x1080.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -25874,7 +25874,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b><br>Мастер-класс «Отношения: источник силы и вдохновения»</b><br><br>Устали от «не тех» отношений, но как изменить все к лучшему не понятно.\n<br>Приходите на МК, чтобы узнать:\n<br>- Как строить? \n<br>- С кем? \n<br>- Чего не делать? \n<br>- Как заботиться о себе?\n<br><br><b>Виктория Кривцова </b>- аккредитованный гештальт- терапевт, сертифицированный супервизор, ведущая терапевтических и обучающих программ.<br><br>",
+          "text": "<b><br>Мастер-класс «Отношения: источник силы и вдохновения»</b><br><br>Порой наша жизнь полна кризисных моментов и неожиданных ситуаций, а порой она становится монотонной, и каждый следующий день похож на предыдущий.<br>В водовороте жизни нам очень нужны отношения, в которых можно восстанавливаться и заряжаться энергией.<br>Как строить такие отношения и с кем?<br>Что будет вдохновлять именно тебя?<br>Как создавать отношения, которые станут твоим источником силы?<br>Если ты хочешь узнать это, регистрируйся и участвуй в МК.<br><br><b>Виктория Кривцова </b>- аккредитованный гештальт- терапевт, сертифицированный супервизор, ведущая терапевтических и обучающих программ.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/50/subscription\" data-toolbar=\"-mbrBtnMove\">Зарегистрироваться и купить билет</a>",
           "_tags": [
             "Тема"
