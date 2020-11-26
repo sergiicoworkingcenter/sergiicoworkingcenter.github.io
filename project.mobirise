@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "1step.html",
+    "currentPage": "index.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7711,7 +7711,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133318.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18399,7 +18399,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x33819.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x3381.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19862,7 +19862,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78820.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x7882.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20228,7 +20228,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78821.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x7883.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20504,7 +20504,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78820.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x7882.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21653,7 +21653,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78822.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x7884.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21997,7 +21997,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78823.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7885.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22315,7 +22315,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78824.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7886.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22594,7 +22594,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78825.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x7887.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -25115,7 +25115,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78826.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x7888.png",
               "link": "",
               "alt": "",
               "title": ""
