@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "events.html",
+    "currentPage": "age_crises.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133365.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133374.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17645,7 +17645,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "1step_for_psychotherapist.html",
+              "link": "1stepLL.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -17653,7 +17653,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-7-600x33866.png",
+              "src": "@PROJECT_PATH@/assets/images/-7-600x33875.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19371,7 +19371,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78867.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78876.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19740,7 +19740,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78868.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78877.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20016,7 +20016,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78867.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78876.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21177,7 +21177,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78869.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78878.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21524,7 +21524,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78870.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78879.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22127,7 +22127,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78871.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78880.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24669,7 +24669,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78872.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78881.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26076,7 +26076,7 @@
     },
     "1stepLL.html": {
       "settings": {
-        "title": "Первая ступень",
+        "title": "Первая ступень ЛЛ",
         "meta_descr": "Первая ступень",
         "order": 17
       },
@@ -26524,7 +26524,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-7-1400x78873.png",
+              "src": "@PROJECT_PATH@/assets/images/-7-1400x78882.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26826,7 +26826,7 @@
         }
       ]
     },
-    " age_crises.html": {
+    "age_crises.html": {
       "settings": {
         "title": "Возрастные кризисы",
         "meta_descr": "Возрастные кризисы",
