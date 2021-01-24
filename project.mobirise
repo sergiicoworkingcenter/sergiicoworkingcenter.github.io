@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "financialbehavior.html",
+    "currentPage": " age_crises.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1463,
+    "uniqCompNum": 1469,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133347.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133356.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -8588,7 +8588,7 @@
       "settings": {
         "title": "Клинический подход",
         "meta_descr": "Специализация ВОППГП \"Клинический подход в гештальт-терапии\"",
-        "order": 42
+        "order": 41
       },
       "components": [
         {
@@ -8867,7 +8867,7 @@
       "settings": {
         "title": "ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ",
         "meta_descr": "ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ",
-        "order": 45
+        "order": 44
       },
       "components": [
         {
@@ -9032,7 +9032,7 @@
       "settings": {
         "title": "Вебинар для родителей",
         "meta_descr": "Вебинар для родителей",
-        "order": 46
+        "order": 45
       },
       "components": [
         {
@@ -9410,7 +9410,7 @@
       "settings": {
         "title": "Тренинг для родителей",
         "meta_descr": "Тренинг для родителей",
-        "order": 47
+        "order": 46
       },
       "components": [
         {
@@ -9797,7 +9797,7 @@
       "settings": {
         "title": "Лекции для родителей детей и подростков",
         "meta_descr": "Лекции для родителей детей и подростков",
-        "order": 48
+        "order": 47
       },
       "components": [
         {
@@ -10313,7 +10313,7 @@
       "settings": {
         "title": "Первая ступень",
         "meta_descr": "Первая ступень",
-        "order": 49
+        "order": 48
       },
       "components": [
         {
@@ -10647,7 +10647,7 @@
       "settings": {
         "title": "Первая ступень",
         "meta_descr": "Первая ступень",
-        "order": 50
+        "order": 49
       },
       "components": [
         {
@@ -10981,7 +10981,7 @@
       "settings": {
         "title": "Женское здоровье",
         "meta_descr": "Женское здоровье",
-        "order": 51
+        "order": 50
       },
       "components": [
         {
@@ -11392,7 +11392,7 @@
       "settings": {
         "title": "женская сексуальность",
         "meta_descr": "Лекция ",
-        "order": 54
+        "order": 53
       },
       "components": [
         {
@@ -11737,7 +11737,7 @@
       "settings": {
         "title": "Лекция",
         "meta_descr": "Лекция ",
-        "order": 52
+        "order": 51
       },
       "components": [
         {
@@ -12446,7 +12446,7 @@
       "settings": {
         "title": "ПОДРОСТКАМ О СЕКСЕ:  ПРОСТО И ДОСТУПНО ",
         "meta_descr": "ПОДРОСТКАМ О СЕКСЕ: ПРОСТО И ДОСТУПНО ",
-        "order": 57
+        "order": 56
       },
       "components": [
         {
@@ -12814,7 +12814,7 @@
       "settings": {
         "title": "Воркшоп для HR",
         "meta_descr": "Воркшоп для HR",
-        "order": 59
+        "order": 58
       },
       "components": [
         {
@@ -13198,7 +13198,7 @@
       "settings": {
         "title": "Клинический подход",
         "meta_descr": "Специализация ВОППГП \"Клинический подход в гештальт-терапии\"",
-        "order": 60
+        "order": 59
       },
       "components": [
         {
@@ -13477,7 +13477,7 @@
       "settings": {
         "title": "Групповая терапия",
         "meta_descr": "Специализация \"Групповая терапия в рамках гештальт-подхода\"",
-        "order": 61
+        "order": 60
       },
       "components": [
         {
@@ -14883,7 +14883,7 @@
       "settings": {
         "title": "Сексуальная грамотность: зачем это нашим детям",
         "meta_descr": "Сексуальная грамотность: зачем это нашим детям",
-        "order": 56
+        "order": 55
       },
       "components": [
         {
@@ -15715,7 +15715,7 @@
       "settings": {
         "title": "Глазами мужчины",
         "meta_descr": "Лекция ",
-        "order": 55
+        "order": 54
       },
       "components": [
         {
@@ -16110,7 +16110,7 @@
       "settings": {
         "title": "Лекция о женском здоровье",
         "meta_descr": "Лекция о женском здоровье",
-        "order": 53
+        "order": 52
       },
       "components": [
         {
@@ -18117,7 +18117,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x33848.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x33857.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19036,7 +19036,7 @@
       "settings": {
         "title": "Девочкам о менструации и взрослении",
         "meta_descr": "Девочкам о менструации и взрослении",
-        "order": 58
+        "order": 57
       },
       "components": [
         {
@@ -19598,7 +19598,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78849.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78858.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19967,7 +19967,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78850.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78859.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20243,7 +20243,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78849.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78858.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21041,7 +21041,7 @@
       "settings": {
         "title": "Психосоматка в  гештальт-терапии",
         "meta_descr": "Специализация ВОППГП \"Психосоматка в \nгештальт-терапии\"",
-        "order": 43
+        "order": 42
       },
       "components": [
         {
@@ -21404,7 +21404,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78851.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78860.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21751,7 +21751,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78852.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78861.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22043,7 +22043,7 @@
       "settings": {
         "title": "Психология финансового поведения",
         "meta_descr": "Психология финансового поведения",
-        "order": 62
+        "order": 61
       },
       "components": [
         {
@@ -22325,7 +22325,7 @@
       "settings": {
         "title": "Терапия зависимых состояний",
         "meta_descr": "Специализация ВОППГП \"Терапия зависимых состояний в гештальт подходе\"",
-        "order": 44
+        "order": 43
       },
       "components": [
         {
@@ -22354,7 +22354,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78853.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78862.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24896,7 +24896,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78854.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78863.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26751,7 +26751,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-7-1400x78855.png",
+              "src": "@PROJECT_PATH@/assets/images/-7-1400x78864.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27050,6 +27050,288 @@
           "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>по вопросам аренды и расписания центра:<br>+380 (66) 036 40 29 администратор<br><br>по вопросам терапевтических групп и обучающих программ:<br>+38 (050) 523 99 60&nbsp;Ольга<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"https://t.me/joinchat/SJRHl1QLTSZ6e5gf\" target=\"_blank\">Мы в соцсетях</a></b></span></p><ul><li><a href=\"https://www.facebook.com/HubYabloko\" class=\"text-white\" target=\"_blank\"><b>Facebook</b></a></li><li><b><a href=\"https://www.instagram.com/lifehub_yabloko/\" target=\"_blank\">Instagram</a></b></li><li><b><a href=\"https://t.me/yabloko_for_life\" target=\"_blank\">Telrgram-канал &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"Психология для жизни\"</a></b></li><li><b><a href=\"https://t.me/joinchat/SJRHl1QLTSZ6e5gf\" target=\"_blank\">Telrgram-канал &nbsp;для психологов и психотерапевтов с анонсами обучающих мероприятий</a></b><b></b></li><br></ul>",
           "_anchor": "contacts2-14f"
+        }
+      ]
+    },
+    " age_crises.html": {
+      "settings": {
+        "title": "Возрастные кризисы",
+        "meta_descr": "Возрастные кризисы",
+        "order": 62
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-11-1400x788.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<b>Когда:</b> <br><b>1 модуль:&nbsp;</b>12-14 октября 2021 <br>Расписание остальных модулей в процессе формирования.<br><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko<br><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ. <br><b>Стоимость:</b> 150 уе./модуль<br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box5-14n"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b style=\"font-size: 1.07rem;\">Тематический план:&nbsp;</b></p><p><b style=\"font-size: 1.07rem;\">1 модуль </b></p><p><span style=\"font-size: 1.07rem;\">Младенчество. Возрастные кризисы и принципы развития. Виды тревоги. Нарушение привязанности. Примитивные защиты. Магическое мышление. Первичный нарциссизм. Работа с ранней травмой и невербальным уровнем.&nbsp;</span></p><p><b style=\"font-size: 1.07rem;\">2 модуль </b></p><p><span style=\"font-size: 1.07rem;\">Игровой и дошкольный возраст. Принцип удовольствия и принцип реальности. Понятие границы. Конфликт вины. Баланс фрустрации и поддержки. Первичные представления о правилах и нормах. Методы работы с «остановленной активностью». Формирование поло-ролевых стереотипов.&nbsp;</span></p><p><b style=\"font-size: 1.07rem;\">3 модуль </b></p><p><span style=\"font-size: 1.07rem;\">Школьные годы. Подростковый период и юность. Процесс сепарации-индивидуации. Социализация и обучение. Способы развития и обучения. Кризис идентичности. Групповое давление и роли. Работа со стыдом и сопротивлением. Сексуальность. Формирование психосексуальной ориентации. Принципы. Ценности. Идеалы как ориентиры.&nbsp;</span></p><p><b style=\"font-size: 1.07rem;\">4 модуль </b></p><p><span style=\"font-size: 1.07rem;\">Взросление. Молодость. Кризис среднего возраста. Семейные истории. Сценарии и кризисы. Обязательная и произвольная программы работа с проекцией и интроекцией. Остановка в развитии «тупик» поиск ресурсов и смыслов. Выбор и индивидуация близость и изоляция.</span></p><p><b style=\"font-size: 1.07rem;\">5 модуль </b></p><p><span style=\"font-size: 1.07rem;\">Зрелость. Пожилой возраст. Долголетие. Творчество и жизнетворчество. Процессы интеграции и адаптации зрелого человека. Опыт. Рефлексивность. Целостность. Качество жизни. Мировоззрение. Множественность контекстов. Философия умирания. Экзистенциальные данности. Творческая стагнация и мизантропия.</span></p><p><b style=\"font-size: 1.07rem;\">6 модуль </b></p><p><span style=\"font-size: 1.07rem;\">Супервизия сложных случаев. Анализ жизненных историй и нарративный подход в психотерапии. Теория цикла контакта и динамика селф-процесса в рамках теории развития. Проблемно-ориентированная и динамическая терапия. Пятиуровневая модель Перлза. Работа с остановками в развитии( с детством) взрослых клиентов. Защита сертификационных работ.</span></p><p><b style=\"font-size: 1.07rem;\">7 модуль</b></p><p><span style=\"font-size: 1.07rem;\">Защита сертификационных работ</span></p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\">Специализацию ведут:</b><br></p><p><b><br></b></p><p><b>Баева Елена</b>&nbsp;– ведущий тренер, супервизор, гештальт-терапевт, специалист в области трансформационной динамики.</p><p><br></p><p><b>Юшковский Владимир</b>&nbsp;– клинический психолог, действительный тренер, супервизор, гештальт-терапевт.</p><p><br></p><p><b>Будько Сергей –</b>&nbsp;ассоциированый тренер, супервизор, гештальт-терапевт, ведущий спец «Работа с подростками в ГТ»</p><p><br></p><p><br></p>",
+          "_anchor": "content1-14o"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Заявка на участие в специализации «Теория развития»",
+          "subtitle": "Если у вас остались вопросы, оставьте свои контакты, мы свяжемся с вами и ответим на них.<br>",
+          "form": {
+            "action": "mykhalyova@gmail.com",
+            "alerts": {
+              "success": "Спасибо!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
+          "_anchor": "form1-14p"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#efefef",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SOS.html\" aria-expanded=\"false\"><p>Для себя</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"practice.html\" aria-expanded=\"false\">Для проф практики</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rent.html\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-14q"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_anchor": "footer1-14r"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#78b950",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>по вопросам аренды и расписания центра:<br>+380 (66) 036 40 29 администратор<br><br>по вопросам терапевтических групп и обучающих программ:<br>+38 (050) 523 99 60&nbsp;Ольга<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"https://t.me/joinchat/SJRHl1QLTSZ6e5gf\" target=\"_blank\">Мы в соцсетях</a></b></span></p><ul><li><a href=\"https://www.facebook.com/HubYabloko\" class=\"text-white\" target=\"_blank\"><b>Facebook</b></a></li><li><b><a href=\"https://www.instagram.com/lifehub_yabloko/\" target=\"_blank\">Instagram</a></b></li><li><b><a href=\"https://t.me/yabloko_for_life\" target=\"_blank\">Telrgram-канал &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"Психология для жизни\"</a></b></li><li><b><a href=\"https://t.me/joinchat/SJRHl1QLTSZ6e5gf\" target=\"_blank\">Telrgram-канал &nbsp;для психологов и психотерапевтов с анонсами обучающих мероприятий</a></b><b></b></li><br></ul>",
+          "_anchor": "contacts2-14s"
         }
       ]
     }
