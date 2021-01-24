@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": " age_crises.html",
+    "currentPage": "events.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133356.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133365.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17625,7 +17625,7 @@
             "showButtons": false,
             "paddingTop": "3",
             "paddingBottom": 2,
-            "columns": "3",
+            "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -17641,11 +17641,11 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/-7-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "step2.html",
+              "link": "1step_for_psychotherapist.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -17653,18 +17653,19 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1-1-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/-7-600x33866.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "1step.html",
+              "link": "supervisory_seminar.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x333.png",
+              "src": "@PROJECT_PATH@/assets/images/%D0%93%D0%B4%D0%B5%20%D0%B6%D0%B8%D0%B2%D0%B5%D1%82%20%D0%B1%D0%B5%D0%B7%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C_%20(2)-600x333.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -17849,7 +17850,7 @@
             "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": "3",
+            "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -17865,22 +17866,23 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-34-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/-8-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "bodynamic.html",
+              "link": "financialbehavior.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/-11-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "group.html",
+              "link": " age_crises.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -17951,235 +17953,6 @@
           ],
           "_name": "features3",
           "_anchor": "features3-12o"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-17-600x338.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "psiGroup.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/96025415-2578560228916461-2167449159957741568-o-600x338.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "financialbehavior.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/calebs-6th-birthday-2-600x333.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "Bodymind.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-19-600x338.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "PsyGroup2.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Исторические, культурологические и психологические аспекты инцеста.",
-          "subtitle1": "19 апреля в 18:30",
-          "caption1": "Лекцию читают: Максим Жидко и Юлия Ярмоленко",
-          "title2": "Информация скоро появится",
-          "subtitle2": "Информация скоро появится",
-          "caption2": "Информация скоро появится",
-          "title3": "Информация скоро появится",
-          "subtitle3": "Информация скоро появится",
-          "caption3": "Информация скоро появится",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"birth_experience.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-vl"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-4-600x338.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "supergroup2.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-1-600x338.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "supergroup12.html",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x33857.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "addictiontherapy.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Исторические, культурологические и психологические аспекты инцеста.",
-          "subtitle1": "19 апреля в 18:30",
-          "caption1": "Лекцию читают: Максим Жидко и Юлия Ярмоленко",
-          "title2": "Информация скоро появится",
-          "subtitle2": "Информация скоро появится",
-          "caption2": "Информация скоро появится",
-          "title3": "Информация скоро появится",
-          "subtitle3": "Информация скоро появится",
-          "caption3": "Информация скоро появится",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"birth_experience.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-12p"
         },
         {
           "_tags": [
@@ -19598,7 +19371,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78858.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78867.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19967,7 +19740,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78859.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78868.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20243,7 +20016,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78858.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78867.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21404,7 +21177,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78860.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78869.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21751,7 +21524,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78861.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78870.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22354,7 +22127,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78862.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78871.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24662,7 +24435,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-19-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/%D0%AF%20(19)-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -24896,7 +24669,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78863.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78872.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26751,7 +26524,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-7-1400x78864.png",
+              "src": "@PROJECT_PATH@/assets/images/-7-1400x78873.png",
               "link": "",
               "alt": "",
               "title": ""
