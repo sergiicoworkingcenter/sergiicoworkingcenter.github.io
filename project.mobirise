@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "rent.html",
+    "currentPage": "room-for-children-theropy.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1448,
+    "uniqCompNum": 1449,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1213,10 +1213,10 @@
               "color": "#28324e"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1401,6 +1401,30 @@
           "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dsc-8946-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-148"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1450,10 +1474,10 @@
               "color": "#28324e"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1596,12 +1620,11 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/yabloko-3-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gopr0208-1400x1050.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -7319,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13339.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133318.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -18094,7 +18117,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-5-600x33810.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-600x33819.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19575,7 +19598,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78811.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78820.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19944,7 +19967,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78812.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78821.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20220,7 +20243,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78811.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78820.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21381,7 +21404,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78813.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78822.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21728,7 +21751,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78814.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78823.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22049,7 +22072,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78815.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78824.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22331,7 +22354,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78816.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78825.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24873,7 +24896,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78817.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78826.png",
               "link": "",
               "alt": "",
               "title": ""
