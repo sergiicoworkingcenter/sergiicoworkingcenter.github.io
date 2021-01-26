@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "events.html",
+    "currentPage": "age_crises.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133383.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133392.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17653,7 +17653,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-7-600x33884.png",
+              "src": "@PROJECT_PATH@/assets/images/-7-600x33893.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -17878,14 +17878,13 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-11-600x338.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-600x338.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": " age_crises.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media3": {
@@ -19371,7 +19370,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78885.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78894.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19740,7 +19739,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78886.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78895.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20016,7 +20015,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78885.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78894.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21177,7 +21176,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78887.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78896.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21524,7 +21523,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78888.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78897.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22127,7 +22126,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78889.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78898.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24669,7 +24668,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78890.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78899.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26524,7 +26523,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-7-1400x78891.png",
+              "src": "@PROJECT_PATH@/assets/images/-7-1400x788100.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26859,7 +26858,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-11-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x788.png",
               "link": "",
               "alt": "",
               "title": ""
