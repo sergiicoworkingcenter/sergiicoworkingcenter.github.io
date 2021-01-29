@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133392.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333101.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17653,7 +17653,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-7-600x33893.png",
+              "src": "@PROJECT_PATH@/assets/images/-7-600x338102.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19370,7 +19370,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78894.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788103.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19739,7 +19739,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78895.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x788104.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20015,7 +20015,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78894.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788103.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21176,7 +21176,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78896.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x788105.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21523,7 +21523,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78897.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788106.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22126,7 +22126,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78898.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x788107.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24668,7 +24668,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78899.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x788108.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26523,7 +26523,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-7-1400x788100.png",
+              "src": "@PROJECT_PATH@/assets/images/-7-1400x788109.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26876,7 +26876,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Когда:</b> <br><b>1 модуль:&nbsp;</b>12-14 октября 2021 <br>Расписание остальных модулей в процессе формирования.<br><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko<br><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ. <br><b>Стоимость:</b> 150 уе./модуль<br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга<br><br>",
+          "text": "<b>Когда:</b> <br><b>1 модуль:&nbsp;</b>12-14 октября 2021<br><b>2 модуль:</b> 14-16 декабря 2021<br><b>3 модуль: </b>15-17 февраля 2022<br><b>4 модуль:</b> 19-21 апреля 2022<br><b>5 модуль:</b> 14-16 июня 2022<br><b>6 модуль:</b> 13-15 сентября 2022<br><b>7 модуль:</b> 15-17 ноября 2022<br><br><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko<br><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ. <br><b>Стоимость:</b> 150 уе./модуль<br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
