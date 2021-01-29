@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "age_crises.html",
+    "currentPage": "personalitytheory.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333101.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333110.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17653,7 +17653,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-7-600x338102.png",
+              "src": "@PROJECT_PATH@/assets/images/-7-600x338111.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19370,7 +19370,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788103.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788112.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19739,7 +19739,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x788104.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x788113.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20015,7 +20015,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788103.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788112.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21176,7 +21176,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x788105.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x788.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21194,7 +21194,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Когда:&nbsp;</b><br>Лекция 1. 6 февраля 18:00-21:00<br>Лекция 2. 13 февраля 18:00-21:00<br>Лекция 3. 20 февраля 18:00-21:00<br>Лекция 4. 27 февраля 18:00-21:00<br>Лекция 5. 5 марта18:00-21:00<br>Лекция 6. 12 марта18:00-21:00<br>Лекция 7. 19 марта18:00-21:00<br>Лекция 8. 26 марта18:00-21:00<br><br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость курса лекций:</b> 3200 грн.<br><br><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ, всех, кому интересна психология.<br><br>Студентам гештальт-программ курс записывается в зачетку и входит в список сертификационных требований.<br>&nbsp;<br>Курс будет доступен офлайн и онлайн.<br>При участии онлайн, условия записи в зачетку обсуждается в индивидуальном порядке.<br><br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60&nbsp;Ольга<br>+38 (050) 303 92 26 Мария<br><br><b>Лекции читает:</b><br>Надежда Терещенко<br><br>",
+          "text": "<b>Когда:&nbsp;</b><br>Лекция 1. 23 февраля 18:00-21:00<br>Лекция 2. 2 марта 18:00-21:00<br>Лекция 3. 9 марта 18:00-21:00<br>Лекция 4. 16 марта 18:00-21:00<br>Лекция 5. 23 марта 18:00-21:00<br>Лекция 6. 30 марта 18:00-21:00<br>Лекция 7. 6 апреля 18:00-21:00<br>Лекция 8. 13 апреля 18:00-21:00<br><br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость курса лекций:</b> 3600 грн.<br><br><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ, всех, кому интересна психология.<br><br>Студентам гештальт-программ курс записывается в зачетку и входит в список сертификационных требований.<br>&nbsp;<br>Курс будет проходить онлайн.<br>Досту к записям лекций и опорным конспектам.<br>Общение в закрытой группе.<br> .<br>При участии онлайн, условия записи в зачетку обсуждается в индивидуальном порядке.<br><br><b>Телефон для справок:</b><br>+38 (050) 523 99 60&nbsp;Ольга<br><b>Лекции читает:</b><br>Надежда Терещенко<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -21326,7 +21326,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Если вы оплатили мастео-класс, укажите в сообщении номер ID квитанции. Спасибо."
+                "customTitle": "Сообщение"
               }
             }
           },
@@ -21523,7 +21523,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x788106.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788114.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22126,7 +22126,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x788107.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x788115.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24668,7 +24668,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x788108.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x788116.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26523,7 +26523,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-7-1400x788109.png",
+              "src": "@PROJECT_PATH@/assets/images/-7-1400x788117.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26858,7 +26858,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x788118.png",
               "link": "",
               "alt": "",
               "title": ""
