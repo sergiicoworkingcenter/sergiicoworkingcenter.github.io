@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "personalitytheory.html",
+    "currentPage": "supervisory_seminar.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333128.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333137.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17653,7 +17653,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-7-600x338129.png",
+              "src": "@PROJECT_PATH@/assets/images/-7-600x338138.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19370,7 +19370,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788130.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788139.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19739,7 +19739,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x788131.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x788140.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20015,7 +20015,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788130.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788139.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21510,7 +21510,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x788132.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788141.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -22113,7 +22113,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x788133.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x788142.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24655,7 +24655,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x788134.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x788143.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26510,7 +26510,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-7-1400x788135.png",
+              "src": "@PROJECT_PATH@/assets/images/-10-1400x788.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26528,7 +26528,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Когда:</b>&nbsp;21 - 23 мая (пт. с 15.00 до 20.00, сб. и вс. с 11.00 до 19.00 с перерывом на обед)<br><b>Где: г</b>. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko<br><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ. <br><b>Стоимость:</b> 150 уе.<br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга &nbsp; &nbsp; &nbsp;&nbsp;",
+          "text": "<b>Когда:</b>&nbsp;12 - 14 ноября (пт. с 15.00 до 20.00, сб. и вс. с 11.00 до 19.00 с перерывом на обед)<br><b>Где: г</b>. Харьков, ул. Гаршина 9, 3 этаж, LifeHub Yabloko<br><b>Для кого:</b> психологов, психотерапевтов, студентов гештальт-программ. <br><b>Стоимость:</b> 150 уе.<br><b>Телефоны для справок:</b><br>+38 (050) 523 99 60 Ольга &nbsp; &nbsp; &nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -26845,7 +26845,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x788136.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x788144.png",
               "link": "",
               "alt": "",
               "title": ""
