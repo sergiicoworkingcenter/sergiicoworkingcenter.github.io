@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13338.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -12654,7 +12654,7 @@
           },
           "title": "Подростки 11-13 лет 17 апреля в 11.00<br>(В форме укажите ФИО подростка и телефон одного из родителей)<div><br></div>",
           "text": "Зарегистрировать подростка и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"sexeducation.html#msg-box1-10g\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация закрыта</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"sexeducation.html#msg-box1-10g\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить билет</a>",
           "_tags": [
             "Тема"
           ],
@@ -12696,7 +12696,7 @@
           },
           "title": "Подростки 14-17 лет 7 апреля в 14.00<br>(В форме укажите ФИО подростка и телефон одного из родителей)<div><br></div>",
           "text": "Зарегистрировать подростка и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"sexeducation.html#msg-box1-10f\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация закрыта&nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"sexeducation.html#msg-box1-10f\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить билет</a>",
           "_tags": [
             "Тема"
           ],
@@ -17653,7 +17653,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-7-600x3381.png",
+              "src": "@PROJECT_PATH@/assets/images/-7-600x3389.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19370,7 +19370,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x7882.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78810.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19739,7 +19739,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x7883.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78811.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20015,7 +20015,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x7882.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78810.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20842,7 +20842,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x7884.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78812.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21510,7 +21510,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x7885.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78813.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24655,7 +24655,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x7886.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78814.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26810,7 +26810,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x7887.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x78815.png",
               "link": "",
               "alt": "",
               "title": ""
