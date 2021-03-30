@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133324.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133332.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17653,7 +17653,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-7-600x33825.png",
+              "src": "@PROJECT_PATH@/assets/images/-7-600x33833.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19370,7 +19370,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78826.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78834.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19739,7 +19739,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78827.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78835.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20015,7 +20015,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78826.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78834.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20842,7 +20842,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78828.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78836.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20880,63 +20880,6 @@
           },
           "text": "<p><b>Программа специализации:</b></p><p>Обучение проходит в форме 6 трехдневных тематических сессий на протяжении (180 часов), включающих теорию (основные теоретические представления о психосоматических расстройствах и их клинических формах), освоение диагностических опросников и методик, демонстрационные терапевтические сессии.</p><p>Специализация знакомит с терапевтическими моделями работы с психосоматическими расстройствами, интегрирующими представления гештальт-подхода с клиническими особенностями психосоматических расстройств.</p><p><br></p><p><b>Основные разделы программы:</b></p><p>1. Взгляд на симптом из перспективы гештальт-подхода. Роль механизмов прерывания контакта в формировании симптома.</p><p>2. Механизмы и стадии соматизации. Оперативное мышление, алекситимия, аффективное рассеивание, дизаффектация и психосоматическая уязвимость.</p><p>3. Особенности диагностики и первичного интервью при работе с психосоматическим клиентом.</p><p>4. Варианты терапевтической работы с клиентами, страдающими психосоматическими расстройствами.</p><p>5. Терапевтические отношения и построение контакта при психосоматических расстройствах.</p><p>6. Частная психосоматология. Ипохондрическое расстройство. Работа с паническими атаками в гештальт-терапии.</p><p>7. Терапевтическая позиция и супервизия гештальт-терапевтов, работающих с психосоматическими расстройствами.</p><p>Знакомство с методами и техниками работы с психосоматическими расстройствами происходит по желанию участников на опыте решения их собственных проблем.</p><p>Группа предоставляет возможность для приобретения как клиентского, так и терапевтического опыта.</p><p><br></p><p><b>Программу ведут:</b></p><p>Таисия Тадыка – ведущий тренер ВОППГП, врач-психиатр, нарколог.</p><p>Евгений Колесников – ассоциированный тренер ВОППГП, врач-психиатр.</p><p>Екатерина Тадыка – ассоциированный тренер ВОППГП, врач.</p><p>Елизавета Паринова – тренер ВОППГП, кандидат психологических наук.</p>",
           "_anchor": "content1-ys"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "34",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/13317060-642159739265762-2952729646074945238-o-1341x2048.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Программу ведет:<br>Таисия Тадыка – ведущий тренер ВОППГП, врач-психиатр, нарколог.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "msg-box5-z5"
         },
         {
           "_tags": [
@@ -21510,7 +21453,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78829.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78837.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24655,7 +24598,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78830.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78838.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26810,7 +26753,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x78831.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x78839.png",
               "link": "",
               "alt": "",
               "title": ""
