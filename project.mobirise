@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "psychosomatics.html",
+    "currentPage": "sexeducation.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1456,
+    "uniqCompNum": 1448,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133332.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17653,7 +17653,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-7-600x33833.png",
+              "src": "@PROJECT_PATH@/assets/images/-7-600x3381.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -19370,7 +19370,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78834.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x7882.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19739,7 +19739,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78835.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x7883.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20015,7 +20015,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78834.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x7882.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20842,7 +20842,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78836.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x7884.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21453,7 +21453,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78837.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7885.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24598,7 +24598,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78838.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x7886.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26753,7 +26753,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x78839.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x7887.png",
               "link": "",
               "alt": "",
               "title": ""
