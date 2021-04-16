@@ -1,13 +1,13 @@
 {
   "settings": {
-    "currentPage": "sexeducation.html",
+    "currentPage": "psyschool.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#475577",
-        "secondaryColor": "#bfcecb",
+        "secondaryColor": "#fffcf3",
         "successColor": "#41a85f",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#ead0c2",
         "#fffcf3",
         "#eef6f7",
         "#f0f8fc",
         "#232323",
         "#fadddd",
-        "#ff9b9b",
-        "#e579d0"
+        "#ff9b9b"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1459,
+    "uniqCompNum": 1473,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2153,7 +2153,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133323.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133331.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -17684,7 +17684,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -17802,7 +17802,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -18026,7 +18026,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -19487,7 +19487,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78824.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78832.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19856,7 +19856,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78825.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78833.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20132,7 +20132,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78824.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78832.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20959,7 +20959,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78826.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78834.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21570,7 +21570,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78827.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78835.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24493,7 +24493,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -24715,7 +24715,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78828.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78836.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26870,7 +26870,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x78829.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x78837.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27584,7 +27584,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "62",
+            "imageSize": "70",
             "paddingTop": "3",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -27604,7 +27604,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78830.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78838.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27622,13 +27622,89 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<br><b>Когда: </b><br><b>1 модуль: 22 – 23 мая 2021</b><br><b>2 модуль: 5 – 6 июня 2021<br>3 модуль: 19 – 20 июня 2021<br>4 модуль: 3 – 4 июля 2021</b><br><br><b>Расписание модуля:</b><br>сб., вс. 11:00-19:00<br>&nbsp;<br>Стоимость одного модуля – 1800 грн,<br>При оплате всей программы – 6000 грн + бонус<br>Бонус – индивидуальная консультация<br><br><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, Lifehub Yabloko<br><b>Контактные телефоны: </b><br>+38 (050) 523 99 60 Ольга<br><br>",
+          "text": "<br><b><br></b><br><b>Программа состоит из четырех двухдневных модулей. </b><br><b><br></b><br><b>Старт программы:</b><b>&nbsp;22 – 23 мая 2021</b><br><b><br></b><br><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, Lifehub Yabloko<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-149"
+          "_anchor": "msg-box5-14j"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ead0c2"
+          },
+          "text": "<p><b>Психологическая информация звучит из каждого утюга!</b></p><p><b>Даже те, кто только и читали женские романы, легко могут дать совет как отстаивать свои границы на работе, строить отношения с партнером, сепарироваться от родителей или воспитывать ребенка. В итоге, каждый второй нашёл у себя травму детства или поставил себе модный психологический диагноз, каждый первый знает почему его знакомый не правильно живет свою жизнь и что в ней нужно «просто» поменять. Но, все немного сложней!</b></p><p><b><br></b></p><p><b>Приглашаем Вас в «Школу Психологии» Ольги Шевченко – магистра психологии, сертифицированного психотерапевта.</b></p><p><b>На группе вы получите грамотную и достоверную информацию:</b></p><p><b>об эмоциях и экологичных формах их проживания</b></p><p><b>о личных границах и о том как их делать не только устойчивыми, но и гибкими</b></p><p><b>об отношениях и семейных историях, почему мы в них попадаем и как их менять при необходимости.&nbsp;</b></p><p><b>Регистрируйтесь, задавайте вопросы и приходите на программу! Психологические знания стали неотъемлемкой частью нашей жизнь. Пусть они будут качественными!</b></p><p><b><br></b></p><p><br></p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-14l"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fffcf3"
+          },
+          "title": "Содержание программы",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-14m"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fffcf3"
+          },
+          "text": "<p><b>Модуль 1:</b>&nbsp;<b>22–23 мая 2021</b></p><p><b><br></b></p><p><b>Психология эмоций</b></p><p><b>\n</b></p><p>Чувства, эмоции и переживания, какова их жизнь внутри человека. Зададимся вопросу о том, как размещать свои эмоции в диалоге и не разрушать отношения. Будем изучать всю палитру эмоций, их природу и психологию переживания. \n</p><p>Будем говорить на темы:\n</p><p>•\tКак рождаются и живут эмоции\n</p><p>•\tСложные эмоции в отношениях: агрессия, злость, раздражение, ярость\n</p><p>•\tЖизнь эмоций: стыд и вина. Ресурсы и ограничения\n</p><p>•\tТревога, страх и ужас: реальность и мифы</p><p><br></p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-14n"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ead0c2"
+          },
+          "text": "<p><br></p><p>\n</p><p>\n</p><p>\n</p><p><b>Модуль 2:&nbsp;</b>&nbsp;<b>5 – 6 июня 2021</b></p><p><b><br></b></p><p><b>Концепция личности</b></p><p>На модуле мы с Вами обговорим несколько концепций личности. Данная информация поможет Вам больше понимать других и себя. Обговорим моменты того, какие же Вы и исходя из знаний о концепции личности сможете увидеть ресурсы для дальнейшего развития. \n</p><p>Будем говорить на темы:\n</p><p>•\tОсновные концепции личности\n</p><p>•\tДинамическая структура личности\n</p><p>•\tШизоид, невротик, нарцисс. Жизнь внутри нас\n</p><p>•\tКто я? Как принимать свои особенности</p><p><br></p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-14o"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fffcf3"
+          },
+          "text": "<p><br></p><p><b>Модуль 3: 19 – 20 июня 2021</b></p><p><b><br>Образ себя. Границы контакта. \n</b></p><p>Основной девиз этого модуля \"Понимать себя, чтобы не ограничивать других\". Изучим Я-концепцию. Разберем, что же такое здоровые личные границы и как их показывать не отвергаю другого. Научимся давать себе больше свободы и спонтанности. \n</p><p>Будем говорить на темы:\n</p><p>•\tЯ-концепция, её роль в жизни личности\n</p><p>•\tЗдоровые личные границы\n</p><p>•\tСвобода быть собой в отношениях\n</p><p>•\tМеханизмы бегства от себя и личной свободы\n</p><p>\n</p><p><br></p><p><br></p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-14p"
         },
         {
           "_tags": [
@@ -27638,16 +27714,29 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
+            "bgColor": "#ead0c2"
+          },
+          "text": "<p><br></p><p><b>Модуль 4: 3 – 4 июля&nbsp;</b></p><p><b>Отношения. Семья\n</b></p><p>На занятиях будем говорить о том, как влияет наша родительская семья на нас сегодня. Как отделяться от родителей и прожить этот процесс осознанно. Также обгорим важные аспекты формирования вашей семьи. Отдельная тема это семейные кризисы и как прожить их не разрушив отношения.\n</p><p>Будем говорить на темы:\n</p><p>•\tСтруктура семьи и ее основные характеристики\n</p><p>•\tЖизненный цикл семьи, характеристика его основных этапов\n</p><p>•\tСиблинговая позиция, ее влияние  на выбор партнера\n</p><p>•\tПонятие семейной истории. Работа с генограммой\n</p><p><br></p>",
+          "_anchor": "content1-14a"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#fffcf3"
           },
-          "text": "<p><b>Модуль 1.</b> Психология эмоций.\n</p><p>Чувства, эмоции и переживания, какова их жизнь внутри человека. Зададимся вопросу о том, как размещать свои эмоции в диалоге и не разрушать отношения. Будем изучать всю палитру эмоций, их природу и психологию переживания. \n</p><p>Будем говорить на темы:\n</p><p>•\tКак рождаются и живут эмоции\n</p><p>•\tСложные эмоции в отношениях: агрессия, злость, раздражение, ярость\n</p><p>•\tЖизнь эмоций: стыд и вина. Ресурсы и ограничения\n</p><p>•\tТревога, страх и ужас: реальность и мифы</p><p><br></p><p>\n</p><p>\n</p><p>\n</p><p><b>Модуль 2.</b> Концепция личности. \n</p><p>На модуле мы с Вами обговорим несколько концепций личности. Данная информация поможет Вам больше понимать других и себя. Обговорим моменты того, какие же Вы и исходя из знаний о концепции личности сможете увидеть ресурсы для дальнейшего развития. \n</p><p>Будем говорить на темы:\n</p><p>•\tОсновные концепции личности\n</p><p>•\tДинамическая структура личности\n</p><p>•\tШизоид, невротик, нарцисс. Жизнь внутри нас\n</p><p>•\tКто я? Как принимать свои особенности\n</p><p>\n</p><p><b><br></b></p><p><b>Модуль 3.</b> Образ себя. Границы контакта. \n</p><p>Основной девиз этого модуля \"Понимать себя, чтобы не ограничивать других\". Изучим Я-концепцию. Разберем, что же такое здоровые личные границы и как их показывать не отвергаю другого. Научимся давать себе больше свободы и спонтанности. \n</p><p>Будем говорить на темы:\n</p><p>•\tЯ-концепция, её роль в жизни личности\n</p><p>•\tЗдоровые личные границы\n</p><p>•\tСвобода быть собой в отношениях\n</p><p>•\tМеханизмы бегства от себя и личной свободы\n</p><p>\n</p><p><b><br></b></p><p><b>Модуль 4.</b> Отношения. Семья\n</p><p>На занятиях будем говорить о том, как влияет наша родительская семья на нас сегодня. Как отделяться от родителей и прожить этот процесс осознанно. Также обгорим важные аспекты формирования вашей семьи. Отдельная тема это семейные кризисы и как прожить их не разрушив отношения.\n</p><p>Будем говорить на темы:\n</p><p>•\tСтруктура семьи и ее основные характеристики\n</p><p>•\tЖизненный цикл семьи, характеристика его основных этапов\n</p><p>•\tСиблинговая позиция, ее влияние  на выбор партнера\n</p><p>•\tПонятие семейной истории. Работа с генограммой\n</p><p><br></p>",
-          "_anchor": "content1-14a"
+          "text": "<p><b>Обучение будет происходить в небольшой безопасной группе.&nbsp;</b></p><p><b>Формы обучения: лекции, упражнения, дискуссии.</b></p><p><b><br></b></p><p><b style=\"font-size: 1.07rem;\">Расписание модулей:&nbsp;</b><br></p><p><b>1 модуль: 22 – 23 мая 2021</b></p><p><b>2 модуль: 5 – 6 июня 2021</b></p><p><b>3 модуль: 19 – 20 июня 2021</b></p><p><b>4 модуль: 3 – 4 июля 2021</b></p><p><b><br></b></p><p><b>Расписание модуля:</b></p><p><b>сб., вс. 11:00-19:00</b></p><p><b>&nbsp;</b></p><p><b>Стоимость одного модуля – 1800 грн,</b></p><p><b>При оплате всей программы – 6000 грн + бонус</b></p><p><b>Бонус – индивидуальная консультация</b></p><p><b><br></b></p><p><b>Где: г. Харьков, ул. Гаршина 9, 3 этаж, Lifehub Yabloko</b></p><p><b><br></b></p><p><b>Контактные телефоны:&nbsp;</b></p><p><b>+38 (050) 523 99 60 Ольга</b></p><p><b><br></b></p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-14v"
         },
         {
           "_params": {
             "showTitle": false,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": true,
             "imageSize": "30",
             "paddingTop": "1",
@@ -27656,7 +27745,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fffcf3",
+            "bgColor": "#ead0c2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -27688,7 +27777,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Ведущая: <br><b>Шевченко Ольга –&nbsp;</b>магистр психологии, психолог-консультант, гештальт-терапевт. Ведущая психотерапевтических и обучающих групп. Более 18 лет в психологии. Частная практика-13 лет.\n<br>\n<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>Instagram</a>",
           "_tags": [
             "Тема"
           ],
@@ -27808,6 +27897,146 @@
           "_anchor": "footer1-14f"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fffcf3"
+          },
+          "title": "Отзывы о программе",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-14u"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 0,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "#fffcf3",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/172444569-917221542346442-5756907559801154510-n-540x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/172444569-917221542346442-5756907559801154510-n-540x960-540x960.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/172711889-2783935288584241-5534949775337900996-n-540x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/172711889-2783935288584241-5534949775337900996-n-540x960-540x960.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/173211438-337449747718787-3028236656218714672-n-686x221.png",
+                "thumb": "@PROJECT_PATH@/assets/images/173211438-337449747718787-3028236656218714672-n-686x221-686x221.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/173650478-450402789554581-3858840843671297138-n-540x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/173650478-450402789554581-3858840843671297138-n-540x960-540x960.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/173196405-446066390023445-4515158507691150762-n-540x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/173196405-446066390023445-4515158507691150762-n-540x960-540x960.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/173435439-1362808204089247-75047282071797205-n-1-686x299.png",
+                "thumb": "@PROJECT_PATH@/assets/images/173435439-1362808204089247-75047282071797205-n-1-686x299-686x299.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/windows-books-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/173215520-308346350718188-7776873304030180449-n-686x304.png",
+                "thumb": "@PROJECT_PATH@/assets/images/173215520-308346350718188-7776873304030180449-n-686x304-686x304.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "_tags": [
+            "Тема"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-14s"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -27830,7 +28059,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fffcf3",
+            "bgColor": "#ead0c2",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5

@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 
 
 
@@ -120,8 +121,8 @@ h6,
   border-color: #2a3347 !important;
 }
 .btn-secondary {
-  background-color: #bfcecb;
-  border-color: #bfcecb;
+  background-color: #fffcf3;
+  border-color: #fffcf3;
   color: #ffffff;
 }
 .btn-secondary:hover,
@@ -130,14 +131,14 @@ h6,
 .btn-secondary:active,
 .btn-secondary.active {
   color: #ffffff;
-  background-color: #94ada8;
-  border-color: #94ada8;
+  background-color: #ffe9a6;
+  border-color: #ffe9a6;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #94ada8 !important;
-  border-color: #94ada8 !important;
+  background-color: #ffe9a6 !important;
+  border-color: #ffe9a6 !important;
 }
 .btn-info {
   background-color: #7e9b9f;
@@ -241,8 +242,8 @@ h6,
 }
 .btn-secondary-outline {
   background: none;
-  border-color: #85a29c;
-  color: #85a29c;
+  border-color: #ffe38d;
+  color: #ffe38d;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
@@ -250,14 +251,14 @@ h6,
 .btn-secondary-outline:active,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #bfcecb;
-  border-color: #bfcecb;
+  background-color: #fffcf3;
+  border-color: #fffcf3;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #bfcecb !important;
-  border-color: #bfcecb !important;
+  background-color: #fffcf3 !important;
+  border-color: #fffcf3 !important;
 }
 .btn-info-outline {
   background: none;
@@ -7478,6 +7479,15 @@ section.form .container {
 #contacts2-152 DIV {
   color: #ffffff;
 }
+
+
+#header3-14m .mbr-section-title,
+#header3-14m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-14m .mbr-section-title {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
 #msg-box5-14c P {
   font-size: 22px;
 }
@@ -7547,6 +7557,13 @@ section.form .container {
 #menu-14e .close-icon::before,
 #menu-14e .close-icon::after {
   background-color: #28324e;
+}
+#header3-14u .mbr-section-title,
+#header3-14u .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-14u .mbr-section-title {
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #form1-14g .form-control-label {
   color: #232323;
