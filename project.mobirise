@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133339.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -19487,7 +19487,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78832.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78840.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19856,7 +19856,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78833.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78841.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20132,7 +20132,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78832.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78840.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20959,7 +20959,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78834.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78842.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21570,7 +21570,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78835.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78843.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24715,7 +24715,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78836.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78844.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26870,7 +26870,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x78837.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x78845.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27604,7 +27604,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78838.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78846.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27777,7 +27777,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Ведущая: <br><b>Шевченко Ольга –&nbsp;</b>магистр психологии, психолог-консультант, гештальт-терапевт. Ведущая психотерапевтических и обучающих групп. Более 18 лет в психологии. Частная практика-13 лет.\n<br>\n<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>Instagram</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.instagram.com/olga.shevchenko.psiholog/\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>Instagram</a>",
           "_tags": [
             "Тема"
           ],
