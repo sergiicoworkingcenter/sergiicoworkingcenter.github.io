@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1473,
+    "uniqCompNum": 1474,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2602,7 +2602,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -2911,7 +2911,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -2974,7 +2974,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -3024,7 +3024,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -3589,7 +3589,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -3645,7 +3645,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -3701,7 +3701,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -5027,7 +5027,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -5083,7 +5083,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -5138,7 +5138,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -5193,7 +5193,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -6978,7 +6978,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -7034,7 +7034,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -7090,7 +7090,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133347.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133355.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -9218,7 +9218,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -15343,7 +15343,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -15393,7 +15393,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -15443,7 +15443,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -19487,7 +19487,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78848.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78856.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19856,7 +19856,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78849.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78857.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20132,7 +20132,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78848.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78856.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20959,7 +20959,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78850.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78858.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21570,7 +21570,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78851.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78859.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24715,7 +24715,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78852.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78860.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26870,7 +26870,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x78853.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x78861.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27604,7 +27604,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78854.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78862.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27636,7 +27636,7 @@
             "paddingBottom": 1,
             "bgColor": "#ead0c2"
           },
-          "text": "<p><b>Психологическая информация звучит из каждого утюга!</b></p><p><b>Даже те, кто только и читали женские романы, легко могут дать совет как отстаивать свои границы на работе, строить отношения с партнером, сепарироваться от родителей или воспитывать ребенка. В итоге, каждый второй нашёл у себя травму детства или поставил себе модный психологический диагноз, каждый первый знает почему его знакомый не правильно живет свою жизнь и что в ней нужно «просто» поменять. Но, все немного сложней!</b></p><p><b><br></b></p><p><b>Приглашаем Вас в «Школу Психологии» Ольги Шевченко – магистра психологии, сертифицированного психотерапевта.</b></p><p><b>На группе вы получите грамотную и достоверную информацию:</b></p><p><b>об эмоциях и экологичных формах их проживания</b></p><p><b>о личных границах и о том как их делать не только устойчивыми, но и гибкими</b></p><p><b>об отношениях и семейных историях, почему мы в них попадаем и как их менять при необходимости.&nbsp;</b></p><p><b>Регистрируйтесь, задавайте вопросы и приходите на программу! Психологические знания стали неотъемлемкой частью нашей жизнь. Пусть они будут качественными!</b></p><p><b><br></b></p><p><br></p>",
+          "text": "<p><b>Психологическая информация звучит из каждого утюга!</b></p><p><b>Даже те, кто только и читали женские романы, легко могут дать совет как отстаивать свои границы на работе, строить отношения с партнером, сепарироваться от родителей или воспитывать ребенка. В итоге, каждый второй нашёл у себя травму детства или поставил себе модный психологический диагноз, каждый первый знает почему его знакомый не правильно живет свою жизнь и что в ней нужно «просто» поменять. Но, все немного сложней!</b></p><p><b><br></b></p><p><b>Приглашаем Вас в «Школу Психологии» Ольги Шевченко – магистра психологии, сертифицированного психотерапевта.</b></p><p><b>На группе вы получите грамотную и достоверную информацию:</b></p><p><b>- об эмоциях и экологичных формах их проживания</b></p><p><b>- о личных границах и о том как их делать не только устойчивыми, но и гибкими</b></p><p><b>- об отношениях и семейных историях, почему мы в них попадаем и как их менять при необходимости.&nbsp;</b></p><p><b><br></b></p><p><b>Регистрируйтесь, задавайте вопросы и приходите на программу! Психологические знания стали неотъемлемкой частью нашей жизнь. Пусть они будут качественными!</b></p><p><b><br></b></p><p><br></p>",
           "_tags": [
             "Тема"
           ],
@@ -27924,8 +27924,8 @@
           "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
-            "fullWidth": true,
-            "spacing": 0,
+            "fullWidth": false,
+            "spacing": "0",
             "paddingTop": 4,
             "paddingBottom": 4,
             "filterBgColor": false,
@@ -27967,7 +27967,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -27979,7 +27979,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -27991,7 +27991,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Beautiful",
@@ -28002,7 +28002,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/173435439-1362808204089247-75047282071797205-n-1-686x299-686x299.png",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -28013,7 +28014,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/windows-books-800x533.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -28024,7 +28026,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/173215520-308346350718188-7776873304030180449-n-686x304-686x304.png",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -28144,6 +28147,119 @@
           ],
           "_name": "content1",
           "_anchor": "content1-14i"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 0,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/172695055-270937681236974-863371257967333627-n-686x157.png",
+                "thumb": "@PROJECT_PATH@/assets/images/172695055-270937681236974-863371257967333627-n-686x157-686x157.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/172711889-2783935288584241-5534949775337900996-n-540x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/172711889-2783935288584241-5534949775337900996-n-540x960-540x960.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/172444569-917221542346442-5756907559801154510-n-540x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/172444569-917221542346442-5756907559801154510-n-540x960-540x960.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/173121972-362794318360227-2030100667168938837-n-939x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/173121972-362794318360227-2030100667168938837-n-939x960-800x818.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/173215520-308346350718188-7776873304030180449-n-686x304.png",
+                "thumb": "@PROJECT_PATH@/assets/images/173215520-308346350718188-7776873304030180449-n-686x304-686x304.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/173435439-1362808204089247-75047282071797205-n-1-686x299.png",
+                "thumb": "@PROJECT_PATH@/assets/images/173435439-1362808204089247-75047282071797205-n-1-686x299-686x299.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "_tags": [
+            "Тема"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-14x"
         }
       ]
     }
