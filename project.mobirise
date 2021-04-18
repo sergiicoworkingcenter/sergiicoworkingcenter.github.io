@@ -2602,7 +2602,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -2911,7 +2911,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -2974,7 +2974,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -3024,7 +3024,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -3589,7 +3589,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -3645,7 +3645,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -3701,7 +3701,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -5027,7 +5027,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -5083,7 +5083,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -5138,7 +5138,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -5193,7 +5193,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -6978,7 +6978,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -7034,7 +7034,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -7090,7 +7090,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133355.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133363.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -9218,7 +9218,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -15343,7 +15343,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -15393,7 +15393,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -15443,7 +15443,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
@@ -19487,7 +19487,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78856.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78864.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19856,7 +19856,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78857.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78865.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20132,7 +20132,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78856.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78864.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20959,7 +20959,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78858.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78866.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21570,7 +21570,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78859.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78867.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24715,7 +24715,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78860.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78868.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26870,7 +26870,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x78861.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x78869.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27604,7 +27604,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78862.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78870.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28134,132 +28134,6 @@
           "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>по вопросам аренды и расписания центра:<br>+380 (66) 036 40 29 администратор<br><br>по вопросам терапевтических групп и обучающих программ:<br>+38 (050) 523 99 60&nbsp;Ольга<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"https://t.me/joinchat/SJRHl1QLTSZ6e5gf\" target=\"_blank\">Мы в соцсетях</a></b></span></p><ul><li><a href=\"https://www.facebook.com/HubYabloko\" class=\"text-white\" target=\"_blank\"><b>Facebook</b></a></li><li><b><a href=\"https://www.instagram.com/lifehub_yabloko/\" target=\"_blank\">Instagram</a></b></li><li><b><a href=\"https://t.me/yabloko_for_life\" target=\"_blank\">Telrgram-канал &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"Психология для жизни\"</a></b></li><li><b><a href=\"https://t.me/joinchat/SJRHl1QLTSZ6e5gf\" target=\"_blank\">Telrgram-канал &nbsp;для психологов и психотерапевтов с анонсами обучающих мероприятий</a></b><b></b></li><br></ul>",
           "_anchor": "contacts2-14h"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-14i"
-        },
-        {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": 0,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "filterBgColor": false,
-            "bgColor": "fff",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/172695055-270937681236974-863371257967333627-n-686x157.png",
-                "thumb": "@PROJECT_PATH@/assets/images/172695055-270937681236974-863371257967333627-n-686x157-686x157.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/172711889-2783935288584241-5534949775337900996-n-540x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/172711889-2783935288584241-5534949775337900996-n-540x960-540x960.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/172444569-917221542346442-5756907559801154510-n-540x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/172444569-917221542346442-5756907559801154510-n-540x960-540x960.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/173121972-362794318360227-2030100667168938837-n-939x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/173121972-362794318360227-2030100667168938837-n-939x960-800x818.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/173215520-308346350718188-7776873304030180449-n-686x304.png",
-                "thumb": "@PROJECT_PATH@/assets/images/173215520-308346350718188-7776873304030180449-n-686x304-686x304.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/173435439-1362808204089247-75047282071797205-n-1-686x299.png",
-                "thumb": "@PROJECT_PATH@/assets/images/173435439-1362808204089247-75047282071797205-n-1-686x299-686x299.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              }
-            ]
-          },
-          "_tags": [
-            "Тема"
-          ],
-          "articleLayout": false,
-          "allItem": "All",
-          "_name": "gallery2",
-          "_anchor": "gallery2-14x"
         }
       ]
     }
