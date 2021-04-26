@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#f19897",
         "#e9e6dc",
         "#ead0c2",
         "#fffcf3",
         "#eef6f7",
         "#f0f8fc",
-        "#232323",
-        "#fadddd"
+        "#232323"
       ]
     },
     "versionFirst": "3.12.1",
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133379.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133388.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -19487,7 +19487,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78880.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78889.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19856,7 +19856,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78881.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78890.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20132,7 +20132,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78880.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78889.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20959,7 +20959,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78882.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78891.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21570,7 +21570,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78883.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78892.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24715,7 +24715,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78884.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78893.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26870,7 +26870,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x78885.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x78894.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27604,7 +27604,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78886.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78895.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28277,7 +28277,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78887.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78896.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28349,7 +28349,7 @@
           },
           "title": "<div></div>",
           "text": "<b>Зарегистрироватся и купить билет</b>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://events.hubyabloko.com/event/51/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить билет</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://events.hubyabloko.com/event/53/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить билет</a>",
           "_tags": [
             "Тема"
           ],
@@ -28360,7 +28360,7 @@
               "color": "#7e9b9f"
             },
             "H2": {
-              "color": "#ead0c2",
+              "color": "#f19897",
               "font-size": "32px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
