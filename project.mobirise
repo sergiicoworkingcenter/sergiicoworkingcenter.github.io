@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "psytext.html",
+    "currentPage": "MAC.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1482,
+    "uniqCompNum": 1490,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133388.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133397.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -7903,7 +7903,7 @@
       "settings": {
         "title": "Экзистенциальный опыт рождения",
         "meta_descr": "Экзистенциальный опыт рождения\nТематическая терапевтическая группа",
-        "order": 78
+        "order": 79
       },
       "components": [
         {
@@ -12087,7 +12087,7 @@
       "settings": {
         "title": "Лекция",
         "meta_descr": "Лекция ",
-        "order": 76
+        "order": 77
       },
       "components": [
         {
@@ -12814,7 +12814,7 @@
       "settings": {
         "title": "Воркшоп для HR",
         "meta_descr": "Воркшоп для HR",
-        "order": 61
+        "order": 62
       },
       "components": [
         {
@@ -13198,7 +13198,7 @@
       "settings": {
         "title": "Клинический подход",
         "meta_descr": "Специализация ВОППГП \"Клинический подход в гештальт-терапии\"",
-        "order": 62
+        "order": 63
       },
       "components": [
         {
@@ -13477,7 +13477,7 @@
       "settings": {
         "title": "Групповая терапия",
         "meta_descr": "Специализация \"Групповая терапия в рамках гештальт-подхода\"",
-        "order": 63
+        "order": 64
       },
       "components": [
         {
@@ -13759,7 +13759,7 @@
       "settings": {
         "title": "Специализация",
         "meta_descr": "Специализация \"Работа с сексуальной тематикой в гештальт подходе\"",
-        "order": 66
+        "order": 67
       },
       "components": [
         {
@@ -14038,7 +14038,7 @@
       "settings": {
         "title": "Скажи, как есть. ",
         "meta_descr": "Скажи, как есть.\nПрактическое исследование с теоретическим сопровождением\n",
-        "order": 67
+        "order": 68
       },
       "components": [
         {
@@ -14398,7 +14398,7 @@
       "settings": {
         "title": "Сексуальная грамотность: зачем это нашим детям",
         "meta_descr": "Сексуальная грамотность: зачем это нашим детям",
-        "order": 77
+        "order": 78
       },
       "components": [
         {
@@ -16526,7 +16526,7 @@
       "settings": {
         "title": "supergroup1",
         "meta_descr": "Супервизорская группа",
-        "order": 72
+        "order": 73
       },
       "components": [
         {
@@ -16935,7 +16935,7 @@
       "settings": {
         "title": "supergroup2",
         "meta_descr": "Супервизорская группа",
-        "order": 74
+        "order": 75
       },
       "components": [
         {
@@ -17274,7 +17274,7 @@
       "settings": {
         "title": "group",
         "meta_descr": "Терапетическая группа",
-        "order": 75
+        "order": 76
       },
       "components": [
         {
@@ -18925,7 +18925,7 @@
       "settings": {
         "title": "Девочкам о менструации и взрослении",
         "meta_descr": "Девочкам о менструации и взрослении",
-        "order": 60
+        "order": 61
       },
       "components": [
         {
@@ -19458,7 +19458,7 @@
       "settings": {
         "title": "Спонтанность в протокольных методах психотерапии",
         "meta_descr": "Спонтанность в протокольных методах психотерапии\n",
-        "order": 71
+        "order": 72
       },
       "components": [
         {
@@ -19487,7 +19487,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78889.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78898.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19827,7 +19827,7 @@
       "settings": {
         "title": "Панические атаки",
         "meta_descr": "Панические  атаки и повышенная тревожность. \nИзраильская методика  «самообороны» \n",
-        "order": 69
+        "order": 70
       },
       "components": [
         {
@@ -19856,7 +19856,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78890.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78899.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20132,7 +20132,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78889.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78898.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20200,7 +20200,7 @@
       "settings": {
         "title": "supergroup12",
         "meta_descr": "Супервизорская группа",
-        "order": 73
+        "order": 74
       },
       "components": [
         {
@@ -20959,7 +20959,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78891.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x788100.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21541,7 +21541,7 @@
       "settings": {
         "title": "helping",
         "meta_descr": "Помощь помагающему",
-        "order": 70
+        "order": 71
       },
       "components": [
         {
@@ -21570,7 +21570,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78892.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788101.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21862,7 +21862,7 @@
       "settings": {
         "title": "Психология финансового поведения",
         "meta_descr": "Психология финансового поведения",
-        "order": 64
+        "order": 65
       },
       "components": [
         {
@@ -22478,7 +22478,7 @@
       "settings": {
         "title": "телесный диалог ",
         "meta_descr": "Осознанное прикосновение и телесный диалог \nПрактическое исследование с теоретическим сопровождением\n",
-        "order": 68
+        "order": 69
       },
       "components": [
         {
@@ -24715,7 +24715,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78893.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x788102.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26841,7 +26841,7 @@
       "settings": {
         "title": "Возрастные кризисы",
         "meta_descr": "Возрастные кризисы",
-        "order": 65
+        "order": 66
       },
       "components": [
         {
@@ -26870,7 +26870,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x78894.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x788103.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27604,7 +27604,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78895.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788104.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28277,7 +28277,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78896.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788105.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28460,6 +28460,350 @@
           "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>по вопросам аренды и расписания центра:<br>+380 (66) 036 40 29 администратор<br><br>по вопросам терапевтических групп и обучающих программ:<br>+38 (050) 523 99 60&nbsp;Ольга<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"https://t.me/joinchat/SJRHl1QLTSZ6e5gf\" target=\"_blank\">Мы в соцсетях</a></b></span></p><ul><li><a href=\"https://www.facebook.com/HubYabloko\" class=\"text-white\" target=\"_blank\"><b>Facebook</b></a></li><li><b><a href=\"https://www.instagram.com/lifehub_yabloko/\" target=\"_blank\">Instagram</a></b></li><li><b><a href=\"https://t.me/yabloko_for_life\" target=\"_blank\">Telrgram-канал &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"Психология для жизни\"</a></b></li><li><b><a href=\"https://t.me/joinchat/SJRHl1QLTSZ6e5gf\" target=\"_blank\">Telrgram-канал &nbsp;для психологов и психотерапевтов с анонсами обучающих мероприятий</a></b><b></b></li><br></ul>",
           "_anchor": "contacts2-155"
+        }
+      ]
+    },
+    "MAC.html": {
+      "settings": {
+        "title": "МАК",
+        "meta_descr": "Обучение работе с МАК",
+        "order": 60
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#efefef",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SOS.html\" aria-expanded=\"false\"><p>Для себя</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"practice.html\" aria-expanded=\"false\">Для проф практики</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rent.html\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-156"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_anchor": "footer1-157"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fffcf3",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-1400x788106.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<b>Программа состоит из двух двухдневных модулей:&nbsp;</b><br><b>1 модуль – 15-16 мая</b><br><b>2 модуль – 5-6 июня</b><br>&nbsp;с 11:00 до 19:00&nbsp;<br><br><b>Где:</b> Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><br><b>Стоимость одного модуля:</b>&nbsp;2500 грн.<br><br><b>Телефон для справок:</b><br>+38 (050) 523 99 60&nbsp;<br><br><b>Мероприятие проводится с соблюдением карантинных норм. Количество людей в группе ограничено. <br></b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box5-158"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fffcf3"
+          },
+          "text": "<p><b>Программа курса « Метафорические карты ( МАК) в работе психолога»\n</b></p><p><b><br></b></p><p><b>Модуль 1 –</b><b>&nbsp;15-16 мая</b></p><p>Основы психологического консультирования с МАК</p><p><br></p><p><b>Первый день</b></p><p>1.Суть метода работы с метафорическими ассоциативными картами.\n</p><p>2. История возникновения МАК.\n</p><p>3. Методологическая основа метода.\n</p><p>4. Алгоритмы работы с МАК, принципы и табу.\n</p><p>5. Виды раскладов с МАК.\n</p><p>6. Психологический практикум с МАК.\n</p><p>\n</p><p><b>Второй день</b></p><p>1. Обзор основных видов МАК- колод.\n</p><p>2. Психологический практикум с МАК ( разбираем варианты работы с разными видами колод).\n</p><p>3. Ответы на вопросы по результатам практикума.\n</p><p>\n</p><p><b><br></b></p><p><b>Модуль 2 – 5-6 июня</b></p><p>&nbsp;МАК в работе с различными клиентскими запросами</p><p><br></p><p><b>Первый день</b> \n</p><p>1. МАК в работе с « Я- концепцией» клиента. Практикум.\n</p><p>2. МАК в работе с отношениями. Практикум.\n</p><p><br></p><p><b>Второй день</b></p><p>1.МАК в работе с финансовыми запросами.\n</p><p>2.Практикум.\n</p><p>3.Разбор клиентских случаев. Демонстрационная сессия с МАК.\n</p><p><br></p>",
+          "_anchor": "content1-159"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "38",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fffcf3",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-viber-2021-04-23-20-04-19-1024x1280.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Наталия Борисова — кризисный и семейный психолог,&nbsp;эксперт по МАК,&nbsp;психолог проекта, «Від пацанки до панянки».<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "msg-box5-15b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fffcf3",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">МАК в работе психолога</span>",
+          "subtitle": "Если у вас остались вопросы или вы хотите забронировать место в группе, оставьте, пожалуйста, Вашу контактную информацию.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
+          "form": {
+            "action": "mykhalyova@gmail.com",
+            "alerts": {
+              "success": "Спасибо!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "ФИО*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px"
+            }
+          },
+          "_anchor": "form1-15d"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#78b950",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>по вопросам аренды и расписания центра:<br>+380 (66) 036 40 29 администратор<br><br>по вопросам терапевтических групп и обучающих программ:<br>+38 (050) 523 99 60&nbsp;Ольга<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"https://t.me/joinchat/SJRHl1QLTSZ6e5gf\" target=\"_blank\">Мы в соцсетях</a></b></span></p><ul><li><a href=\"https://www.facebook.com/HubYabloko\" class=\"text-white\" target=\"_blank\"><b>Facebook</b></a></li><li><b><a href=\"https://www.instagram.com/lifehub_yabloko/\" target=\"_blank\">Instagram</a></b></li><li><b><a href=\"https://t.me/yabloko_for_life\" target=\"_blank\">Telrgram-канал &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"Психология для жизни\"</a></b></li><li><b><a href=\"https://t.me/joinchat/SJRHl1QLTSZ6e5gf\" target=\"_blank\">Telrgram-канал &nbsp;для психологов и психотерапевтов с анонсами обучающих мероприятий</a></b><b></b></li><br></ul>",
+          "_anchor": "contacts2-15c"
         }
       ]
     }
