@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133397.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333107.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -19487,7 +19487,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78898.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788108.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19856,7 +19856,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78899.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x788109.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20132,7 +20132,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78898.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788108.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20959,7 +20959,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x788100.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x788110.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21570,7 +21570,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x788101.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788111.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24715,7 +24715,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x788102.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x788112.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26870,7 +26870,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x788103.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x788113.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27604,7 +27604,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x788104.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788114.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28277,7 +28277,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788105.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788115.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28603,7 +28603,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788106.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788116.png",
               "link": "",
               "alt": "",
               "title": ""
