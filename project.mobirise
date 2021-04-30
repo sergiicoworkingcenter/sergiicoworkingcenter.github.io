@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333137.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333147.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -19487,7 +19487,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788138.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788148.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19856,7 +19856,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x788139.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x788149.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20132,7 +20132,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788138.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788148.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20959,7 +20959,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x788140.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x788150.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21570,7 +21570,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x788141.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788151.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24715,7 +24715,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x788142.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x788152.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26870,7 +26870,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x788143.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x788153.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27604,7 +27604,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x788144.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788154.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28277,7 +28277,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x788145.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x788155.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28603,7 +28603,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x788146.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x788156.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28696,7 +28696,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Наталия Борисова</b> — практикующий кризисный и семейный психолог, медиаэксперт, психолог телепроекта «Від пацанки до панянки» четвертого и пятого сезон на Новом Канале.<br>",
+          "text": "<b>Наталия Борисова</b> — практикующий кризисный и семейный психолог, медиаэксперт, психолог телепроекта «Від пацанки до панянки» четвертого и пятого сезонов на Новом Канале.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
