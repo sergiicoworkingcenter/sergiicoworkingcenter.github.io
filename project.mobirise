@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1459,
+    "uniqCompNum": 1461,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133340.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -12696,7 +12696,7 @@
           },
           "title": "Подростки 11-13 лет 23 апреля в 11.00<br>(В форме укажите ФИО подростка и телефон одного из родителей)<div><br></div>",
           "text": "Зарегистрировать подростка и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/54/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить билет<br>23 апреля в 11.00<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/51/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить билет<br>23 апреля в 11.00<br></a>",
           "_tags": [
             "Тема"
           ],
@@ -12713,7 +12713,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
-          "_anchor": "msg-box1-14i"
+          "_anchor": "msg-box1-14k"
         },
         {
           "_params": {
@@ -19528,7 +19528,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78831.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78841.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19897,7 +19897,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78832.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78842.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20173,7 +20173,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78831.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78841.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21000,7 +21000,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78833.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78843.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21611,7 +21611,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78834.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78844.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24756,7 +24756,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78835.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78845.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26911,7 +26911,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x78836.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x78846.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27645,7 +27645,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78837.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78847.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28318,7 +28318,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78838.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78848.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28644,7 +28644,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78839.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78849.png",
               "link": "",
               "alt": "",
               "title": ""
