@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sexeducation.html",
+    "currentPage": "1step.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133360.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133370.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -19528,7 +19528,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78861.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78871.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19897,7 +19897,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78862.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78872.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20173,7 +20173,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78861.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78871.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21000,7 +21000,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78863.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78873.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21611,7 +21611,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78864.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78874.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24756,7 +24756,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78865.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78875.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -25760,7 +25760,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<br><b>Когда: </b><br><b>1 модуль: 14-16 мая 2021</b><br>Даты следующих модулей будут назначены вместе с группой.<br>              После второго модуля группа закрывается, это связанно с правилами ведения групп.<br><br><b>Расписание модуля:</b><br>пт. 15:00-20:00<br>сб. 11:00-19:00<br>вс. 11:00-19:00<br><br><b>Стоимость одного модуля:</b> 130 уе.<br><br><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, Lifehub Yabloko<br><b>Контактные телефоны: </b><br>+38 (050) 523 99 60 Ольга<br><br>",
+          "text": "<br><b>Когда: </b><br><b>1 модуль: 14-16 мая 2021</b><br><b>2 модуль: 16-18 июля 2021 </b><br>(Участники могут добавляться в группу первые два модуля, потом группа не принимает новых участников. Это связано с правилами ведения программы)<br><b>3 модуль: 17-19 сентября 2021<br>4 модуль: 5-7 ноября 2021<br>5 модуль: 21-23 января 2022<br>6 модуль: 4-6 марта 2022</b><br><br><b>Расписание модуля:</b><br>пт. 15:00-20:00<br>сб. 11:00-19:00<br>вс. 11:00-19:00<br><br><b>Стоимость одного модуля:</b> 130 уе.<br><br><b>Где:</b> г. Харьков, ул. Гаршина 9, 3 этаж, Lifehub Yabloko<br><b>Контактные телефоны: </b><br>+38 (050) 523 99 60 Ольга<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -26911,7 +26911,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x78866.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x78876.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27645,7 +27645,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78867.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78877.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28318,7 +28318,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78868.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78878.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28644,7 +28644,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78869.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78879.png",
               "link": "",
               "alt": "",
               "title": ""
