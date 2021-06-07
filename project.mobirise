@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sex_education1.html",
+    "currentPage": "events.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1457,
+    "uniqCompNum": 1459,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133320.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133330.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11619,7 +11619,7 @@
           },
           "title": "",
           "text": "Зарегистрироваться и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/39/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/61/subscription&#9;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация</a>",
           "_tags": [
             "Тема"
           ],
@@ -11984,7 +11984,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"lecture3.html#msg-box1-r0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/60/subscription&#9;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация</a>",
           "text": "<b>Зарегистрироваться и купить билет</b>",
           "title": ""
         },
@@ -12654,7 +12654,7 @@
           },
           "title": "Подростки 11-13 лет 26 июня в 11.00<br>(В форме укажите ФИО подростка и телефон одного из родителей)<div><br></div>",
           "text": "Зарегистрировать подростка и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"sexeducation.html#msg-box1-10f\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить билет<br>23 апреля в 11.00<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/57/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить билет<br></a>",
           "_tags": [
             "Тема"
           ],
@@ -12696,7 +12696,7 @@
           },
           "title": "Подростки 14-17 лет 26 июня в 14.00<br>(В форме укажите ФИО подростка и телефон одного из родителей)<div><br></div>",
           "text": "Зарегистрировать подростка и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/52/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить билет<br>22 апреля в 14.00<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/58/subscription&#9;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить билет<br></a>",
           "_tags": [
             "Тема"
           ],
@@ -17302,6 +17302,232 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-4-600x314.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "menstruation.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-10-600x333.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "lecture3.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-11-600x333.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "womenHealth2.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Исторические, культурологические и психологические аспекты инцеста.",
+          "subtitle1": "19 апреля в 18:30",
+          "caption1": "Лекцию читают: Максим Жидко и Юлия Ярмоленко",
+          "title2": "Информация скоро появится",
+          "subtitle2": "Информация скоро появится",
+          "caption2": "Информация скоро появится",
+          "title3": "Информация скоро появится",
+          "subtitle3": "Информация скоро появится",
+          "caption3": "Информация скоро появится",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"birth_experience.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-14h"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-4-600x314.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "menstruation.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-10-600x333.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "lecture3.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-11-600x333.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "womenHealth2.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Исторические, культурологические и психологические аспекты инцеста.",
+          "subtitle1": "19 апреля в 18:30",
+          "caption1": "Лекцию читают: Максим Жидко и Юлия Ярмоленко",
+          "title2": "Информация скоро появится",
+          "subtitle2": "Информация скоро появится",
+          "caption2": "Информация скоро появится",
+          "title3": "Информация скоро появится",
+          "subtitle3": "Информация скоро появится",
+          "caption3": "Информация скоро появится",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"birth_experience.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробней</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-14i"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
             "paddingTop": "3",
             "paddingBottom": 2,
             "columns": "2",
@@ -18806,7 +19032,7 @@
           },
           "title": "(В форме укажите ФИО подростка и телефон одного из родителей)",
           "text": "Зарегистрировать подростка и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/43/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/59/subscription&#9;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
           "_tags": [
             "Тема"
           ],
@@ -19165,7 +19391,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78821.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78831.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19534,7 +19760,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78822.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78832.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19810,7 +20036,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78821.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78831.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20637,7 +20863,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78823.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78833.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21248,7 +21474,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78824.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78834.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24393,7 +24619,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78825.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78835.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26548,7 +26774,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x78826.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x78836.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27282,7 +27508,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78827.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78837.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27955,7 +28181,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78828.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78838.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28281,7 +28507,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78829.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78839.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -29487,7 +29713,7 @@
           },
           "title": "17 июня 18:30",
           "text": "Зарегистрироваться и купить билет&nbsp;",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sex_education.html#msg-box1-ul\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/55/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
           "_tags": [
             "Тема"
           ],
@@ -29773,7 +29999,7 @@
             "paddingBottom": 1,
             "bgColor": "#f7f7f7"
           },
-          "text": "<h2><b>Как и когда говорить о сексе с подростками&nbsp;</b></h2><p>Отвечать на «неудобные» вопросы маленьких детей не так сложно, как инициировать разговор с подростком на эту тему. И если думаете, что говорить о сексе с 12- или 16-летними уже поздно (сами все знают), вы ошибаетесь. Ведь сексуальное образование — это не только о сексе, заболеваниях или контрацепции. Это также разговоры о личных границах, безопасности, умении говорить «нет», понимании, что такое домагательства, в чем разница между комплиментом и харассментом, четкие инструкции, как действовать в различных ситуациях. И главное: благодаря таким разговорам, родители, во-первых, строят с детьми близкие и доверительные отношения, а, во-вторых, дают понять, что к ним можно обратиться с любой проблемой или вопросом. К сожалению, большинство подростков уверяют, что в сложной ситуации едва ли не в последнюю очередь придут за помощью к родителям.</p><p><br></p><p>Как начать разговор с подростком? Что делать, если раньше такие темы не поднимались в семье? А также обсудим такие вопросы:</p><p><br></p><p>— как не испортить отношения с ребенком в непростой период пубертата;</p><p>— зачем давать подросткам презервативы и что при этом говорить;</p><p>— как обсуждать такие темы, как любовь, секс, ВИЧ, сексуальные домогательства, воздержание, сексуальная ориентация;</p><p>— как реагировать, если застали сына или дочь за мастурбацией;</p><p>— что делать, если подросток смотрит порнографию;</p><p>— какие основные причины подростковых суицидов;</p><p>— как уберечь от ранних сексуальных экспериментов;</p><p>— как научиться справляться со своими эмоциями в сложных ситуациях.</p>",
+          "text": "<h2><b>Как и когда говорить о сексе с подростками (10–18 лет)</b></h2><p>Отвечать на «неудобные» вопросы маленьких детей не так сложно, как инициировать разговор с подростком на эту тему. И если думаете, что говорить о сексе с 12- или 16-летними уже поздно (сами все знают), вы ошибаетесь. Ведь сексуальное образование — это не только о сексе, заболеваниях или контрацепции. Это также разговоры о личных границах, безопасности, умении говорить «нет», понимании, что такое домагательства, в чем разница между комплиментом и харассментом, четкие инструкции, как действовать в различных ситуациях. И главное: благодаря таким разговорам, родители, во-первых, строят с детьми близкие и доверительные отношения, а, во-вторых, дают понять, что к ним можно обратиться с любой проблемой или вопросом. К сожалению, большинство подростков уверяют, что в сложной ситуации едва ли не в последнюю очередь придут за помощью к родителям.</p><p><br></p><p>Как начать разговор с подростком? Что делать, если раньше такие темы не поднимались в семье? А также обсудим такие вопросы:</p><p><br></p><p>— как не испортить отношения с ребенком в непростой период пубертата;</p><p>— зачем давать подросткам презервативы и что при этом говорить;</p><p>— как обсуждать такие темы, как любовь, секс, ВИЧ, сексуальные домогательства, воздержание, сексуальная ориентация;</p><p>— как реагировать, если застали сына или дочь за мастурбацией;</p><p>— что делать, если подросток смотрит порнографию;</p><p>— какие основные причины подростковых суицидов;</p><p>— как уберечь от ранних сексуальных экспериментов;</p><p>— как научиться справляться со своими эмоциями в сложных ситуациях.</p>",
           "_tags": [
             "Тема"
           ],
@@ -29811,7 +30037,7 @@
           },
           "title": "22 июня 18:30",
           "text": "Зарегистрироваться и купить билет&nbsp;",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sex_education.html#msg-box1-ul\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/56/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
           "_tags": [
             "Тема"
           ],
