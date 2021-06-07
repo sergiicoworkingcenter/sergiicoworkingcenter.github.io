@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "psychosomatics.html",
+    "currentPage": "sex_education1.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#e7f7f9",
+        "#f7f7f7",
         "#f19897",
         "#e9e6dc",
         "#ead0c2",
         "#fffcf3",
-        "#eef6f7",
-        "#f0f8fc",
-        "#232323"
+        "#eef6f7"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1448,
+    "uniqCompNum": 1457,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133310.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133320.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -7903,7 +7903,7 @@
       "settings": {
         "title": "Экзистенциальный опыт рождения",
         "meta_descr": "Экзистенциальный опыт рождения\nТематическая терапевтическая группа",
-        "order": 81
+        "order": 82
       },
       "components": [
         {
@@ -11392,7 +11392,7 @@
       "settings": {
         "title": "женская сексуальность",
         "meta_descr": "Лекция ",
-        "order": 57
+        "order": 58
       },
       "components": [
         {
@@ -11528,7 +11528,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-8-810x450.png",
+              "src": "@PROJECT_PATH@/assets/images/-11-810x450.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -11546,7 +11546,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Когда:</b>&nbsp;22.07.2020 в 18.30 <br><b>Где:</b> Харьков, ул. Гаршина 9, LifeHub Yabloko<br><b>Стоимость:</b> 400 грн. при предоплате,<br>450 грн - в день мероприятия и на месте ( при наличии свободных мест)<br><b>Телефон для справок:<br></b>+38 (066) 036 40 29 <br><b>Мероприятие проводится с соблюдением карантинных норм. Количество людей в группе ограничено. <br>Если у вас в день мероприятия появились симптомы вирусной инфекции, свяжитесь, пожалуйста, с нами и воздержитесь от посещения мероприятия.</b>",
+          "text": "<b>Когда:</b>&nbsp;2.07.2021 в 18.30 <br><b>Где:</b> Харьков, ул. Гаршина 9, LifeHub Yabloko<br><b>Стоимость:</b> 400 грн. при предоплате,<br>450 грн - в день мероприятия и на месте ( при наличии свободных мест)<br><b>Телефон для справок:<br></b>+38 (066) 036 40 29 <br><b>Мероприятие проводится с соблюдением карантинных норм.&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -11600,7 +11600,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -11608,7 +11608,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fcf0f9",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -11618,8 +11618,8 @@
             "overlayOpacity": 0.5
           },
           "title": "",
-          "text": "Регистрация на 22 июля закрыта.<div>Следите за нашими анонсами.</div>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/39/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация</a>",
+          "text": "Зарегистрироваться и купить билет",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/39/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация</a>",
           "_tags": [
             "Тема"
           ],
@@ -11630,7 +11630,7 @@
               "color": "#7e9b9f"
             },
             "H2": {
-              "color": "#b8312f",
+              "color": "#000000",
               "font-size": "32px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
@@ -11737,7 +11737,7 @@
       "settings": {
         "title": "Лекция",
         "meta_descr": "Лекция ",
-        "order": 55
+        "order": 57
       },
       "components": [
         {
@@ -11873,7 +11873,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-810x450.png",
+              "src": "@PROJECT_PATH@/assets/images/-10-810x450.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -11891,7 +11891,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Когда:</b>&nbsp;6.08.2020 в 18.30 <br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko<br><b>Стоимость:</b> 450 грн. при предоплате,<br>500 грн - в день мероприятия и на месте ( при наличии свободных мест)<br><b>Телефон для справок:</b><br>+38 (066) 036 40 29&nbsp;<br><b>Мероприятие проводится с соблюдением карантинных норм. Количество людей в группе ограничено. </b><br><b>Если у вас в день мероприятия появились симптомы вирусной инфекции, свяжитесь, пожалуйста, с нами и воздержитесь от посещения мероприятия.</b>",
+          "text": "<b>Когда:</b>&nbsp;25.06.2021 в 18.30 <br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko<br><b>Стоимость:</b> 450 грн. при предоплате,<br>500 грн - в день мероприятия и на месте ( при наличии свободных мест)<br><b>Телефон для справок:</b><br>+38 (066) 036 40 29&nbsp;<br><b>Мероприятие проводится с соблюдением карантинных норм.&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -11984,7 +11984,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"lecture3.html#msg-box1-r0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация закрыта</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"lecture3.html#msg-box1-r0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация</a>",
           "text": "<b>Зарегистрироваться и купить билет</b>",
           "title": ""
         },
@@ -12087,7 +12087,7 @@
       "settings": {
         "title": "Лекция",
         "meta_descr": "Лекция ",
-        "order": 79
+        "order": 80
       },
       "components": [
         {
@@ -12446,7 +12446,7 @@
       "settings": {
         "title": "ПОДРОСТКАМ О СЕКСЕ:  ПРОСТО И ДОСТУПНО ",
         "meta_descr": "ПОДРОСТКАМ О СЕКСЕ: ПРОСТО И ДОСТУПНО ",
-        "order": 60
+        "order": 61
       },
       "components": [
         {
@@ -12569,7 +12569,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -12582,7 +12582,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1200x628.png",
+              "src": "@PROJECT_PATH@/assets/images/-3-1200x628.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -12600,7 +12600,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Когда:</b>&nbsp;<br>&nbsp; <b>22.05.2021</b>&nbsp;<br>Подростки 11-13 лет в 11:00<br>Подростки 14-17 лет в 14:00<br>&nbsp;<b>23.05.2021</b> <br>Подростки 11-13 лет в 11:00<br><br><br><b>Где:</b> Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><br><b>Стоимость лекции:</b> 400 грн. при предоплате, 450 грн в день мероприятия и на месте ( при наличии свободных мест).<br><br><b>Телефон для справок:</b><br>+38 (066) 036 40 29&nbsp;<br><br><b>Мероприятие проводится с соблюдением карантинных норм. Количество людей в группе ограничено. <br>Если у подростка или членов его семьи в день мероприятия появились симптомы вирусной инфекции, свяжитесь, пожалуйста, с нами и воздержитесь от посещения мероприятия.</b><br>",
+          "text": "<b>Когда:</b>&nbsp;<br>&nbsp; <b>26.07.2021</b>&nbsp;<br>Подростки 11-13 лет в 11:00<br>Подростки 14-17 лет в 14:00<br>&nbsp;<br><b>Где:</b> Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><br><b>Стоимость лекции:</b> 400 грн. при предоплате, 450 грн в день мероприятия и на месте ( при наличии свободных мест).<br><br><b>Телефон для справок:</b><br>+38 (066) 036 40 29&nbsp;<br><br><b>Мероприятие проводится с соблюдением карантинных норм.&nbsp;</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -12627,9 +12627,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#f9ebb5"
+            "bgColor": "#ffffff"
           },
-          "text": "<p>Как показывает опыт европейских стран, чем больше подросток знает о сексе, контрацепции, возможных последствиях, тем позже он начинает половую жизнь и делает это абсолютно осознанно и грамотно. Задача взрослых – убедиться в том, что дети знают, что такое секс, сексуальность; информированы о правилах безопасности; в курсе, как себя защитить; как отказаться от секса, если не хочется; как не стать жертвой насилия или манипуляции. Хорошо, если в семье эта тема не табуирована так, как в обществе. Но что делать, если родители постеснялись донести до ребенка важную информацию или не знали, как это сделать? Тогда дело за специалистами, которые не только ответят на все вопросы подростков, но и дадут правильную информацию о сексуальной культуре, о здоровом образе жизни и его влиянии на сексуальность, о физиологии, изменениях в теле во время пубертата, о мифах, которые витают в обществе и создают массу проблем и взрослым, и детям.<br></p><p><br></p><p>Мастер-класс для подростков – одна из возможностей донести до детей полезную и важную информацию в интересном и комфортном формате.</p><p><br></p><p>О чем будем говорить?</p><p><br></p><p>— Гигиена: что важно знать.</p><p>— Какие физиологические изменения больше всего пугают подростков с 11 до 17? Коротко об эрекции, поллюциях, менструации, росте груди, выделениях из влагалища.</p><p>— Как правильное питание, отсутствие вредных привычек и физическая активность влияют на нашу сексуальность, самочувствие, продолжительность и качество жизни.</p><p>— Почему просмотр порно стоит отложить до 18 лет, и какие негативные последствия могут быть при просмотре фильмов для взрослых в подростковом возрасте.</p><p>— Зачем нужны контрацептивы и как ими правильно пользоваться.</p><p>— Что нужно знать перед первым сексом. Как избежать манипуляций и принуждения? Что такое «культура согласия»? Учимся говорить «нет».</p><p>— Куда обратиться за помощью: медицинской, психологической.</p><p>— Ответы на волнующие вопросы.</p><p><br></p><p>Каждый участник и участница мастер-класса получает в подарок набор закладок с полезной информацией и презерватив.</p>"
+          "text": "<p>Как показывает опыт европейских стран, чем больше подросток знает о сексе, контрацепции, возможных последствиях, тем позже он начинает половую жизнь и делает это абсолютно осознанно и грамотно. Задача взрослых – убедиться в том, что дети знают, что такое секс, сексуальность; информированы о правилах безопасности; в курсе, как себя защитить; как отказаться от секса, если не хочется; как не стать жертвой насилия или манипуляции. Хорошо, если в семье эта тема не табуирована так, как в обществе. Но что делать, если родители постеснялись донести до ребенка важную информацию или не знали, как это сделать? Тогда дело за специалистами, которые не только ответят на все вопросы подростков, но и дадут правильную информацию о сексуальной культуре, о здоровом образе жизни и его влиянии на сексуальность, о физиологии, изменениях в теле во время пубертата, о мифах, которые витают в обществе и создают массу проблем и взрослым, и детям.<br></p><p><br></p><p>Мастер-класс для подростков – одна из возможностей донести до детей полезную и важную информацию в интересном и комфортном формате.</p><p><br></p><p>О чем будем говорить?</p><p><br></p><p>— Гигиена: что важно знать.</p><p>— Какие физиологические изменения больше всего пугают подростков с 11 до 17? Коротко об эрекции, поллюциях, менструации, росте груди, выделениях из влагалища.</p><p>— Как правильное питание, отсутствие вредных привычек и физическая активность влияют на нашу сексуальность, самочувствие, продолжительность и качество жизни.</p><p>— Почему просмотр порно стоит отложить до 18 лет, и какие негативные последствия могут быть при просмотре фильмов для взрослых в подростковом возрасте.</p><p>— Зачем нужны контрацептивы и как ими правильно пользоваться.</p><p>— Что нужно знать перед первым сексом. Как избежать манипуляций и принуждения? Что такое «культура согласия»? Учимся говорить «нет».</p><p>— Куда обратиться за помощью: медицинской, психологической.</p><p>— Ответы на волнующие вопросы.</p><p><br></p><p><b>На лекцию проходят только подростки, родителей ждем на лекции, организованные для них.</b></p><p><b> Каждый участник и участница мероприятия получает в подарок набор закладок с полезной информацией и презерватив.</b></p>"
         },
         {
           "_params": {
@@ -12652,9 +12652,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Подростки 11-13 лет 22 апреля в 11.00<br>(В форме укажите ФИО подростка и телефон одного из родителей)<div><br></div>",
+          "title": "Подростки 11-13 лет 26 июня в 11.00<br>(В форме укажите ФИО подростка и телефон одного из родителей)<div><br></div>",
           "text": "Зарегистрировать подростка и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"sexeducation.html#msg-box1-10f\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация закрыта<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"sexeducation.html#msg-box1-10f\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить билет<br>23 апреля в 11.00<br></a>",
           "_tags": [
             "Тема"
           ],
@@ -12694,49 +12694,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Подростки 11-13 лет 23 апреля в 11.00<br>(В форме укажите ФИО подростка и телефон одного из родителей)<div><br></div>",
-          "text": "Зарегистрировать подростка и купить билет",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/54/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить билет<br>23 апреля в 11.00<br></a>",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H3": {
-              "font-size": "18px",
-              "color": "#b8312f"
-            },
-            "H2": {
-              "color": "#000000",
-              "font-size": "32px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_anchor": "msg-box1-14k"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Подростки 14-17 лет 22 апреля в 14.00<br>(В форме укажите ФИО подростка и телефон одного из родителей)<div><br></div>",
+          "title": "Подростки 14-17 лет 26 июня в 14.00<br>(В форме укажите ФИО подростка и телефон одного из родителей)<div><br></div>",
           "text": "Зарегистрировать подростка и купить билет",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/52/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить билет<br>22 апреля в 14.00<br></a>",
           "_tags": [
@@ -12856,7 +12814,7 @@
       "settings": {
         "title": "Воркшоп для HR",
         "meta_descr": "Воркшоп для HR",
-        "order": 64
+        "order": 65
       },
       "components": [
         {
@@ -13240,7 +13198,7 @@
       "settings": {
         "title": "Клинический подход",
         "meta_descr": "Специализация ВОППГП \"Клинический подход в гештальт-терапии\"",
-        "order": 65
+        "order": 66
       },
       "components": [
         {
@@ -13519,7 +13477,7 @@
       "settings": {
         "title": "Групповая терапия",
         "meta_descr": "Специализация \"Групповая терапия в рамках гештальт-подхода\"",
-        "order": 66
+        "order": 67
       },
       "components": [
         {
@@ -13801,7 +13759,7 @@
       "settings": {
         "title": "Специализация",
         "meta_descr": "Специализация \"Работа с сексуальной тематикой в гештальт подходе\"",
-        "order": 69
+        "order": 70
       },
       "components": [
         {
@@ -14080,7 +14038,7 @@
       "settings": {
         "title": "Скажи, как есть. ",
         "meta_descr": "Скажи, как есть.\nПрактическое исследование с теоретическим сопровождением\n",
-        "order": 70
+        "order": 71
       },
       "components": [
         {
@@ -14440,7 +14398,7 @@
       "settings": {
         "title": "Сексуальная грамотность: зачем это нашим детям",
         "meta_descr": "Сексуальная грамотность: зачем это нашим детям",
-        "order": 80
+        "order": 81
       },
       "components": [
         {
@@ -14898,327 +14856,6 @@
             }
           },
           "_anchor": "contacts2-u2",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#78b950",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "Харьков Гаршина 9\n",
-              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>по вопросам аренды и расписания центра:<br>+380 (66) 036 40 29 администратор<br><br>по вопросам терапевтических групп и обучающих программ:<br>+38 (050) 523 99 60&nbsp;Ольга<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"https://t.me/joinchat/SJRHl1QLTSZ6e5gf\" target=\"_blank\">Мы в соцсетях</a></b></span></p><ul><li><a href=\"https://www.facebook.com/HubYabloko\" class=\"text-white\" target=\"_blank\"><b>Facebook</b></a></li><li><b><a href=\"https://www.instagram.com/lifehub_yabloko/\" target=\"_blank\">Instagram</a></b></li><li><b><a href=\"https://t.me/yabloko_for_life\" target=\"_blank\">Telrgram-канал &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"Психология для жизни\"</a></b></li><li><b><a href=\"https://t.me/joinchat/SJRHl1QLTSZ6e5gf\" target=\"_blank\">Telrgram-канал &nbsp;для психологов и психотерапевтов с анонсами обучающих мероприятий</a></b><b></b></li><br></ul>"
-        }
-      ]
-    },
-    "sex_education.html": {
-      "settings": {
-        "title": "Сексуальная грамотность: зачем это нашим детям",
-        "meta_descr": "Сексуальная грамотность: зачем это нашим детям",
-        "order": 59
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#28324e"
-            },
-            ".link, .dropdown-item": {
-              "color": "#28324e"
-            },
-            ".link": {
-              "font-size": "0.6rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#28324e",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#475577!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#28324e"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-5f",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#efefef",
-            "fontSize": "0.6",
-            "fontName": {},
-            "fontColor": "#28324e",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html#header1-1",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SOS.html\" aria-expanded=\"false\"><p>Для себя</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"practice.html\" aria-expanded=\"false\">Для проф практики</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rent.html\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-5g",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2016 Mobirise."
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "70",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-11-1200x628.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Когда: </b><br>29 июля&nbsp;в 18.30.<br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость лекции: </b>400&nbsp;грн. при предоплате, 450 грн в день ( при наличии свободных мест).<br><br><b>Телефон для справок:</b><br>+38 (066) 036 40 29 <br><br><b>Мероприятие проводится с соблюдением карантинных норм. Количество людей в группе ограничено. <br>Если у подростка или членов его семьи в день мероприятия появились симптомы вирусной инфекции, свяжитесь, пожалуйста, с нами и воздержитесь от посещения мероприятия.&nbsp;</b><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-101"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "content1-mg",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#f9ebb5"
-          },
-          "text": "<p>Рано или поздно родителям приходится отвечать на «неудобные» вопросы детей — «Откуда я взялся?», «Что такое секс?», «А как папина клеточка попала в животик к маме?» «Зачем нужны презервативы?».<br></p><p><br></p><p>Говорить с детьми о сексе — что может быть сложнее? Как не травмировать нежную детскую психику, не подтолкнуть к ранним экспериментам, но и в то же время дать полную и полезную информацию? Как говорить — ждать вопросов или проявить инициативу? Когда — в 5 лет или в 10-12? Кто — мама или папа? Подложить книжку на эту тему с картинками и описанием или отвести к врачу, который грамотно посвятит в тонкости темы?</p><p><br></p><p>А как говорить с ребенком на тему секса, если мы сами до конца не разобрались, что правильно/неправильно, допустимо/недопустимо, хорошо/плохо? Если с нами никто не говорил на эту тему. Если для наших родителей сексуальное воспитание было большим табу… Чтобы разобраться в этой теме окончательно и бесповоротно, стоит посетить тренинг или лекцию «Как и когда говорить с детьми о сексе».</p><p><br></p><p>Сексуальное воспитание детей напрямую зависит от сексуальной грамотности родителей. Поэтому приходите на встречу, и мы вместе найдём ответы на такие вопросы:</p><p><br></p><p>— Когда и как начинать разговоры с детьми о сексе?</p><p>— Что делать, если ребенок не задает вопросы?</p><p>— До какого возраста можно ходить голыми по дому и вместе принимать ванну/душ? И допустимо ли это в принципе?</p><p>— Детская мастурбация: норма или патология? Как реагировать?</p><p>— О чем не говорят родители, когда обучают малышей правилам интимной гигиены?</p><p>— Правила сексуальной безопасности: чему обучать детей с 2-3 лет?</p><p>— Почему дети не обращаются за помощью к родителям и другим значимым взрослым?</p><p>— Какие ошибки совершают родители, когда отвечают на вопросы про любовь, отношения, роды, зачатие, секс, оргазм и пр.</p><p>— Какие книги по сексу и сексуальности купить детям от 2 до 10 лет?</p><p>— Как построить близкие и доверительные отношения?</p>"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "29 июля 18:30",
-          "text": "Зарегистрироваться и купить билет&nbsp;",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sex_education.html#msg-box1-ul\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация закрыта</a>",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H3": {
-              "font-size": "18px",
-              "color": "#7e9b9f"
-            },
-            "H2": {
-              "color": "#000000",
-              "font-size": "32px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_anchor": "msg-box1-ul"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "msg-box5-mj",
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/39522355-1822272441183105-3921491036022505472-n-424x423.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Лекторка:<br> Юлия Ярмоленко - психолог, эксперт по сексуальному образованию, секс-педагог, автор книги для детей 4-10 лет \"Малечі про інтимні речі\".<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff",
-              "font-size": "16px"
-            },
-            "DIV": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts2-5m",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -15757,7 +15394,7 @@
       "settings": {
         "title": "Глазами мужчины",
         "meta_descr": "Лекция ",
-        "order": 58
+        "order": 56
       },
       "components": [
         {
@@ -16152,7 +15789,7 @@
       "settings": {
         "title": "Лекция о женском здоровье",
         "meta_descr": "Лекция о женском здоровье",
-        "order": 56
+        "order": 55
       },
       "components": [
         {
@@ -16568,7 +16205,7 @@
       "settings": {
         "title": "supergroup1",
         "meta_descr": "Супервизорская группа",
-        "order": 75
+        "order": 76
       },
       "components": [
         {
@@ -16977,7 +16614,7 @@
       "settings": {
         "title": "supergroup2",
         "meta_descr": "Супервизорская группа",
-        "order": 77
+        "order": 78
       },
       "components": [
         {
@@ -17316,7 +16953,7 @@
       "settings": {
         "title": "group",
         "meta_descr": "Терапетическая группа",
-        "order": 78
+        "order": 79
       },
       "components": [
         {
@@ -18966,7 +18603,7 @@
       "settings": {
         "title": "Девочкам о менструации и взрослении",
         "meta_descr": "Девочкам о менструации и взрослении",
-        "order": 63
+        "order": 62
       },
       "components": [
         {
@@ -19102,7 +18739,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1200x628.png",
+              "src": "@PROJECT_PATH@/assets/images/-4-1200x628.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19120,7 +18757,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Для девочек 10–12 лет</b><br><br><b>Когда: </b>23.07.2020 в 11:00<br><br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><br><b>Стоимость лекции:</b> 400 грн. при предоплате, 450 грн в день мероприятия и на месте ( при наличии свободных мест).<br><br><b>Телефон для справок:</b><br>+38 (066) 036 40 29 <br><br><b>Мероприятие проводится с соблюдением карантинных норм. Количество людей в группе ограничено. <br>Если у подростка или членов его семьи в день мероприятия появились симптомы вирусной инфекции, свяжитесь, пожалуйста, с нами и воздержитесь от посещения мероприятия.</b><br>",
+          "text": "<b>Для девочек 10–12 лет</b><br><br><b>Когда: </b>27.06.2021 в 11:00<br><br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><br><b>Стоимость лекции:</b> 400 грн. при предоплате, 450 грн в день мероприятия и на месте ( при наличии свободных мест).<br><br><b>Телефон для справок:</b><br>+38 (066) 036 40 29 <br><br><b>Мероприятие проводится с соблюдением карантинных норм.&nbsp;</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -19141,7 +18778,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fadddd"
+            "bgColor": "#ffffff"
           },
           "text": "<p>Первая менструация для девушки — очень волнующее событие, которое вызывает много разных эмоций. Кто-то радуется и с удовольствием изучает всю информацию о месячных и средства гигиены, кто-то огорчается или пугается.</p><p><br></p><p>Стигматизация женской физиологии в нашем обществе приводит к тому, что девушки боятся красных пятен на юбке или джинсах, тщательно прячут прокладки и тампоны, чтобы их никто не нашел и не увидел, стесняются стирать белье с пятнами, чувствуют себя «нечистыми» в эти дни. И почти не задают никаких вопросов через стыд и табуированность темы.</p><p><br></p><p>Эта лекция поможет девушкам в безопасном пространстве не только больше узнать о своем теле, физиологии, менструации, средствах гигиены, но и нормализовать для себя тему месячных.</p><p><br></p><p>О чем будем говорить:</p><p><br></p><p>— первая менструация: как подготовиться;</p><p>— что такое менструальный цикл и как он влияет на наш организм и настроение;</p><p>— менструальные и вагинальные выделения: как понять, что с тобой что-то не так;</p><p>— календарь месячных: почему важно отмечать начало цикла;</p><p>— как устроены женские половые органы;</p><p>— белье: какое выбрать для комфорта и здоровья;</p><p>— можно ли носить ежедневные прокладки ежедневно;</p><p>— средства гигиены во время менструации: прокладки (одноразовые и многоразовые), тампоны, чаши, менструальные трусики — плюсы и минусы;</p><p>— интимная гигиена — ежедневная и во время менструации;</p><p>— в каких случаях надо обратиться за помощью к врачу и как проходит осмотр у гинеколога.</p><p><br></p><p>Каждая девушка получит в подарок эко-прокладку, которая не вредит здоровью и окружающей среде, книжечку о месячных с базовой информацией о менструации и тематическую открытку.</p>",
           "_anchor": "content1-wv"
@@ -19499,7 +19136,7 @@
       "settings": {
         "title": "Спонтанность в протокольных методах психотерапии",
         "meta_descr": "Спонтанность в протокольных методах психотерапии\n",
-        "order": 74
+        "order": 75
       },
       "components": [
         {
@@ -19528,7 +19165,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78811.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78821.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19868,7 +19505,7 @@
       "settings": {
         "title": "Панические атаки",
         "meta_descr": "Панические  атаки и повышенная тревожность. \nИзраильская методика  «самообороны» \n",
-        "order": 72
+        "order": 73
       },
       "components": [
         {
@@ -19897,7 +19534,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78812.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78822.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20173,7 +19810,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78811.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78821.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20241,7 +19878,7 @@
       "settings": {
         "title": "supergroup12",
         "meta_descr": "Супервизорская группа",
-        "order": 76
+        "order": 77
       },
       "components": [
         {
@@ -21000,7 +20637,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78813.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78823.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21582,7 +21219,7 @@
       "settings": {
         "title": "helping",
         "meta_descr": "Помощь помагающему",
-        "order": 73
+        "order": 74
       },
       "components": [
         {
@@ -21611,7 +21248,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78814.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78824.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21903,7 +21540,7 @@
       "settings": {
         "title": "Психология финансового поведения",
         "meta_descr": "Психология финансового поведения",
-        "order": 67
+        "order": 68
       },
       "components": [
         {
@@ -22519,7 +22156,7 @@
       "settings": {
         "title": "телесный диалог ",
         "meta_descr": "Осознанное прикосновение и телесный диалог \nПрактическое исследование с теоретическим сопровождением\n",
-        "order": 71
+        "order": 72
       },
       "components": [
         {
@@ -24756,7 +24393,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78815.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78825.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26882,7 +26519,7 @@
       "settings": {
         "title": "Возрастные кризисы",
         "meta_descr": "Возрастные кризисы",
-        "order": 68
+        "order": 69
       },
       "components": [
         {
@@ -26911,7 +26548,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x78816.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x78826.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27645,7 +27282,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78817.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78827.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28182,7 +27819,7 @@
       "settings": {
         "title": "psytext",
         "meta_descr": "Блог психолога:как писать, чтобы тебя читали",
-        "order": 61
+        "order": 63
       },
       "components": [
         {
@@ -28318,7 +27955,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78818.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78828.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28508,7 +28145,7 @@
       "settings": {
         "title": "МАК",
         "meta_descr": "Обучение работе с МАК",
-        "order": 62
+        "order": 64
       },
       "components": [
         {
@@ -28644,7 +28281,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78819.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78829.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -29640,6 +29277,651 @@
           "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>по вопросам аренды и расписания центра:<br>+380 (66) 036 40 29 администратор<br><br>по вопросам терапевтических групп и обучающих программ:<br>+38 (050) 523 99 60&nbsp;Ольга<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"https://t.me/joinchat/SJRHl1QLTSZ6e5gf\" target=\"_blank\">Мы в соцсетях</a></b></span></p><ul><li><a href=\"https://www.facebook.com/HubYabloko\" class=\"text-white\" target=\"_blank\"><b>Facebook</b></a></li><li><b><a href=\"https://www.instagram.com/lifehub_yabloko/\" target=\"_blank\">Instagram</a></b></li><li><b><a href=\"https://t.me/yabloko_for_life\" target=\"_blank\">Telrgram-канал &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"Психология для жизни\"</a></b></li><li><b><a href=\"https://t.me/joinchat/SJRHl1QLTSZ6e5gf\" target=\"_blank\">Telrgram-канал &nbsp;для психологов и психотерапевтов с анонсами обучающих мероприятий</a></b><b></b></li><br></ul>",
           "_anchor": "contacts2-14e"
+        }
+      ]
+    },
+    "sex_education1.html": {
+      "settings": {
+        "title": "Сексуальная грамотность: зачем это нашим детям",
+        "meta_descr": "Сексуальная грамотность: зачем это нашим детям",
+        "order": 59
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-5f",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#efefef",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SOS.html\" aria-expanded=\"false\"><p>Для себя</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"practice.html\" aria-expanded=\"false\">Для проф практики</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rent.html\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-5g",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7f7f7",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-1-1200x628.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<b>Когда: </b><br>17 июня 2021г в 18.30.<br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость лекции: </b>400&nbsp;грн. при предоплате, 450 грн в день ( при наличии свободных мест).<br><br><b>Телефон для справок:</b><br>+38 (066) 036 40 29 <br><br><b>Мероприятие проводится с соблюдением карантинных норм.&nbsp;</b><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-101"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "content1-mg",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#f7f7f7"
+          },
+          "text": "<p><b>Как и когда говорить о сексе с детьми (0–9 лет)</b></p><p>Рано или поздно родителям приходится отвечать на «неудобные» вопросы детей — «Откуда я взялся?», «Что такое секс?», «А как папина клеточка попала в животик к маме?» «Зачем нужны презервативы?».<br></p><p><br></p><p>Говорить с детьми о сексе — что может быть сложнее? Как не травмировать нежную детскую психику, не подтолкнуть к ранним экспериментам, но и в то же время дать полную и полезную информацию? Как говорить — ждать вопросов или проявить инициативу? Когда — в 5 лет или в 10-12? Кто — мама или папа? Подложить книжку на эту тему с картинками и описанием или отвести к врачу, который грамотно посвятит в тонкости темы?</p><p><br></p><p>А как говорить с ребенком на тему секса, если мы сами до конца не разобрались, что правильно/неправильно, допустимо/недопустимо, хорошо/плохо? Если с нами никто не говорил на эту тему. Если для наших родителей сексуальное воспитание было большим табу… Чтобы разобраться в этой теме окончательно и бесповоротно, стоит посетить тренинг или лекцию «Как и когда говорить с детьми о сексе».</p><p><br></p><p>Сексуальное воспитание детей напрямую зависит от сексуальной грамотности родителей. Поэтому приходите на встречу, и мы вместе найдём ответы на такие вопросы:</p><p><br></p><p>— Когда и как начинать разговоры с детьми о сексе?</p><p>— Что делать, если ребенок не задает вопросы?</p><p>— До какого возраста можно ходить голыми по дому и вместе принимать ванну/душ? И допустимо ли это в принципе?</p><p>— Детская мастурбация: норма или патология? Как реагировать?</p><p>— О чем не говорят родители, когда обучают малышей правилам интимной гигиены?</p><p>— Правила сексуальной безопасности: чему обучать детей с 2-3 лет?</p><p>— Почему дети не обращаются за помощью к родителям и другим значимым взрослым?</p><p>— Какие ошибки совершают родители, когда отвечают на вопросы про любовь, отношения, роды, зачатие, секс, оргазм и пр.</p><p>— Какие книги по сексу и сексуальности купить детям от 2 до 10 лет?</p><p>— Как построить близкие и доверительные отношения?</p>"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7f7f9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "17 июня 18:30",
+          "text": "Зарегистрироваться и купить билет&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sex_education.html#msg-box1-ul\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px",
+              "color": "#7e9b9f"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-size": "32px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-ul"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "msg-box5-mj",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7f7f7",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/39522355-1822272441183105-3921491036022505472-n-424x423.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Лекторка:<br> Юлия Ярмоленко - психолог, эксперт по сексуальному образованию, секс-педагог, автор книги для детей 4-10 лет \"Малечі про інтимні речі\".<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts2-5m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#78b950",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>по вопросам аренды и расписания центра:<br>+380 (66) 036 40 29 администратор<br><br>по вопросам терапевтических групп и обучающих программ:<br>+38 (050) 523 99 60&nbsp;Ольга<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"https://t.me/joinchat/SJRHl1QLTSZ6e5gf\" target=\"_blank\">Мы в соцсетях</a></b></span></p><ul><li><a href=\"https://www.facebook.com/HubYabloko\" class=\"text-white\" target=\"_blank\"><b>Facebook</b></a></li><li><b><a href=\"https://www.instagram.com/lifehub_yabloko/\" target=\"_blank\">Instagram</a></b></li><li><b><a href=\"https://t.me/yabloko_for_life\" target=\"_blank\">Telrgram-канал &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"Психология для жизни\"</a></b></li><li><b><a href=\"https://t.me/joinchat/SJRHl1QLTSZ6e5gf\" target=\"_blank\">Telrgram-канал &nbsp;для психологов и психотерапевтов с анонсами обучающих мероприятий</a></b><b></b></li><br></ul>"
+        }
+      ]
+    },
+    "sex_education2.html": {
+      "settings": {
+        "title": "Сексуальная грамотность: зачем это нашим подросткам",
+        "meta_descr": "Сексуальная грамотность: зачем это нашим подросткам",
+        "order": 60
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#28324e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#28324e"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#28324e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#475577!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#28324e"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#efefef",
+            "fontSize": "0.6",
+            "fontName": {},
+            "fontColor": "#28324e",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yabloko-logo-425x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\" aria-expanded=\"false\"><p>Мероприятия</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SOS.html\" aria-expanded=\"false\"><p>Для себя</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"practice.html\" aria-expanded=\"false\">Для проф практики</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rent.html\" aria-expanded=\"false\">Аренда</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"galery.html\" aria-expanded=\"false\">Галерея</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\" aria-expanded=\"false\">Статьи</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-k\" aria-expanded=\"false\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-149"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_anchor": "footer1-14a"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7f7f7",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-2-1200x628.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<b>Когда: </b><br>22 июня 2021г в 18.30.<br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость лекции: </b>400&nbsp;грн. при предоплате, 450 грн в день ( при наличии свободных мест).<br><br><b>Телефон для справок:</b><br>+38 (066) 036 40 29 <br><br><b>Мероприятие проводится с соблюдением карантинных норм.&nbsp;</b><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-14b"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#f7f7f7"
+          },
+          "text": "<h2><b>Как и когда говорить о сексе с подростками&nbsp;</b></h2><p>Отвечать на «неудобные» вопросы маленьких детей не так сложно, как инициировать разговор с подростком на эту тему. И если думаете, что говорить о сексе с 12- или 16-летними уже поздно (сами все знают), вы ошибаетесь. Ведь сексуальное образование — это не только о сексе, заболеваниях или контрацепции. Это также разговоры о личных границах, безопасности, умении говорить «нет», понимании, что такое домагательства, в чем разница между комплиментом и харассментом, четкие инструкции, как действовать в различных ситуациях. И главное: благодаря таким разговорам, родители, во-первых, строят с детьми близкие и доверительные отношения, а, во-вторых, дают понять, что к ним можно обратиться с любой проблемой или вопросом. К сожалению, большинство подростков уверяют, что в сложной ситуации едва ли не в последнюю очередь придут за помощью к родителям.</p><p><br></p><p>Как начать разговор с подростком? Что делать, если раньше такие темы не поднимались в семье? А также обсудим такие вопросы:</p><p><br></p><p>— как не испортить отношения с ребенком в непростой период пубертата;</p><p>— зачем давать подросткам презервативы и что при этом говорить;</p><p>— как обсуждать такие темы, как любовь, секс, ВИЧ, сексуальные домогательства, воздержание, сексуальная ориентация;</p><p>— как реагировать, если застали сына или дочь за мастурбацией;</p><p>— что делать, если подросток смотрит порнографию;</p><p>— какие основные причины подростковых суицидов;</p><p>— как уберечь от ранних сексуальных экспериментов;</p><p>— как научиться справляться со своими эмоциями в сложных ситуациях.</p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H2": {
+              "font-size": "22px"
+            },
+            "P": {
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "content1-14g"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7f7f9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "22 июня 18:30",
+          "text": "Зарегистрироваться и купить билет&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sex_education.html#msg-box1-ul\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "18px",
+              "color": "#7e9b9f"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-size": "32px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box1-14d"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7f7f7",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/39522355-1822272441183105-3921491036022505472-n-424x423.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Лекторка:<br> Юлия Ярмоленко - психолог, эксперт по сексуальному образованию, секс-педагог, автор книги для детей 4-10 лет \"Малечі про інтимні речі\".<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_anchor": "msg-box5-14e"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#78b950",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Харьков Гаршина 9\n",
+              "placeId": "ChIJcSASkNugJ0ERjvyufcW2CKY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br><b>г. Харьков, <br>ул. Гаршина 9<br>3 этаж<br></b><br>\n<strong>Контакты</strong><br>по вопросам аренды и расписания центра:<br>+380 (66) 036 40 29 администратор<br><br>по вопросам терапевтических групп и обучающих программ:<br>+38 (050) 523 99 60&nbsp;Ольга<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"https://t.me/joinchat/SJRHl1QLTSZ6e5gf\" target=\"_blank\">Мы в соцсетях</a></b></span></p><ul><li><a href=\"https://www.facebook.com/HubYabloko\" class=\"text-white\" target=\"_blank\"><b>Facebook</b></a></li><li><b><a href=\"https://www.instagram.com/lifehub_yabloko/\" target=\"_blank\">Instagram</a></b></li><li><b><a href=\"https://t.me/yabloko_for_life\" target=\"_blank\">Telrgram-канал &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"Психология для жизни\"</a></b></li><li><b><a href=\"https://t.me/joinchat/SJRHl1QLTSZ6e5gf\" target=\"_blank\">Telrgram-канал &nbsp;для психологов и психотерапевтов с анонсами обучающих мероприятий</a></b><b></b></li><br></ul>",
+          "_anchor": "contacts2-14f"
         }
       ]
     }
