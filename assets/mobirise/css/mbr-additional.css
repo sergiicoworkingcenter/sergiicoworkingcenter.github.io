@@ -3663,6 +3663,7 @@ section.form .container {
 }
 
 
+
 #menu-ri .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3750,6 +3751,15 @@ section.form .container {
   color: #b8312f;
 }
 #msg-box1-10g H2 {
+  color: #000000;
+  font-size: 32px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box1-148 H3 {
+  font-size: 18px;
+  color: #b8312f;
+}
+#msg-box1-148 H2 {
   color: #000000;
   font-size: 32px;
   font-family: 'Open Sans', sans-serif;
