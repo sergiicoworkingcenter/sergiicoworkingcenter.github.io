@@ -7913,6 +7913,9 @@ section.form .container {
 #menu-5f .close-icon::after {
   background-color: #28324e;
 }
+#msg-box5-101 P {
+  color: #232323;
+}
 #content1-mg P {
   font-size: 22px;
 }
@@ -7921,7 +7924,7 @@ section.form .container {
   color: #7e9b9f;
 }
 #msg-box1-ul H2 {
-  color: #000000;
+  color: #b8312f;
   font-size: 32px;
   font-family: 'Open Sans', sans-serif;
 }

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "2stepVT.html",
+    "currentPage": "sex_education1.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#e7f7f9",
-        "#f7f7f7",
         "#f19897",
         "#e9e6dc",
         "#ead0c2",
         "#fffcf3",
-        "#eef6f7"
+        "#eef6f7",
+        "#f0f8fc",
+        "#232323"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1462,
+    "uniqCompNum": 1448,
     "versionPublish": "4.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133390.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x13330.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -19389,7 +19389,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78891.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x7881.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19758,7 +19758,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78892.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x7882.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20034,7 +20034,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78891.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x7881.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20861,7 +20861,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78893.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x7883.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21472,7 +21472,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78894.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7884.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24617,7 +24617,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78895.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x7885.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26772,7 +26772,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x78896.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x7886.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27506,7 +27506,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78897.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7887.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28179,7 +28179,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78898.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x7888.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28505,7 +28505,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78899.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x7889.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -29719,13 +29719,18 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Когда: </b><br>17 июня 2021г в 18.30.<br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость лекции: </b>400&nbsp;грн. при предоплате, 450 грн в день ( при наличии свободных мест).<br><br><b>Телефон для справок:</b><br>+38 (066) 036 40 29 <br><br><b>Мероприятие проводится с соблюдением карантинных норм.&nbsp;</b><br><br>",
+          "text": "<b>Регистрация закрыта!</b><br><b>Когда: </b><br>17 июня 2021г в 18.30.<br><b>Где: </b>Харьков, ул. Гаршина 9, LifeHub Yabloko.<br><b>Стоимость лекции: </b>400&nbsp;грн. при предоплате, 450 грн в день ( при наличии свободных мест).<br><br><b>Телефон для справок:</b><br>+38 (066) 036 40 29 <br><br><b>Мероприятие проводится с соблюдением карантинных норм.&nbsp;</b><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-101"
+          "_anchor": "msg-box5-101",
+          "_styles": {
+            "P": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_tags": [
@@ -29749,7 +29754,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -29767,7 +29772,7 @@
             "overlayOpacity": 0.5
           },
           "title": "17 июня 18:30",
-          "text": "Зарегистрироваться и купить билет&nbsp;",
+          "text": "Регистрация закрыта!&nbsp;",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://events.hubyabloko.com/event/55/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
           "_tags": [
             "Тема"
@@ -29779,7 +29784,7 @@
               "color": "#7e9b9f"
             },
             "H2": {
-              "color": "#000000",
+              "color": "#b8312f",
               "font-size": "32px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
