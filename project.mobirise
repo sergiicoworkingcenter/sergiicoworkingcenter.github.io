@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "events.html",
+    "currentPage": "menstruation.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133310.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133320.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -12635,7 +12635,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -12652,7 +12652,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Подростки 11-13 лет 26 июня в 11.00<br>(В форме укажите ФИО подростка и телефон одного из родителей)<div><br></div>",
+          "title": "Регистрация закрыта<br><div><br></div>",
           "text": "Зарегистрировать подростка и купить билет",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/57/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить билет<br></a>",
           "_tags": [
@@ -12719,7 +12719,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -12736,7 +12736,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<div>Подростки 11-13 лет 27 июня в 14.00</div><div>(В форме укажите ФИО подростка и телефон одного из родителей)</div><div><br></div>",
+          "title": "<div>Регистрация закрыта</div>",
           "text": "Зарегистрировать подростка и купить билет",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/62/subscription\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Купить билет</a>",
           "_tags": [
@@ -19052,7 +19052,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -19069,7 +19069,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "(В форме укажите ФИО подростка и телефон одного из родителей)",
+          "title": "Регистрация закрыта",
           "text": "Зарегистрировать подростка и купить билет",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/59/subscription&#9;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация&nbsp;</a>",
           "_tags": [
@@ -19079,7 +19079,7 @@
           "_styles": {
             "H3": {
               "font-size": "18px",
-              "color": "#7e9b9f"
+              "color": "#b8312f"
             },
             "H2": {
               "color": "#000000",
@@ -19430,7 +19430,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78811.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78821.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19799,7 +19799,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78812.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78822.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20075,7 +20075,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78811.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78821.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20902,7 +20902,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78813.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78823.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21513,7 +21513,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78814.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78824.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24658,7 +24658,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78815.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78825.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26813,7 +26813,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x78816.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x78826.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27547,7 +27547,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78817.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78827.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28220,7 +28220,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78818.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78828.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28546,7 +28546,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78819.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78829.png",
               "link": "",
               "alt": "",
               "title": ""
