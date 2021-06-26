@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "menstruation.html",
+    "currentPage": "womenHealth2.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133320.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133330.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11600,7 +11600,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -11617,7 +11617,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "",
+          "title": "Регистрация закрыта",
           "text": "Зарегистрироваться и купить билет",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/61/subscription&#9;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация</a>",
           "_tags": [
@@ -11627,7 +11627,7 @@
           "_styles": {
             "H3": {
               "font-size": "18px",
-              "color": "#7e9b9f"
+              "color": "#d14841"
             },
             "H2": {
               "color": "#000000",
@@ -19430,7 +19430,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78821.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78831.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19799,7 +19799,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78822.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78832.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20075,7 +20075,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78821.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78831.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20902,7 +20902,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78823.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78833.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21513,7 +21513,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78824.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78834.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24658,7 +24658,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78825.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78835.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26813,7 +26813,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x78826.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x78836.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27547,7 +27547,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78827.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78837.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28220,7 +28220,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78828.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78838.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28546,7 +28546,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78829.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78839.png",
               "link": "",
               "alt": "",
               "title": ""
