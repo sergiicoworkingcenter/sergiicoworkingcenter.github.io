@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133340.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133350.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11528,7 +11528,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-12-810x450.png",
+              "src": "@PROJECT_PATH@/assets/images/-14-810x450.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -11546,7 +11546,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Когда:</b>&nbsp;30.07.2021 в 18.30 <br><b>Где:</b> Харьков, ул. Гаршина 9, LifeHub Yabloko<br><b>Стоимость:</b> 400 грн. при предоплате,<br>450 грн - в день мероприятия и на месте ( при наличии свободных мест)<br><b>Телефон для справок:<br></b>+38 (066) 036 40 29 <br><b>Мероприятие проводится с соблюдением карантинных норм.&nbsp;</b>",
+          "text": "<b>Когда:</b>&nbsp;29.07.2021 в 18.30 <br><b>Где:</b> Харьков, ул. Гаршина 9, LifeHub Yabloko<br><b>Стоимость:</b> 400 грн. при предоплате,<br>450 грн - в день мероприятия и на месте ( при наличии свободных мест)<br><b>Телефон для справок:<br></b>+38 (066) 036 40 29 <br><b>Мероприятие проводится с соблюдением карантинных норм.&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -17433,14 +17433,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-12-600x333.png",
+              "src": "@PROJECT_PATH@/assets/images/-14-600x333.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "womenHealth2.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media2": {
@@ -19389,7 +19388,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78841.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78851.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19758,7 +19757,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78842.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78852.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20034,7 +20033,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78841.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78851.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20861,7 +20860,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78843.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78853.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21472,7 +21471,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78844.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78854.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24617,7 +24616,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78845.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78855.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26772,7 +26771,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x78846.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x78856.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27506,7 +27505,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78847.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78857.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28179,7 +28178,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78848.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78858.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28505,7 +28504,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78849.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78859.png",
               "link": "",
               "alt": "",
               "title": ""
