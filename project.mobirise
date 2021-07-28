@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "events.html",
+    "currentPage": "womenHealth2.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133350.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133360.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11600,7 +11600,7 @@
           "_params": {
             "showTitle": false,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -11618,7 +11618,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Регистрация закрыта",
-          "text": "Зарегистрироваться и купить билет",
+          "text": "Регистрация на лекцию закрыта",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/67/subscription&#9;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация</a>",
           "_tags": [
             "Тема"
@@ -11630,7 +11630,7 @@
               "color": "#d14841"
             },
             "H2": {
-              "color": "#000000",
+              "color": "#b8312f",
               "font-size": "32px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
@@ -19388,7 +19388,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78851.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78861.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19757,7 +19757,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78852.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78862.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20033,7 +20033,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78851.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78861.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20860,7 +20860,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78853.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78863.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21471,7 +21471,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78854.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78864.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24616,7 +24616,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78855.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78865.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26771,7 +26771,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x78856.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x78866.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27505,7 +27505,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78857.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78867.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28178,7 +28178,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78858.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78868.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28504,7 +28504,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78859.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78869.png",
               "link": "",
               "alt": "",
               "title": ""
