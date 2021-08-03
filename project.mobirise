@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "1stepVS.html",
+    "currentPage": "lecture3.html",
     "name": "My Site -2",
     "theme": {
       "name": "mobirise3",
@@ -7342,7 +7342,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133370.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x133380.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -11967,7 +11967,7 @@
           "_params": {
             "showTitle": false,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -11985,7 +11985,7 @@
             "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://events.hubyabloko.com/event/68/subscription&#9;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Регистрация</a>",
-          "text": "<b>Зарегистрироваться и купить билет</b>",
+          "text": "<b>Регистрация &nbsp;закрыта</b>",
           "title": ""
         },
         {
@@ -19388,7 +19388,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78871.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78881.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -19757,7 +19757,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78872.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78882.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20033,7 +20033,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78871.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78881.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -20860,7 +20860,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-2-1400x78873.png",
+              "src": "@PROJECT_PATH@/assets/images/-2-1400x78883.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -21471,7 +21471,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78874.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78884.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -24616,7 +24616,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-5-1400x78875.png",
+              "src": "@PROJECT_PATH@/assets/images/-5-1400x78885.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -26771,7 +26771,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-9-1400x78876.png",
+              "src": "@PROJECT_PATH@/assets/images/-9-1400x78886.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -27505,7 +27505,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78877.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78887.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28178,7 +28178,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x78878.png",
+              "src": "@PROJECT_PATH@/assets/images/-1400x78888.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -28504,7 +28504,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x78879.png",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x78889.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -30339,7 +30339,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Виктория Кривцова </b>- аккредитованный гештальт- терапевт, сертифицированный супервизор.<br><br>",
+          "text": "<b>Виктория Кривцова </b>- аккредитованный гештальт- терапевт, аккредитованный супервизор.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
@@ -30396,7 +30396,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Светлана Николаенко&nbsp;</b>- аккредитованный гештальт- терапевт, сертифицированный супервизор.<br><br>",
+          "text": "<b>Светлана Николаенко&nbsp;</b>- аккредитованный гештальт- терапевт, &nbsp;аккредитованный&nbsp;супервизор.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Тема"
